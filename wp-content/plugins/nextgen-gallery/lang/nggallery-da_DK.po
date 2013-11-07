@@ -1,0 +1,4386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery 1.9.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-24 07:06+0100\n"
+"PO-Revision-Date: 2012-09-24 07:14+0100\n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <WordPress@Blogos.DK>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_nc:4c,1,2;_nx:4c,1,2;_n_noop:1,2;_nx_noop:4c,1,2;_x:1,2c;_c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c\n"
+"X-Poedit-Basepath: d:\\wordpress\\plugins\\nextgen-gallery\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,-1,-1,603\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\plugins\\nextgen-gallery\n"
+
+# GSA-note: Fint, så kan man finde det, selv om header overskrives!
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:124
+msgid ""
+"<strong>Translation by : </strong><a target=\"_blank\" href=\"http://"
+"alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr ""
+"<strong>Oversættelse ved Georg S. Adamsen: </strong><a target=\"_blank\" "
+"href=\"http://wordpress.blogos.dk\">Se WP &ndash; tips, temaer og plugins</a>"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:125
+msgid ""
+"<strong>This translation is not yet updated for Version 1.9.0</strong>. If "
+"you would like to help with translation, download the current po from the "
+"plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/"
+"wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr ""
+"Den danske oversættelse er vedligeholdt af Team Blogos/Georg S. Adamsen, som "
+"også har oversat mange andre plugins og temaer. Se mere på <a target=\"_blank"
+"\" href=\"http://wordpress.blogos.dk\">Se WP &ndash; tips, temaer og "
+"plugins</a> og følg med på <a href=\"http://twitter.com/TeamBlogos"
+"\">TeamBlogos på Twitter</a>."
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:225
+msgid ""
+"Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr ""
+"Beklager, NextGEN Gallery virker kun med en <span title=\"PHP Memory Limit"
+"\">PHP-hukommelsesbegrænsning</span> på 16 MB eller højere"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:245
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Opdatér venligst NextGEN Gallerys database!"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:245
+msgid "Click here to proceed."
+msgstr "Klik her, hvis du vil fortsætte."
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:268
+msgid "Picture tag"
+msgstr "Billed-tag"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:269
+msgid "Picture tag: %2$l."
+msgstr "Billed-tag: %2$l."
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:270
+msgid "Separate picture tags with commas."
+msgstr "Adskil billed-tags med komma."
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:382
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:255
+msgid "L O A D I N G"
+msgstr "I N D L Æ S E R"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:383
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:256
+msgid "Click to Close"
+msgstr "Klik for at lukke"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:404
+msgid "loading"
+msgstr "indlæser"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:550
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:958
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:37
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:79
+msgid "Overview"
+msgstr "Oversigt"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:551
+msgid "Get help"
+msgstr "Få hjælp"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggallery.php:552
+msgid "Contribute"
+msgstr "Give bidrag"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:42
+msgid ""
+"The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> "
+"and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript "
+"support</a> are needed."
+msgstr ""
+"Det er nødvendigt med <a href=\"http://www.macromedia.com/go/getflashplayer"
+"\">Flash Player</a> og <a href=\"http://www.mozilla.com/firefox/\">en "
+"browser med Javascript support</a>."
+
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:164
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:657
+#: d:\wordpress\plugins\nextgen-gallery/lib/shortcodes.php:268
+msgid "[Gallery not found]"
+msgstr "[Galleriet er ikke fundet]"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[Albummet er ikke fundet]"
+
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:787
+msgid "[SinglePic not found]"
+msgstr "[Enkeltbillede er ikke fundet]"
+
+# GSA-væsentlig-note: Jeg foreslår følgende formulering, som ikke bygger på det engelske eller tyske hos Rabe, men på, hvad jeg kan se for mig i bundet af et indlæg
+#: d:\wordpress\plugins\nextgen-gallery/nggfunctions.php:923
+msgid "Related images for"
+msgstr "Billeder med relevans for"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:11
+msgid "Copyright notes / Credits"
+msgstr "Copyright-noter/Kreditering"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:14
+msgid "NextGEN DEV Team"
+msgstr "NextGEN DEV Team"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:16
+msgid ""
+"NextGEN Gallery is primarily developed, maintained, supported and documented "
+"by <a href=\"http://www.photocrati.com\" target=\"_blank\">Photocrati Media</"
+"a>. We'd like to offer a special thanks to Alex Rabe, who first developed "
+"the plugin and maintained it through 2011. There are many others who have "
+"made contributions:"
+msgstr ""
+"NextGEN Gallery er primært udviklet, vedligeholdt, supporteret og "
+"dokumenteret af <a href=\"http://www.photocrati.com\" target=\"_blank"
+"\">Photocrati Media</a>. Vi vil gerne rette en særlig tak til Alex Rabe, den "
+"første, der udviklede pluginnet og vedligeholdte det indtil 2011. Der er "
+"mange andre, der har bidraget:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:21
+msgid "Contributors / Tribute to"
+msgstr "Bidragydere/Stor tak til"
+
+# GSA-væsentlig-note: rettet stavefejl: fandes -> fandtes og studere -> studerer
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:23
+msgid ""
+"If you study the code of this plugin, you'll find we've included a lot of "
+"good, existing code and ideas. We'd like to thank the following people for "
+"their work:"
+msgstr ""
+"Hvis du studerer koden til dette plugin, vil du opdage, at vi har inkluderet "
+"en masse kode og gode ideer, som allerede fandtes derude. Vi takker følgende "
+"personer for deres arbejde:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:25
+msgid "for their great documented code"
+msgstr "for deres fine dokumenterede kode"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "for jQuery, som er den bedste Web2.0-framework"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "for den fantastiske PHP-miniatureklasse"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "for en masse brugbare plugins og ideer"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "til Shutter Reloaded, et rigtigt billedeffektprogram uden store krav"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "for de bedste Media Flash-scripts på jorden"
+
+# GSA-note: Rettet til lille
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "for galleri-ikonet"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "for vandmærke-pluginet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:34
+msgid ""
+"If you don't see your name on this list and we've integrated some of your "
+"code into the plugin, don't hesitate to email us."
+msgstr ""
+"Hvis du ikke fandt dit navn på listen og der er noget af din kode, som vi "
+"har inkluderet i vores plugin, må du endelig sende os en mail."
+
+# GSA-note: Betyder 'support' ikke 'støtte (økonomisk eller med opbakning)' snarere end 'bidrage'?
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:38
+msgid "How to support ?"
+msgstr "Hvordan kan du støtte?"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:40
+msgid "There are several ways to contribute:"
+msgstr "Der er flere måder at bidrage på:"
+
+# GSA-note: Jeg forstår din oversættelse, men faktisk beder de ikke om bugs, men om bugfixes ;-)
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Send os rettelser til bugs/kodeændringer."
+
+# GSA-note: 'hjælp' -> 'støtte'
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:42
+msgid ""
+"The most motivated support for this plugin are your ideas and brain work."
+msgstr ""
+"Den støtte til dette plugin, som motiverer os mest, er dine ideer og "
+"hjernearbejde."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Oversæt dette plugin"
+
+# GSA-note: Egt. 'alle mulige sprog'
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:43
+msgid ""
+"To help people to work with this plugin, we would like to have it in all "
+"available languages."
+msgstr ""
+"For at hjælpe folk med deres arbejde med dette plugin, vil vi gerne have det "
+"tilgængeligt på alle eksisterende sprog."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:44
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Placér et link til dette plugin på din blog/hjemmeside"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:44
+msgid "Yes, sharing and linking are also supportive and helpful."
+msgstr "Ja, at dele og linke er også at støtte og være hjælpsom."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:49
+msgid "Thanks!"
+msgstr "Tak!"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:51
+msgid ""
+"We would like to thank the following people who have supported the NextGEN "
+"Gallery plugin:"
+msgstr ""
+"Vi vil gerne takke de følgende, som har støttet NextGEN Gallery-pluginnet:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/about.php:151
+msgid "and all donators..."
+msgstr "og alle, der har støttet økonomisk ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:43
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:54
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:66
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:77
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:96
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:131
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:153
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:19
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:22
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:188
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:7
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:10
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:13
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:17
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:20
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:10
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Snyder du? tsk tsk"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:59
+msgid "Upload failed!"
+msgstr "Upload mislykkedes!"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:82
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:90
+msgid "Upload failed! "
+msgstr "Upload mislykkedes! "
+
+# GSA-væsentlig-note: Meningen er den modsatte. Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:87
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:948
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1048
+msgid "No gallery selected !"
+msgstr "Der er ikke valgt noget galleri!"
+
+# GSA-note: I sammensætninger bruges 'billed-' i stedet for 'billede'
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:178
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:262
+msgid "Image Files"
+msgstr "Billedfiler"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:193
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:283
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:311
+msgid "remove"
+msgstr "fjern"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:194
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:284
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:465
+msgid "Browse..."
+msgstr "Gennemse ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:195
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:233
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:285
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:297
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:537
+msgid "Upload images"
+msgstr "Upload billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:375
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:483
+msgid "Upload Images"
+msgstr "Upload billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:378
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:395
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:118
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Tilføj et nyt galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:381
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:417
+msgid "Upload a Zip-File"
+msgstr "Upload en zip-fil"
+
+# GSA-note: Her er det nemlig rigtigt: 'billed-'
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:384
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:459
+msgid "Import image folder"
+msgstr "Importér billed-mappe"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:400
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nyt galleri"
+
+# GSA-væsentlig-note: Ud fra sammenhængen må der være tale om en imperativ, ikke et verbum i præsens pluralis. Jeg har rettet.
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:403
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Opret et nyt og tomt galleri under mappen"
+
+# GSA-væsentlig-note: Rettede slåfejl
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:405
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "Tilladte tegn i fil- og mappenavne er"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:409
+msgid "Add gallery"
+msgstr "Tilføj galleri"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:422
+msgid "Select Zip-File"
+msgstr "Vælg zip-fil"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:424
+msgid "Upload a zip file with images"
+msgstr "Upload en zip-fil med billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:428
+msgid "or enter a Zip-File URL"
+msgstr "Eller indtast en URL til en zip-fil"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:430
+msgid "Import a zip file with images from a url"
+msgstr "Importér en zip-fil med billeder fra en URL"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:434
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:512
+msgid "in to"
+msgstr "til"
+
+# GSA-note: Rettet til med lille
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:436
+msgid "a new gallery"
+msgstr "et nyt galleri"
+
+# GSA-note: Rettet; bindestreg indsat
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:447
+msgid "Note : The upload limit on your server is "
+msgstr "Note: Max. filstørrelse pr. fil til upload på din server er "
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:451
+msgid "Start upload"
+msgstr "Begynd upload"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:464
+msgid "Import from Server path:"
+msgstr "Importér fra server-sti:"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:467
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Bemærk: Du kan ændre standardstien i galleriindstillingerne"
+
+# GSA-note: 'subfolder thumbs' betyder egentlig 'miniaturebillederne i undermapperne' - men tyskerne har det med at glemme, at engelsk bruger ordstilling, der er modsat tysk (og dansk). Den tyske po-fil har en lidt mere udførlig oversættelse. Mon ikke det afspejler forfatterens forståelse af sine engelske tekster? ;-)
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:469
+msgid ""
+" Please note : For safe-mode = ON you need to add the subfolder thumbs "
+"manually"
+msgstr ""
+" Bemærk venligst: Hvis PHP Safe Mode = ON, skal du tilføje undermapperne til "
+"miniaturerne manuelt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:472
+msgid "Import folder"
+msgstr "Importér mappe"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:489
+msgid "Upload image"
+msgstr "Upload billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:494
+msgid "Choose files to upload"
+msgstr "Vælg filer til upload"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:495
+msgid "Select Files"
+msgstr "Vælg filer"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:497
+msgid "Or you can drop the files into this window."
+msgstr "Eller du kan slippe filerne over dette vindue."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:500
+#, php-format
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "Skalér billeder til maks. bredde %1$dpx eller maks. højde %2$dpx"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:514
+msgid "Choose gallery"
+msgstr "Vælg et galleri"
+
+# GSA-note: Indsatte bindestreg
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:533
+msgid ""
+"The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr ""
+"Batch-upload kræver Adobe Flash 10; deaktivér det, hvis du har problemer"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:533
+msgid "Disable flash upload"
+msgstr "Deaktivér flash-upload"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:535
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Upload flere filer på én gang ved at bruge ctrl/skift i dialogboksen"
+
+# GSA-note: Enten skal der ingen mellemrum være, eller der skal være bindestreg (som jeg har indsat)
+#: d:\wordpress\plugins\nextgen-gallery/admin/addgallery.php:535
+msgid "Enable flash based upload"
+msgstr "Aktivér flash-baseret upload"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:36
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:59
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:78
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:343
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:400
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:179
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:127
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:408
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:239
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:493
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:220
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:45
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:57
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:217
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:226
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galleri"
+msgstr[1] "Gallerier"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:38
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "Tilføj galleri/billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:39
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "Håndtér galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:40
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:85
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:499
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:46
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:78
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:223
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:41
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:87
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:291
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:461
+msgid "Tags"
+msgstr "Tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:42
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:89
+msgid "Options"
+msgstr "Indstillinger"
+
+# GSA-væsentlig-note: Du oversætter senere 'styles' med 'design'. Det passer efter min mening bedre end 'udseende'. Rettet.
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:44
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:91
+msgid "Style"
+msgstr "Design"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:46
+msgid "Roles"
+msgstr "Roller"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:47
+msgid "About this Gallery"
+msgstr "Om dette galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:47
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:92
+msgid "About"
+msgstr "Om"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:50
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "Nulstil/Afinstallér"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:60
+msgid "Network settings"
+msgstr "Netværksindstillinger"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "Du har ikke de nødvendige rettigheder"
+
+# Godt, det ikke var en ventet fejl
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "Uventet fejl"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:215
+msgid "A failure occurred"
+msgstr "En fejl opstod"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "Du har forsøgt at tilføje for mange filer til køen."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr ""
+"Størrelsen på denne fil overstiger maks. uploadstørrelse på dette site."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "Denne fil er tom. Prøv venligst en anden."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "Den filtype er ikke tilladt. Prøv venligst en anden."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "Denne fil er ikke et billede. Prøv venligst en anden."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Hukommelse overskredet. Prøv venligst en mindre fil."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Denne er større end maks. størrelsen. Prøv venligst en anden."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Der skete en fejl under upload. Prøv venligst igen senere."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:227
+msgid ""
+"There was a configuration error. Please contact the server administrator."
+msgstr ""
+"Der skete en konfigurationsfejl. Kontakt venligst serveradministratoren."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "Du må kun uploade én fil."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:229
+msgid "HTTP error."
+msgstr "HTTP-fejl."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:230
+msgid "Upload failed."
+msgstr "Upload mislykkedes."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:231
+msgid "IO error."
+msgstr "IO-fejl."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:232
+msgid "Security error."
+msgstr "Sikkerhedsfejl."
+
+# GSA-note: Sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:233
+msgid "File canceled."
+msgstr "Fil annulleret."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:234
+msgid "Upload stopped."
+msgstr "Upload stoppede."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:235
+msgid "Dismiss"
+msgstr "Afvis"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "Tygger &hellip;"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:237
+msgid "moved to the trash."
+msgstr "flyttet til papirkurven."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:238
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "&#8220;%s&#8221; blev ikke uploadet på grund af en fejl"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:347
+msgid ""
+"<a href=\"http://www.nextgen-gallery.com\" target=\"_blank\">Introduction</a>"
+msgstr ""
+"<a href=\"http://www.nextgen-gallery.com\" target=\"_blank\">Introduktion</a>"
+
+# GSA-note: Fint, så kan man finde det, selv om header overskrives!
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:350
+msgid ""
+"<a href=\"http://www.nextgen-gallery.com/languages\" target=\"_blank"
+"\">Languages</a>"
+msgstr ""
+"<a href=\"http://www.nextgen-gallery.com/languages\" target=\"_blank"
+"\">Sprog</a>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:355
+msgid "Get help with NextGEN Gallery"
+msgstr "Få hjælp til NextGEN Gallery!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:359
+msgid "More Help & Info"
+msgstr "Mere hjælp og information"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:361
+msgid ""
+"<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target="
+"\"_blank\">Support Forums</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target="
+"\"_blank\">Supportforum (på engelsk)</a>"
+
+# GSA-note: Eller: OSS
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:362
+msgid "FAQ"
+msgstr "OSS"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:363
+msgid "Feature request"
+msgstr "Forslag til nye funktioner"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:364
+msgid "Get your language pack"
+msgstr "Hent din sprogpakke"
+
+# GSA-note: Rettede til bestemtform, eller tror jeg, det kan misforstås
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:365
+msgid "Contribute development"
+msgstr "Bidrage til udviklingen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/admin.php:366
+msgid "Download latest version"
+msgstr "Download nyeste version"
+
+# GSA-note: Der stod: "Du har ikke rettigheder til at være her". Sjovt, hvordan man kan få en sådan fejlmelding. Meningen er som i den tyske udgave
+#: d:\wordpress\plugins\nextgen-gallery/admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Du har ikke adgangsrettigheder!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "Kunne oprette billede med %s x %s pixel"
+
+# GSA-note: Måske kan 'succesfuldt' godt droppes?
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:105
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:124
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:169
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:79
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:24
+msgid "Update Successfully"
+msgstr "Opdateret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:142
+msgid "Album deleted"
+msgstr "Album slettet"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:280
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:60
+msgid "Edit Album"
+msgstr "Redigér album"
+
+# GSA-note: Ændret til lillle
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:290
+msgid "Manage Albums"
+msgstr "Håndtér albums"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:296
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:345
+msgid "Select album"
+msgstr "Vælg album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:298
+msgid "No album selected"
+msgstr "Intet album valgt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:309
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:155
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:614
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:90
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:112
+msgid "Update"
+msgstr "Opdatér"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:311
+msgid "Edit album"
+msgstr "Redigér album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:314
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:146
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:448
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:227
+msgid "Delete"
+msgstr "Slet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:318
+msgid "Add new album"
+msgstr "Tilføj nyt album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:320
+msgid "Add"
+msgstr "Tilføj"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:331
+msgid "Show / hide used galleries"
+msgstr "Vis/skjul brugte gallerier"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:331
+msgid "[Show all]"
+msgstr "[Vis alle]"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:332
+msgid "Maximize the widget content"
+msgstr "Maksimér widget-indholdet"
+
+# GSA-note: Har du noget system på, hvornår du sætter accent over imperativer af verber, der ender på -er? Det er jo valgfrit efter Retskrivningsordbogen, men de fleste gange sætter du og WordPress dem ikke. Her gør du! Jeg er selv af den opfattelse, at det er en hjælp for læsere at sætte dem, og derfor gør jeg det selv
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:332
+msgid "[Maximize]"
+msgstr "[Maksimér]"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:333
+msgid "Minimize the widget content"
+msgstr "Minimér widget-indholdet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:333
+msgid "[Minimize]"
+msgstr "[Minimér]"
+
+# GSA-note: Rettede slåfejl i albumet
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:335
+msgid ""
+"After you create and select a album, you can drag and drop a gallery or "
+"another album into your new album below"
+msgstr ""
+"Efter du har oprettet og valgt et album, kan du \"drag and drop\" et galleri "
+"eller et andet album ind i det nye album herunder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:361
+msgid "Select gallery"
+msgstr "Vælg galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:390
+msgid "Album ID"
+msgstr "Album-id"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:403
+msgid "No album selected!"
+msgstr "Intet album valgt!"
+
+# GSA-note: Indsat bindestreg, men "Eksempel på album" er - efter min mening - bedre
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:424
+msgid "Album name:"
+msgstr "Album-navn:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:430
+msgid "Album description:"
+msgstr "Album-beskrivelse:"
+
+# GSA-rettet-20-02-2009 - Ledetekst for valg af galleriminiature
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:436
+msgid "Select a preview image:"
+msgstr "Vælg et forhåndsvisningsbillede:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:439
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:442
+msgid "No picture"
+msgstr "Intet billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:453
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Link til en side (album)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:455
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:260
+msgid "Not linked"
+msgstr "Ikke linket"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:468
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:289
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:318
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:348
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:533
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:569
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:598
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:628
+msgid "OK"
+msgstr "OK"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:470
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:291
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:320
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:350
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:535
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:571
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:600
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:630
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:137
+msgid "Cancel"
+msgstr "Annullér"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:557
+msgid "Name"
+msgstr "Navn"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:558
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:255
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:459
+msgid "Title"
+msgstr "Titel"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/album.php:559
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:229
+msgid "Page"
+msgstr "Side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Vælg området for den nye miniature med musen"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "Miniature opdateret"
+
+# GSA-note: Som tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "Fejl under opdatering af miniature"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Vælg området for miniaturen fra billedet til venstre."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Ikke gyldigt gallerinavn!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:46
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:55
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:80
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:149
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:157
+msgid "Directory"
+msgstr "Mappe"
+
+# GSA-note: Rettede slåfejl og indsatte bindestreg
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "eksisterer ikke. Opret venligst hoved-gallerimappen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:47
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Tjek dette link, hvis du ikke ved, hvordan du skal sætte rettigheder:"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:55
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:80
+msgid "is not writeable !"
+msgstr "er skrivebeskyttet!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:76
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:85
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:907
+#: d:\wordpress\plugins\nextgen-gallery/lib/core.php:102
+msgid "Unable to create directory "
+msgstr "Kunne ikke oprette mappen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "PHP-Safe Mode er slået til!"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "Hvis der er problemer, opret da venligst selv mappen"
+
+# GSA-note: Indsat bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "og miniature-mappen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "med rettigheden 777!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:116
+#, php-format
+msgid ""
+"Gallery ID %1$s successfully created. You can show this gallery in your post "
+"or page with the shortcode %2$s.<br/>"
+msgstr ""
+"Galleri-id&#39;et %1$s blev oprettet. Du kan vise dette galleri i dine "
+"indlæg eller sider med kortkoden %2$s.<br/>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:119
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:217
+msgid "Edit gallery"
+msgstr "Redigér galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "eksisterer ikke!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:157
+msgid "contains no pictures"
+msgstr "indeholder ingen billeder"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:176
+msgid "Database error. Could not add gallery!"
+msgstr "Databasefejl. Kunne ikke tilføje galleriet!"
+
+# GSA-notet: Tidligere har du ikke oversat 'successfully' og det synes jeg, er det bedste. Har slettet ordet.
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:179
+msgid "successfully created!"
+msgstr "Oprettet!"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:212
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1024
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:80
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:148
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:202
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:342
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:227
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:304
+msgid "Create new thumbnails"
+msgstr "Opret nye miniaturer"
+
+# GSA-note: En mere elegant løsning i pluginnet ville være at bruge __ngettext:1,2. Det vil også være bedre for de sprog, hvor man ikke blot kan danne flertal ved at tilføje et bogstav. Svarende til: woman (women) er tungere end picture(s)
+# Slettede "succesfuldt"
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " billede(r) blev tilføjet"
+
+# GSA-note: Datid hedder 'indeholdt'. Rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:270
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:350
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:405
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:502
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr ""
+"Objektet (til at lave miniature, billede eller vandmærke) indeholdt ikke "
+"korrekte data"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:278
+msgid " is not writeable "
+msgstr " er skrivebeskyttet!"
+
+# GSA-note: Eller: 'er skrivebeskyttet!' Her er der ikke noget mellemrum! Dansk retskrivningspraksis sætter ikke mellemrum mellem ord og f.eks. udråbstegn
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:360
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:408
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:508
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:559
+msgid " is not writeable"
+msgstr " er skrivebeskyttet! "
+
+# GSA-note: Rettede slåfejl (verbet er nutid)
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:562
+msgid "File do not exists"
+msgstr "Filen eksisterer ikke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "Kunne ikke gendane originalbilledet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Fejl: Kunne ikke opdatere database)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Fejl: Kunne ikke opdatere meta-data)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(Fejl: Kunne ikke finde billede)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:841
+msgid "No valid URL path "
+msgstr "Der er ikke angivet en gyldig URL-sti "
+
+# GSA-note: Her er det nemlig rigtigt: 'billed-'
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:857
+msgid "Import via cURL failed."
+msgstr "Import via cURL mislykkedes."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:874
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr ""
+"Den uploadede fil er ikke en zip-fil eller er defekt! Serveren kan genkende: "
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:891
+msgid "Could not get a valid foldername"
+msgstr "Kunne ikke finde et gyldigt mappenavn"
+
+# GSA-note: Fjernede komma foran at med infinitiv og satte bindestreg. Begynder jeg at vænne mig til ordet 'skrivbar'? ;-)
+# Nej, GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:902
+#, php-format
+msgid ""
+"Unable to create directory %s. Is its parent directory writable by the "
+"server?"
+msgstr ""
+"Det er ikke muligt at oprette %s. Har serveren skriverettigheder til "
+"forældremappen?"
+
+# GSA-note: Slettede "succesfuldt"
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:917
+msgid "Zip-File successfully unpacked"
+msgstr "Zip-filen blev udpakket"
+
+# GSA-note: Jeg sletter ikke mellemrummet. Måske er det lettest at lave en generel søg og erstat, hvis du er enig. Det kan poEdit ikke, men så kan man indlæse po-filen i f.eks. notepad++
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:956
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1073
+msgid "Failure in database, no gallery path set !"
+msgstr "Fejl i databasen; der er ingen sti til galleriet!"
+
+# GSA-note: Sammenførte to sidste ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:980
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1067
+msgid "is no valid image file!"
+msgstr "er ikke en gyldig billedfil!"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:994
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1192
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1269
+#, php-format
+msgid ""
+"Unable to write to directory %s. Is this directory writable by the server?"
+msgstr ""
+"Det er ikke muligt at skrive til mappen %s. Har serveren skriverettigheder "
+"til denne mappe?"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1001
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1090
+msgid "Error, the file could not be moved to : "
+msgstr "Fejl! Filen kunne ikke flyttes til: "
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1006
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1094
+msgid "Error, the file permissions could not be set"
+msgstr "Fejl! Filrettighederne kunne ikke ændres"
+
+# GSA-note: Slettede 'succesfuldt' - foreslå Rabe at bruge __ngettext:1,2 i stedet
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1029
+msgid " Image(s) successfully added"
+msgstr " Billede(r) blev uploaded succesfuldt"
+
+# GSA-note: Rettede køn og sammenførte to ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1056
+msgid "Invalid upload. Error Code : "
+msgstr "Ugyldigt upload. Fejlkode : "
+
+# GSA-note: Slåfejl rettet; bindestreg indsat; 'effekt' rettet til 'kraft'
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1132
+#, php-format
+msgid ""
+"SAFE MODE Restriction in effect! You need to create the folder <strong>%s</"
+"strong> manually"
+msgstr ""
+"SAFE MODE-restriktion er i kraft! Du bliver nødt til selv at oprette mappen "
+"<strong>%s</strong>"
+
+# GSA-note: diverse rettelser efter den tyske udgave, som jeg tror på, udtrykker Rabes egentlige mening
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1133
+#, php-format
+msgid ""
+"When safe_mode is on, PHP checks to see if the owner (%s) of the current "
+"script matches the owner (%s) of the file to be operated on by a file "
+"function or its directory"
+msgstr ""
+"Når safe_mode er slået til, tjekker PHP, om ejeren (%s) af scriptet passer "
+"til ejeren (%s) af filen eller mappen"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1186
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1263
+msgid "The destination gallery does not exist"
+msgstr "Destinations-galleriet eksisterer ikke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1217
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:218
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Det lykkedes ikke at flytte billede %1$s til %2$s"
+
+# GSA-note: Rabe bør opfordres til at bruge __ngettext:1,2 her
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1237
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Flyttede %1$s billede(r) til galleri: %2$s ."
+
+# GSA-note: Rettede slåfejl
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1296
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Det lykkedes ikke at kopiere billede %1$s til %2$s"
+
+# GSA-note: Rettede slåfejl og indsatte bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1310
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Det lykkedes ikke at kopiere database-rækken for billede %s"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1322
+#, php-format
+msgid ""
+"Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already "
+"existed in the destination gallery."
+msgstr ""
+"Billede %1$s (%2$s) kopieret som billede %3$s (%4$s) &raquo; Filen findes "
+"allerede i destinations-galleriet."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1325
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Billede %1$s (%2$s) kopieret som billede %3$s (%4$s)"
+
+# GSA-note: Brug __ngettext:1,2 for en mere elegant løsning
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1334
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Kopieret %1$s billede(r) til galleri: %2$s ."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1442
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Den uploadede fil overskrider den grænse, der er sat med direktivet "
+"upload_max_filesize i php.ini"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1445
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Den uploadede fil overskrifer max_file_size-direktivet i HTML-formularen."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1448
+msgid "The uploaded file was only partially uploaded"
+msgstr "Den uploadede fil blev kun delvist uploadet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1451
+msgid "No file was uploaded"
+msgstr "Ingen fil blev uploadet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1454
+msgid "Missing a temporary folder"
+msgstr "Mangler en temp-mappe"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1457
+msgid "Failed to write file to disk"
+msgstr "Mislykkedes med at skrive fil til disk"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1460
+msgid "File upload stopped by extension"
+msgstr "Filupload blokeret pga. filtype"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/functions.php:1463
+msgid "Unknown upload error"
+msgstr "Ukendt upload-fejl"
+
+# GSA-note: To ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr ""
+"Beklager! NextGEN Galleri virker kun med en brugerrolle kaldet administrator"
+
+# GSA-note: Rettet til 'kunne ... oprettes'; bindestreg indsat
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/install.php:112
+msgid ""
+"NextGEN Gallery : Tables could not created, please check your database "
+"settings"
+msgstr ""
+"NextGEN Galleri: Tabeller kunne ikke oprettes. Tjek venligst dine database-"
+"indstillinger"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[Vis som diasshow]"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[Vis som billedliste]"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:68
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:170
+msgid "No images selected"
+msgstr "Ingen billeder valgt"
+
+# GSA-note: Rettet fra 'billede størrelse'
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:76
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:149
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:198
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:343
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:211
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:290
+msgid "Resize images"
+msgstr "Ændre billedstørrelse"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:85
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du skal til at masse-redigere %s gallerier \n"
+" \n"
+" 'Annullér' for at stoppe, 'OK' for at fortsætte."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:130
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:133
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:225
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Søg efter billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:145
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "Massehandlinger"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:147
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:341
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:141
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:253
+msgid "Set watermark"
+msgstr "Sæt vandmærke"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:150
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:346
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:146
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:274
+msgid "Import metadata"
+msgstr "Importér metadata"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:151
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:344
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:136
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:250
+msgid "Recover from backup"
+msgstr "Gendan fra backup"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:153
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:355
+msgid "Apply"
+msgstr "Anvend"
+
+# GSA-note: Standardoversættelse er rediger, idet der ikke nødvendigvis er nogen fejl i titlen
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:220
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:253
+msgid "Edit"
+msgstr "Redigér"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:261
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:506
+msgid "No entries found"
+msgstr "Der blev ikke fundet nogle"
+
+# GSA-note: Ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:309
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "Ændr størrelsen på billederne til"
+
+# GSA-note: 'bevare' bedre end 'beholde' - to sidste ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:313
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:593
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:350
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr ""
+"Bredde x højde (i pixel). NextGEN Galleri vil bevare proportionsforholdet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:337
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:617
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:40
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:318
+msgid "Width x height (in pixel)"
+msgstr "Bredde x højde (i pixel)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:339
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:619
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:320
+msgid "These values are maximum values "
+msgstr "Disse værdier er max værdier"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:342
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:622
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:323
+msgid "Set fix dimension"
+msgstr "Brug fast højde og bredde"
+
+# GSA-note: jf. tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:344
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:624
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:325
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorér \"behold proportioner\"; vis ingen miniaturer i portræt-format"
+
+# GSA-note: Her og alle andre steder, hvor 'ID' forekommer, kan det bemærkes, at Retskrivningsordbogen foreskriver 'id' med lille.
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:407
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:694
+msgid "ID"
+msgstr "Id"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:409
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:266
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:697
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:225
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:136
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:410
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:295
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:848
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:134
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:460
+msgid "Author"
+msgstr "Forfatter"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:411
+msgid "Page ID"
+msgstr "Side-id"
+
+# GSA-note: Rettede slåfejl
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-galleries.php:412
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:487
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Billede"
+msgstr[1] "Billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "Galleri ikke fundet."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Du har desværre ikke adgang her"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:178
+msgid "Copy image to..."
+msgstr "Kopiér billede til ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:182
+msgid "Move image to..."
+msgstr "Flyt billede til ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:186
+msgid "Add new tags"
+msgstr "Tilføj nye tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:190
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "Slet tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:194
+msgid "Overwrite"
+msgstr "Overskriv"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:207
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du skal til at masse-redigere %s images \n"
+" \n"
+" 'Annullér' for at stoppe, 'OK' for at fortsætte."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Søgeresultater for &#8220;%s&#8221;"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:251
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:385
+msgid "Gallery settings"
+msgstr "Galleri-indstillinger"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Klik her for flere indstillinger"
+
+# GSA-rettet-20-02-2009 - Ledetekst for valg af galleriminiature
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Miniature"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Intet billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:293
+msgid "Path"
+msgstr "Sti"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:310
+msgid "Create new page"
+msgstr "Opret ny side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "Hovedside (Øverste niveau)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:316
+msgid "Add page"
+msgstr "Tilføj side"
+
+# GSA-note: Rettede "Skan" til "Scan", som du bruger senere!
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "Scan mappen for nye billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:326
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:361
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:513
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:302
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:333
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:375
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:460
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:495
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:605
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:756
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:345
+msgid "Delete images"
+msgstr "Slet billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "Rotér billederne med uret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "Rotér billeder mod uret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "Kopiér til ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:350
+msgid "Move to..."
+msgstr "Flyt til ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:351
+msgid "Add tags"
+msgstr "Tilføj tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "Overskriv tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "Sortér galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:434
+msgid "pixel"
+msgstr "pixel"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:440
+#, php-format
+msgid "View \"%s\""
+msgstr "Vis \"%s\""
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:440
+msgid "View"
+msgstr "Vis"
+
+# GSA-note, indsæt bindestreg eller skriv et ord ('metadata')
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "Vis metadata"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:441
+msgid "Meta"
+msgstr "Meta"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "Tilpas miniature"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "Redigér miniature"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:443
+msgid "Rotate"
+msgstr "Rotér"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "Udgiv dette billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:445
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:58
+msgid "Publish"
+msgstr "Udgiv"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:447
+msgid "Recover"
+msgstr "Gendan"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:447
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "Gen \"%s\"?"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:448
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Slet  \"%s\"?"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "Indtast tags"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "Vælg destinations-galleriet:"
+
+# GSA-note: Her har du sat ordene sammen (i modsætning til ovenfor). Du kan også 'billede', idet 'miniature' i sig selv betyder, at det er et billede
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:695
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:246
+msgid "Thumbnail"
+msgstr "Miniature"
+
+# GSA-note: Sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:696
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Filnavn"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "Titel-tekst"
+
+# GSA-note: Slåfejl rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "Tags (adskil med komma)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-images.php:699
+msgid "exclude"
+msgstr "Ekskludér"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Sorterings-rækkefølge er ændret"
+
+# GSA-note: Rettet til lille
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Sortér galleri"
+
+# GSA-note: Indsat bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Opdatér sorterings-rækkefølge"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Tilbage til galleri"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:74
+msgid "Presort"
+msgstr "Forhåndssortering"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Usorteret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:76
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:446
+msgid "Image ID"
+msgstr "Billed-id"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:78
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:221
+msgid "Alt/Title text"
+msgstr "Billedbeskrivelse/Titeltekst"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:79
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:454
+msgid "Date/Time"
+msgstr "Dato/tid"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:80
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:454
+msgid "Ascending"
+msgstr "Stigende"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage-sort.php:81
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:455
+msgid "Descending"
+msgstr "Faldende"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:85
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:47
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:98
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:220
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-caption.php:31
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:35
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser.php:31
+msgid "Picture"
+msgstr "Billede"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:85
+msgid "deleted successfully"
+msgstr "slettet"
+
+# GSA-note: Rettede første ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:100
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:109
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Kørslen gennemført! Ryd venligst din browsers cache."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:176
+msgid "Gallery deleted successfully "
+msgstr "Galleri blev slettet med succes"
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:244
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:247
+msgid "Rotate images"
+msgstr "Rotér billeder"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:270
+msgid "Pictures deleted successfully "
+msgstr "Billederne blev slettet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:366
+msgid "Tags changed"
+msgstr "Tags blev ændret"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:402
+msgid "Update successful"
+msgstr "Opdateret"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:437
+msgid "New gallery page ID"
+msgstr "Ny galleriside-id"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:437
+msgid "created"
+msgstr "oprettet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:475
+msgid "Published a new post"
+msgstr "Udgav et nyt indlæg"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:589
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 stk."
+msgstr[1] "%s stk."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:605
+msgid "Go to the first page"
+msgstr "Gå til den første side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:612
+msgid "Go to the previous page"
+msgstr "Gå til forrige side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:621
+msgid "Current page"
+msgstr "Aktuel side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:628
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s af %2$s"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:632
+msgid "Go to the next page"
+msgstr "Gå til næste side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/manage.php:639
+msgid "Go to the last page"
+msgstr "Gå til sidste side"
+
+# GSA-note: Hvorfor skal det ikke oversættes, når du plejer at gøre det? Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN Galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Intet galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Vælg &#187;"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:209
+msgid "Show"
+msgstr "Vis"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:210
+msgid "Hide"
+msgstr "Skjul"
+
+# GSA-note: Rettet fra Billede ID, men burde nok være Billed-id.
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "Billed-id:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:229
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:45
+msgid "Alignment"
+msgstr "Justering"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:232
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:47
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:480
+msgid "None"
+msgstr "Ingen"
+
+# GSA-note: Behøver man bruge 'Til'? Rettet til 'Venstre' fra 'Til venstre' - ligeså nedenfor
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:234
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:49
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:123
+msgid "Left"
+msgstr "Venstre"
+
+# GSA-note: Plejer man ikke at oversætte med 'Midt'?
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:236
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:51
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:124
+msgid "Center"
+msgstr "Midt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:238
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:53
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:125
+msgid "Right"
+msgstr "Højre"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:242
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:587
+msgid "Size"
+msgstr "Størrelse"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:248
+msgid "Full size"
+msgstr "Fuld størrelse"
+
+# GSA-note: Min mavefornemmelse siger, at der bør være en bindestreg ...
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Enkelt-billede"
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:261
+msgid "Use as featured image"
+msgstr "Brug som <span title=\"featured image\">fremhævet billede</span>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Indsæt i indlæg"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Gem alle ændringer"
+
+# GSA-note: Enten bindestreg mellem to sidste ord eller Oversigt med stort
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:15
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Galleri-oversigt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:87
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Velkommen til NextGEN Gallery!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:88
+msgid "Do you like this Plugin?"
+msgstr "Kan du lide dette plugin?"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:90
+msgid "Translation"
+msgstr "Oversættelse"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:91
+msgid "Latest News"
+msgstr "Seneste nyheder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:94
+msgid "Plugin Check"
+msgstr "Plugintjek"
+
+# GSA-note: Bindestreg indsat og slettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:95
+msgid "Server Settings"
+msgstr "Serverindstillinger"
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:96
+msgid "Related plugins"
+msgstr "Relaterede plugins"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:102
+#, php-format
+msgid ""
+"This plugin is primarily developed, maintained, supported and documented by "
+"<a href=\"%s\" target=\"_blank\">Photocrati Media</a> with a lot of love & "
+"effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr ""
+"Dette plugin er først og fremmest udviklet, vedligeholdt, supporteret og "
+"dokumenteret af <a href=\"%s\" target=\"_blank\">Photocrati Media</a> med "
+"megen kærlighed og en stor indsats. Enhver form for bidrag værdsættes højt. "
+"Tak!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:107
+msgid "Give it a good rating on WordPress.org"
+msgstr "Giv det en god bedømmelse på WordPress.org"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:112
+msgid "Visit the plugin homepage"
+msgstr "Besøg pluginhjemmesiden"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:117
+msgid "Help translating it"
+msgstr "Hjælp med at oversætte det"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:256
+msgid "Running..."
+msgstr "Kører &hellip;"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:303
+msgid "Check plugin/theme conflict"
+msgstr "Tjek plugin-/temakonflikt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:304
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:310
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:316
+msgid "Not tested"
+msgstr "Ikke testet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:305
+msgid "No conflict could be detected"
+msgstr "Der blev ikke opdaget nogen konflikt."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:306
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Test fejlede. Deaktivér de andre plugins og skift til standardtemaet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:309
+msgid "Test image function"
+msgstr "Test billedfunktion"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:311
+msgid "The plugin could create images"
+msgstr "Pluginnet kunne oprette billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:312
+msgid "Couldn't create image, check your memory limit"
+msgstr "Kunne ikke oprette et billede, tjek hukommelsesbegrænsning"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:315
+msgid "Check theme compatibility"
+msgstr "Tjek temakompatibilitet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:317
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "Dit tema burde fungere fint med NextGEN Gallery!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:318
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() mangler. Kontakt temaudvikleren"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:322
+msgid "Check plugin"
+msgstr "Tjek plugin"
+
+# GSA-note: Det er forvirrende med ordet 'modul', for det er jo ikke et modul i NGG, men en samling af software-værktøjer på serveren, ikke? Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:343
+msgid "Graphic Library"
+msgstr "Grafisk bibliotek"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:359
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:408
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:595
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:785
+msgid "Loading&#8230;"
+msgstr "Indlæser &#8230;"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:359
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:408
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:595
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:785
+msgid "This widget requires JavaScript."
+msgstr "Denne widget kræver JavaScript."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:372
+msgid "Thanks to all donators..."
+msgstr "Tak til alle, der har støttet økonomisk ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:394
+msgid "View all"
+msgstr "Vis alle"
+
+# GSA-rettet-20-02-2009
+# GSA-ny-væsentlig-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:420
+#, php-format
+msgid ""
+"Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to "
+"check for updates."
+msgstr ""
+"Nyhedsfeedet kunne ikke loades. Tjek venligst <a href=\"%s\">forsiden</a> "
+"efter opdateringer."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:432
+msgid "Untitled"
+msgstr "Uden titel"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:482
+msgid "At a Glance"
+msgstr "Et overblik"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:508
+msgid "Upload pictures"
+msgstr "Upload billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:509
+msgid "Here you can control your images, galleries and albums."
+msgstr "Her kan du kontrollere dine billeder, gallerier og album."
+
+# GSA-note: Rettet til ét ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:539
+msgid "Storage Space"
+msgstr "Lagerplads"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:543
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr ""
+"<a href=\"%1$s\" title=\"Håndtér uploads\" class=\"musublink\">%2$sMB</a>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:544
+msgid "Space Allowed"
+msgstr "Mellemrum tilladt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:551
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)"
+"</a>"
+msgstr ""
+"<a href=\"%1$s\" title=\"Håndtér uploads\" class=\"musublink\">%2$sMB (%3$s"
+"%%)</a>"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:552
+msgid "Space Used"
+msgstr "Mellemrum brugt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:581
+msgid "Translation file successful updated. Please reload page."
+msgstr "Oversættelsesfil blev opdateret. Genindlæs venligst siden."
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:583
+msgid "Reload page"
+msgstr "Genindlæs side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:588
+msgid "Translation file couldn't be updated"
+msgstr "Oversættelsesfil kunne ikke opdateres"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:625
+msgid "Download"
+msgstr "Download"
+
+# GSA-note: Bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:654
+msgid "No GD support"
+msgstr "Ingen GD­-support"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:666
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:712
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:715
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:718
+msgid "Yes"
+msgstr "Ja"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:668
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:713
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:716
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:719
+msgid "No"
+msgstr "Nej"
+
+# GSA-note: Det er safe_mode, så det må være 'slået til'? Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:686
+msgid "Not set"
+msgstr "Ikke slået til"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:688
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:691
+msgid "On"
+msgstr "Til"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:689
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:692
+msgid "Off"
+msgstr "Fra"
+
+# GSA-note: N/A er jo ikke rigtig dansk. Jeg bruger selv " - ", men en direkte oversættelse ville jo være "ikke til rådighed", men "ITR" forstås jo ikke
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:695
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:698
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:701
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:704
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:707
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:710
+msgid "N/A"
+msgstr " - "
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:709
+msgid " MByte"
+msgstr " MByte"
+
+# GSA-note: Et ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:722
+msgid "Operating System"
+msgstr "Operativsystem"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:723
+msgid "Server"
+msgstr "Server"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:724
+msgid "Memory usage"
+msgstr "Hukommelsesbrug"
+
+# GSA-note: Med lille
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:725
+msgid "MYSQL Version"
+msgstr "MYSQL Version"
+
+# GSA-note: SQL-modus er vist bedre. Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:726
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:727
+msgid "PHP Version"
+msgstr "PHP Version"
+
+# GSA-note: Jeg tøver med at rette, men i de følgende linjer burde der nok være bindestreger
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:728
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:729
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:730
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit (hukommelsesgrænse)"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:731
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+# GSA-note rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:732
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:733
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking-begrænsning"
+
+# GSA-note: Måske skulle man slet ikke oversætte disse?
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:734
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+# GSA-note rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:735
+msgid "PHP Exif support"
+msgstr "PHP Exif support"
+
+# GSA-note rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:736
+msgid "PHP IPTC support"
+msgstr "PHP IPTC support"
+
+# GSA-note rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:737
+msgid "PHP XML support"
+msgstr "PHP XML support"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:749
+msgid ""
+"NextGEN Gallery contains some functions which are only available under PHP "
+"5.2. You are using the old PHP 4 version, upgrade now! It's no longer "
+"supported by the PHP group. Many shared hosting providers offer both PHP 4 "
+"and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr ""
+"NextGEN Gallery indeholder nogle funktioner, som kun er tilgængelige under "
+"PHP 5.2. Hvis du bruger den gamle version 4 af PHP, opgradér nu! Det "
+"supporteres ikke længere af PHP-gruppen. Mange internetudbydere tilbyder, at "
+"man kan køre både PHP 4 og PHP 5, endog samtidigt. Spørg din udbyder, om de "
+"kan det."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/overview.php:847
+msgid "Install"
+msgstr "Installér"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/pointer.php:22
+msgid ""
+"<h3>Client side resize</h3><p>You can now resize the images before you start "
+"with the upload.</p>"
+msgstr ""
+"<h3>Ændring af størrelse i browser</h3><p>Du kan nu ændre størrelse på "
+"billederne, før du starter på at uploade dem.</p>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:35
+msgid "Post title"
+msgstr "Indlægstitel"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:37
+msgid "Enter the post title "
+msgstr "Indtast indlægtitel "
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:42
+msgid "Size of the image"
+msgstr "Billedstørrelse"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/publish.php:60
+msgid "Draft"
+msgstr "Kladde"
+
+# GSA-væsentlig-note: Bedre med "rettigheder", tror jeg
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Opdateret rettigheder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:29
+msgid "Roles / capabilities"
+msgstr "Roller / Rettigheder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:30
+msgid ""
+"Select the lowest role which should be able to access the following "
+"capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr ""
+"Vælg den laveste rolle, der skal have adgang til følgende rettigheder. "
+"NextGEN Gallery understøtter standardbrugerrollerne fra Wordpress."
+
+# GSA-note: To ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:31
+msgid "For a more flexible user management you can use the"
+msgstr "For en mere fleksibel brugerhåndtering, kan du bruge"
+
+# GSA-væsentlig-note: Mindre tungt med: "Hovedoversigt for NextGen Galleri"? Det ville også være nemmere at finde
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:36
+msgid "Main NextGEN Gallery overview"
+msgstr "Hovedoversigt for NextGEN Galleri"
+
+# GSA-note: Tilføjet to bindestreger
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:40
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Brug TinyMCE-knap/Upload-tab"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:44
+msgid "Add gallery / Upload images"
+msgstr "Tilføj galleri/Upload billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:48
+msgid "Manage gallery"
+msgstr "Håndtér galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:52
+msgid "Manage others gallery"
+msgstr "Håndtér andres galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:56
+msgid "Manage tags"
+msgstr "Håndtér tags"
+
+# GSA-note: Design er bedre, jf. ovenfor
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:64
+msgid "Change style"
+msgstr "Skift design"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:68
+msgid "Change options"
+msgstr "Ændre indstillinger"
+
+# GSA-væsentlig-note: Rettet 'muligheder' til 'rettigheder'
+#: d:\wordpress\plugins\nextgen-gallery/admin/roles.php:72
+msgid "Update capabilities"
+msgstr "Opdatér rettigheder"
+
+# GSA-væsentlig-note: Hvad med billedbrowser?
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Billede roteret"
+
+# GSA-note: Som tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Fejl under rotering af miniature."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; med uret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; mod uret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Flip vertikalt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Flip horisontalt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:97
+msgid "Cache cleared"
+msgstr "Cache slettet"
+
+# GSA-note: Rettet til lille
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:217
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:236
+msgid "General Options"
+msgstr "Generelle indstillinger"
+
+# Jf. tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:218
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:417
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:212
+msgid "Thumbnails"
+msgstr "Miniaturer"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:219
+msgid "Images"
+msgstr "Billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:221
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:469
+msgid "Effects"
+msgstr "Effekter"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:222
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:511
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:113
+msgid "Watermark"
+msgstr "Vandmærke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:223
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:418
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:618
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:66
+#: d:\wordpress\plugins\nextgen-gallery/lib/rewrite.php:215
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:29
+msgid "Slideshow"
+msgstr "Diasshow"
+
+# GSA-note: Indsat bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:242
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:54
+msgid "Gallery path"
+msgstr "Sti til Galleri"
+
+# GSA-note: Sammenført to ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "Dette er standardstien til alle gallerier"
+
+# GSA-note: Sammenført to ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:247
+msgid "Delete image files"
+msgstr "Slet billedfiler"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Slet filer, når et galleri fjernes i databasen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "Aktivér permalinks"
+
+# GSA-væsentlig-note: Rettet "aktivere" til "aktiverer"
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:254
+msgid ""
+"When you activate this option, you need to update your permalink structure "
+"one time."
+msgstr ""
+"Når du aktiverer denne funktion, skal du opdatere din permalink-struktur."
+
+# GSA-note: Jeg har indsat bindestreg, men lyder det ikke bedre med: "Eksempel på galleri"?
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "Kort navn på galleri:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr ""
+"Opret nye <span title=\"URL friendly image slugs\">URL-venlige korttitler på "
+"billederne</span>"
+
+# GSA-note: Stavefejl rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:260
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:371
+msgid "Proceed now"
+msgstr "Fortsæt nu"
+
+# GSA-væsentlig-note: Jf. tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:263
+msgid "Select graphic library"
+msgstr "Vælg grafisk bibliotek"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:264
+msgid "GD Library"
+msgstr "GD Library"
+
+# GSA-væsentlig-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Eksperimental). Sti til biblioteket :"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "Aktivér Media RSS-feed"
+
+# GSA-note: Bindestreg indsat
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:272
+msgid ""
+"A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr ""
+"Et RSS-feed vil blive tilføjet til din blogs header. Kan bruges af CoolIris/"
+"PicLens"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktivér PicLens/CoolIris-support"
+
+# GSA-note: Diverse rettelser, inkl. "være sikker på" -> "sikre dig", som er betydningen af "make sure"
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:277
+msgid ""
+"When you activate this option, some javascript is added to your site footer. "
+"Make sure that wp_footer is called in your theme."
+msgstr ""
+"Når du aktiverer dette, vil der blive tilføjet JavaScript til din footer. Du "
+"skal derfor sikre dig, at dit tema kalder wp_footer funktionen."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "Tags/Kategorier"
+
+# GSA-væsentlig-note: Formen skal være "relaterede billeder". Se i øvrigt ovenfor
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:283
+msgid "Activate related images"
+msgstr "Aktivér Relevante billeder"
+
+# GSA-væsentlig-note: Rettede til 'relevante billeder' samt stavefejl i billededer
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "Denne indstilling vil tilføje relevante billeder til alle indlæg"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:289
+msgid "Match with"
+msgstr "Match med"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:290
+msgid "Categories"
+msgstr "Kategorier"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:295
+msgid "Max. number of images"
+msgstr "Max antal billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0 vil vise alle billeder"
+
+# GSA-note: Ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:301
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:332
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:374
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:459
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:494
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:755
+msgid "More settings"
+msgstr "Flere indstillinger"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "Indstillinger for miniaturer"
+
+# GSA-note: Jf. ovenfor vedr. miniaturerne
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:315
+msgid ""
+"Please note : If you change the settings, you need to recreate the "
+"thumbnails under -> Manage Gallery ."
+msgstr ""
+"Bemærk venligst: Hvis du ændre disse indstillinger, er du nødt til at "
+"gendanne miniaturerne under -> Håndtér galleri ."
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "Miniaturekvalitet"
+
+# GSA-note: Ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:342
+msgid "Image settings"
+msgstr "Billedindstillinger"
+
+# GSA-note: Ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:348
+msgid "Resize Images"
+msgstr "Ændre størrelse"
+
+# GSA-note: Ord sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:353
+msgid "Image quality"
+msgstr "Billedkvalitet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:357
+msgid "Backup original images"
+msgstr "Backup originale billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "Opretter en backup af indsatte billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:362
+msgid "Automatically resize"
+msgstr "Automatisk ændring af størrelse"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "Ændr automatisk størrelsen på billeder efter upload."
+
+# GSA-væsentlig-note: Jeg tror, det skal oversættes med 'enkelt-billede' eller faktisk - ud fra den tyske - 'enkelt-billeder'
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:367
+msgid "Single picture"
+msgstr "Enkeltbilleder"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "Slet cache-mappe"
+
+# GSA-væsentlig-note: Jeg flyttede 'galleri' hen foran 'side', for sådan tror jeg, det hænger sammen. Det er noget bøvl med alle de navneords-ophobninger :-)
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "Deaktivér \"Link til en galleriside\""
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:393
+msgid ""
+"The album will not link to a gallery subpage. The gallery is shown on the "
+"same page."
+msgstr ""
+"Albummet vil ikke linke til en galleri-underside. Galleriet bliver vist på "
+"den samme side."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:397
+msgid "Number of images per page"
+msgstr "Antal billeder pr. side"
+
+# GSA-væsentlig-note: Rettede slåfejl
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 vil annullere sideinddeling; alle billeder vises på én side"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:403
+msgid "Number of columns"
+msgstr "Antal kolonner"
+
+# GSA-note: Indsatte ordet billeder for at tydeliggøre meningen. Rettet slåfejl
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:405
+msgid ""
+"0 will display as much as possible based on the width of your theme. Setting "
+"normally only required for captions below the images"
+msgstr ""
+"0 vil vise så mange billeder, som bredden på dit tema tillader. (Dette vil "
+"kun være nødvendigt at rette, hvis billedteksterne ikke passer)"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "Integrér diasshow"
+
+# GSA-væsentlig-note: Rettede slåfejl
+# GSA-rettet-20-02-2009. Rettelsen var forkert
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:416
+msgid "Show first"
+msgstr "Vis først"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "Vis ImageBrowser"
+
+# GSA-væsentlig-note: Det engelske giver ikke for god mening. Jeg tror igen på det tyske. Derfor ændringen fra "i stedet for effekten" til "uden JavaScript-effekt")
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galleriet vil åbne Imagebrowseren (uden JavaScript-effekter)"
+
+# GSA-note: Rettet fra 'billede størrelse'
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:428
+msgid "Add hidden images"
+msgstr "Tilføj skjulte billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:430
+msgid ""
+"If pagination is used, this option will still show all images in the modal "
+"window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr ""
+"Selv om du bruger sideinddeling, vil denne indstilling stadigvæk vise alle "
+"billeder i modalvinduet (dvs. i Thickbox, Lightbox osv.). Bemærk: Dette øger "
+"sidestørrelsen"
+
+# GSA-note: Bindestreger indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "Aktivér Ajax-sideinddeling"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:436
+msgid ""
+"Browse images without reload the page. Note : Works only in combination with "
+"Shutter effect"
+msgstr ""
+"Gennemse billeder uden at genindlæse siden. Bemærk: Fungerer kun i "
+"kombination med Shutter-effekter"
+
+# GSA-note: Indsat bindestreg
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:440
+msgid "Sort options"
+msgstr "Indstillinger for sortering"
+
+# GSA-note: Som tidligere
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "Sortér miniaturer"
+
+# GSA-væsentlig-note: Uden bindestreg eller trukket sammen vil man let tolke "bruger" som et verbum
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:445
+msgid "Custom order"
+msgstr "Brugerdefineret rækkefølge"
+
+# GSA-note: Sammenført
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:447
+msgid "File name"
+msgstr "Filnavn"
+
+# GSA-væsentlig-note: "Alt" er den alternative billedtekst, man kan bruge i img-tagget.
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "Alt- eller titeltekst"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:449
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:58
+msgid "Date / Time"
+msgstr "Dato/tid"
+
+# GSA-note: Til et ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:453
+msgid "Sort direction"
+msgstr "Sorteringsretning"
+
+# GSA-væsentlig-note. Fulgte tysk tekst. Man integrerer ikke html-kode "i billeder", mig bekendt.
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:473
+msgid ""
+"Here you can select the thumbnail effect, NextGEN Gallery will integrate the "
+"required HTML code in the images. Please note that only the Shutter and "
+"Thickbox effect will automatic added to your theme."
+msgstr ""
+"Her kan du vælge miniature-effekter. NextGEN Galleri vil integrere den "
+"nødvendige HTML-kode. Bemærk, at det kun er Shutter- og Thickbox-effekterne, "
+"der automatisk vil blive tilføjet til dit tema."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:474
+msgid "With the placeholder"
+msgstr "Med pladsholderen"
+
+# GSA-note: småjusteringer
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:474
+msgid ""
+"you can activate a navigation through the images (depend on the effect). "
+"Change the code line only , when you use a different thumbnail effect or you "
+"know what you do."
+msgstr ""
+"kan du aktivere navigation igennem billederne (afhængig af de valgte "
+"effekter). Du skal kun ændre linkkode-linjen, hvis du ønsker at bruge andre "
+"miniature-effekter, eller du ved hvad du laver."
+
+# GSA-note: Bindestreg indsat
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript-miniatureeffekter"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:481
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:482
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+# GSA-væsentlig-note: Mon ikke det er bedst ikke at oversætte navnet på effekt(plugin)?
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:484
+msgid "Shutter"
+msgstr "Shutter"
+
+# GSA-væsentlig-note: Betyder IKKE 'tilfældig'
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:485
+msgid "Custom"
+msgstr "Brugervalgt"
+
+# GSA-note: rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:490
+msgid "Link Code line"
+msgstr "Linkkode-linje"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:512
+msgid ""
+"Please note : You can only activate the watermark under -> Manage Gallery . "
+"This action cannot be undone."
+msgstr ""
+"Bemærk venligst: Du kan kun aktivere vandmærket under -> Håndtér galleri, "
+"ikke her. Denne handling kan ikke fortrydes."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:517
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:519
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:524
+msgid "Position"
+msgstr "Position"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:544
+msgid "Offset"
+msgstr "fra margen"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "Brug billede som vandmærke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:563
+msgid "URL to file"
+msgstr "Fil-URL"
+
+# GSA-væsentlig-note: Jeg har rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr ""
+"Adgangen til URL-filer (på andre domæner) er slået fra på din server "
+"(allow_url_fopen)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "Brug tekst som vandmærke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:571
+msgid "Font"
+msgstr "Skrifttype"
+
+# GSA-note: Rettet diverse, inkl. stavefejl
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Denne funktion virker ikke. Du skal bruge FreeType-biblioteket"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:582
+msgid ""
+"You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr ""
+"Du kan uploade flere skrifttyper til mappen <strong>nggallery/fonts</strong>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:591
+msgid "Color"
+msgstr "Farve"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr ""
+"(hex w/o #)<br />Klik her for at se farvekoder: <a href=\"http://html-color-"
+"codes.info/\">HTML Color Codes</a> (o.a.)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:596
+msgid "Text"
+msgstr "Tekst"
+
+# GSA-væsentlig-note: Opaque-ness er værdien for, hvor gennemsigtig en effekt osv. er
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:600
+msgid "Opaque"
+msgstr "Gennemsigtighed"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "Standardstørrelse (bredde x højde)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:626
+msgid "Duration time"
+msgstr "Varighed"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:627
+msgid "sec."
+msgstr "sekunder"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:630
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "Overgangs-/fade-effekt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:633
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:708
+msgid "fade"
+msgstr "Fade"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:635
+msgid "cover"
+msgstr "dække"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:636
+msgid "scrollUp"
+msgstr "scrollOp"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:637
+msgid "scrollDown"
+msgstr "scrollNed"
+
+# GSA-note:
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:638
+msgid "shuffle"
+msgstr "bland-modus"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:639
+msgid "toss"
+msgstr "smid op"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:640
+msgid "wipe"
+msgstr "slet"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "Se her for flere informationer om effekterne:"
+
+# GSA-note: enkelt rettelse
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "Indstillinger for JW Image Rotator"
+
+# GSA-note: enkelt rettelse
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Disse indstillinger bruges kun for JW Image Rotator version"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "Se mere information om Flash Player på hjemmesiden"
+
+# GSA-væsentlig-note: Slåfejl rettet m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:653
+msgid ""
+"The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr ""
+"Stien til imagerotator.swf er ikke defineret. Diasshowet vil ikke fungere."
+
+# GSA-note: rettelser
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:654
+msgid ""
+"If you would like to use the JW Image Rotatator, please download the player "
+"<a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target="
+"\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-"
+"content/uploads)."
+msgstr ""
+"Hvis du vil bruge JW Image Rotatator til diasshow, så skal du downloade den "
+"<a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target="
+"\"_blank\" >her</a> og uploade den til den mappe, du har defineret som din "
+"upload mappe. (Standard er wp-content/uploads)."
+
+# GSA-note: Enten skal der ingen mellemrum være, eller der skal være bindestreg (som jeg har indsat)
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "Aktivér flashbaseret diasshow"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integrér det Flashbaserede diasshow for  alt, der understøtter Flash"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Sti til Imagerotator (URL)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:668
+msgid "Search now"
+msgstr "Søg nu"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:669
+msgid ""
+"Press the button to search automatically for the imagerotator, if you "
+"uploaded it to wp-content/uploads or a subfolder"
+msgstr ""
+"Klik på knappen for at søge og automatisk registrere Imagerotator, hvis du "
+"har lagt den i wp-content/uploads eller en undermappe"
+
+# GSA-note:
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "Bland-modus"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:677
+msgid "Show next image on click"
+msgstr "Vis næste billede, når der klikkes"
+
+# GSA-note: Sammenførte to ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "Vis navigationsbar"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:685
+msgid "Show loading icon"
+msgstr "Vis load-ikon"
+
+# GSA-note: Sammenførte to ord
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "Brug vandmærkelogo"
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "Du kan ændre logoet i indstillinger for vandmærker"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:694
+msgid "Stretch image"
+msgstr "Stræk billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:697
+msgid "true"
+msgstr "Ja"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:698
+msgid "false"
+msgstr "Nej"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:699
+msgid "fit"
+msgstr "Tilpas"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:700
+msgid "none"
+msgstr "Gør intet"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:709
+msgid "bgfade"
+msgstr "Baggrunds-fade"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:710
+msgid "slowfade"
+msgstr "Langsom fade"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:711
+msgid "circles"
+msgstr "Cirkler"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:712
+msgid "bubbles"
+msgstr "Bobler"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:713
+msgid "blocks"
+msgstr "Blokke"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:714
+msgid "fluids"
+msgstr "Flydende"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:715
+msgid "flash"
+msgstr "Blitz"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:716
+msgid "lines"
+msgstr "Linjer"
+
+# GSA-note: Jeg forventer "Tilfældig", så selv om "Vilkårlig" stort set betyder det samme, så ...
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:717
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:219
+msgid "random"
+msgstr "Tilfældig"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "Brug langsom zoomeffekt"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:726
+msgid "Background Color"
+msgstr ""
+"Baggrundsfarve<br />(<a href=\"http://html-color-codes.info/"
+"\">Farveoversigt</a>)"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "Tekst-/Knapfarve"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "Rollover/Aktiv farve"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:741
+msgid "Screen Color"
+msgstr "Skærmfarve"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "Baggrundsmusik (URL)"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Prøv XHTML-validation (med CDATA)"
+
+# GSA-væsentlig-note: Rettede tjeck til tjek
+#: d:\wordpress\plugins\nextgen-gallery/admin/settings.php:752
+msgid ""
+"Important : Could causes problem at some browser. Please recheck your page."
+msgstr ""
+"Vigtigt: Kan give problemer i visse browsere. Tjek venligst din side igen."
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Nulstil alle indstillinger til standardværdier"
+
+# GSA-note: Rettede første sætning. (Syret humor, her)
+# GSA-rettet-20-02-2009
+# GSA-11-03-2009: Stavefejl
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:26
+msgid ""
+"Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr ""
+"Afinstallationen lykkedes! Slet nu pluginet og nyd dit liv! Held og lykke!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:30
+msgid "Reset options"
+msgstr "Nulstil indstillinger"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Nulstil alle indstillinger til standardinstallation."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:34
+msgid "Reset settings"
+msgstr "Nulstil indstillinger"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n\\nChoose [Cancel] to Stop, [OK] "
+"to proceed.\\n"
+msgstr ""
+"Nulstil alle indstillinger til standard?\\n\\nVælg [Annullér] for at stoppe, "
+"[OK] for at fortsætte.\\n"
+
+# GSA-note: Endnu en ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Afinstallér pluginnets tabeller"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Nå, du kan ikke lide NextGEN Galleri?"
+
+# GSA-væsentlig-note: Sproglige rettelser
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:45
+msgid ""
+"No problem, before you deactivate this plugin press the Uninstall Button, "
+"because deactivating NextGEN Gallery does not remove any data that may have "
+"been created. "
+msgstr ""
+"OK, det er ikke noget problem! Men før du deaktiverer dette plugin, skal du "
+"trykke på Afinstallér-knappen, da deaktivering af NextGEN Galleri ikke "
+"fjerner dets data fra databasen."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:47
+msgid "WARNING:"
+msgstr "ADVARSEL:"
+
+# GSA-note: Indsat bindestreg og "missing word". Enkelte andre rettelser
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:48
+msgid ""
+"Once uninstalled, this cannot be undone. You should use a Database Backup "
+"plugin of WordPress to backup all the tables first. NextGEN gallery is "
+"stored in the tables"
+msgstr ""
+"Når først NextGEN Galleri er afinstalleret, kan dette ikke fortrydes. Du kan "
+"bruge et Database Backup-plugin til at lave en backup af alle tabellerne "
+"først. NextGEN Galleri gemmer alle sine data i tabeller."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:48
+msgid "and"
+msgstr "og"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Afinstallér plugin"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\nThis action is not "
+"reversible.\\n\\nChoose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Du er ved at afinstallere dette plugin fra Wordpress.\\nDette kan ikke "
+"fortrydes.\\n\\nVælg [Annullér] for at stoppe, [OK] for at afinstallere.\\n"
+
+# GSA-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:34
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:60
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:85
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:109
+msgid "Tag"
+msgstr "Tag"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:35
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:61
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:86
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:110
+msgid "Value"
+msgstr "Værdi"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Ingen metadata gemt"
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF-data"
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Ingen Exif-data"
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC-data"
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP-data"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Fra tema-mappen)"
+
+# GSA-væsentlig-note: Fejloversættelse rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr ""
+"Du har ikke tilstrækkelige rettigheder til at redigerer skabeloner for denne "
+"blog."
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS-fil blev opdateret "
+
+# GSA-væsentlig-note: I min erfaringsverden er det bedst at bevare ordet editor. Andre steder bruger du ordet design, som jeg synes, er velvalgt
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:89
+msgid "Style Editor"
+msgstr "Designeditor"
+
+# GSA-væsentlig-note: Rettede punktum til kolon
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Aktivér og brug stylesheet:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:113
+msgid "Activate"
+msgstr "Aktivér"
+
+# GSA-væsentlig-note: Rettede verbum
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Redigerer <strong>%s</strong>"
+
+# GSA-væsentlig-note: Foretrækker sædvanlig term
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Gennemser <strong>%s</strong>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:135
+msgid "Version"
+msgstr "Version"
+
+# GSA-note: Endnu en ordsammenføring m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:138
+msgid ""
+"Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will "
+"be not lost during a upgrade"
+msgstr ""
+"Tip: Kopiér dit stylesheet (nggallery.css) til din tema-mappe, så det ikke "
+"bliver slettet under plugin-opgraderinger"
+
+# GSA-væsentlig-note: Rettede stavefejl m.m.
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:140
+msgid ""
+"Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file "
+"will be used"
+msgstr ""
+"Dit tema indeholder et NextGEN Gallery-stylesheet (nggallery.css). Denne vil "
+"blive brugt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:142
+msgid ""
+"Tip No. 2: Use the color picker below to help you find the right color "
+"scheme for your gallery!"
+msgstr ""
+"Tip nr. 2: Brug farvevælgeren nedenfor til at hjælpe dig med at finde den "
+"rette farve til dit galleri!"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:158
+msgid "Update File"
+msgstr "Opdatér fil"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Hvis denne fil ikke var skrivebeskyttet, kunne du rette i den."
+
+# GSA-væsentlig-note: Rettede stavefejl m.m.
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Wooops, filen eksisterer ikke! Dobbelttjek navnet og prøv igen. Tak!"
+
+# GSA-væsentlig-note: Rettede stavefejl m.m.
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:41
+msgid "Most popular"
+msgstr "Mest brugt"
+
+# GSA-rettet-20-02-2009
+# GSA-væsentlig-note. Fejloversættelse
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:42
+msgid "Least used"
+msgstr "Mindst brugt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:43
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+# GSA-væsentlig-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:100
+msgid "Manage image tags"
+msgstr "Håndtér billedtags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:112
+msgid "Existing Tags"
+msgstr "Eksisterende tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:116
+msgid "Search tags"
+msgstr "Søg i tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:120
+msgid "Go"
+msgstr "Start"
+
+# GSA-væsentlig-note: YES, en accent efter mit hovede!!!
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:125
+msgid "Sort Order:"
+msgstr "Sortér efter:"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:160
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:164
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:177
+msgid "Previous tags"
+msgstr "Forrige tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:173
+msgid "Next tags"
+msgstr "Næste tags"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:185
+msgid "Rename Tag"
+msgstr "Omdøb tag"
+
+# GSA-væsentlig-note: Kommaet hjælper til at forstå oversættelsen rigtig
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:193
+msgid ""
+"Enter the tag to rename and its new value.  You can use this feature to "
+"merge tags too. Click \"Rename\" and all posts which use this tag will be "
+"updated."
+msgstr ""
+"Indtast det tag, der skal omdøbes, og det, som det skal omdøbes til. Du kan "
+"også bruge denne funktion til at flette tags. Klik på \"Omdøb\", og alle "
+"indlæg der bruger dette tag, vil blive opdateret."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:194
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:242
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Du kan angive flere tags, der skal omdøbes; adskil dem med komma."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:198
+msgid "Tag(s) to rename:"
+msgstr "Tag(s) som skal omdøbes:"
+
+# GSA-væsentlig-note: Her er der brug for __ngettext:1,2. Det ser rigtig grimt ud med "nyt", som forudsætter ét navn, og så (e) midt i det hele!!!
+# Update: Men Rabe kan jo ikke vide, om der er en eller flere, så jeg tager ønsket i mig igen
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:202
+msgid "New tag name(s):"
+msgstr "Nyt tag navn(e):"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:205
+msgid "Rename"
+msgstr "Omdøb"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:211
+msgid "Delete Tag"
+msgstr "Slet tag"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:219
+msgid ""
+"Enter the name of the tag to delete.  This tag will be removed from all "
+"posts."
+msgstr ""
+"Indtast navnet på det tag, der skal slettes. Dette tag vil blive fjernet fra "
+"alle indlæg."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:220
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Du kan slette flere tags på én gang ved at adskille dem med komma"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:224
+msgid "Tag(s) to delete:"
+msgstr "Tag(s) der skal slettes:"
+
+# GSA-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:233
+msgid "Edit Tag Slug"
+msgstr "Redigér tag-kortnavn (slug)"
+
+# GSA-note: Nice oversættelse. Jeg rettede en smule
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:241
+msgid ""
+"Enter the tag name to edit and its new slug. <a href=\"http://codex."
+"wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr ""
+"Indtast tag-navnet der skal redigeres, og det nye kortnavn (slug) (Se evt. "
+"<a href=\"http://codex.wordpress.org/Glossary#Slug\">Definition på slug</a>)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:246
+msgid "Tag(s) to match:"
+msgstr "Tag(s), der skal findes:"
+
+# GSA-væsentlig-note: __ngettext:1,2 så snart som muligt!!!
+# Update: Ikke muligt, jf. ovenfor
+#: d:\wordpress\plugins\nextgen-gallery/admin/tags.php:250
+msgid "Slug(s) to set:"
+msgstr "Nyt Kortnavn(e):"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Opgraderer databasestruktur ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:108
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:119
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:126
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:137
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:151
+msgid "finished"
+msgstr "Afsluttet"
+
+# GSA-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "Opdaterer filstruktur ..."
+
+# GSA-note: Flyttede lidt rundt ...
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "Importerer informationer om dato og tid ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "Flyt Imagerotator til ny mappe ..."
+
+# Engelsk syntax ikke helt korrekt
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "Opdaterer indstillinger ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:157
+msgid ""
+"Updated widget structure. If you used NextGEN Widgets, you need to setup "
+"them again..."
+msgstr ""
+"Opdateret widget-strukturen. Hvis du brugte NextGENs widgets, skal du "
+"konfigurere dem igen ..."
+
+# Engelsk syntax ikke helt korrekt
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:165
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:187
+msgid "Updated options."
+msgstr "Opdaterede indstillinger."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "Opret unik <span title=\"slug\">korttitel</span>"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr ""
+"En af de funktioner, der er på vej, er en forbedret permalinks-struktur."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:174
+msgid ""
+"Therefore it's needed to have a unique identifier for each image, gallery "
+"and album."
+msgstr ""
+"Det er derfor nødvendigt med et unikt id for hvert billede, galleri og album."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:175
+msgid ""
+"Depend on the amount of database entries this will take a while, don't "
+"reload this page."
+msgstr ""
+"Afhængigt af antal poster i databasen vil det tage noget tid. Genindlæs ikke "
+"denne side."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr ""
+"Kunne ikke finde NextGEN Gallerys databasetabeller. Opdatering mislykkedes!"
+
+# GSA-note: Slettede "om" i "Tjek om". Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:258
+msgid ""
+"Some folders/files could not renamed, please recheck the permission and "
+"rescan the folder in the manage gallery section."
+msgstr ""
+"Nogle mapper/filer kunne ikke omdøbes. Tjek rettighederne igen og scan så "
+"mappen via Håndtér galleri-sektionen."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Det lykkedes ikke at omdøbe"
+
+# GSA-note: Vi snakker da dansk ;-)
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:356
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Opgradér NextGEN Galleri"
+
+# GSA-væsentlig-note: Rettede "opgrader" til "opgraderer"
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Det ser ud til, at du opgraderer fra en ældre version."
+
+# GSA-note: Ordforbindelser rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:358
+msgid ""
+"Your database tables for NextGEN Gallery is out-of-date, and must be "
+"upgraded before you can continue."
+msgstr ""
+"Dine NextGEN Galleri-databasetabeller er for gamle og skal opgraderes, før "
+"du kan fortsætte."
+
+# GSA-væsentlig-note: Du har oversat korrekt, men meningen er bare ikke klar nok. Jeg har indsat "kunne"
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:359
+msgid ""
+"If you would like to downgrade later, please make first a complete backup of "
+"your database and the images."
+msgstr ""
+"Hvis du vil kunne gå tilbage til en ældre version senere, skal du tage en "
+"fuld sikkerhedskopi af din database og alle billederne."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Opgraderingen kan tage lidt tid, så du må være lidt tålmodig."
+
+# GSA-væsentlig-note: Rettet "ny" til "nu"
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Start opgradering nu"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Opdatering sluttede ..."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:378
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Gendan billedstruktur: %s / %s billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Gendan galleristruktur: %s / %s gallerier"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Gendan albumstruktur: %s / %s album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/upgrade.php:460
+msgid "Done."
+msgstr "Udført."
+
+# GSA-note: Don't like the word "succesfuldt" in Danish - deleted
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Opdateret"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:48
+msgid "Network Options"
+msgstr "Netværksindstillinger"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:56
+msgid ""
+"This is the default path for all blogs. With the placeholder %BLOG_ID% you "
+"can organize the folder structure better."
+msgstr ""
+"Dette er standardstien for alle blogs. Med variablen %BLOG_ID% kan du "
+"organisere mappe-strukturen bedre."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:57
+#, php-format
+msgid "The default setting should be %s"
+msgstr "Standardindstillinger bør være %s"
+
+# GSA-note: Ændrede ordstilling
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:61
+msgid "Enable upload quota check"
+msgstr "Aktivér tjek af upload-kvota"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:63
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Burde virke, hvis galleriet er under blog.dir"
+
+# GSA-note: Bindestreger indsat
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:67
+msgid "Enable zip upload option"
+msgstr "Aktivér zip-upload-funktion"
+
+# GSA-væsentlig-note: Diverse rettelser
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:69
+msgid "Allow users to upload zip folders."
+msgstr "Tillad brugere at uploade zip-mapper."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:73
+msgid "Enable import function"
+msgstr "Aktivér importfunktion"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:75
+msgid "Allow users to import images folders from the server."
+msgstr "Tillad brugerne at importere billedmapper fra serveren."
+
+# GSA-note: Indføjede ord for at koble til oversættelse andre steder i pluginnet
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:79
+msgid "Enable style selection"
+msgstr "Aktivér valg af style (design)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:81
+msgid "Allow users to choose a style for the gallery."
+msgstr "Tillad bruger at vælge et design for galleriet."
+
+# GSA-væsentlig-note: Jeg har vist nævnt det andetsteds, men "Rettigheder" er nok mere dækkende end "Muligheder"
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:85
+msgid "Enable roles/capabilities"
+msgstr "Aktivér Roller/Rettigheder"
+
+# GSA-note: Måske har det ingen praktisk betydning, men jeg korrigerede fra "blog-brugere" til "blog-forfattere"
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:87
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Tillad brugere at ændre brugerroller på andre blog-forfattere."
+
+# GSA-note: Jf. ovenfor
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:91
+msgid "Default style"
+msgstr "Standarddesign"
+
+# GSA-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/admin/wpmu.php:108
+msgid "Choose the default style for the galleries."
+msgstr "Vælg standarddesign for gallerierne."
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:59
+msgid "Select or enter gallery"
+msgstr "Vælg eller indtast galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:64
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:85
+msgid "Show as"
+msgstr "Vis som"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:65
+msgid "Image list"
+msgstr "Billedliste"
+
+# GSA-væsentlig-note: Hvad med billedbrowser?
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:67
+msgid "Imagebrowser"
+msgstr "Imagebrowser"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:80
+msgid "Select or enter album"
+msgstr "Vælg eller indtast album"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:86
+msgid "Extended version"
+msgstr "Udvidet version"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:87
+msgid "Compact version"
+msgstr "Kompakt version"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:100
+msgid "Select or enter picture"
+msgstr "Vælg eller indtast billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:105
+msgid "Width x Height"
+msgstr "Bredde x højde"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:109
+msgid "Effect"
+msgstr "Effekter"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:112
+msgid "No effect"
+msgstr "Ingen effekter"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:114
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:119
+msgid "Float"
+msgstr "Flydende (CSS Float)"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:122
+msgid "No float"
+msgstr "Ikke flydende"
+
+#: d:\wordpress\plugins\nextgen-gallery/admin/tinymce/window.php:141
+msgid "Insert"
+msgstr "Indsæt"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/core.php:407
+#, php-format
+msgid ""
+"Note : Based on your server memory limit you should not upload larger images "
+"then <strong>%d x %d</strong> pixel"
+msgstr ""
+"Bemærk: Din servers hukommelsesbegrænsning tilsiger, at du ikke skal uploade "
+"filer, der er større end <strong>%d x %d</strong> pixels"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Anførte URL er ugyldig."
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/locale.php:124
+#: d:\wordpress\plugins\nextgen-gallery/lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Kunne ikke oprette temp-fil."
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:132
+msgid " mm"
+msgstr " mm"
+
+# GSA-væsentlig note: Manglende mellemrum indsat
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:138
+msgid " sec"
+msgstr " sekunder"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:142
+msgid "Fired"
+msgstr "Affyret"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:142
+msgid "Not fired"
+msgstr "Ikke affyret"
+
+# GSA-væsentlig-note: Jeg tror, der er tale om blænder eller blænderåbning, som bruges i forbindelse med optagelse af billeder
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:450
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:46
+msgid "Aperture"
+msgstr "Blænder"
+
+# GSA-væsentlig-note: Meningen er næppe "kredit", men der er tale om, hvor billedet el.lign. kommer fra
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:451
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:476
+msgid "Credit"
+msgstr "Kildeangivelse"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:452
+msgid "Camera"
+msgstr "Kamera"
+
+# GSA-væsentlig-note: Her må der være tale om billedtekster
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:453
+msgid "Caption"
+msgstr "Billedtekst"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:455
+msgid "Copyright"
+msgstr "Copyright"
+
+# GSA-væsentlig-note: Igen et kameraudtryk
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:456
+msgid "Focal length"
+msgstr "Brændvidde"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:457
+msgid "ISO"
+msgstr "ISO"
+
+# GSA-væsentlig-note: Igen et kameraudtryk
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:458
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:54
+msgid "Shutter speed"
+msgstr "Lukkerhastighed"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:462
+msgid "Subject"
+msgstr "Emne"
+
+# Jeg tror, der her må være tale om kameraangivelse
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:463
+msgid "Make"
+msgstr "Fabrikat"
+
+# GSA-note: Rettede til lille
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:464
+msgid "Edit Status"
+msgstr "Redigér status"
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:465
+msgid "Category"
+msgstr "Kategori"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:466
+msgid "Keywords"
+msgstr "Nøgleord"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:467
+msgid "Date Created"
+msgstr "Oprettetsesdato"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:468
+msgid "Time Created"
+msgstr "Oprettelsestid"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:469
+msgid "Author Position"
+msgstr "Forfatterposition"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:470
+msgid "City"
+msgstr "By"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:471
+msgid "Location"
+msgstr "Sted"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:472
+msgid "Province/State"
+msgstr "Provins/Stat"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:473
+msgid "Country code"
+msgstr "Landekode"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:474
+msgid "Country"
+msgstr "Land"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:475
+msgid "Headline"
+msgstr "Overskift"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:477
+msgid "Source"
+msgstr "Kilde"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:478
+msgid "Copyright Notice"
+msgstr "Copyright-noter"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:479
+msgid "Contact"
+msgstr "Kontakt"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:480
+msgid "Last modified"
+msgstr "Senest ændret"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:481
+msgid "Program tool"
+msgstr "Programværktøj"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:482
+msgid "Format"
+msgstr "Format"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:483
+msgid "Image Width"
+msgstr "Billedbredde"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:484
+msgid "Image Height"
+msgstr "Billedhøjde"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/meta.php:485
+msgid "Flash"
+msgstr "Blitz"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/multisite.php:23
+msgid ""
+"Sorry, you have used your space allocation. Please delete some files to "
+"upload more files."
+msgstr ""
+"Beklager, men du har opbrugt din pladskvota. Slet nogle filer for at uploade "
+"flere filer."
+
+# GSA-note: Rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/lib/ngg-db.php:332
+#: d:\wordpress\plugins\nextgen-gallery/lib/ngg-db.php:333
+msgid "Album overview"
+msgstr "Oversigt over album"
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/lib/post-thumbnail.php:179
+#: d:\wordpress\plugins\nextgen-gallery/lib/post-thumbnail.php:180
+msgid "Set featured image"
+msgstr "Indstil <span title=\"featured image\">fremhævet billede</span>"
+
+# GSA-note: Jf. tidligere foreslår jeg ordet 'relevans'
+#: d:\wordpress\plugins\nextgen-gallery/lib/post-thumbnail.php:207
+msgid "Remove featured image"
+msgstr "Fjern <span title=\"featured image\">fremhævet billede</span>"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[Billeder er ikke fundet]"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Der er ikke angivet et nyt tag"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Der er ikke angivet et gyldigt nyt/gammelt tag!"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Tagget blev ikke omdøbt."
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Omdøbte tag(s)  &laquo;%1$s&raquo; til &laquo;%2$s&raquo;"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Der er ikke angivet et gyldigt nyt tag."
+
+# GSA-note: Rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr ""
+"Der blev ikke fundet nogen indlæg eller sider, som var tilknyttet de angivne "
+"eksisterende tags."
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:141
+msgid "No tag merged."
+msgstr "Der blev ikke flettet nogen tags."
+
+# GSA-note: Objekter?
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:143
+#, php-format
+msgid ""
+"Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr ""
+"Flet tag(s) &laquo;%1$s&raquo; til &laquo;%2$s&raquo;. %3$s objekter blev "
+"redigeret."
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr ""
+"Fejl. Der blev ikke valgt nok tags til omdøbning/fletning. Vælg nogle flere!"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Der er ikke angivet noget tag!"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Ingen tags blev slettet"
+
+# GSA-væsentlig-note: __ngettext:1,2 ønskes!
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s tag(s) slettet."
+
+# GSA-note: Indsatte parentes
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Ingen nye kortnavne (slugs) er angivet! "
+
+# GSA-væsentlig-note: Indsatte to bindestreger
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Tag-numre og kortnavn-numre er ikke de samme!"
+
+# GSA-note
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:241
+msgid "No slug edited."
+msgstr "Ingen kortnavne (slugs) blev ændret."
+
+# GSA-væsentlig-note: __ngettext:1,2 ønskes!
+#: d:\wordpress\plugins\nextgen-gallery/lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s kortnavn(e) redigeret."
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:90
+#, php-format
+msgid ""
+"XML-RPC services are disabled on this blog.  An admin user can enable them "
+"at %s"
+msgstr ""
+"XML-RPC-tjenesterne er deaktiveret på denne blog. En admin kan aktivere dem "
+"på %s"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:97
+msgid "Bad login/pass combination."
+msgstr "Forkert login/kodeord-kombination."
+
+# GSA-note: Der stod: "Du har ikke rettigheder til at være her". Sjovt, hvordan man kan få en sådan fejlmelding. Meningen er som i den tyske udgave
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:153
+msgid "You are not allowed to upload files to this site."
+msgstr "Du har ikke lov til at uploade filer til denne site."
+
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:159
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:774
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:826
+msgid "Could not find gallery "
+msgstr "Kunne ikke finde galleriet "
+
+# GSA-note: Der stod: "Du har ikke rettigheder til at være her". Sjovt, hvordan man kan få en sådan fejlmelding. Meningen er som i den tyske udgave
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:164
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:779
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:831
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Du har ikke lov til at uploade filer til dette galleri."
+
+# GSA-note: Sammenførte to sidste ord
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:176
+msgid "This is no valid image file."
+msgstr "Denne fil er ikke en gyldig billedfil!"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:188
+msgid "Could not find image id "
+msgstr "Kunne ikke finde billedid "
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:195
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Mislykkedes med at slette billedet %1$s "
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:204
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Kunne ikke skrive filen %1$s (%2$s)"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:271
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:323
+msgid "Invalid image ID"
+msgstr "Ugyldigt id på billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:274
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:326
+msgid "Sorry, you must be able to edit this image"
+msgstr "Beklager. Du skal have rettigheder til at redigere dette billede"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:332
+msgid "Sorry, could not update the image"
+msgstr "Beklager. Kunne ikke opdatere billedet"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:368
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:600
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:701
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:736
+msgid "Sorry, you must be able to manage galleries"
+msgstr ""
+"Beklager. Du skal have rettigheder til at kunne håndtere gallerier for at "
+"kunne gøre dette"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:374
+msgid "Sorry, could not create the gallery"
+msgstr "Beklager. Kunne ikke oprette galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:417
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:597
+msgid "Invalid gallery ID"
+msgstr "Ugyldigt id på galleri"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:420
+msgid "Sorry, you must be able to manage this gallery"
+msgstr ""
+"Beklager. Du skal have rettigheder til at håndtere gallerier for at kunne "
+"gøre dette"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:426
+msgid "Sorry, could not update the gallery"
+msgstr "Beklager. Kunne ikke opdatere galleriet"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:466
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:518
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:560
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:633
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:668
+msgid "Sorry, you must be able to manage albums"
+msgstr ""
+"Beklager. Du skal have rettigheder til at håndtere album for at kunne gøre "
+"dette"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:472
+msgid "Sorry, could not create the album"
+msgstr "Beklager. Kunne ikke oprette album"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:515
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:557
+msgid "Invalid album ID"
+msgstr "Ugyldigt id på album"
+
+#: d:\wordpress\plugins\nextgen-gallery/lib/xmlrpc.php:524
+msgid "Sorry, could not update the album"
+msgstr "Beklager. Kunne ikke opdatere albummet"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/album-compact.php:32
+#: d:\wordpress\plugins\nextgen-gallery/view/album-extend.php:30
+msgid "Photos"
+msgstr "Billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/gallery-caption.php:32
+#: d:\wordpress\plugins\nextgen-gallery/view/gallery.php:32
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Vis med PicLens]"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-caption.php:26
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:30
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser.php:26
+msgid "Back"
+msgstr "Tilbage"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-caption.php:29
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:33
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser.php:29
+msgid "Next"
+msgstr "Næste"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-caption.php:31
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:35
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser.php:31
+msgid "of"
+msgstr "af"
+
+# GSA-note: Ordsammenføring
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metadata"
+
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Kamera/Type"
+
+# GSA-væsentlig-note: Erstattede med det korrekte ord
+#: d:\wordpress\plugins\nextgen-gallery/view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Brændvidde"
+
+# GSA-note: Bindestreg indsat
+# Gallery oversat
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget, der viser Media RSS-links fra NextGEN Galleri."
+
+# GSA-note: Bindestreg indsat
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN-Media RSS"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Media RSS"
+
+# GSA-væsentlig-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Link til hoved-billedfeed'et"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:79
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:201
+msgid "Title :"
+msgstr "Titel:"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Vis Media-RSS-ikon"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Vis Media RSS-link"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Tekst til Media RSS-link:"
+
+# GSA-note: Rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Tooltip-tekst til Media RSS-link:"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Vis et NextGEN Galleri-diasshow"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN-diasshow"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:64
+msgid ""
+"<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash "
+"Player</a> to see the slideshow."
+msgstr ""
+"Du skal <a href=\"http://www.macromedia.com/go/getflashplayer\">hente Flash "
+"Player</a> for at kunne se diasshowet."
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:121
+msgid "Title:"
+msgstr "Titel:"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Vælg et galleri:"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:125
+msgid "All images"
+msgstr "Alle billeder"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:137
+msgid "Height:"
+msgstr "Højde:"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:138
+msgid "Width:"
+msgstr "Bredde:"
+
+# GSA-note: 'tilfældig' er det normale udtryk
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Tilføj nyeste eller tilfældigt-valgte billeder fra gallerierne."
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN-widget"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:207
+msgid "Show :"
+msgstr "Vis:"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:213
+msgid "Original images"
+msgstr "Originale billeder"
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:222
+msgid "recent added "
+msgstr "Tilføjet fornylig"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Aktivér IE8 Web Slices"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Bredde x højde"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:239
+msgid "Select :"
+msgstr "Vælg : "
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Alle gallerier"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Kun dem, som ikke er listet"
+
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Kun dem, som er listet"
+
+# GSA-note: Jf. tidligere
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "Galleri-id:"
+
+# GSA-note: Jf. tidligere
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "Galleri-id'er, adskilt af komma."
+
+#: d:\wordpress\plugins\nextgen-gallery/xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Der er ikke oprettet nogle gallerier endnu."
+
+# GSA-væsentlig-note: Rettet
+# GSA-rettet-20-02-2009
+#: d:\wordpress\plugins\nextgen-gallery/xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Galleri-id=%s eksisterer ikke."
+
+# GSA-væsentlig-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Der er ikke angivet et album-id som parameter"
+
+# GSA-væsentlig-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Album-id=%s eksisterer ikke."
+
+# GSA-note: Rettet
+#: d:\wordpress\plugins\nextgen-gallery/xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Ugyldig Media RSS-kommando"
+
+#~ msgid "Donate"
+#~ msgstr "Donér"
+
+#~ msgid ""
+#~ "This plugin is primarily developed, maintained, supported, documented by"
+#~ msgstr ""
+#~ "Dette plugin bliver primært udviklet, vedligeholdt, supportet og "
+#~ "dokumenteret af"
+
+#~ msgid ""
+#~ "There are many other folks who have made contributions to this project :"
+#~ msgstr "Der er mange andre, der har bidraget til dette projekt:"

@@ -1,0 +1,3605 @@
+# Translation of NextGEN Gallery in Swedish
+# This file is distributed under the same license as the NextGEN Gallery package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2011-11-28 17:46+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: NextGEN Gallery\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Mattias Tengblad <mst@eyesx.com>\n"
+"Language-Team: WordPress Sverige / Mattias Tengblad <info@wp-support.se>\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../admin/admin.php:238
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "&#8221;%s&#8221; kunde inte laddas upp pga av fel"
+
+#: ../admin/admin.php:237
+msgid "moved to the trash."
+msgstr "flyttad till papperskorgen."
+
+#: ../admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "Behandlar&hellip;"
+
+#: ../admin/admin.php:235
+msgid "Dismiss"
+msgstr "Avvisa"
+
+#: ../admin/admin.php:234
+msgid "Upload stopped."
+msgstr "Uppladdning stoppades."
+
+#: ../admin/admin.php:233
+msgid "File canceled."
+msgstr "Uppladdning avbruten."
+
+#: ../admin/admin.php:232
+msgid "Security error."
+msgstr "Säkerhetsfel."
+
+#: ../admin/admin.php:231
+msgid "IO error."
+msgstr "IO-fel."
+
+#: ../admin/admin.php:230
+msgid "Upload failed."
+msgstr "Uppladdningen misslyckades."
+
+#: ../admin/admin.php:229
+msgid "HTTP error."
+msgstr "HTTP-fel."
+
+#: ../admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "Du kan bara ladda upp 1 fil."
+
+#: ../admin/admin.php:227
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Ett konfigurationsfel upptäcktes. Kontakta serveradministratören."
+
+#: ../admin/pointer.php:22
+msgid "<h3>Client side resize</h3><p>You can now resize the images before you start with the upload.</p>"
+msgstr "<h3>Omskalning på klientsidan</h3><p>Du kan nu ändra storlek på bilderna innan du börjar med uppladdning.</p>"
+
+#: ../admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Ett fel uppstod vid uppladdningen. Var vänlig försök igen senare."
+
+#: ../admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Denna är större än den maximala storleken. Prova med en annan."
+
+#: ../admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Minnet överskreds. Prova med en mindre fil."
+
+#: ../admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "Den här filen är inte en bild. Prova med en annan fil."
+
+#: ../admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "Den här filtypen är inte tillåten. Prova med en annan."
+
+#: ../admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "Den här filen är tom. Prova med en annan."
+
+#: ../admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Denna fil överstiger den maximala filstorlek för den här webbplatsen."
+
+#: ../nggallery.php:101
+msgid "<strong>This translation is not yet updated for Version 1.9.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Om denna översättning ännu inte har uppdaterats till version 1.9.0</strong>. Om du vill hjälpa till med översättning, ladda ner den aktuella po-filen från plugin-mappen och läs <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">här</a> om hur du kan översätta tillägg."
+
+#: ../admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "Du har försökt att köa för många filer."
+
+#: ../admin/addgallery.php:495
+msgid "Choose files to upload"
+msgstr "Välj filer att ladda upp"
+
+#: ../admin/addgallery.php:496
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: ../admin/addgallery.php:501
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "Skala bilder till maximal bredd %1$dpx eller maximal höjd %2$dpx"
+
+#: ../admin/addgallery.php:498
+msgid "Or you can drop the files into this window."
+msgstr "Eller så kan du släppa filer i det här fönstret."
+
+#: ../admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "Rotera bilder moturs"
+
+#: ../admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "Kopiera till..."
+
+#: ../admin/manage-images.php:350
+msgid "Move to..."
+msgstr "Flytta till..."
+
+#: ../admin/manage-images.php:351
+msgid "Add tags"
+msgstr "Lägg till etiketter"
+
+#: ../admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "Skriv över etiketter"
+
+#: ../admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "Sortera galleri"
+
+#: ../admin/manage-images.php:434
+msgid "pixel"
+msgstr "pixel"
+
+#: ../admin/manage-images.php:440
+msgid "View \"%s\""
+msgstr "Visa \"%s\""
+
+#: ../admin/manage-images.php:440
+msgid "View"
+msgstr "Visa"
+
+#: ../admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "Visa meta data"
+
+#: ../admin/manage-images.php:441
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "Anpassa miniatyr"
+
+#: ../admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "Redigera miniatyr"
+
+#: ../admin/manage-images.php:443
+msgid "Rotate"
+msgstr "Rotera"
+
+#: ../admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "Publicera denna bild"
+
+#: ../admin/manage-images.php:445
+msgid "Publish"
+msgstr "Publicera"
+
+#: ../admin/manage-images.php:447
+msgid "Recover"
+msgstr "Återställ"
+
+#: ../admin/manage-images.php:447
+msgid "Recover \"%s\" ?"
+msgstr "Återställa \"%s\" ?"
+
+#: ../admin/manage-images.php:448
+msgid "Delete \"%s\" ?"
+msgstr "Radera \"%s\" ?"
+
+#: ../admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "Ange etiketterna"
+
+#: ../admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "Välj destinations-galleri:"
+
+#: ../admin/manage-images.php:695
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: ../admin/manage-images.php:696
+#: ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Filnamn"
+
+#: ../admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Titeltext"
+
+#: ../admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "Etiketter (kommaseparerad lista)"
+
+#: ../admin/manage-images.php:699
+msgid "exclude"
+msgstr "Exkludera"
+
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Sorteringsordning ändrad"
+
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Sortera galleri"
+
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Uppdatera sorteringsordning"
+
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Tillbaka till galleriet"
+
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "Omsortera"
+
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Osorterade"
+
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "Bild ID"
+
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "Alt/Titeltext"
+
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "Datum/Tid"
+
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "Stigande"
+
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "Fallande"
+
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "Bild"
+
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "raderad"
+
+#: ../admin/manage.php:99
+#: ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Utfört. Var vänlig uppdatera webbläsarens cache."
+
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "Galleri raderat"
+
+#: ../admin/manage.php:240
+#: ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "Rotera bilder"
+
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "Bilderna har raderats"
+
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "Etiketter ändrade"
+
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "Uppdaterad"
+
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "Nytt galleri sid-ID"
+
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "skapad"
+
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "Publicera ett nytt inlägg"
+
+#: ../admin/manage.php:582
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 objekt"
+msgstr[1] "%s objekt"
+
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Galleri saknas"
+
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Välj &#187;"
+
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "Visa"
+
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "Göm"
+
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "Bild ID:"
+
+#: ../admin/media-upload.php:229
+#: ../admin/publish.php:55
+msgid "Alignment"
+msgstr "Justering"
+
+#: ../admin/media-upload.php:232
+#: ../admin/publish.php:57
+#: ../admin/settings.php:480
+msgid "None"
+msgstr "Ingen"
+
+#: ../admin/media-upload.php:234
+#: ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "Vänster"
+
+#: ../admin/media-upload.php:236
+#: ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "Centrera"
+
+#: ../admin/media-upload.php:238
+#: ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "Höger"
+
+#: ../admin/media-upload.php:242
+#: ../admin/settings.php:587
+msgid "Size"
+msgstr "Storlek"
+
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "Full storlek"
+
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Enstaka bild"
+
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Infoga i inlägg"
+
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Spara alla ändringar"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Gallery översikt"
+
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Välkommen till NextGEN Gallery !"
+
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "Gillar du det här tillägget?"
+
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "Översättning"
+
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "Senaste nytt (på engelska)"
+
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "Senaste donatorer"
+
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "Tilläggskontroll"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "Serverinställningar"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "Relaterande tillägg"
+
+#: ../admin/overview.php:101
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Det här tillägget utvecklas, underhålls och dokumenteras huvudsakligen av <a href=\"%s\">Alex Rabe</a> med mycket kärlek och jobb. Alla typer av bidrag är mycket uppskattade. Tack!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Ge det ett positivt omdöme på WordPress.org"
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Donera via PayPal."
+
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "Hjälp till med att översätta det."
+
+#: ../admin/overview.php:252
+msgid "Running..."
+msgstr "Körs..."
+
+#: ../admin/overview.php:299
+msgid "Check plugin/theme conflict"
+msgstr "Kontrollera tilläggs/tema-konflikter"
+
+#: ../admin/overview.php:300
+#: ../admin/overview.php:306
+#: ../admin/overview.php:312
+msgid "Not tested"
+msgstr "Ej testat"
+
+#: ../admin/overview.php:301
+msgid "No conflict could be detected"
+msgstr "Inga konflikter upptäckta"
+
+#: ../admin/overview.php:302
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Testet misslyckades, inaktivera andra tillägg och byt till originaltemat"
+
+#: ../admin/overview.php:305
+msgid "Test image function"
+msgstr "Testa bildfunktionalitet"
+
+#: ../admin/overview.php:307
+msgid "The plugin could create images"
+msgstr "Tillägget kunde inte skapa bilder"
+
+#: ../admin/overview.php:308
+msgid "Couldn't create image, check your memory limit"
+msgstr "Kunde inte skapa bild, kontrollera din minnesgräns"
+
+#: ../admin/overview.php:311
+msgid "Check theme compatibility"
+msgstr "Kontrollera kompabilitet med tema"
+
+#: ../admin/overview.php:313
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "Ditt tema bör fungera felfritt med NextGEN Gallery"
+
+#: ../admin/overview.php:314
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() saknas, kantakta temaskaparen"
+
+#: ../admin/overview.php:318
+msgid "Check plugin"
+msgstr "Kontrollera tillägg"
+
+#: ../admin/overview.php:339
+msgid "Graphic Library"
+msgstr "Grafiska bibliotek"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "Loading&#8230;"
+msgstr "Laddar&#8230;"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "This widget requires JavaScript."
+msgstr "Denna widget kräver JavaScript."
+
+#: ../admin/overview.php:368
+msgid "Thanks to all donators..."
+msgstr "Tack till alla donatorer..."
+
+#: ../admin/overview.php:390
+msgid "View all"
+msgstr "Visa alla"
+
+#: ../admin/overview.php:416
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Nyhetsflödet kunde inte laddas.  Kontrollera <a href=\"%s\">förstasidan</a> för nyheter och uppdateringar."
+
+#: ../admin/overview.php:428
+msgid "Untitled"
+msgstr "Utan titel"
+
+#: ../admin/overview.php:478
+msgid "At a Glance"
+msgstr "Just nu"
+
+#: ../admin/overview.php:504
+msgid "Upload pictures"
+msgstr "Ladda upp bilder"
+
+#: ../admin/overview.php:505
+msgid "Here you can control your images, galleries and albums."
+msgstr "Här kan du kontrollera dina bilder, gallerier och album."
+
+#: ../admin/overview.php:535
+msgid "Storage Space"
+msgstr "Utrymme"
+
+#: ../admin/overview.php:539
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Hantera uppladdningar\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:540
+msgid "Space Allowed"
+msgstr "Utrymme tillåtet"
+
+#: ../admin/overview.php:547
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Hantera uppladdningar\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:548
+msgid "Space Used"
+msgstr "Utrymme använt"
+
+#: ../admin/overview.php:577
+msgid "Translation file successful updated. Please reload page."
+msgstr "Översättningsfilen har uppdaterats. Var vänlig ladda om sidan."
+
+#: ../admin/overview.php:579
+msgid "Reload page"
+msgstr "Ladda om sida"
+
+#: ../admin/overview.php:584
+msgid "Translation file couldn't be updated"
+msgstr "Översättningsfilen kunde inte uppdateras"
+
+#: ../admin/overview.php:621
+msgid "Download"
+msgstr "Ladda ner"
+
+#: ../admin/overview.php:650
+msgid "No GD support"
+msgstr "GD support saknas"
+
+#: ../admin/overview.php:662
+#: ../admin/overview.php:708
+#: ../admin/overview.php:711
+#: ../admin/overview.php:714
+msgid "Yes"
+msgstr "Ja"
+
+#: ../admin/overview.php:664
+#: ../admin/overview.php:709
+#: ../admin/overview.php:712
+#: ../admin/overview.php:715
+msgid "No"
+msgstr "Nej"
+
+#: ../admin/overview.php:682
+msgid "Not set"
+msgstr "Ej satt"
+
+#: ../admin/overview.php:684
+#: ../admin/overview.php:687
+msgid "On"
+msgstr "På"
+
+#: ../admin/overview.php:685
+#: ../admin/overview.php:688
+msgid "Off"
+msgstr "Av"
+
+#: ../admin/overview.php:691
+#: ../admin/overview.php:694
+#: ../admin/overview.php:697
+#: ../admin/overview.php:700
+#: ../admin/overview.php:703
+#: ../admin/overview.php:706
+msgid "N/A"
+msgstr "Ej tillgänglig"
+
+#: ../admin/overview.php:705
+msgid " MByte"
+msgstr " Mbyte"
+
+#: ../admin/overview.php:718
+msgid "Operating System"
+msgstr "Operativsystem"
+
+#: ../admin/overview.php:719
+msgid "Server"
+msgstr "Server"
+
+#: ../admin/overview.php:720
+msgid "Memory usage"
+msgstr "Minnesanvändning"
+
+#: ../admin/overview.php:721
+msgid "MYSQL Version"
+msgstr "MySQL Version"
+
+#: ../admin/overview.php:722
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#: ../admin/overview.php:723
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: ../admin/overview.php:724
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: ../admin/overview.php:725
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: ../admin/overview.php:726
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: ../admin/overview.php:727
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: ../admin/overview.php:728
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: ../admin/overview.php:729
+msgid "PCRE Backtracking Limit"
+msgstr "Gräns för PCRE Backtracking"
+
+#: ../admin/overview.php:730
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#: ../admin/overview.php:731
+msgid "PHP Exif support"
+msgstr "PHP Exif stöd"
+
+#: ../admin/overview.php:732
+msgid "PHP IPTC support"
+msgstr "PHP IPTC stöd"
+
+#: ../admin/overview.php:733
+msgid "PHP XML support"
+msgstr "PHP XML stöd"
+
+#: ../admin/overview.php:745
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGEN Gallery innehåller vissa funktioner som endast är tillgängliga i PHP 5.2. Du använder den gamla versionen PHP 4, uppgradera nu! Den versionen ges inte support för längre av PHP Group. Många webbhotell erbjuder att köra både PHP 4 och PHP 5 samtidigt. Fråga ditt webbhotell om de kan göra detta."
+
+#: ../admin/overview.php:841
+msgid "Install"
+msgstr "Installera"
+
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "Inläggsrubrik"
+
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "Ange inläggsrubrik"
+
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "Storlek på bilden"
+
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "Utkast"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Rättigheter uppdaterade"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Roller / Rättigheter"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Välj den lägsta roll som ska ha behörighet till följande funktioner. NextGEN Gallery stödjer standardrollerna för WordPress."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "För mer flexibel användarhantering så kan du använda "
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "Överikt för NextGEN Gallery"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Använd TinyMCE Knapp / Uppladdningstab"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Skapa galleri / Ladda upp bilder"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Hantera galleri"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Hantera andras galleri"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "Hantera etiketter"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "Ändra stil"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "Ändra inställningar"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Uppdatera rättigheter"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Bilden roterad"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Fel vid rotering av miniatyr"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90 grader medurs"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90 grader moturs"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Vänd vertikalt"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Vänd horisontalt"
+
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "Cachen rensad"
+
+#: ../admin/settings.php:217
+#: ../admin/settings.php:236
+msgid "General Options"
+msgstr "Allmänna inställningar"
+
+#: ../admin/settings.php:218
+#: ../admin/settings.php:417
+msgid "Thumbnails"
+msgstr "Miniatyrer"
+
+#: ../admin/settings.php:219
+msgid "Images"
+msgstr "Bilder"
+
+#: ../admin/settings.php:221
+#: ../admin/settings.php:469
+msgid "Effects"
+msgstr "Effekter"
+
+#: ../admin/settings.php:222
+#: ../admin/settings.php:511
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "Vattenmärke"
+
+#: ../admin/settings.php:223
+#: ../admin/settings.php:418
+#: ../admin/settings.php:618
+#: ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#: ../admin/settings.php:242
+#: ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "Sökväg till galleriet"
+
+#: ../admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "Detta är standardsökvägen för alla gallerier"
+
+#: ../admin/settings.php:247
+msgid "Delete image files"
+msgstr "Radera bildfiler"
+
+#: ../admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Radera bilder när du tar bort ett galleri i databasen"
+
+#: ../admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "Aktivera permalänkar"
+
+#: ../admin/settings.php:254
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "När du aktiverar denna funktion så måste du uppdatera din permalänksstruktur en gång."
+
+#: ../admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "Namn för galleripermalänk:"
+
+#: ../admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr "Skapa nya URL-vänliga bildlänkar"
+
+#: ../admin/settings.php:260
+#: ../admin/settings.php:371
+msgid "Proceed now"
+msgstr "Utför nu"
+
+#: ../admin/settings.php:263
+msgid "Select graphic library"
+msgstr "Välj grafiskt bibliotek"
+
+#: ../admin/settings.php:264
+msgid "GD Library"
+msgstr "GD Library"
+
+#: ../admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Experimentelt). Sökväg till bibliotek :"
+
+#: ../admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "Aktivera Media RSS-flöde"
+
+#: ../admin/settings.php:272
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "Ett RSS-flöde kommer att läggas till i din bloggs header. Användbart för CoolIris/PicLens"
+
+#: ../admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktivera PicLens/CoolIris stöd"
+
+#: ../admin/settings.php:277
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "När du aktiverar denna funktion så kommer viss javascript att läggas till för din sidas sidfot. Försäkra dig om att wp_footer är angivet i ditt tema."
+
+#: ../admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "Etiketter / Kategorier"
+
+#: ../admin/settings.php:283
+msgid "Activate related images"
+msgstr "Aktivera relaterade bilder"
+
+#: ../admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "Detta val kommer att infoga alla relaterade bilder till varje post"
+
+#: ../admin/settings.php:289
+msgid "Match with"
+msgstr "Matcha med"
+
+#: ../admin/settings.php:290
+msgid "Categories"
+msgstr "Kategorier"
+
+#: ../admin/settings.php:295
+msgid "Max. number of images"
+msgstr "Max antal bilder"
+
+#: ../admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0 visar alla bilder"
+
+#: ../admin/settings.php:301
+#: ../admin/settings.php:332
+#: ../admin/settings.php:374
+#: ../admin/settings.php:459
+#: ../admin/settings.php:494
+#: ../admin/settings.php:755
+msgid "More settings"
+msgstr "Fler inställningar"
+
+#: ../admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "Miniatyrinställningar"
+
+#: ../admin/settings.php:315
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Notera: Om du ändrar dessa inställningar måste du återskapa miniatyrer under -> Hantera galleri."
+
+#: ../admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "Miniatyrkvalitet"
+
+#: ../admin/settings.php:342
+msgid "Image settings"
+msgstr "Bildinställningar"
+
+#: ../admin/settings.php:348
+msgid "Resize Images"
+msgstr "Ändra bildstorlek"
+
+#: ../admin/settings.php:353
+msgid "Image quality"
+msgstr "Bildkvalitet"
+
+#: ../admin/settings.php:357
+msgid "Backup original images"
+msgstr "Skapa backup av originalbilder"
+
+#: ../admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "Skapar en backup av infogade bilder"
+
+#: ../admin/settings.php:362
+msgid "Automatically resize"
+msgstr "Ändra storleken automatiskt"
+
+#: ../admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "Ändra automatiskt storleken på bilder vid uppladdaning."
+
+#: ../admin/settings.php:367
+msgid "Single picture"
+msgstr "Enstaka bild"
+
+#: ../admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "Rensa cachemapp"
+
+#: ../admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "Deaktivera galleri-sidlänkning"
+
+#: ../admin/settings.php:393
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Albumet kan inte länkas till en undersida i galleriet. Galleriet visas på samma sida."
+
+#: ../admin/settings.php:397
+msgid "Number of images per page"
+msgstr "Antal bilder per sida"
+
+#: ../admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 inaktiverar siduppdelning, alla bilder på en sida"
+
+#: ../admin/settings.php:403
+msgid "Number of columns"
+msgstr "Antalet kolumner"
+
+#: ../admin/settings.php:405
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 (noll) visar så mycket som möjligt baserat på bredden av ditt tema. Inställningar behövs oftast endast när bildbeskrivningar under bilden används"
+
+#: ../admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "Integrera bildspel"
+
+#: ../admin/settings.php:416
+msgid "Show first"
+msgstr "Visa först"
+
+#: ../admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "Visa bildvisare"
+
+#: ../admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galleriet kommer att öppna bildvisaren istället för att använda effekten."
+
+#: ../admin/settings.php:428
+msgid "Add hidden images"
+msgstr "Lägg till gömda bilder"
+
+#: ../admin/settings.php:430
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "Om sidnavigering används så kommer denna inställning fortfarande att visa alla bilder i effektläge (Thickbox, Lightbox etc.). Notera: Detta ökar sidans laddtid"
+
+#: ../admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "Aktivera AJAX-baserad sidnavigation"
+
+#: ../admin/settings.php:436
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "Bläddra bland bilder utan att ladda om sidan. Notera: Fungerar endast i kombination med Shutter vald som effekt"
+
+#: ../admin/settings.php:440
+msgid "Sort options"
+msgstr "Sorteringsval"
+
+#: ../admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "Sortera miniatyrer"
+
+#: ../admin/settings.php:445
+msgid "Custom order"
+msgstr "Anpassad ordning"
+
+#: ../admin/settings.php:447
+msgid "File name"
+msgstr "Filnamn"
+
+#: ../admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "Alt / Titeltext"
+
+#: ../admin/settings.php:449
+msgid "Date / Time"
+msgstr "Datum / Tid"
+
+#: ../admin/settings.php:453
+msgid "Sort direction"
+msgstr "Sorteringsriktning"
+
+#: ../admin/settings.php:473
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Här kan du välja miniatyreffekt, NextGEN Gallery integrerar den nödvändiga HTML-koden med bilden. Notera att bara Shutter- och Thickbox-effekten automatiskt läggs till i din mall."
+
+#: ../admin/settings.php:474
+msgid "With the placeholder"
+msgstr "Med schablon"
+
+#: ../admin/settings.php:474
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "Du kan aktivera en navigering mellan bilder (beror på effekten). Ändra bara kodraden, när du använder en annan miniatyr-effekt eller vet vad du gör."
+
+#: ../admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript miniatyreffekt"
+
+#: ../admin/settings.php:481
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:482
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:484
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:485
+msgid "Custom"
+msgstr "Anpassad"
+
+#: ../admin/settings.php:490
+msgid "Link Code line"
+msgstr "Länkkodsrad"
+
+#: ../admin/settings.php:512
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Notera : Du kan endast aktivera vattenmärke under -> Hantera Galleri. Denna handling kan inte återställas."
+
+#: ../admin/settings.php:517
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: ../admin/settings.php:519
+#: ../admin/settings.php:524
+msgid "Position"
+msgstr "Position"
+
+#: ../admin/settings.php:544
+msgid "Offset"
+msgstr "Marginaler"
+
+#: ../admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "Använd bild som vattenstämpel"
+
+#: ../admin/settings.php:563
+msgid "URL to file"
+msgstr "URL till fil"
+
+#: ../admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Åtkomsten av URL-filer är deaktiverad på din server (allow_url_fopen)"
+
+#: ../admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "Använd text som vattenstämpel"
+
+#: ../admin/settings.php:571
+msgid "Font"
+msgstr "Typsnitt"
+
+#: ../admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Denna funktion kommer inte att fungera eftersom du behöver FreeType biblioteket"
+
+#: ../admin/settings.php:582
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Du kan ladda upp fler typsnitt till mappen <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:591
+msgid "Color"
+msgstr "Färg"
+
+#: ../admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr "(hex utan #)"
+
+#: ../admin/settings.php:596
+msgid "Text"
+msgstr "Text"
+
+#: ../admin/settings.php:600
+msgid "Opaque"
+msgstr "Ogenomskinlig"
+
+#: ../admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "Standardstorlek (B x H)"
+
+#: ../admin/settings.php:626
+msgid "Duration time"
+msgstr "Tidsram"
+
+#: ../admin/settings.php:627
+msgid "sec."
+msgstr "sek"
+
+#: ../admin/settings.php:630
+#: ../admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "Övergång / Toningseffekt"
+
+#: ../admin/settings.php:633
+#: ../admin/settings.php:708
+msgid "fade"
+msgstr "tona"
+
+#: ../admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:635
+msgid "cover"
+msgstr "cover"
+
+#: ../admin/settings.php:636
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#: ../admin/settings.php:637
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#: ../admin/settings.php:638
+msgid "shuffle"
+msgstr "shuffle"
+
+#: ../admin/settings.php:639
+msgid "toss"
+msgstr "toss"
+
+#: ../admin/settings.php:640
+msgid "wipe"
+msgstr "wipe"
+
+#: ../admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "Mer information om effekter :"
+
+#: ../admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "Inställningar för JW Image Rotator"
+
+#: ../admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Inställningarna används endast för JW Image Rotator version"
+
+#: ../admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "Se mer information om Flashspelaren på webbplatsen"
+
+#: ../admin/settings.php:653
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Sökvägen till imagerotator.swf är inte definierad, bildspelet kommer inte att funka."
+
+#: ../admin/settings.php:654
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Om du vill använda JW Image Rotatator, vänligen ladda ner spelaren <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >här</a> och ladda upp den till din uppladdningsmapp (Standard är wp-content/uploads)."
+
+#: ../admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "Aktivera flashbaserat bildspel"
+
+#: ../admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integrera det flashbaserade bildspelet för alla enheter med flashstöd"
+
+#: ../admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Sökväg till Imagerotator (URL)"
+
+#: ../admin/settings.php:668
+msgid "Search now"
+msgstr "Sök nu"
+
+#: ../admin/settings.php:669
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Klicka på knappen för att automatiskt söka efter imagerotator, om du har laddat upp den i wp-content/uploads eller undermapp"
+
+#: ../admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "Slumpvist läge"
+
+#: ../admin/settings.php:677
+msgid "Show next image on click"
+msgstr "Visa nästa bild vid musklick"
+
+#: ../admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "Visa navigationsraden"
+
+#: ../admin/settings.php:685
+msgid "Show loading icon"
+msgstr "Visa laddningsikon"
+
+#: ../admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "Använd vattenstämpel"
+
+#: ../admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "Du kan ändra logotyp under inställningarna för vattenstämpel"
+
+#: ../admin/settings.php:694
+msgid "Stretch image"
+msgstr "Sträck ut bild"
+
+#: ../admin/settings.php:697
+msgid "true"
+msgstr "sant"
+
+#: ../admin/settings.php:698
+msgid "false"
+msgstr "falskt"
+
+#: ../admin/settings.php:699
+msgid "fit"
+msgstr "anpassad"
+
+#: ../admin/settings.php:700
+msgid "none"
+msgstr "ingen"
+
+#: ../admin/settings.php:709
+msgid "bgfade"
+msgstr "bgtona"
+
+#: ../admin/settings.php:710
+msgid "slowfade"
+msgstr "långsam toning"
+
+#: ../admin/settings.php:711
+msgid "circles"
+msgstr "cirklar"
+
+#: ../admin/settings.php:712
+msgid "bubbles"
+msgstr "bubblor"
+
+#: ../admin/settings.php:713
+msgid "blocks"
+msgstr "block"
+
+#: ../admin/settings.php:714
+msgid "fluids"
+msgstr "vätskor"
+
+#: ../admin/settings.php:715
+msgid "flash"
+msgstr "flash"
+
+#: ../admin/settings.php:716
+msgid "lines"
+msgstr "linjer"
+
+#: ../admin/settings.php:717
+msgid "random"
+msgstr "slumpvis"
+
+#: ../admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "Använd långsam zoomningseffekt"
+
+#: ../admin/settings.php:726
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: ../admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "Text / Knappfärg"
+
+#: ../admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "Rollover / Aktiv färg"
+
+#: ../admin/settings.php:741
+msgid "Screen Color"
+msgstr "Skärmfärg"
+
+#: ../admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "Bakgrundsmusik (URL)"
+
+#: ../admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Försök validera XHTML (med CDATA)"
+
+#: ../admin/settings.php:752
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Viktigt : Kan orsaka problem i vissa webbläsare. Undersök i din läsare."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Återställ alla inställningar till standardinställningar"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Avinstallerat ! Radera nu tillägget. God fortsättning ! Lycka till !"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Återställ inställningar"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Återställ inställningar till den ursprungliga installationen."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Återställ inställningar"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr "Återställ inställningar till den ursprungliga installationen."
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Avinstallera tilläggstabellerna"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Du gillar inte NextGEN Gallery ?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Inga problem, innan du inaktiverar detta tillägg tryck på Avinstallera tillägg. Inaktivering av NextGEN Gallery tar inte bort någon utav den data som eventuellt skapats."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "VARNING:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Väl avinstallerat så kan inte detta återställas. Du bör ta backup på din databas först. NextGEN Gallery använder tabellerna"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "och"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Avinstallera tillägg"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Du är påväg att avinstallera detta tillägg från WordPress. \\n"
+"Denna åtgärd kan inte göras ogjord. \\n"
+"\\n"
+"Välj [Avbryt] för att stoppa, [OK] för att avinstallera. \\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "Tag"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "Värde"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Ingen metadata sparad"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF Data"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Ingen exif data"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC Data"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP Data"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Från temamappen)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Du har inte tillräckliga rättigheter för att redigera mallar för denna blogg."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS-filen uppdaterad"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "Stilmallsredigerare"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Aktivera och använd stilmall:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Aktivera"
+
+#: ../admin/style.php:123
+msgid "Editing <strong>%s</strong>"
+msgstr "Redigerar <strong>%s</strong>"
+
+#: ../admin/style.php:125
+msgid "Browsing <strong>%s</strong>"
+msgstr "Visar <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Version"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Tips: Kopiera din stilmall (nggallery.css) till din temamapp, på så sätt går inte dina ändringar förlorade vid uppgradering"
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Ditt tema innehåller en NextGEN Gallery stilmall (nggallery.css), denna fil kommer att användas"
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Tips 2: Använd färgväljaren nedan för att hjälpa dig att hitta det rätta färgschemat för ditt galleri!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Uppdatera fil"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Om denna fil var skrivbar skulle du kunna redigera den."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Oops, ingen sådan fil existerar! Dubbelkontrollera namnet och försök igen, tack."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Mest populära"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Senast använda"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Alfabetiskt"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Hantera bild-etiketter"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Existerande etiketter"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "Sök etiketter"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Ok"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Sorteringsordning:"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "Föregoende etiketter"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "Nästa etiketter"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Döp om etikett"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Ange etiketten att döpa om och dess värde. Du kan använda denna funktion för att slå samman etiketter också. Klicka \"Döp om\" och alla poster som använder denna etikett kommer att uppdateras."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Du kan specificera flera etiketter att döpa om genom att separera dem med kommatecken."
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Etikett(er) att döpa om:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Nytt/Nya etikettnamn:"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "Döp om"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Radera etikett"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Ange namnet på etiketten att radera. Denna etikett kommer att raderas från alla poster."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Du kan specificera flera etiketter att rader genom att separera dem med kommatecken"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Etikett(er) att radera:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Redigera permalänk för etiketten"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Ange etikettnamn att redigera och dess nya permalänk. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Permalänksdefinition</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Etikett(er) att matcha:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "Permalänk(ar) att ange:"
+
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Uppdaterar databasstruktur..."
+
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:119
+#: ../admin/upgrade.php:126
+#: ../admin/upgrade.php:137
+#: ../admin/upgrade.php:151
+msgid "finished"
+msgstr "klart"
+
+#: ../admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "Uppdatera filstrukturen &raquo;"
+
+#: ../admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "Importera datum och tids -information..."
+
+#: ../admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "Flytta imagerotator till ny plats..."
+
+#: ../admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "Uppdaterar inställningar..."
+
+#: ../admin/upgrade.php:157
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Uppdaterad widgetsturktur. Om du använde NexGEN widgets så måste du konfigurera dessa igen..."
+
+#: ../admin/upgrade.php:165
+#: ../admin/upgrade.php:187
+msgid "Updated options."
+msgstr "Uppdaterar inställningar."
+
+#: ../admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "Skapa unik permalänk"
+
+#: ../admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "En av den kommande funktionerna är omarbetade permalänksstrukturer."
+
+#: ../admin/upgrade.php:174
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "Därför krävs det en unik identifiering för varje bild, galleri och album."
+
+#: ../admin/upgrade.php:175
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "Beroende på antalet poster i databasen så kan detta ta en liten stund, ladda inte om denna sida."
+
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "Kunde inte hitta NextGEN Gallerys databastabeller, uppgraderingen misslyckades !"
+
+#: ../admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Vissa mappar/filer kunde inte döpas om, var vänlig undersök satta rättigheter och försök att skanna mappen via gallerihanteringssektionen."
+
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Kunde inte döpas om"
+
+#: ../admin/upgrade.php:356
+#: ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Uppgradera NextGEN Gallery"
+
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Tillägget har upptäckt att du uppgraderat från en äldre version."
+
+#: ../admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Dina databastabeller för NextGEN Gallery är föråldrade och behöver uppgraderas innan du kan fortsätta."
+
+#: ../admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Om du vill nergradera senare, var vänlig ta först en fullständig backup av din databas och bilderna."
+
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Uppgraderingsprocessen kan ta en stund, ha tålamod."
+
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Starta uppgradering nu"
+
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Uppgradering klar..."
+
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "Fortsätt"
+
+#: ../admin/upgrade.php:401
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Återskapa bildstruktur : %s / %s bilder"
+
+#: ../admin/upgrade.php:402
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Återskapa galleristruktur : %s / %s gallerier"
+
+#: ../admin/upgrade.php:403
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Återskapa albumstruktur : %s / %s album"
+
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "Klart."
+
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Uppdaterad"
+
+#: ../admin/wpmu.php:45
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Tack för att du använder detta tillägg. NextGEN Gallery är från början skapat för att användas på enskilda bloggar som man själv sköter. Det går att konfigurera med den nya Multisite-funktionen i WordPress, dock inte fullt ut eftersom multisite-installationer kan sättas upp på så många olika sätt (t.ex Domain mapping).<br />Om du vill ge stöd för vidare utveckling, fundera på att <strong><a href=\"%s\">donera</a></strong>! Om du behöver support, posta dina frågor <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">här</a> ."
+
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "Inställningar för Nätverk"
+
+#: ../admin/wpmu.php:70
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Detta är standardsökvägen för alla bloggar. Med platshållaren %BLOG_ID% så kan du organisera mappstrukturen bättre."
+
+#: ../admin/wpmu.php:71
+msgid "The default setting should be %s"
+msgstr "Standardinställningen bör vara %s"
+
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "Aktivera koll av uppladdningskvot"
+
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Bör fungera om galleriet ligger under blogg katalogen"
+
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "Aktivera zip uppladningsinställningar"
+
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "Tillåt användare att ladda upp zip arkiv."
+
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "Aktivera importeringsfunktionen"
+
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "Tillåt användare att importera bildmappar från servern."
+
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "Aktivera stilval"
+
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "Tillåt användare att välja stil för detta galleri."
+
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "Aktivera Roller/Rättigheter"
+
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Tillåt användare att ändra rollerna för andra bloggskribenter"
+
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "Standardstil"
+
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "Välj standardstil för gallerier."
+
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "Välj eller ange galleri"
+
+#: ../admin/tinymce/window.php:61
+#: ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "Visa som"
+
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "Bildlista"
+
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Bildvisare"
+
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "Välj eller ange album"
+
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "Utökad version"
+
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "Kompakt version"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "Välj eller ange bild"
+
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "Bredd x Höjd"
+
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "Effekt"
+
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "Ingen effekt"
+
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Float"
+
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Ingen float"
+
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "Infoga"
+
+#: ../lib/core.php:407
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Notera: Baserat på din servers minnesgräns så bör du inte ladda upp bilder större än <strong>%d x %d</strong> px"
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Ogiltig URL angiven."
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Kunde inte skapa temporär fil."
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr "mm"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " sek"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "Fired"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "Not fired"
+
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "Bländare"
+
+#: ../lib/meta.php:431
+#: ../lib/meta.php:456
+msgid "Credit"
+msgstr "Heder"
+
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "Rubrik"
+
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "Brännvidd"
+
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "Slutartid"
+
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "Subjekt"
+
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "Skapare"
+
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "Redigera status"
+
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "Kategori"
+
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "Nyckelord"
+
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "Datum skapad"
+
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "Tid skapad"
+
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "Författarposition"
+
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "Stad"
+
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "Plats"
+
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "Län/Kommun"
+
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "Landskod"
+
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "Land"
+
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "Rubrik"
+
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "Källa"
+
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "Copyright noteringar / Erkännande"
+
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "Kontakta"
+
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "Senast modifierad"
+
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "Programvertyg"
+
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "Format"
+
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "Bildbredd"
+
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "Bildhöjd"
+
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "Flash"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Ledsen, du har redan använt allt utrymme. Var vänlig radera några filer för att ladda upp fler."
+
+#: ../lib/ngg-db.php:331
+#: ../lib/ngg-db.php:332
+msgid "Album overview"
+msgstr "Albumöversikt"
+
+#: ../lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[Bilder ej funna]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Ingen ny etikett specificerad!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Ingen ny/gammal korrekt etikett specificerad!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Ingen etikett döptes om."
+
+#: ../lib/tags.php:88
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Döpte om etiketten/erna &laquo;%1$s&raquo; till &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Ingen korrekt ny etikett."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Inga objekt (inlägg/sidor) hittade för specificerade gamla etiketter."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Ingen etikett sammanslagen."
+
+#: ../lib/tags.php:143
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Slog samman etiketten/erna &laquo;%1$s&raquo; till &laquo;%2$s&raquo;. %3$s objekt redigerade."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Fel. För få etiketter att döpa om. Också för sammanslagning. Välj !"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Ingen etikett specificerad!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Ingen etikett raderad."
+
+#: ../lib/tags.php:188
+msgid "%1s tag(s) deleted."
+msgstr "%1s etikett(er) raderad(e)."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Inga nya permalänkar specificerade!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Etikettantal och permalänksantal är matchar inte!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Ingen permalänk redigerad."
+
+#: ../lib/tags.php:243
+msgid "%s slug(s) edited."
+msgstr "%s permalänk(ar) redigerad(e)."
+
+#: ../lib/xmlrpc.php:66
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPC tjänsten är inaktiverad i denna installation. En administratör kan aktivera den under %s"
+
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "Fel användarnamn/lösenords-kombination."
+
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "Du saknar rättigheter för att ladda upp bilder på denna sida."
+
+#: ../lib/xmlrpc.php:135
+#: ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "Kunde inte hitta galleri"
+
+#: ../lib/xmlrpc.php:140
+#: ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Du saknar rättigheter för att ladda upp bilder i detta galleri."
+
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "Detta är inte en giltig bildfil!"
+
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "Kunde inte hitta bild-id"
+
+#: ../lib/xmlrpc.php:171
+msgid "Failed to delete image %1$s "
+msgstr "Kunde inte radera bild %1$s"
+
+#: ../lib/xmlrpc.php:180
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Kunde inte skriva fil %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:247
+#: ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "Ogiltigt galleri-ID"
+
+#: ../lib/xmlrpc.php:250
+#: ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "Beklagar, du måste ha behörighet att redigera denna bild"
+
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "Beklagar, kunde inte uppdatera bilden"
+
+#: ../lib/xmlrpc.php:344
+#: ../lib/xmlrpc.php:576
+#: ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Beklagar, du måste ha behörighet att hantera gallerier"
+
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "Beklagar, kunde inte skapa galleriet"
+
+#: ../lib/xmlrpc.php:393
+#: ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "Ogiltigt galleri-ID"
+
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "Beklagar, du måste ha behörighet att hantera detta galleri"
+
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "Beklagar, kunde inte uppdatera galleriet"
+
+#: ../lib/xmlrpc.php:442
+#: ../lib/xmlrpc.php:494
+#: ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "Beklagar, du måste ha behörighet att hantera album"
+
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "Beklagar, kunde inte skapa album"
+
+#: ../lib/xmlrpc.php:491
+#: ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "Ogiltigt album-ID"
+
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "Beklagar, kunde inte uppdatera album"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "Bilder"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Visa med PicLens]"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Tillbaka"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Nästa"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "av"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Meta data"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Kamera / Typ"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Brännvidd"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget som visar Media RSS länkar för NextGEN Gallery."
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Länk till huvudflöder för bilder"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "Titel:"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Visa Media RSS ikon"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Visa länken för Media RSS"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Text för Media RSS länken:"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Alt-text för Media RSS länken:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Visa ett NextGEN Gallery bildspel"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN Bildspel"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Hämta Flash Player</a> för att se bildspelet."
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Välj Galleri:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Alla bilder"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Höjd:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Bredd:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Lägg till senaste eller slumpvalda bilder från gallerierna"
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN Widget"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "Visa :"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "Originalbilder"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "senast tillaggda"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Aktivera IE8 Web Slices"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Bredd x Höjd :"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "Välj :"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Alla gallerier"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Endast de som inte är listade"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Endast de som är listade"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "Galleri ID :"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "Galleri IDs, separerade med komma."
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Inga gallerier har skapats än."
+
+#: ../xml/media-rss.php:69
+msgid "The gallery ID=%s does not exist."
+msgstr "Galleri ID=%s existerar inte."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Inget album har angivits som parameter"
+
+#: ../xml/media-rss.php:108
+msgid "The album ID=%s does not exist."
+msgstr "Album ID=%s existerar inte."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Felaktigt MediaRSS kommando"
+
+#: ../nggallery.php:100
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Översättning av : </strong> <a target=\"_blank\" href=\"http://eyesx.com/\"> Mattias Tengblad</a>. Mer information på <a target=\"_blank\" href=\"http://wp-support.se/\">WP-Support Sverige</a>"
+
+#: ../nggallery.php:205
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "Ledsen, NextGEN Gallery fungerar endast med en minnesgräns på 16mb eller högre"
+
+#: ../nggallery.php:225
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Var vänlig uppdatera databasen för NextGEN Gallery."
+
+#: ../nggallery.php:225
+msgid "Click here to proceed."
+msgstr "Klicka här för att fortsätta."
+
+#: ../nggallery.php:248
+msgid "Picture tag"
+msgstr "Bildetikett"
+
+#: ../nggallery.php:249
+msgid "Picture tag: %2$l."
+msgstr "Bildetikett: %2$l."
+
+#: ../nggallery.php:250
+msgid "Separate picture tags with commas."
+msgstr "Separera flera bildetiketter med kommatecken."
+
+#: ../nggallery.php:357
+#: ../admin/admin.php:256
+msgid "L O A D I N G"
+msgstr "L A D D A R"
+
+#: ../nggallery.php:358
+#: ../admin/admin.php:257
+msgid "Click to Close"
+msgstr "Klicka för att stänga"
+
+#: ../nggallery.php:379
+msgid "loading"
+msgstr "laddar"
+
+#: ../nggallery.php:517
+#: ../nggfunctions.php:941
+#: ../admin/admin.php:37
+#: ../admin/admin.php:79
+msgid "Overview"
+msgstr "Översikt"
+
+#: ../nggallery.php:518
+msgid "Get help"
+msgstr "Få hjälp"
+
+#: ../nggallery.php:519
+msgid "Contribute"
+msgstr "Hjälp till"
+
+#: ../nggallery.php:520
+msgid "Donate"
+msgstr "Donera"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> och <a href=\"http://www.mozilla.com/firefox/\">en webbläsare med Javascript-stöd</a> krävs."
+
+#: ../nggfunctions.php:164
+#: ../nggfunctions.php:642
+msgid "[Gallery not found]"
+msgstr "[Galleri kunde inte hittas]"
+
+#: ../nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[Album kunde inte hittas]"
+
+#: ../nggfunctions.php:771
+msgid "[SinglePic not found]"
+msgstr "[Bild kunde inte hittas]"
+
+#: ../nggfunctions.php:906
+msgid "Related images for"
+msgstr "Relaterade bilder för"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Copyright noteringar / Uppskattning"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN Utvecklingsteam"
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Detta tillägg utvecklas, underhålls, supportas och dokumenteras huvudsakligen av"
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Det är också många andra som hjälpt till med detta projekt :"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Bidragande / Tack till"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Om du studerar koden för detta tillägg så kommer du att märka att vi har mixat ihop massa redan bra existerande kod och idéer."
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Så, vi skulle vilja tacka följande personer för deras pionjära insatser (utan deras arbete skulle det vara omöjligt att utveckla detta tillägg så pass snabbt)"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "för deras väldokumenterade kod"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "för jQuery, som är det bästa Web 2.0 ramverket."
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "för den fantastiska PHP Thumbnail-klassen"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "för en massa väldigt användbara tillägg och idéer"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "för Shutter Reloaded, en riktigt lättanvänd bildeffekt"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "för de bästa Media Flash-skripten på denna jord"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "för ikonen till galleriet"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "för vattenstämpel-tillägget"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Om du inte hittar ditt eget namn på denna lista och det förekommer kod som integrerats i mitt tillägg, tveka inte på att skicka mig ett mail."
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "Hur kan jag ge mitt stöd ?"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Det finns flera sätta att bidra, hjälpa eller stödja oss i vårt arbete. Inget av dem är obligatoriskt."
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Skicka oss buggkorrigeringar / kodändringar"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Det mest motiverande stödet för detta tillägg är dina idéer och din hjärnkraft"
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Översätt tillägget"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "För att hjälpa folk att använda tillägget så skulle jag vilja att det var tillgängligt i på så många språk som möjligt"
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Donera via PayPal"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Utan tvekan en väldigt användbar och enkel motviation :-)"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Placera en länk till tillägget på din blogg/webbsida"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Ja, att dela och skapa trackbacks är också bra stöd för detta projekt"
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "Tack!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Vi skulle vilja tacka dessa personer som stödjer oss i vårt arbete:"
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "och alla donatorer..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:124
+#: ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "Fuskar du va?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Uppladningen misslyckades!"
+
+#: ../admin/addgallery.php:85
+#: ../admin/addgallery.php:93
+msgid "Upload failed! "
+msgstr "Uppladningen misslyckades!"
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:943
+#: ../admin/functions.php:1043
+msgid "No gallery selected !"
+msgstr "Inget galleri har valts !"
+
+#: ../admin/addgallery.php:180
+#: ../admin/addgallery.php:263
+msgid "Image Files"
+msgstr "Bildfiler"
+
+#: ../admin/addgallery.php:195
+#: ../admin/addgallery.php:284
+#: ../admin/addgallery.php:312
+msgid "remove"
+msgstr "ta bort"
+
+#: ../admin/addgallery.php:196
+#: ../admin/addgallery.php:285
+#: ../admin/addgallery.php:466
+msgid "Browse..."
+msgstr "Bläddra..."
+
+#: ../admin/addgallery.php:197
+#: ../admin/addgallery.php:235
+#: ../admin/addgallery.php:286
+#: ../admin/addgallery.php:298
+#: ../admin/addgallery.php:537
+msgid "Upload images"
+msgstr "Ladda upp bilder"
+
+#: ../admin/addgallery.php:376
+#: ../admin/addgallery.php:484
+msgid "Upload Images"
+msgstr "Ladda upp bilder"
+
+#: ../admin/addgallery.php:379
+#: ../admin/addgallery.php:396
+#: ../admin/manage-galleries.php:119
+#: ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Skapa nytt galleri"
+
+#: ../admin/addgallery.php:382
+#: ../admin/addgallery.php:418
+msgid "Upload a Zip-File"
+msgstr "Ladda upp en zip-fil"
+
+#: ../admin/addgallery.php:385
+#: ../admin/addgallery.php:460
+msgid "Import image folder"
+msgstr "Importera bildkatalog"
+
+#: ../admin/addgallery.php:401
+#: ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nytt galleri"
+
+#: ../admin/addgallery.php:404
+#: ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Skapa ett nytt, tomt galleri under katalogen"
+
+#: ../admin/addgallery.php:406
+#: ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "Tillåtna tecken för fil- och katalog-namn är"
+
+#: ../admin/addgallery.php:410
+msgid "Add gallery"
+msgstr "Skapa galleri"
+
+#: ../admin/addgallery.php:423
+msgid "Select Zip-File"
+msgstr "Välj zip-fil"
+
+#: ../admin/addgallery.php:425
+msgid "Upload a zip file with images"
+msgstr "Ladda upp en zip-fil med bilder"
+
+#: ../admin/addgallery.php:429
+msgid "or enter a Zip-File URL"
+msgstr "eller ange URL till en zip-fil"
+
+#: ../admin/addgallery.php:431
+msgid "Import a zip file with images from a url"
+msgstr "Importera en zip-fil med bilder från en url"
+
+#: ../admin/addgallery.php:435
+#: ../admin/addgallery.php:512
+msgid "in to"
+msgstr "till"
+
+#: ../admin/addgallery.php:437
+msgid "a new gallery"
+msgstr "Ett nytt galleri"
+
+#: ../admin/addgallery.php:448
+msgid "Note : The upload limit on your server is "
+msgstr "Notera: Uppladdningsgränsen för din server är "
+
+#: ../admin/addgallery.php:452
+msgid "Start upload"
+msgstr "Starta uppladdning"
+
+#: ../admin/addgallery.php:465
+msgid "Import from Server path:"
+msgstr "Importera från sökväg (på servern):"
+
+#: ../admin/addgallery.php:468
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Notera: Ändra standardsökvägen för galleri under inställningar"
+
+#: ../admin/addgallery.php:470
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr " Vänligen notera : För safe_mode = ON måste du lägga till undermappens miniatyrer manuellt"
+
+#: ../admin/addgallery.php:473
+msgid "Import folder"
+msgstr "Importera katalog"
+
+#: ../admin/addgallery.php:490
+msgid "Upload image"
+msgstr "Ladda upp bild"
+
+#: ../admin/addgallery.php:514
+msgid "Choose gallery"
+msgstr "Välj galleri"
+
+#: ../admin/addgallery.php:533
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Massuppladdningen kräver Adobe Flash 10, inaktivera om du har problem"
+
+#: ../admin/addgallery.php:533
+msgid "Disable flash upload"
+msgstr "Inaktivera flashuppladdning"
+
+#: ../admin/addgallery.php:535
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Ladda upp flera filer i ett genom att använda ctrl/shift-markering i dialogrutan"
+
+#: ../admin/addgallery.php:535
+msgid "Enable flash based upload"
+msgstr "Aktivera flashbaserad uppladdning"
+
+#: ../admin/admin.php:36
+#: ../admin/admin.php:59
+#: ../admin/admin.php:78
+#: ../admin/admin.php:352
+#: ../admin/admin.php:444
+#: ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galleri"
+msgstr[1] "Gallerier"
+
+#: ../admin/admin.php:38
+#: ../admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "Lägg till galleri / bilder"
+
+#: ../admin/admin.php:39
+#: ../admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "Hantera galleri"
+
+#: ../admin/admin.php:40
+#: ../admin/admin.php:85
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album"
+
+#: ../admin/admin.php:41
+#: ../admin/admin.php:87
+msgid "Tags"
+msgstr "Etiketter"
+
+#: ../admin/admin.php:42
+#: ../admin/admin.php:89
+msgid "Options"
+msgstr "Inställningar"
+
+#: ../admin/admin.php:44
+#: ../admin/admin.php:91
+msgid "Style"
+msgstr "Stil"
+
+#: ../admin/admin.php:46
+msgid "Roles"
+msgstr "Roller"
+
+#: ../admin/admin.php:47
+msgid "About this Gallery"
+msgstr "Om detta galleri"
+
+#: ../admin/admin.php:47
+#: ../admin/admin.php:92
+msgid "About"
+msgstr "Om"
+
+#: ../admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/admin.php:50
+#: ../admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "Återställ / Avinstallera"
+
+#: ../admin/admin.php:60
+msgid "Network settings"
+msgstr "Inställningar för nätverk"
+
+#: ../admin/admin.php:131
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Tack för att du använder detta tillägg. Hoppas du tycker om det! Om du vill ge stöd för vidare utveckling, var vänlig fundera på att <strong><a href=\"%s\">donera</a></strong>! Om du behöver support, posta dina frågor <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">här</a> ."
+
+#: ../admin/admin.php:134
+msgid "OK, hide this message now !"
+msgstr "OK, göm det här meddelandet nu !"
+
+#: ../admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "Du saknar korrekt behörighet"
+
+#: ../admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "Oväntat fel"
+
+#: ../admin/admin.php:215
+msgid "A failure occurred"
+msgstr "Ett fel uppstod"
+
+#: ../admin/admin.php:356
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduktion</a>"
+
+#: ../admin/admin.php:359
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduktion</a>"
+
+#: ../admin/admin.php:362
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://eyesx.com/\" target=\"_blank\">Översättning av Mattias Tengblad</a>"
+
+#: ../admin/admin.php:365
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roller / Rättigheter</a>"
+
+#: ../admin/admin.php:368
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Stilar</a>"
+
+#: ../admin/admin.php:369
+msgid "Templates"
+msgstr "Mallar"
+
+#: ../admin/admin.php:372
+#: ../admin/admin.php:378
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallerihantering</a>"
+
+#: ../admin/admin.php:373
+msgid "Gallery example"
+msgstr "Galleriexempel"
+
+#: ../admin/admin.php:379
+#: ../admin/admin.php:389
+msgid "Gallery tags"
+msgstr "Gallerietiketter"
+
+#: ../admin/admin.php:382
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Albumhantering</a>"
+
+#: ../admin/admin.php:383
+msgid "Album example"
+msgstr "Album-exempel"
+
+#: ../admin/admin.php:384
+#: ../admin/admin.php:390
+msgid "Album tags"
+msgstr "Albumetiketter"
+
+#: ../admin/admin.php:387
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallerietiketter</a>"
+
+#: ../admin/admin.php:388
+msgid "Related images"
+msgstr "Relaterande bilder"
+
+#: ../admin/admin.php:393
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Bildhantering</a>"
+
+#: ../admin/admin.php:394
+msgid "Custom fields"
+msgstr "Egna fält"
+
+#: ../admin/admin.php:399
+msgid "Get help with NextGEN Gallery"
+msgstr "Få hjälp med NextGEN Gallery"
+
+#: ../admin/admin.php:403
+msgid "More Help & Info"
+msgstr "Mer hjälp och information"
+
+#: ../admin/admin.php:405
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Supportforum</a>"
+
+#: ../admin/admin.php:406
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/admin.php:407
+msgid "Feature request"
+msgstr "Framtida önskemål"
+
+#: ../admin/admin.php:408
+msgid "Get your language pack"
+msgstr "Hämta ditt språkpaket"
+
+#: ../admin/admin.php:409
+msgid "Contribute development"
+msgstr "Delta i utvecklingen"
+
+#: ../admin/admin.php:410
+msgid "Download latest version"
+msgstr "Ladda ner senaste versionen"
+
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Du saknar rättigheter för att vistas här"
+
+#: ../admin/ajax.php:410
+msgid "Could create image with %s x %s pixel"
+msgstr "Kunde skapa en bild i %s x %s pixlar"
+
+#: ../admin/album.php:102
+#: ../admin/album.php:117
+#: ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "Uppdatering framgångsrik"
+
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "Album raderat"
+
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "Redigera album"
+
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "Hantera album"
+
+#: ../admin/album.php:284
+#: ../admin/album.php:333
+msgid "Select album"
+msgstr "Välj album"
+
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "Inget album valt"
+
+#: ../admin/album.php:297
+#: ../admin/edit-thumbnail.php:155
+msgid "Update"
+msgstr "Uppdatera"
+
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "Redigera album"
+
+#: ../admin/album.php:302
+#: ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:448
+msgid "Delete"
+msgstr "Radera"
+
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "Skapa nytt album"
+
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "Lägg till"
+
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "Visa / göm använda gallerier"
+
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[Visa alla]"
+
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "Maximera widgetinnehåll"
+
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[Maximera]"
+
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "Minimera widgetinnehåll"
+
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[Minimera]"
+
+#: ../admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Efter att du har skapat och valt ett album så kan du dra och släppa ett galleri eller ett annat album till ditt nya album nedan"
+
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "Välj galleri"
+
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "Album ID"
+
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "Inget album har valts!"
+
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "Albumnamn"
+
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "Albumbeskrivning"
+
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "Välj en förhandsgranskningsbild:"
+
+#: ../admin/album.php:426
+#: ../admin/album.php:429
+msgid "No picture"
+msgstr "Ingen bild"
+
+#: ../admin/album.php:440
+#: ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Sidlänk till"
+
+#: ../admin/album.php:442
+#: ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "Ej länkad"
+
+#: ../admin/album.php:455
+#: ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317
+#: ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:533
+#: ../admin/manage-images.php:569
+#: ../admin/manage-images.php:598
+#: ../admin/manage-images.php:628
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/album.php:457
+#: ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319
+#: ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:535
+#: ../admin/manage-images.php:571
+#: ../admin/manage-images.php:600
+#: ../admin/manage-images.php:630
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../admin/album.php:543
+msgid "Name"
+msgstr "Namn"
+
+#: ../admin/album.php:544
+#: ../admin/manage-images.php:255
+msgid "Title"
+msgstr "Titel"
+
+#: ../admin/album.php:545
+msgid "Page"
+msgstr "Sida"
+
+#: ../admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Markera med muspekaren, delen för den nya miniatyren."
+
+#: ../admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "Miniatyr uppdaterad"
+
+#: ../admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "Fel vid uppdatering av miniatyr"
+
+#: ../admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Välj del av miniatyr från bilden till vänster."
+
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Inget korrekt gallerinamn!"
+
+#: ../admin/functions.php:46
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+#: ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "Mappstruktur"
+
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "existerade ej. Var vänlig skapa först huvudgallerikatalog"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Kolla denna länk om du inte vet hur man sätter rättigheter :"
+
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr " är inte skrivbar !"
+
+#: ../admin/functions.php:76
+#: ../admin/functions.php:85
+#: ../admin/functions.php:902
+msgid "Unable to create directory "
+msgstr "Kan inte skapa mapp"
+
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "Servern har Safe-Mode påslaget !"
+
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "Har du problem, var vänlig skapa mapp"
+
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "och mappen för miniatyrerna"
+
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "med rättigheterna satta till 777 manuellt!"
+
+#: ../admin/functions.php:116
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "Galleri-ID %1$s skapades. Du kan visa detta galleri i ett inlägg eller på en sida med malltaggen %2$s.<br />"
+
+#: ../admin/functions.php:119
+#: ../admin/functions.php:217
+msgid "Edit gallery"
+msgstr "Redigera galleri"
+
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "existerar inte!"
+
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "innehåller inga bilder"
+
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "Databasfel. Kunde inte lägga till galleri!"
+
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "skapad!"
+
+#: ../admin/functions.php:212
+#: ../admin/functions.php:1019
+#: ../admin/manage-galleries.php:81
+#: ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203
+#: ../admin/manage-images.php:342
+#: ../admin/manage.php:223
+#: ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "Skapa nya miniatyrer"
+
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " bild(er) har lagts till"
+
+#: ../admin/functions.php:270
+#: ../admin/functions.php:350
+#: ../admin/functions.php:405
+#: ../admin/functions.php:502
+#: ../admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr "Objektet innehöll inte korrekt data"
+
+#: ../admin/functions.php:278
+msgid " is not writeable "
+msgstr " är inte skrivbara !"
+
+#: ../admin/functions.php:360
+#: ../admin/functions.php:408
+#: ../admin/functions.php:508
+#: ../admin/functions.php:559
+msgid " is not writeable"
+msgstr " är inte skrivbar !"
+
+#: ../admin/functions.php:562
+msgid "File do not exists"
+msgstr "Filen existerar inte"
+
+#: ../admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "Kunde inte återställa originalbilden"
+
+#: ../admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Fel : Kunde inte uppdatera databasen)"
+
+#: ../admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Fel : Kunde inte uppdatera metadata)"
+
+#: ../admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(Fel : Kunde inte hitta bild)"
+
+#: ../admin/functions.php:836
+msgid "No valid URL path "
+msgstr "Icke korrekt url-sökväg"
+
+#: ../admin/functions.php:852
+msgid "Import via cURL failed."
+msgstr "Importering via cURL misslyckades."
+
+#: ../admin/functions.php:869
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "Den uppladdade filen var ingen eller en felaktig zip-fil! Servern känner igen :"
+
+#: ../admin/functions.php:886
+msgid "Could not get a valid foldername"
+msgstr "Kunde inte hämta ett riktigt katalognamn"
+
+#: ../admin/functions.php:897
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Kunde inte skapa mapp %s. Är dess nuvarande katalog skrivbar på servern?"
+
+#: ../admin/functions.php:912
+msgid "Zip-File successfully unpacked"
+msgstr "Zip-filen har packats upp"
+
+#: ../admin/functions.php:951
+#: ../admin/functions.php:1068
+msgid "Failure in database, no gallery path set !"
+msgstr "Databasfel, sökvägen för galleriet ej satt !"
+
+#: ../admin/functions.php:975
+#: ../admin/functions.php:1062
+msgid "is no valid image file!"
+msgstr "är inte en giltig bildfil!"
+
+#: ../admin/functions.php:989
+#: ../admin/functions.php:1187
+#: ../admin/functions.php:1264
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Kunde inte skriva till mappen %s. Är dess katalog skrivbar på servern?"
+
+#: ../admin/functions.php:996
+#: ../admin/functions.php:1085
+msgid "Error, the file could not be moved to : "
+msgstr "Fel, filen kunde inte flyttas till :"
+
+#: ../admin/functions.php:1001
+#: ../admin/functions.php:1089
+msgid "Error, the file permissions could not be set"
+msgstr "Fel, filrättigheter kunde inte anges"
+
+#: ../admin/functions.php:1024
+msgid " Image(s) successfully added"
+msgstr " Bild(er) har lagts till"
+
+#: ../admin/functions.php:1051
+msgid "Invalid upload. Error Code : "
+msgstr "Felaktig uppladdning. Felkod :"
+
+#: ../admin/functions.php:1127
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "SAFE MODE är påslaget! Du måste skapa mappen <strong>%s</strong> manuellt"
+
+#: ../admin/functions.php:1128
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "När safe_mode är på så kollar PHP om ägaren (%s) av nuvarande skript matchar ägaren (%s) av den fil som ska behandlas av en filfunktion eller dess katalog"
+
+#: ../admin/functions.php:1181
+#: ../admin/functions.php:1258
+msgid "The destination gallery does not exist"
+msgstr "Destinationsgalleriet existerar inte"
+
+#: ../admin/functions.php:1212
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Kunde inte flytta bild %1$s till %2$s"
+
+#: ../admin/functions.php:1232
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Flyttade %1$s bild(er) till galleri : %2$s ."
+
+#: ../admin/functions.php:1291
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Kunde inte kopiera bild %1$s till %2$s"
+
+#: ../admin/functions.php:1305
+msgid "Failed to copy database row for picture %s"
+msgstr "Kunde inte kopiera databasrad för bilden %s"
+
+#: ../admin/functions.php:1317
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Bilden %1$s (%2$s) kopierad som bild %3$s (%4$s) &raquo; Filen existerade redan i angett galleri."
+
+#: ../admin/functions.php:1320
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Bilden %1$s (%2$s) kopierad som bild %3$s (%4$s)"
+
+#: ../admin/functions.php:1329
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Kopierade %1$s bild(er) till galleri: %2$s ."
+
+#: ../admin/functions.php:1437
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Den uppladdade filen överskrider gränsen satt för upload_max_filesize i php.ini"
+
+#: ../admin/functions.php:1440
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "Den uppladdade filen överskrider gränsen satt för MAX_FILE_SIZE som specificerats i HTML-formuläret"
+
+#: ../admin/functions.php:1443
+msgid "The uploaded file was only partially uploaded"
+msgstr "Endast en del av filen laddades upp"
+
+#: ../admin/functions.php:1446
+msgid "No file was uploaded"
+msgstr "Ingen fil laddades upp"
+
+#: ../admin/functions.php:1449
+msgid "Missing a temporary folder"
+msgstr "Saknar en temporär mapp"
+
+#: ../admin/functions.php:1452
+msgid "Failed to write file to disk"
+msgstr "Kunde inte skriva filen till disk"
+
+#: ../admin/functions.php:1455
+msgid "File upload stopped by extension"
+msgstr "Filuppladdningen stoppades av ett php-tillägg"
+
+#: ../admin/functions.php:1458
+msgid "Unknown upload error"
+msgstr "Okänt fel vid uppladdning"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Tyvärr, NextGEN Gallery funkar endast med en roll kallad administratör"
+
+#: ../admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery : Tabeller kunde inte skapas, var vänlig undersök dina databasinställningar"
+
+#: ../admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[Visa som bildspel]"
+
+#: ../admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[Visa som bildlista]"
+
+#: ../admin/manage-galleries.php:69
+#: ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "Inga bilder valda"
+
+#: ../admin/manage-galleries.php:77
+#: ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199
+#: ../admin/manage-images.php:343
+#: ../admin/manage.php:207
+#: ../admin/manage.php:285
+msgid "Resize images"
+msgstr "Ändra bildstorlek"
+
+#: ../admin/manage-galleries.php:86
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du är på väg att sätta igång en massredigeringen av %s gallerier \n"
+" \n"
+" 'Avbryt' för att avbryta, 'OK' för att fortsätta."
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225
+#: ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Sök bilder"
+
+#: ../admin/manage-galleries.php:145
+#: ../admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "Massåtgärder"
+
+#: ../admin/manage-galleries.php:147
+#: ../admin/manage-images.php:341
+#: ../admin/manage.php:140
+#: ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "Sätt vattenstämpel"
+
+#: ../admin/manage-galleries.php:150
+#: ../admin/manage-images.php:346
+#: ../admin/manage.php:145
+#: ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "Importera meta data"
+
+#: ../admin/manage-galleries.php:151
+#: ../admin/manage-images.php:344
+#: ../admin/manage.php:135
+#: ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "Återställ från backup"
+
+#: ../admin/manage-galleries.php:153
+#: ../admin/manage-images.php:355
+msgid "Apply"
+msgstr "Utför"
+
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../admin/manage-galleries.php:261
+#: ../admin/manage-images.php:506
+msgid "No entries found"
+msgstr "Inga poster funna"
+
+#: ../admin/manage-galleries.php:308
+#: ../admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "Ändra bildstorlek till"
+
+#: ../admin/manage-galleries.php:312
+#: ../admin/manage-images.php:593
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Bredd x höjd (i pixlar). NextGEN Gallery behåller storleksförhållandet"
+
+#: ../admin/manage-galleries.php:336
+#: ../admin/manage-images.php:617
+msgid "Width x height (in pixel)"
+msgstr "Bredd x höjd (i pixlar)"
+
+#: ../admin/manage-galleries.php:338
+#: ../admin/manage-images.php:619
+msgid "These values are maximum values "
+msgstr "Dessa värden är maxvärden"
+
+#: ../admin/manage-galleries.php:341
+#: ../admin/manage-images.php:622
+msgid "Set fix dimension"
+msgstr "Sätt fixerad dimension"
+
+#: ../admin/manage-galleries.php:343
+#: ../admin/manage-images.php:624
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorera bildförhållanden, inga porträttminiatyrer"
+
+#: ../admin/manage-galleries.php:406
+#: ../admin/manage-images.php:694
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:408
+#: ../admin/manage-images.php:266
+#: ../admin/manage-images.php:697
+msgid "Description"
+msgstr "Beskrivning"
+
+#: ../admin/manage-galleries.php:409
+#: ../admin/manage-images.php:295
+msgid "Author"
+msgstr "Författare"
+
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "Sidans ID"
+
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Bild"
+msgstr[1] "Bilder"
+
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "Galleri kunde inte hittas."
+
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Ledsen, du saknar rättigheter för åtkomst här"
+
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "Kopiera bild till..."
+
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "Flytta bild till..."
+
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "Lägg till nya etiketter"
+
+#: ../admin/manage-images.php:191
+#: ../admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "Radera etiketter"
+
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "Skriv över"
+
+#: ../admin/manage-images.php:208
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du tänker sätta i gång massredigeringen för %s bilder \n"
+" \n"
+" 'Avbryt' för att avbryta, 'OK' för att fortsätta."
+
+#: ../admin/manage-images.php:222
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Sökresultat för &#8221;%s&#8221;"
+
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "Inställningar för galleri"
+
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Klicka här för fler inställningar"
+
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Galleriets miniatyrbild"
+
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Ingen bild"
+
+#: ../admin/manage-images.php:293
+msgid "Path"
+msgstr "Sökväg"
+
+#: ../admin/manage-images.php:310
+msgid "Create new page"
+msgstr "Skapa ny sida"
+
+#: ../admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "Huvudsida (utan modersida)"
+
+#: ../admin/manage-images.php:316
+msgid "Add page"
+msgstr "Lägg till sida"
+
+#: ../admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "Scanna mappen efter nya bilder"
+
+#: ../admin/manage-images.php:326
+#: ../admin/manage-images.php:361
+#: ../admin/manage-images.php:513
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: ../admin/manage-images.php:345
+msgid "Delete images"
+msgstr "Radera bilder"
+
+#: ../admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "Rotera bilder medurs"
+

@@ -1,0 +1,2314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-18 12:15+0100\n"
+"PO-Revision-Date: 2008-08-21 22:48+0100\n"
+"Last-Translator: Alex Rabe <alter.ego@boelinger.com>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:61
+msgid "Sorry, NextGEN Gallery works only under WordPress 2.1 or higher"
+msgstr "عذرا، السكربت يعمل على ووردبرس 2.1 وما بعده فقط"
+
+#: ../nggallery.php:68
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "عذرا، السكربت يحتاج لذاكرة 16 ميقا على الاقل للعمل"
+
+#: ../nggfunctions.php:449
+#: ../nggfunctions.php:464
+msgid "Watch gallery"
+msgstr "شاهد الألبوم"
+
+#: ../nggfunctions.php:458
+#: ../nggfunctions.php:470
+#: ../nggfunctions.php:758
+msgid "Photos"
+msgstr "صور"
+
+#: ../nggfunctions.php:546
+msgid "Back"
+msgstr "السابق"
+
+#: ../nggfunctions.php:550
+msgid "Next"
+msgstr "اللاحق"
+
+#: ../nggfunctions.php:553
+#: ../admin/manage.php:85
+msgid "Picture"
+msgstr "الصورة"
+
+#: ../nggfunctions.php:553
+msgid "from"
+msgstr "من"
+
+#: ../nggfunctions.php:728
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: ../ngginstall.php:16
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "معذرة، البرنامج يعمل فقط مع المدير"
+
+#: ../ngginstall.php:124
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "لا يمكن إنشاء الجداول، نرجو مراجعة قاعدة البيانات"
+
+#: ../ngginstall.php:196
+msgid "[Show as slideshow]"
+msgstr "[شرائح عرض]"
+
+#: ../ngginstall.php:197
+msgid "[Show picture list]"
+msgstr "[قائمة الصور]"
+
+#: ../nggwidget.php:121
+msgid "Title:"
+msgstr "عنوان:"
+
+#: ../nggwidget.php:122
+msgid "Select Gallery:"
+msgstr "اختر الألبوم:"
+
+#: ../nggwidget.php:126
+msgid "All images"
+msgstr "جميع الصور"
+
+#: ../nggwidget.php:136
+msgid "Height:"
+msgstr "الاتفاع:"
+
+#: ../nggwidget.php:137
+msgid "Width:"
+msgstr "العرض:"
+
+#: ../nggwidget.php:191
+#, php-format
+msgid "NextGEN Gallery %d"
+msgstr "الألبوم %d"
+
+#: ../nggwidget.php:207
+msgid "NextGEN Gallery Widgets"
+msgstr "القوائم الجانبية للألبوم"
+
+#: ../nggwidget.php:208
+msgid "How many NextGEN Gallery widgets would you like?"
+msgstr "كم عدد القوائم الجانبية التي تريدها؟"
+
+#: ../nggwidget.php:212
+msgid "Save"
+msgstr "احفظ"
+
+#: ../nggwidget.php:304
+msgid "Title :"
+msgstr "العنوان :"
+
+#: ../nggwidget.php:309
+msgid "Show :"
+msgstr "اعرض:"
+
+#: ../nggwidget.php:314
+#: ../admin/settings.php:102
+#: ../admin/settings.php:295
+msgid "Thumbnails"
+msgstr "مصغرات"
+
+#: ../nggwidget.php:315
+msgid "Orginal images"
+msgstr "الصور الأصلية"
+
+#: ../nggwidget.php:321
+#: ../admin/settings.php:560
+msgid "random"
+msgstr "عشوائي"
+
+#: ../nggwidget.php:322
+msgid "recent added "
+msgstr "أضيفت حديثا"
+
+#: ../nggwidget.php:326
+msgid "Width x Height :"
+msgstr "العرض× الارتفاع:"
+
+#: ../nggwidget.php:332
+msgid "Select :"
+msgstr "اختر:"
+
+#: ../nggwidget.php:334
+msgid "All galleries"
+msgstr "جميع الألبومات"
+
+#: ../nggwidget.php:335
+msgid "Only which are not listed"
+msgstr "الذي لم يرد بالقائمة فقط"
+
+#: ../nggwidget.php:336
+msgid "Only which are listed"
+msgstr "الذي بالقائمة فقط"
+
+#: ../nggwidget.php:341
+msgid "Gallery ID :"
+msgstr "رقم الألبوم:"
+
+#: ../nggwidget.php:343
+msgid "Gallery IDs, separated by commas."
+msgstr "أرقام الألبومات، مفصولة بفاصلة"
+
+#: ../admin/about.php:9
+msgid "Copyright notes / Credits"
+msgstr "ملاحظات الحقوق"
+
+#: ../admin/about.php:11
+msgid "NextGEN DEV Team"
+msgstr "فريق السكربت"
+
+#: ../admin/about.php:12
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "هذا السكربت تم تطويره وصيانته ودعمه بواسطة "
+
+#: ../admin/about.php:12
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "هناك العديد من الأشخاص الذين لهم مشاركة في هذا السكربت:"
+
+#: ../admin/about.php:14
+msgid "Contributors / Tribute to"
+msgstr "المشاركين في"
+
+#: ../admin/about.php:15
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "إذا فحصت شفرة هذا السكربت ستجد أننا دمجنا الكثير من الأفكار المفيدة مع بعضها لانتاج هذا العمل"
+
+#: ../admin/about.php:16
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "لذلك نود أن نشكر هؤلاء الأشخاص الذين لهم الفضل بعد الله لإنجاز هذا العمل"
+
+#: ../admin/about.php:18
+msgid "for their great documented code"
+msgstr "لبرمجتهم العظيمة"
+
+#: ../admin/about.php:19
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "لمشاركته في تطبيقات الweb2.0"
+
+#: ../admin/about.php:20
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "لشفرتهم الرائعة بلغة الphp"
+
+#: ../admin/about.php:21
+msgid "for PclZip , a PHP library that manage ZIP archives"
+msgstr "لمشاركتهم في كود الملفات المضغوطة"
+
+#: ../admin/about.php:22
+msgid "for a lot of very useful plugins and ideas"
+msgstr "لأفكارهم الرائعة"
+
+#: ../admin/about.php:23
+msgid "for Simple:Press Forum, it saved me a lot of time"
+msgstr "لمساعدتي بالأفكار الجميلة"
+
+#: ../admin/about.php:24
+msgid "for the best Media Flash Scripts on earth"
+msgstr "لأفضل سكربت عرض فلاشات على وجه الأرض"
+
+#: ../admin/about.php:25
+msgid "for the Watermark plugin"
+msgstr "للعلامة المائية (البصمة)"
+
+#: ../admin/about.php:27
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "إذا لم تجد اسمك في القائمة وقد أرسلت لي شفرة برمجية فلا تتردد في الإرسال إلي"
+
+#: ../admin/about.php:28
+msgid "How to support ?"
+msgstr "كيف تدعم؟"
+
+#: ../admin/about.php:29
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "هناك طرائق عديدة لدعمنا والمشاركة معنا، وهذا من باب التطوع فليس هذا بشرط لاستخدام السكربت"
+
+#: ../admin/about.php:31
+msgid "Send us bugfixes / code changes"
+msgstr "ارسل لنا ملاحظاتك ومقترحاتك وتعديلاتك البرمجية"
+
+#: ../admin/about.php:31
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "أفضل محفز لدعم هذا السكربت هو بإضافة الافكار والمقترحات لتطويره"
+
+#: ../admin/about.php:32
+msgid "Translate the plugin"
+msgstr "ترجم السكربت"
+
+#: ../admin/about.php:32
+msgid "To help people to work with this plugin, I would like to have it in all avaivable languages"
+msgstr "لنشر السكربت أتمنى أن يتم ترجمته لكل لغات العالم"
+
+#: ../admin/about.php:33
+msgid "Donate the work via paypal"
+msgstr "تبرع لنا عن طريق الـ paypal"
+
+#: ../admin/about.php:44
+msgid "No doubt a very usefull and easy motivation :-)"
+msgstr "بلا شك إنه محفز سهل ومفيد :-)"
+
+#: ../admin/about.php:46
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "ضع رابطا للسكربت في مدونتك / موقعك"
+
+#: ../admin/about.php:46
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "نعم، المشاركة تعتبر طريقة جيدة لدعم السكربت"
+
+#: ../admin/about.php:48
+msgid "Thanks!"
+msgstr "شكرا لك"
+
+#: ../admin/about.php:49
+msgid "We would like to thank this people which support us in the work :"
+msgstr "نود أن نشكر هؤلاء الأشخاص الذين ساعدونا في هذا السكربت :"
+
+#: ../admin/addgallery.php:35
+#: ../admin/addgallery.php:51
+msgid "Upload failed!"
+msgstr "فشل التحميل!!"
+
+#: ../admin/addgallery.php:56
+#: ../admin/functions.php:563
+#: ../admin/functions.php:652
+msgid "No gallery selected !"
+msgstr "لم تقم بتحديد أي ألبوم"
+
+#: ../admin/addgallery.php:111
+msgid "Image Files"
+msgstr "ملفات الصور"
+
+#: ../admin/addgallery.php:131
+#: ../admin/addgallery.php:161
+msgid "remove"
+msgstr "احذف"
+
+#: ../admin/addgallery.php:132
+msgid "Browse..."
+msgstr "استعرض..."
+
+#: ../admin/addgallery.php:133
+#: ../admin/addgallery.php:311
+msgid "Upload images"
+msgstr "حمل الصور"
+
+#: ../admin/addgallery.php:177
+#: ../admin/addgallery.php:189
+msgid "Add new gallery"
+msgstr "أضف ألبوم جديد"
+
+#: ../admin/addgallery.php:179
+#: ../admin/addgallery.php:210
+msgid "Upload a Zip-File"
+msgstr "حمل ملف مضغوط"
+
+#: ../admin/addgallery.php:182
+#: ../admin/addgallery.php:250
+msgid "Import image folder"
+msgstr "استيراد مجلد صور"
+
+#: ../admin/addgallery.php:184
+#: ../admin/addgallery.php:274
+msgid "Upload Images"
+msgstr "حمل صور"
+
+#: ../admin/addgallery.php:195
+msgid "New Gallery"
+msgstr "ألبوم جديد"
+
+#: ../admin/addgallery.php:198
+msgid "Create a new , empty gallery below the folder"
+msgstr "انشيء ألبوم جديد وفارغ تحت المجلد"
+
+#: ../admin/addgallery.php:200
+msgid "Allowed characters for file and folder names are"
+msgstr "الأحرف والأرقام المسموح بها لأسماء الملفات والمجلدات هي"
+
+#: ../admin/addgallery.php:203
+msgid "Add gallery"
+msgstr "أضف ألبوم"
+
+#: ../admin/addgallery.php:216
+msgid "Select Zip-File"
+msgstr "حدد ملف مضغوط"
+
+#: ../admin/addgallery.php:218
+msgid "Upload a zip file with images"
+msgstr "حمل ملف مضغوط يحتوي على صور"
+
+#: ../admin/addgallery.php:221
+#: ../admin/addgallery.php:284
+msgid "in to"
+msgstr "في"
+
+#: ../admin/addgallery.php:223
+msgid "a new gallery"
+msgstr "ألبوم جديد"
+
+#: ../admin/addgallery.php:233
+#: ../admin/addgallery.php:296
+msgid "Note : The upload limit on your server is "
+msgstr "ملحوظة: حد الرفع المسموح به على سيرفرك هو "
+
+#: ../admin/addgallery.php:237
+#: ../admin/addgallery.php:262
+#: ../admin/addgallery.php:300
+msgid "Add Metadata :"
+msgstr "أضف ميتاداتا:"
+
+#: ../admin/addgallery.php:239
+#: ../admin/addgallery.php:264
+#: ../admin/addgallery.php:302
+msgid "Import EXIF, IPTC or XMP data (if available)"
+msgstr "استيراد المعلومات من نوع EXIF, IPTC, XMP"
+
+#: ../admin/addgallery.php:242
+msgid "Start upload"
+msgstr "ابدأ رفع الملفات"
+
+#: ../admin/addgallery.php:256
+msgid "Import from Server path:"
+msgstr "استيراد عن طريق مسار السيرفر:"
+
+#: ../admin/addgallery.php:258
+msgid "Import a folder with images. Please note :"
+msgstr "استيراد مجلد صور، فضلا لاحظ:"
+
+#: ../admin/addgallery.php:259
+msgid "For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "إذا كان الوضع الآمن يعمل لديك فيجب أن تقوم بعمل المصغرات يدويا"
+
+#: ../admin/addgallery.php:267
+msgid "Import folder"
+msgstr "استيراد مجلد"
+
+#: ../admin/addgallery.php:280
+msgid "Upload image"
+msgstr "تحميل الصور"
+
+#: ../admin/addgallery.php:286
+msgid "Choose gallery"
+msgstr "اختر ألبوم"
+
+#: ../admin/addgallery.php:307
+msgid "The batch upload requires Adobe Flash 9, disable it if you have problems"
+msgstr "التحميل بحاجة لبرنامج الفلاش الإصدارة رقم 9، إذا لم تكن النسخة لديك فقم بإلغاء الخاصية لتجنب المشاكل"
+
+#: ../admin/addgallery.php:307
+msgid "Disable flash upload"
+msgstr "إلغاء التحميل عن طريق الفلاش"
+
+#: ../admin/addgallery.php:309
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "حمل صور عديدة مرة واحدة باستخدام زر الshift أو Control في لوحة المفاتيح"
+
+#: ../admin/addgallery.php:309
+msgid "Enable flash based upload"
+msgstr "تمكين التحميل بواسطة الفلاش"
+
+#: ../admin/admin.php:75
+#: ../admin/functions.php:78
+#: ../admin/functions.php:82
+#: ../admin/functions.php:128
+#: ../admin/manage.php:64
+#: ../admin/manage.php:434
+#: ../admin/settings.php:104
+msgid "Gallery"
+msgstr "ألبوم"
+
+#: ../admin/admin.php:76
+msgid "Add Gallery"
+msgstr "أضف ألبوم"
+
+#: ../admin/admin.php:77
+msgid "Manage Gallery"
+msgstr "التحكم بالألبوم"
+
+#: ../admin/admin.php:78
+msgid "Album"
+msgstr "ألبوم"
+
+#: ../admin/admin.php:79
+msgid "Options"
+msgstr "الخيارات"
+
+#: ../admin/admin.php:81
+msgid "Style"
+msgstr "القالب"
+
+#: ../admin/admin.php:82
+msgid "Setup Gallery"
+msgstr "تثبيت الألبوم"
+
+#: ../admin/admin.php:82
+msgid "Setup"
+msgstr "تثبيت"
+
+#: ../admin/admin.php:84
+msgid "Roles"
+msgstr "الأدوار والمهمات"
+
+#: ../admin/admin.php:85
+msgid "About this Gallery"
+msgstr "نبذة عن برنامج الألبوم"
+
+#: ../admin/admin.php:85
+msgid "About"
+msgstr "نبذة"
+
+#: ../admin/admin.php:87
+msgid "NextGEN Gallery"
+msgstr "سكربت الألبوم (نكست جن)"
+
+#: ../admin/album.php:19
+#: ../admin/album.php:37
+msgid "Update Successfully"
+msgstr "تم التحديث بنجاح"
+
+#: ../admin/album.php:45
+msgid "Album deleted"
+msgstr "تم الحذف"
+
+#: ../admin/album.php:122
+msgid "Manage Albums"
+msgstr "التحكم بالألبومات"
+
+#: ../admin/album.php:128
+msgid "Select album"
+msgstr "اختر ألبوم"
+
+#: ../admin/album.php:131
+msgid "No album selected"
+msgstr "لم تقم بتحديد اي ألبوم"
+
+#: ../admin/album.php:144
+msgid "Add new album"
+msgstr "أضف ألبوم جديد"
+
+#: ../admin/album.php:148
+#: ../admin/manage.php:309
+#: ../admin/manage.php:580
+msgid "Delete"
+msgstr "حذف"
+
+#: ../admin/album.php:148
+msgid "Delete album ?"
+msgstr "حذف الألبوم؟"
+
+#: ../admin/album.php:150
+#: ../admin/settings.php:164
+#: ../admin/settings.php:204
+#: ../admin/settings.php:251
+#: ../admin/settings.php:331
+#: ../admin/settings.php:378
+#: ../admin/settings.php:490
+#: ../admin/settings.php:598
+msgid "Update"
+msgstr "تحديث"
+
+#: ../admin/album.php:158
+msgid "[Show all]"
+msgstr "[أظهر الجميع]"
+
+#: ../admin/album.php:159
+msgid "[Maximize]"
+msgstr "[توسيع]"
+
+#: ../admin/album.php:160
+msgid "[Minimize]"
+msgstr "[تصغير]"
+
+#: ../admin/album.php:162
+msgid "After you create and select a album, you can drag and drop a gallery into your album below"
+msgstr "بعد إنشاء ألبوم وتحديده، تستطيع سحب ووضع الصور في الألبوم بالأسفل"
+
+#: ../admin/album.php:169
+msgid "Select Gallery"
+msgstr "حدد ألبوم"
+
+#: ../admin/album.php:208
+msgid "Album Page ID"
+msgstr "رقم صفحة الألبوم"
+
+#: ../admin/album.php:220
+msgid "No album selected!"
+msgstr "لم تقم باختيار ألبوم!"
+
+#: ../admin/album.php:256
+#: ../admin/manage.php:283
+#: ../admin/manage.php:535
+msgid "ID"
+msgstr "رقم"
+
+#: ../admin/album.php:257
+msgid "Name"
+msgstr "اسم"
+
+#: ../admin/album.php:258
+#: ../admin/manage.php:285
+#: ../admin/manage.php:446
+msgid "Title"
+msgstr "عنوان"
+
+#: ../admin/album.php:259
+msgid "Page"
+msgstr "صفحة"
+
+#: ../admin/functions.php:20
+msgid "No valid gallery name!"
+msgstr "اسم غير صالح!"
+
+#: ../admin/functions.php:27
+#: ../admin/functions.php:36
+#: ../admin/functions.php:50
+#: ../admin/functions.php:102
+#: ../admin/functions.php:109
+msgid "Directory"
+msgstr "المسار"
+
+#: ../admin/functions.php:27
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "غير موجود، فضلا أنشيء أولا مجلد الصور الرئيسي"
+
+#: ../admin/functions.php:28
+#: ../admin/functions.php:37
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "قم بزيارة هذا الرابط إذا لم تكن تعرف كيف تعدل التصاريح:"
+
+#: ../admin/functions.php:36
+#: ../admin/functions.php:50
+msgid "is not writeable !"
+msgstr "لا يمكن الكتابة عليه"
+
+#: ../admin/functions.php:45
+#: ../admin/functions.php:55
+#: ../admin/functions.php:525
+msgid "Unable to create directory "
+msgstr "لا يمكن إنشاء المسار"
+
+#: ../admin/functions.php:59
+msgid "The server setting Safe-Mode is on !"
+msgstr "الوضع الآمن مفعل على سيرفرك"
+
+#: ../admin/functions.php:60
+msgid "If you have problems, please create directory"
+msgstr "غذا كان لديك مشاكل فضلا أنشيء المسار"
+
+#: ../admin/functions.php:61
+msgid "and the thumbnails directory"
+msgstr "ومسار المصغرات"
+
+#: ../admin/functions.php:61
+msgid "with permission 777 manually !"
+msgstr "بالتصريح 777 يدويا"
+
+#: ../admin/functions.php:78
+msgid "already exists"
+msgstr "موجود مسبقا"
+
+#: ../admin/functions.php:82
+#: ../admin/functions.php:128
+msgid "successfully created!"
+msgstr "تم إنشاءه بنجاح"
+
+#: ../admin/functions.php:82
+msgid "You can show this gallery with the tag"
+msgstr "يمكنك عرض الألبوم بهذا التاق tag"
+
+#: ../admin/functions.php:102
+msgid "doesn&#96;t exist!"
+msgstr "غير موجود"
+
+#: ../admin/functions.php:109
+msgid "contains no pictures"
+msgstr "لا يوجد فيه صور"
+
+#: ../admin/functions.php:125
+msgid "Database error. Could not add gallery!"
+msgstr "خطأ في قواعد البيانات.. لم يتم إضافة الألبوم"
+
+#: ../admin/functions.php:144
+msgid " picture(s) successfully added"
+msgstr "تم إضافة الصور بنجاح"
+
+#: ../admin/functions.php:175
+#: ../admin/functions.php:224
+#: ../admin/functions.php:287
+msgid "Running... Please wait"
+msgstr "جاري العمل... فضلا انتظر"
+
+#: ../admin/functions.php:176
+#: ../admin/manage.php:510
+msgid "Resize images"
+msgstr "إعادة تحديد ابعاد الصور"
+
+#: ../admin/functions.php:200
+msgid " : Image resized..."
+msgstr " : تم إعادة تحجيم الصور..."
+
+#: ../admin/functions.php:209
+#: ../admin/functions.php:266
+msgid "Some pictures are not writeable :"
+msgstr "بعض الصور لا يمكن الكتابة عليها:"
+
+#: ../admin/functions.php:225
+#: ../admin/manage.php:508
+msgid "Set watermark"
+msgstr "ضع البصمة"
+
+#: ../admin/functions.php:257
+msgid " : Watermark created..."
+msgstr " : تم وضع البصمة..."
+
+#: ../admin/functions.php:288
+#: ../admin/manage.php:509
+msgid "Create new thumbnails"
+msgstr "أنشيء مصغرات جديدة"
+
+#: ../admin/functions.php:355
+msgid " : Thumbnail created..."
+msgstr " : تم إنشاء المصغرات ..."
+
+#: ../admin/functions.php:360
+msgid "Follow thumbnails could not created."
+msgstr "لم يتم إنشاء المصغرات"
+
+#: ../admin/functions.php:361
+msgid "Some thumbnails are not writeable :"
+msgstr "بعض المصغرات لا يمكن الكتابة عليها :"
+
+#: ../admin/functions.php:460
+msgid "The Zip-file is too large. Exceed Memory limit !"
+msgstr "الملف المضغوط كبير جدا وقد تجاوز الحجم المسموح به !"
+
+#: ../admin/functions.php:501
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "الملف المرفوع ليس ملفا مضغوطا أو أنه معطوب ! السيرفر تعرف "
+
+#: ../admin/functions.php:520
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "غير قادر على إنشاء مجلد %s. هل مجلده الرئيسي يمكن الكتابة عليه؟"
+
+#: ../admin/functions.php:535
+msgid "Zip-File successfully unpacked"
+msgstr "تم فك الملف المضغوط بنجاح"
+
+#: ../admin/functions.php:571
+#: ../admin/functions.php:681
+msgid "Failure in database, no gallery path set !"
+msgstr "خطأ في قاعدة البيانات ، لم يتم عمل أي شيء"
+
+#: ../admin/functions.php:592
+#: ../admin/functions.php:674
+msgid "is no valid image file!"
+msgstr "ليس ملف صورة صالح!"
+
+#: ../admin/functions.php:606
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "لم يمكن الكتابة للمجلد %s . هل يمكن الكتابة على هذا المجلد؟"
+
+#: ../admin/functions.php:613
+#: ../admin/functions.php:698
+msgid "Error, the file could not moved to : "
+msgstr "خطأ، لا يمكن نقل الملف إلى :"
+
+#: ../admin/functions.php:618
+#: ../admin/functions.php:702
+msgid "Error, the file permissions could not set"
+msgstr "خطأ، صلاحيات الملف لا يمكن تعديلها"
+
+#: ../admin/functions.php:637
+msgid " Image(s) successfully added"
+msgstr " تم إضافة الصور بنجاح"
+
+#: ../admin/functions.php:661
+msgid "Invalid upload. Error Code : "
+msgstr "لم يتم التحميل. شفرة الخطأ :"
+
+#: ../admin/functions.php:713
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "معذرة، لقد استخدمت المساحة المخصصة لك. فضلا احذف بعض الملفات لرفع ملفات جديدة ."
+
+#: ../admin/functions.php:740
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "بسبب تشغيلك للوضع الآمن أنت بحاجة إلى أن تنشيء المجلد <strong>%s</strong> يدويا"
+
+#: ../admin/functions.php:741
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr ""
+
+#: ../admin/manage.php:64
+#: ../admin/manage.php:85
+msgid "deleted successfully"
+msgstr "تم الحذف بنجاح"
+
+#: ../admin/manage.php:111
+msgid "Watermark successfully added"
+msgstr "تم إضافة البصمة بنجاح"
+
+#: ../admin/manage.php:116
+msgid "Thumbnails successfully created. Please refresh your browser cache."
+msgstr "تم إنشاء المصغرات بنجاح. فضلا قم بتحديث متصفحك."
+
+#: ../admin/manage.php:121
+msgid "Images successfully resized"
+msgstr "تم إعادة ضبط الحجم بنجاح"
+
+#: ../admin/manage.php:139
+msgid "Pictures deleted successfully "
+msgstr "تم حذف الصور بنجاح"
+
+#: ../admin/manage.php:145
+msgid "Import metadata finished"
+msgstr "تم استيراد الميتاداتا"
+
+#: ../admin/manage.php:195
+msgid "Tags changed"
+msgstr "تم تغييرات الكلمات المفتاحية (tag)"
+
+#: ../admin/manage.php:215
+msgid "Update successful"
+msgstr "تم التحديث"
+
+#: ../admin/manage.php:248
+msgid "New gallery page ID"
+msgstr "رقم صفحة الألبوم الجديد"
+
+#: ../admin/manage.php:248
+msgid "created"
+msgstr "تم إنشاؤه"
+
+#: ../admin/manage.php:279
+msgid "Gallery Overview"
+msgstr "نظرة عامة للألبوم"
+
+#: ../admin/manage.php:284
+msgid "Gallery name"
+msgstr "اسم الألبوم"
+
+#: ../admin/manage.php:286
+#: ../admin/manage.php:465
+#: ../admin/manage.php:541
+msgid "Description"
+msgstr "الوصف"
+
+#: ../admin/manage.php:287
+msgid "Page ID"
+msgstr "رقم الصفحة"
+
+#: ../admin/manage.php:288
+msgid "Quantity"
+msgstr "الكمية"
+
+#: ../admin/manage.php:289
+#: ../admin/manage.php:547
+msgid "Action"
+msgstr "العملية"
+
+#: ../admin/manage.php:308
+msgid "Edit"
+msgstr "تحرير"
+
+#: ../admin/manage.php:309
+msgid "Delete this gallery ?"
+msgstr "حذف هذا الألبوم؟"
+
+#: ../admin/manage.php:314
+#: ../admin/manage.php:585
+msgid "No entries found"
+msgstr "لا يوجد مدخلات"
+
+#: ../admin/manage.php:443
+msgid "Main settings"
+msgstr "الإعدادات الرئيسية"
+
+#: ../admin/manage.php:448
+msgid "Page Link to"
+msgstr "الصفحة تربط بـ"
+
+#: ../admin/manage.php:451
+msgid "Not linked"
+msgstr "غير مرتبط"
+
+#: ../admin/manage.php:467
+msgid "Preview image"
+msgstr "عرض الصور"
+
+#: ../admin/manage.php:470
+msgid "No Picture"
+msgstr "لا يوجد صور"
+
+#: ../admin/manage.php:485
+msgid "Path"
+msgstr "المسار"
+
+#: ../admin/manage.php:488
+msgid "Create new page"
+msgstr "أنشيء صفحة جديدة"
+
+#: ../admin/manage.php:491
+msgid "Main page (No parent)"
+msgstr "الصفحة الرئيسة (لا يوجد مسار رئيسي)"
+
+#: ../admin/manage.php:494
+msgid "Add page"
+msgstr "أضف صفحة"
+
+#: ../admin/manage.php:500
+msgid "Scan Folder for new images"
+msgstr "افحص المجلد للبحث عن صور جديدة"
+
+#: ../admin/manage.php:501
+#: ../admin/manage.php:592
+msgid "Save Changes"
+msgstr "احفظ التغييرات"
+
+#: ../admin/manage.php:506
+msgid "No action"
+msgstr "لا تقم بعمل شيء"
+
+#: ../admin/manage.php:511
+msgid "Delete images"
+msgstr "احذف الصور"
+
+#: ../admin/manage.php:512
+msgid "Import metadata"
+msgstr "استيراد ميتاداتا"
+
+#: ../admin/manage.php:514
+msgid "Add tags"
+msgstr "أضف كلمات دليلية (تاق)"
+
+#: ../admin/manage.php:515
+msgid "Delete tags"
+msgstr "احذف كلمات دليلية (تاق)"
+
+#: ../admin/manage.php:516
+msgid "Overwrite tags"
+msgstr "اكتب فوق الكلمات الدليلية (تاق)"
+
+#: ../admin/manage.php:520
+#: ../admin/manage.php:521
+#: ../admin/manage.php:610
+msgid "OK"
+msgstr "موافق"
+
+#: ../admin/manage.php:520
+#: ../admin/manage.php:610
+msgid "No images selected"
+msgstr "لم تقم بتحديد أي صورة"
+
+#: ../admin/manage.php:520
+#: ../admin/manage.php:610
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"سوف تقوم بتحرير %s صورة \n"
+"\n"
+"إلغاء للتوقف، موافق للاكمال"
+
+#: ../admin/manage.php:522
+msgid "Hide thumbnails "
+msgstr "إخفاء المصغرات"
+
+#: ../admin/manage.php:523
+msgid "Show thumbnails "
+msgstr "إظهار المصغرات"
+
+#: ../admin/manage.php:524
+msgid "Show tags"
+msgstr "إظهار التاق (tags)"
+
+#: ../admin/manage.php:525
+msgid "Hide tags"
+msgstr "اخفاء التاق (tags)"
+
+#: ../admin/manage.php:527
+msgid "Sort gallery"
+msgstr "رتب الألبوم"
+
+#: ../admin/manage.php:536
+#: ../admin/settings.php:320
+msgid "File name"
+msgstr "اسم الملف"
+
+#: ../admin/manage.php:538
+msgid "Thumbnail"
+msgstr "المصغرات"
+
+#: ../admin/manage.php:542
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; خانة العنوان"
+
+#: ../admin/manage.php:543
+msgid "exclude"
+msgstr "استبعد"
+
+#: ../admin/manage.php:545
+msgid "Tags (comma separated list)"
+msgstr "التاق (افصل القائمة بعلامة الفاصلة)"
+
+#: ../admin/manage.php:578
+msgid "View"
+msgstr "اعرض"
+
+#: ../admin/manage.php:579
+msgid "Show Meta data"
+msgstr "اعرض الميتاداتا"
+
+#: ../admin/manage.php:579
+msgid "Meta"
+msgstr "الميتا"
+
+#: ../admin/manage.php:580
+msgid "Delete this file ?"
+msgstr "احذف هذا الملف؟"
+
+#: ../admin/manage.php:607
+msgid "Enter the tags"
+msgstr "أدخل التاق"
+
+#: ../admin/manage.php:610
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../admin/overview.php:18
+msgid "NextGEN Gallery Overview"
+msgstr "نظرة عامة لبرنامج الألبوم (نكست جن)"
+
+#: ../admin/overview.php:21
+msgid "Summary"
+msgstr "ملخص"
+
+#: ../admin/overview.php:30
+#, php-format
+msgid "There are totally %1$s pictures in %2$s galleries, which are spread across %3$s albums."
+msgstr "هناك عدد %1$s صورة في %2$s معارض الصور والتي تم وضعها في %3$s ألبوم"
+
+#: ../admin/overview.php:34
+msgid "New Version available"
+msgstr "نسخة جديدة متوفرة"
+
+#: ../admin/overview.php:35
+msgid "The server reports that a new NextGEN Gallery Version is now available. Please visit the plugin homepage for more information."
+msgstr "هناك تقرير يفيد بأن هناك نسخة جديدة من البرنامج متوفرة للتحميل . فضلا قم بزيارة صفحة البرنامج للحصول على التحديثات اللازمة"
+
+#: ../admin/overview.php:36
+msgid "Download here"
+msgstr "حمل من هنا"
+
+#: ../admin/overview.php:42
+msgid "Server Settings"
+msgstr "إعدادات السيرفر"
+
+#: ../admin/overview.php:50
+msgid "Welcome"
+msgstr "مرحبا"
+
+#: ../admin/overview.php:54
+msgid "gallery administrator"
+msgstr "مدير البرنامج"
+
+#: ../admin/overview.php:54
+msgid "gallery editor"
+msgstr "محرر الألبوم"
+
+#: ../admin/overview.php:55
+#, php-format
+msgid "Welcome to NextGEN Gallery. Here you can control your images, galleries and albums. You currently have %s rights."
+msgstr "مرحبا بك في برنامج الألبوم (نكست جن) ، من هنا يمكنك التحكم بصورك وألبوماتك. لديك %s حق"
+
+#: ../admin/overview.php:60
+msgid "Add a new gallery or import pictures"
+msgstr "أضف ألبوم جديد أو استورد الصور"
+
+#: ../admin/overview.php:61
+msgid "Manage galleries and images"
+msgstr "تحكم بالألبومات والصور"
+
+#: ../admin/overview.php:62
+msgid "Create and manage albums"
+msgstr "أنشيء وتحكم بالألبومات"
+
+#: ../admin/overview.php:63
+msgid "Change the settings of NextGEN Gallery"
+msgstr "غير إعدادات البرنامج"
+
+#: ../admin/overview.php:66
+msgid "Latest News"
+msgstr "آخر الأخبار"
+
+#: ../admin/overview.php:85
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "الأخبار لا يمكن تحميلها. قم بزيارة <a href=\"%s\">الصفحة الرئيسة</a> للحصول على التحديثات"
+
+#: ../admin/overview.php:98
+msgid "GD support"
+msgstr "يدعم مكتبة الGD"
+
+#: ../admin/overview.php:109
+msgid "No GD support"
+msgstr "لا يدعم مكتبة الGD"
+
+#: ../admin/overview.php:116
+#: ../admin/overview.php:154
+#: ../admin/overview.php:157
+#: ../admin/overview.php:160
+msgid "Yes"
+msgstr "نعم"
+
+#: ../admin/overview.php:117
+#: ../admin/overview.php:155
+#: ../admin/overview.php:158
+#: ../admin/overview.php:161
+msgid "No"
+msgstr "لا"
+
+#: ../admin/overview.php:131
+msgid "Not set"
+msgstr "غير محدد"
+
+#: ../admin/overview.php:133
+#: ../admin/overview.php:136
+msgid "On"
+msgstr "مفتوح"
+
+#: ../admin/overview.php:134
+#: ../admin/overview.php:137
+msgid "Off"
+msgstr "مغلق"
+
+#: ../admin/overview.php:140
+#: ../admin/overview.php:143
+#: ../admin/overview.php:146
+#: ../admin/overview.php:149
+#: ../admin/overview.php:152
+msgid "N/A"
+msgstr "غير متوفر"
+
+#: ../admin/overview.php:151
+msgid " MByte"
+msgstr "ميقا بايت"
+
+#: ../admin/overview.php:164
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
+#: ../admin/overview.php:165
+msgid "Server"
+msgstr "السيرفر"
+
+#: ../admin/overview.php:166
+msgid "Memory usage"
+msgstr "الذاكرة المستخدمة"
+
+#: ../admin/overview.php:167
+msgid "MYSQL Version"
+msgstr "نسخة MYSQL"
+
+#: ../admin/overview.php:168
+msgid "SQL Mode"
+msgstr "وضع الـ SQL"
+
+#: ../admin/overview.php:169
+msgid "PHP Version"
+msgstr "نسخة الـphp"
+
+#: ../admin/overview.php:170
+msgid "PHP Safe Mode"
+msgstr "الوضع الآمن PHP "
+
+#: ../admin/overview.php:171
+msgid "PHP Allow URL fopen"
+msgstr "fopen للسماح بروابط PHP "
+
+#: ../admin/overview.php:172
+msgid "PHP Memory Limit"
+msgstr "حد ذاكرة PHP "
+
+#: ../admin/overview.php:173
+msgid "PHP Max Upload Size"
+msgstr "أقصى حجم للتحميل"
+
+#: ../admin/overview.php:174
+msgid "PHP Max Post Size"
+msgstr "أكبر حجم للمشاركة"
+
+#: ../admin/overview.php:175
+msgid "PHP Max Script Execute Time"
+msgstr "الوقت الأقصى المسموح به للتنفيذ"
+
+#: ../admin/overview.php:176
+msgid "PHP Exif support"
+msgstr "دعم للـ Exif"
+
+#: ../admin/overview.php:177
+msgid "PHP IPTC support"
+msgstr "دعم للـ IPTC"
+
+#: ../admin/overview.php:178
+msgid "PHP XML support"
+msgstr "دعم للـ XML"
+
+#: ../admin/overview.php:319
+msgid "Storage Space"
+msgstr "المساحة المتاحة"
+
+#: ../admin/overview.php:322
+msgid "Upload Space Used:"
+msgstr "مساحة الرفع المستخدمة:"
+
+#: ../admin/overview.php:328
+msgid "Upload Space Remaining:"
+msgstr "المساحة المتاحة المتبقية :"
+
+#: ../admin/roles.php:20
+msgid "Updated capabilities"
+msgstr "الصلاحيات التي تم تحديثها"
+
+#: ../admin/roles.php:25
+msgid "Roles / capabilities"
+msgstr "الأدوار / الصلاحيات"
+
+#: ../admin/roles.php:26
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "حدد الصلاحيات الدنيا لمن يستطيع الحصول على الصلاحيات التالية . البرنامج يدعم الصلاحيات التي يتبعها نظام الووردبرس"
+
+#: ../admin/roles.php:27
+msgid "For a more flexible user management you can use the"
+msgstr "لصلاحيات منوعة حسب ما تريده بامكانك استخدام "
+
+#: ../admin/roles.php:33
+msgid "Main NextGEN Gallery overview"
+msgstr "نظرة عامة للبرنامج"
+
+#: ../admin/roles.php:37
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "استخدم زر الكتابة المطور / زر الرفع"
+
+#: ../admin/roles.php:41
+msgid "Add gallery / Upload images"
+msgstr "أضف ألبوم / رفع الصور"
+
+#: ../admin/roles.php:45
+msgid "Manage gallery"
+msgstr "التحكم بالألبوم"
+
+#: ../admin/roles.php:49
+msgid "Edit Album"
+msgstr "حرر الألبوم"
+
+#: ../admin/roles.php:53
+msgid "Change style"
+msgstr "غير القالب"
+
+#: ../admin/roles.php:57
+msgid "Change options"
+msgstr "غير الإعدادات"
+
+#: ../admin/roles.php:61
+msgid "Update capabilities"
+msgstr "حدث القدرات"
+
+#: ../admin/settings.php:33
+msgid "Update successfully"
+msgstr "تم التحديث بنجاح"
+
+#: ../admin/settings.php:50
+msgid "Cache cleared"
+msgstr "حذف الكاش"
+
+#: ../admin/settings.php:101
+#: ../admin/settings.php:113
+msgid "General Options"
+msgstr "إعدادات عامة"
+
+#: ../admin/settings.php:103
+msgid "Images"
+msgstr "صور"
+
+#: ../admin/settings.php:105
+#: ../admin/settings.php:339
+msgid "Effects"
+msgstr "مؤثرات"
+
+#: ../admin/settings.php:106
+#: ../admin/settings.php:392
+msgid "Watermark"
+msgstr "العلامة المائية (البصمة)"
+
+#: ../admin/settings.php:107
+#: ../admin/settings.php:296
+#: ../admin/settings.php:500
+msgid "Slideshow"
+msgstr "شرائح العرض"
+
+#: ../admin/settings.php:120
+msgid "Gallery path"
+msgstr "مسار الألبوم"
+
+#: ../admin/settings.php:122
+msgid "This is the default path for all galleries"
+msgstr "هذا هو المسار التلقائي لكل الألبومات"
+
+#: ../admin/settings.php:133
+msgid "Delete image files"
+msgstr "احذف ملفات الصور"
+
+#: ../admin/settings.php:135
+msgid "Delete files, when removing a gallery in the database"
+msgstr "احذف الملفات حينما أحذف ألبوما من قاعدة البيانات"
+
+#: ../admin/settings.php:138
+msgid "Activate permalinks"
+msgstr "فعل الروابط الدائمة"
+
+#: ../admin/settings.php:140
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "حينما يتم تفعيل هذا الخيار، سوف تحتاج لتحديث روابطك الدائمة مرة واحدة"
+
+#: ../admin/settings.php:143
+msgid "Tags / Categories"
+msgstr "التصانيف والتاق tags"
+
+#: ../admin/settings.php:146
+msgid "Activate related images"
+msgstr "فعل الصور المشابهة"
+
+#: ../admin/settings.php:148
+msgid "This option will append related images to every post"
+msgstr "هذا الخيار سوف يضيف الصور المشابهة في كل إضافة"
+
+#: ../admin/settings.php:152
+msgid "Match with"
+msgstr "اربطه مع "
+
+#: ../admin/settings.php:153
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: ../admin/settings.php:154
+msgid "Tags"
+msgstr "الكلماتا لمفتاحية (تاق)"
+
+#: ../admin/settings.php:154
+msgid " (require WordPress 2.3 or higher)"
+msgstr "(يحتاج ووردبرس 2.3 أو أحدث)"
+
+#: ../admin/settings.php:158
+msgid "Max. number of images"
+msgstr "أكثر عدد من الصور"
+
+#: ../admin/settings.php:160
+msgid "0 will show all images"
+msgstr "0 سوف يعرض كل الصور"
+
+#: ../admin/settings.php:172
+msgid "Thumbnail settings"
+msgstr "إعدادات المصغرات"
+
+#: ../admin/settings.php:177
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "فضلا لاحظ: إذا قمت بتغيير الخيارات، سوف تحتاج لإعادة إنشاء المصغرات ، ستجدها في => التحكم بالألبوم"
+
+#: ../admin/settings.php:180
+msgid "Width x height (in pixel)"
+msgstr "العرض × الارتفاع بالبكسل"
+
+#: ../admin/settings.php:182
+msgid "These values are maximum values "
+msgstr "هذه القيم هي القيم القصوى"
+
+#: ../admin/settings.php:185
+msgid "Set fix dimension"
+msgstr "ضع أبعاد الصور"
+
+#: ../admin/settings.php:187
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "تجاهل النسبة، لا تصنع مصغرات"
+
+#: ../admin/settings.php:190
+msgid "Crop square thumbnail from image"
+msgstr "اصنع صورة مصغرة مربعة من الصورة"
+
+#: ../admin/settings.php:192
+msgid "Create square thumbnails, use only the width setting :"
+msgstr "اصنع مصغرات مربعة، استخدم مقاس العرض فقط"
+
+#: ../admin/settings.php:195
+msgid "Thumbnail quality"
+msgstr "جودة المصغرات"
+
+#: ../admin/settings.php:199
+#: ../admin/settings.php:231
+msgid "Resample Mode"
+msgstr ""
+
+#: ../admin/settings.php:201
+#: ../admin/settings.php:234
+msgid "Value between 1-5 (higher value, more CPU load)"
+msgstr "القيمة من 1 إلى 5 (قيمة عالية مقابل ضغط أعلى على السيرفر)"
+
+#: ../admin/settings.php:212
+msgid "Image settings"
+msgstr "إعدادات الصور"
+
+#: ../admin/settings.php:219
+msgid "Resize Images"
+msgstr "أعد وضع مقاسات الصورة"
+
+#: ../admin/settings.php:223
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "العرض × الارتفاع (بالبكسل) . البرنامج سوف يحفظ تناسب المقاسات"
+
+#: ../admin/settings.php:226
+msgid "Image quality"
+msgstr "جودة الصورة"
+
+#: ../admin/settings.php:237
+msgid "Single picture"
+msgstr "صورة مفردة"
+
+#: ../admin/settings.php:240
+msgid "Cache single pictures"
+msgstr "عمل كاش للصور المفردة"
+
+#: ../admin/settings.php:243
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "اصنع ملف لكل صورة على حدة، سوف يخفف الضغط على السيرفر"
+
+#: ../admin/settings.php:246
+msgid "Clear cache folder"
+msgstr "احذف جميع المدخلات في مجلد الكاش"
+
+#: ../admin/settings.php:248
+msgid "Proceed now"
+msgstr "أكمل الآن"
+
+#: ../admin/settings.php:259
+msgid "Gallery settings"
+msgstr "إعدادات الألبوم"
+
+#: ../admin/settings.php:275
+msgid "Deactivate gallery page link"
+msgstr "تعطيل روابط صفحة الألبوم"
+
+#: ../admin/settings.php:277
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "الألبوم لن يرتبط بصفحة داخلية لمعارض الصور. سوف يظهر المعرض في نفس الصفحة"
+
+#: ../admin/settings.php:281
+msgid "Number of images per page"
+msgstr "عدد الصور في الصفحة"
+
+#: ../admin/settings.php:283
+msgid "0 will disable pagination, all images on one page"
+msgstr "سوف يلغي تعدد الصفحات وستظهر جميع الصور في صفحة واحدة"
+
+#: ../admin/settings.php:287
+msgid "Integrate slideshow"
+msgstr "دمج الشرائح"
+
+#: ../admin/settings.php:294
+msgid "Show first"
+msgstr "أظهر أولا"
+
+#: ../admin/settings.php:300
+msgid "Show thumbnail description"
+msgstr "أظهر وصف المصغرات"
+
+#: ../admin/settings.php:301
+#: ../admin/settings.php:351
+msgid "None"
+msgstr "لا شيء"
+
+#: ../admin/settings.php:302
+msgid "Description text"
+msgstr "الوصف"
+
+#: ../admin/settings.php:303
+#: ../admin/settings.php:321
+msgid "Alt / Title text"
+msgstr "العنوان"
+
+#: ../admin/settings.php:307
+msgid "Show ImageBrowser"
+msgstr "أظهر متصفح الصور"
+
+#: ../admin/settings.php:309
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "الألبوم سوف يفتح متصفح الصور بدلا عن المؤثرات"
+
+#: ../admin/settings.php:313
+msgid "Sort options"
+msgstr "اعرض الخيارات"
+
+#: ../admin/settings.php:316
+msgid "Sort thumbnails"
+msgstr "اعرض المصغرات"
+
+#: ../admin/settings.php:318
+msgid "Custom order"
+msgstr "الترتيب المخصص"
+
+#: ../admin/settings.php:319
+msgid "Image ID"
+msgstr "رقم الصورة"
+
+#: ../admin/settings.php:325
+msgid "Sort direction"
+msgstr "اتجاه العرض"
+
+#: ../admin/settings.php:326
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: ../admin/settings.php:327
+msgid "Descending"
+msgstr "تنازليا"
+
+#: ../admin/settings.php:343
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Thickbox effect will automatic added to your theme."
+msgstr "يمكنك اختيار مؤثرات المصغرات، برنامج (نكست جن) سوف يدمج الكود المطلوب مع الصور . فضلا لاحظ أن مؤثر الصندوق السميك هو فقط الذي سيضاف للقالب"
+
+#: ../admin/settings.php:344
+msgid "With the placeholder"
+msgstr "بالرقم"
+
+#: ../admin/settings.php:344
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "بامكانك تفعيل التصفح عن طريق الصور (يعمد على المؤثرات) . غير الكود فقط، عندما تستخدم مؤثر مصغرات مختلف أو كنت تعرف ما الذي تريد تغييره بدقة"
+
+#: ../admin/settings.php:348
+msgid "JavaScript Thumbnail effect"
+msgstr "مؤثرات الجافا للمصغرات"
+
+#: ../admin/settings.php:352
+msgid "Thickbox"
+msgstr "الصندوق السميك"
+
+#: ../admin/settings.php:353
+msgid "Lightbox"
+msgstr "الصندوق النحيف"
+
+#: ../admin/settings.php:354
+msgid "Highslide"
+msgstr "الشريحة العليا"
+
+#: ../admin/settings.php:355
+msgid "Shutter"
+msgstr "الغالق"
+
+#: ../admin/settings.php:356
+msgid "Custom"
+msgstr "مخصص"
+
+#: ../admin/settings.php:361
+msgid "Link Code line"
+msgstr "خط شفرة الرابط"
+
+#: ../admin/settings.php:369
+msgid "Select loading image"
+msgstr "اختر صورة التحميل"
+
+#: ../admin/settings.php:393
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "فضلا لاحظ : بامكانك تفعيل العلامة المائية (البصمة) من => التحكم بالألبوم . هذا الإجراء لا يمكن التراجع عنه ."
+
+#: ../admin/settings.php:398
+msgid "Preview"
+msgstr "مشاهدة"
+
+#: ../admin/settings.php:400
+#: ../admin/settings.php:404
+msgid "Position"
+msgstr "الوضع"
+
+#: ../admin/settings.php:424
+msgid "Offset"
+msgstr "طباعة الأوفسيت"
+
+#: ../admin/settings.php:442
+msgid "Use image as watermark"
+msgstr "استخدم الصورة كبصمة"
+
+#: ../admin/settings.php:445
+msgid "URL to file"
+msgstr "رابط الملف"
+
+#: ../admin/settings.php:447
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "الدخول للملفات تم تعطيله في سيرفرك، راجع هذه الدالة (allow_url_fopen)"
+
+#: ../admin/settings.php:453
+msgid "Use text as watermark"
+msgstr "استخدم النص كبصمة"
+
+#: ../admin/settings.php:456
+msgid "Font"
+msgstr "الخط"
+
+#: ../admin/settings.php:465
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "هذه الخاصية لن تعمل لأنك بحاجة لمكتبة اسمها (Free Type)"
+
+#: ../admin/settings.php:467
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "بامكانك تحميل المزيد من الخطوط في مجلد <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:471
+msgid "Size"
+msgstr "الحجم"
+
+#: ../admin/settings.php:475
+msgid "Color"
+msgstr "اللون"
+
+#: ../admin/settings.php:477
+msgid "(hex w/o #)"
+msgstr ""
+
+#: ../admin/settings.php:480
+msgid "Text"
+msgstr "النص"
+
+#: ../admin/settings.php:484
+msgid "Opaque"
+msgstr "قاتم (لا بريق له)"
+
+#: ../admin/settings.php:502
+msgid "The imagerotator.swf is not in the nggallery folder, the slideshow will not work."
+msgstr "ملف imagerotator.swf ليس في المجلد nggallery , عرض الشرائح لن يعمل."
+
+#: ../admin/settings.php:503
+msgid "The settings are used in the JW Image Rotator Version"
+msgstr "الخيارات مستخدمة في مدور الصور"
+
+#: ../admin/settings.php:504
+msgid "See more information for the Flash Player on the web page"
+msgstr "شاهد معلومات أكثر عن مشغل الفلاش على هذا الرابط"
+
+#: ../admin/settings.php:507
+msgid "Default size (W x H)"
+msgstr "الحجم الافتراضي (العرض×الارتفاع)"
+
+#: ../admin/settings.php:512
+msgid "Shuffle mode"
+msgstr "أسلوب عرض عشوائي"
+
+#: ../admin/settings.php:516
+msgid "Show next image on click"
+msgstr "اعرض الصورة التالية عند الضغط"
+
+#: ../admin/settings.php:520
+msgid "Show navigation bar"
+msgstr "اعرض شريط الانتقال"
+
+#: ../admin/settings.php:524
+msgid "Show loading icon"
+msgstr "اعرض أيقونة التحميل"
+
+#: ../admin/settings.php:528
+msgid "Use watermark logo"
+msgstr "استخدم شعار العلامة المائية (البصمة)"
+
+#: ../admin/settings.php:530
+msgid "You can change the logo at the watermark settings"
+msgstr "تستطيع تغيير الشعار في خيارات العلامة المائية"
+
+#: ../admin/settings.php:533
+msgid "Stretch image"
+msgstr "صورة التمدد"
+
+#: ../admin/settings.php:536
+msgid "true"
+msgstr "صحيح"
+
+#: ../admin/settings.php:537
+msgid "false"
+msgstr "خطأ"
+
+#: ../admin/settings.php:538
+msgid "fit"
+msgstr "مناسب"
+
+#: ../admin/settings.php:539
+msgid "none"
+msgstr "لا شيء"
+
+#: ../admin/settings.php:544
+msgid "Duration time"
+msgstr "فترة الاستمرارية"
+
+#: ../admin/settings.php:545
+msgid "sec."
+msgstr ""
+
+#: ../admin/settings.php:548
+msgid "Transition / Fade effect"
+msgstr "الانتقال / مؤثر الزوال"
+
+#: ../admin/settings.php:551
+msgid "fade"
+msgstr "زوال / اختفاء"
+
+#: ../admin/settings.php:552
+msgid "bgfade"
+msgstr ""
+
+#: ../admin/settings.php:553
+msgid "slowfade"
+msgstr "زوال بطيء"
+
+#: ../admin/settings.php:554
+msgid "circles"
+msgstr "دوائر"
+
+#: ../admin/settings.php:555
+msgid "bubbles"
+msgstr "فقاعات"
+
+#: ../admin/settings.php:556
+msgid "blocks"
+msgstr "البلوكات"
+
+#: ../admin/settings.php:557
+msgid "fluids"
+msgstr "مائع"
+
+#: ../admin/settings.php:558
+msgid "flash"
+msgstr "فلاش"
+
+#: ../admin/settings.php:559
+msgid "lines"
+msgstr "خطوط"
+
+#: ../admin/settings.php:564
+msgid "Use slow zooming effect"
+msgstr "استخدم التقريب البطيء كمؤثر"
+
+#: ../admin/settings.php:568
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: ../admin/settings.php:573
+msgid "Texts / Buttons Color"
+msgstr "ألوان النصوص / الأزرار"
+
+#: ../admin/settings.php:578
+msgid "Rollover / Active Color"
+msgstr "تأجيل / تفعيل الالوان"
+
+#: ../admin/settings.php:583
+msgid "Screen Color"
+msgstr "لون الشاشة"
+
+#: ../admin/settings.php:588
+msgid "Background music (URL)"
+msgstr "الخلفية الصوتية (رابط)"
+
+#: ../admin/settings.php:592
+msgid "Try XHTML validation (with CDATA)"
+msgstr ""
+
+#: ../admin/settings.php:594
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "مهم : يمكن أن يسبب مشكلة في بعض المتصفحات . فضلا أعد فحص الصفحة"
+
+#: ../admin/setup.php:12
+msgid "Reset all settings to default parameter"
+msgstr "اعد كل الصلاحيات للقيم التلقائية"
+
+#: ../admin/setup.php:37
+msgid "Uninstall sucessfull ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "تم إلغاء التثبيت بنجاح! بامكانك الآن حذف البرنامج والاستمتاع بحياتك :)"
+
+#: ../admin/setup.php:46
+msgid "Reset options"
+msgstr "أعد الخيارات لوضعها الأصلي"
+
+#: ../admin/setup.php:49
+msgid "Reset all options/settings to the default installation."
+msgstr "أعد الخيارات والإعدادات لما كانت عليه قبل أن تعدل عليها"
+
+#: ../admin/setup.php:50
+msgid "Reset settings"
+msgstr "أعد الخيارات لما كانت عليه"
+
+#: ../admin/setup.php:50
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"أعد قيم البرنامج لما كانت عليه\\n"
+"\\n"
+"اختر [إلغاء] للتوقف, [موافق] للإكمال.\\n"
+
+#: ../admin/setup.php:55
+msgid "Uninstall plugin tables"
+msgstr "إلغاء تثبيت جداول الإضافة"
+
+#: ../admin/setup.php:58
+msgid "You don't like NextGEN Gallery ?"
+msgstr "لم يعجبك برنامج الألبوم؟"
+
+#: ../admin/setup.php:59
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "لا يوجد مشكلة، ولكن لحذف البرنامج لا بد من الضغط على زر إلغاء التثبيت ليزال البرنامج بجميع جداوله"
+
+#: ../admin/setup.php:60
+msgid "WARNING:"
+msgstr "تحذير:"
+
+#: ../admin/setup.php:61
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "بعد عمل إلغاء التثبيت لن يكون باستطاعتك استرجاع البرنامج، من الأفضل أخذ نسخة من قواعد البيانات قبل البداية في إلغاء التثبيت"
+
+#: ../admin/setup.php:61
+msgid "and"
+msgstr "و"
+
+#: ../admin/setup.php:63
+msgid "Uninstall plugin"
+msgstr "إلغاء تثبيت الإضافة"
+
+#: ../admin/setup.php:63
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"سوف تقوم الآن بإلغاء تثبيت البرنامج من الووردبرس.\\n"
+"لن يمكنك التراجع بعد الآن.\\n"
+"\\n"
+"اختر [إلغاء] للتوقف, [موافق] لإلغاء التثبيت.\\n"
+
+#: ../admin/showmeta.php:7
+#: ../admin/showmeta.php:10
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../admin/showmeta.php:42
+msgid "EXIF Data"
+msgstr ""
+
+#: ../admin/showmeta.php:47
+#: ../admin/showmeta.php:71
+#: ../admin/showmeta.php:95
+msgid "Tag"
+msgstr "الكلمات المفتاحية"
+
+#: ../admin/showmeta.php:48
+#: ../admin/showmeta.php:72
+#: ../admin/showmeta.php:96
+msgid "Value"
+msgstr "القيمة"
+
+#: ../admin/showmeta.php:61
+msgid "No exif data"
+msgstr ""
+
+#: ../admin/showmeta.php:67
+msgid "IPTC Data"
+msgstr ""
+
+#: ../admin/showmeta.php:91
+msgid "XMP Data"
+msgstr ""
+
+#: ../admin/sort.php:35
+msgid "Sort order changed"
+msgstr "تم تغيير طريقة العرض"
+
+#: ../admin/sort.php:53
+msgid "Sort Gallery"
+msgstr "اعرض المعرض"
+
+#: ../admin/sort.php:58
+msgid "Back to gallery"
+msgstr "عودة للألبوم"
+
+#: ../admin/sort.php:59
+msgid "Update Sort Order"
+msgstr "تحديث ترتيب العرض"
+
+#: ../admin/style.php:34
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "ليس لديك الصلاحيات لتغيير القوالب"
+
+#: ../admin/style.php:43
+msgid "CSS file successfully updated"
+msgstr "تم تحديث ملفات القالب بنجاح"
+
+#: ../admin/style.php:66
+msgid "Activate and use style sheet:"
+msgstr "فعل واستخدم القالب:"
+
+#: ../admin/style.php:85
+msgid "Activate"
+msgstr "تفعيل"
+
+#: ../admin/style.php:93
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "تحرير <strong>%s</strong>"
+
+#: ../admin/style.php:95
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "استعراض <strong>%s</strong>"
+
+#: ../admin/style.php:100
+msgid "Author"
+msgstr "المصور"
+
+#: ../admin/style.php:101
+msgid "Version"
+msgstr "النسخة"
+
+#: ../admin/style.php:118
+msgid "Update File &raquo;"
+msgstr "حدث الملف &raquo;"
+
+#: ../admin/style.php:122
+msgid "If this file were writable you could edit it."
+msgstr "لو كان هذا الملف قابلا للكتابة لاستطعت تحريره"
+
+#: ../admin/style.php:127
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "اسم الملف غير صحيح فالملف غير موجود، فضلا تأكد من الاسم الصحيح وأعد المحاولة"
+
+#: ../admin/uploadtab.php:105
+msgid "Select a gallery"
+msgstr "اختر ألبوم"
+
+#: ../admin/uploadtab.php:107
+#: ../admin/wp25/media-upload.php:127
+msgid "No gallery"
+msgstr "لا يوجد ألبوم"
+
+#: ../admin/uploadtab.php:172
+#: ../admin/js/uploadtab.js.php:166
+msgid "URL"
+msgstr "الرابط"
+
+#: ../admin/uploadtab.php:185
+#: ../admin/js/uploadtab.js.php:174
+msgid "Delete File"
+msgstr "احذف الملف"
+
+#: ../admin/uploadtab.php:185
+msgid "Delete image ?"
+msgstr "احذف الصورة؟"
+
+#: ../admin/wpmu.php:41
+msgid "General WordPress MU Settings"
+msgstr "الخيارات العامة"
+
+#: ../admin/wpmu.php:50
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "هذا هو المسار الافتراضي لكل المدونات. بواسطة هذا الرقم %BLOG_ID% يمكنك ترتيب شكل القالب بشكل أفضل. يجب أن ينتهي المسار بهذه العلامة /."
+
+#: ../admin/wpmu.php:53
+msgid "Enable upload quota check"
+msgstr "فعل خاصية فحص الحد الأعلى للرفع"
+
+#: ../admin/wpmu.php:55
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "سوف يعمل اذا كان المعرض داخل مسار المدونة"
+
+#: ../admin/wpmu.php:59
+msgid "Enable zip upload option"
+msgstr "فعل خيار رفع الملفات المضغوطة"
+
+#: ../admin/wpmu.php:61
+msgid "Allow users to upload zip folders."
+msgstr "اسمح للأعضاء بتحميل مجلدات مضغوطة"
+
+#: ../admin/wpmu.php:65
+msgid "Enable style selection"
+msgstr "فعل اختيار القالب"
+
+#: ../admin/wpmu.php:67
+msgid "Allow users to choose a style for the gallery."
+msgstr "اسمح للأعضاء باختيار قالب خاص للمعرض"
+
+#: ../admin/wpmu.php:71
+msgid "Enable roles/capabilities"
+msgstr "اسمح بالأدوار/الصلاحيات"
+
+#: ../admin/wpmu.php:73
+msgid "Allow users to change the roles for other blog authors."
+msgstr "اسمح للأعضاء بتغيير الأدوار للمصورين الآخرين"
+
+#: ../admin/wpmu.php:77
+msgid "Default style"
+msgstr "القالب الأساسي"
+
+#: ../admin/wpmu.php:94
+msgid "Choose the default style for the galleries."
+msgstr "اختر القالب الأساسي للألبومات"
+
+#: ../admin/js/uploadtab.js.php:86
+#: ../admin/js/uploadtab.js.php:88
+#: ../admin/js/uploadtab.js.php:149
+#: ../admin/js/uploadtab.js.php:151
+msgid "Browse your files"
+msgstr "تصفح ملفاتك"
+
+#: ../admin/js/uploadtab.js.php:86
+#: ../admin/js/uploadtab.js.php:88
+#: ../admin/js/uploadtab.js.php:149
+#: ../admin/js/uploadtab.js.php:151
+msgid "&laquo; Back"
+msgstr "&laquo; السابق"
+
+#: ../admin/js/uploadtab.js.php:97
+#: ../admin/js/uploadtab.js.php:160
+msgid "Direct link to file"
+msgstr "رابط مباشر للملف"
+
+#: ../admin/js/uploadtab.js.php:107
+#: ../admin/wp25/media-upload.php:209
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#: ../admin/js/uploadtab.js.php:110
+msgid "Show:"
+msgstr "اعرض:"
+
+#: ../admin/js/uploadtab.js.php:115
+msgid "Link to:"
+msgstr "رابط لـ:"
+
+#: ../admin/js/uploadtab.js.php:116
+msgid "File"
+msgstr "الملف"
+
+#: ../admin/js/uploadtab.js.php:121
+msgid "Send to editor &raquo;"
+msgstr "أرسل للمحرر &raquo;"
+
+#: ../admin/js/uploadtab.js.php:156
+msgid "Insert"
+msgstr "أدخل"
+
+#: ../admin/js/uploadtab.js.php:180
+msgid "Save &raquo;"
+msgstr "احفظ &raquo;"
+
+#: ../admin/js/uploadtab.js.php:259
+#, php-format
+msgid ""
+"Are you sure you want to delete the file '%s'?\n"
+"Click ok to delete or cancel to go back."
+msgstr ""
+"هل أنت متأكد من حذف هذا الملف '%s'?\n"
+"اضغط موافق للاستمرار وإلغاء لإلغاء العملية"
+
+#: ../admin/wp25/about.php:31
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "لمساعدة المدونين على استخدام هذا البرنامج أتمنى أن يتم ترجمته لكل اللغات الحية"
+
+#: ../admin/wp25/about.php:43
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "بلا شك إنه حافز سهل ومفيد :-)"
+
+#: ../admin/wp25/addgallery.php:236
+msgid "Import a folder with all images."
+msgstr "استيراد مجلد بكل ما فيه من صور"
+
+#: ../admin/wp25/addgallery.php:237
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "فضلا لاحظ أن السيف مود إن كان يعمل على سيرفرك فإن مصغرات المجلدات الداخلية يجب أن تضاف يدويا"
+
+#: ../admin/wp25/media-upload.php:139
+msgid "Select Gallery &#187;"
+msgstr "اختر المعرض &#187;"
+
+#: ../admin/wp25/media-upload.php:170
+msgid "Show"
+msgstr "عرض"
+
+#: ../admin/wp25/media-upload.php:171
+msgid "Hide"
+msgstr "إخفاء"
+
+#: ../admin/wp25/media-upload.php:176
+msgid "Image ID:"
+msgstr "رقم الصورة:"
+
+#: ../admin/wp25/media-upload.php:182
+msgid "Alt/Title text"
+msgstr "نص العنوان"
+
+#: ../admin/wp25/media-upload.php:190
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: ../admin/wp25/media-upload.php:195
+msgid "Left"
+msgstr "يسار"
+
+#: ../admin/wp25/media-upload.php:197
+msgid "Center"
+msgstr "متوسط"
+
+#: ../admin/wp25/media-upload.php:199
+msgid "Right"
+msgstr "يمين"
+
+#: ../admin/wp25/media-upload.php:211
+msgid "Singlepic"
+msgstr "صورة وحيدة"
+
+#: ../admin/wp25/media-upload.php:219
+msgid "Insert into Post"
+msgstr "أدخله في المشاركة"
+
+#: ../admin/wp25/media-upload.php:228
+msgid "Save all changes"
+msgstr "احفظ كل التغييرات"
+
+#: ../admin/wp25/overview.php:35
+msgid "Welcome to NextGEN Gallery !"
+msgstr "مرحبا بك في برنامج ألبوم الصور"
+
+#: ../admin/wp25/overview.php:36
+msgid "Upload pictures"
+msgstr "رفع الصور"
+
+#: ../admin/wp25/overview.php:37
+msgid "Manage galleries"
+msgstr "التحكم بالألبومات"
+
+#: ../admin/wp25/overview.php:55
+#, php-format
+msgid "Here you can control your images, galleries and albums. You currently have %s rights."
+msgstr "هنا يمكنك صورك ومعارضك وألبومك . حاليا أنت تملك %s حق"
+
+#: ../admin/wp25/style.php:65
+msgid "Style Editor"
+msgstr "محرر القوالب"
+
+#: ../lib/nggmeta.lib.php:83
+msgid " mm"
+msgstr ""
+
+#: ../lib/nggmeta.lib.php:89
+msgid " sec"
+msgstr ""
+
+#: ../lib/nggmeta.lib.php:366
+msgid "Aperture"
+msgstr "كمية الضوء الداخل للكاميرا"
+
+#: ../lib/nggmeta.lib.php:367
+#: ../lib/nggmeta.lib.php:392
+msgid "Credit"
+msgstr ""
+
+#: ../lib/nggmeta.lib.php:368
+msgid "Camera"
+msgstr "الكاميرا"
+
+#: ../lib/nggmeta.lib.php:369
+msgid "Caption"
+msgstr "شرح قصير"
+
+#: ../lib/nggmeta.lib.php:370
+msgid "Date/Time"
+msgstr "التاريخ/الوقت"
+
+#: ../lib/nggmeta.lib.php:371
+msgid "Copyright"
+msgstr "الحقوق"
+
+#: ../lib/nggmeta.lib.php:372
+msgid "Focal length"
+msgstr "البعد البؤري"
+
+#: ../lib/nggmeta.lib.php:373
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/nggmeta.lib.php:374
+msgid "Shutter speed"
+msgstr "سرعة الغالق"
+
+#: ../lib/nggmeta.lib.php:378
+msgid "Subject"
+msgstr "الموضوع"
+
+#: ../lib/nggmeta.lib.php:379
+msgid "Make"
+msgstr "الطراز"
+
+#: ../lib/nggmeta.lib.php:380
+msgid "Edit Status"
+msgstr "حرر الحالة"
+
+#: ../lib/nggmeta.lib.php:381
+msgid "Category"
+msgstr "التصنيف"
+
+#: ../lib/nggmeta.lib.php:382
+msgid "Keywords"
+msgstr "الكلمات المفتاحية"
+
+#: ../lib/nggmeta.lib.php:383
+msgid "Date Created"
+msgstr "تاريخ الالتقاط"
+
+#: ../lib/nggmeta.lib.php:384
+msgid "Time Created"
+msgstr "وقت الالتقاط"
+
+#: ../lib/nggmeta.lib.php:385
+msgid "Author Position"
+msgstr "مكان المصور"
+
+#: ../lib/nggmeta.lib.php:386
+msgid "City"
+msgstr "المدينة"
+
+#: ../lib/nggmeta.lib.php:387
+msgid "Location"
+msgstr "الموقع"
+
+#: ../lib/nggmeta.lib.php:388
+msgid "Province/State"
+msgstr "المقاطعة/الولاية"
+
+#: ../lib/nggmeta.lib.php:389
+msgid "Country code"
+msgstr "كود الدولة"
+
+#: ../lib/nggmeta.lib.php:390
+msgid "Country"
+msgstr "الدولة"
+
+#: ../lib/nggmeta.lib.php:391
+msgid "Headline"
+msgstr "عنوان رئيس"
+
+#: ../lib/nggmeta.lib.php:393
+msgid "Source"
+msgstr "المصدر"
+
+#: ../lib/nggmeta.lib.php:394
+msgid "Copyright Notice"
+msgstr "ملاحظات الحقوق"
+
+#: ../lib/nggmeta.lib.php:395
+msgid "Contact"
+msgstr "اتصال"
+
+#: ../lib/nggmeta.lib.php:396
+msgid "Last modified"
+msgstr "آخر تحديث"
+
+#: ../lib/nggmeta.lib.php:397
+msgid "Program tool"
+msgstr "أداة البرنامج"
+
+#: ../lib/nggmeta.lib.php:398
+msgid "Format"
+msgstr "الصيغة"
+
+#: ../tinymce/window.php:47
+#: ../tinymce3/window.php:47
+msgid "Select gallery"
+msgstr "حدد ألبوم"
+
+#: ../tinymce/window.php:61
+#: ../tinymce/window.php:88
+#: ../tinymce3/window.php:61
+#: ../tinymce3/window.php:88
+msgid "Show as"
+msgstr "اعرض كـ"
+
+#: ../tinymce/window.php:62
+#: ../tinymce3/window.php:62
+msgid "Image list"
+msgstr "قائمة الصور"
+
+#: ../tinymce/window.php:76
+#: ../tinymce3/window.php:76
+msgid "No album"
+msgstr "لا يوجد ألبوم"
+
+#: ../tinymce/window.php:89
+#: ../tinymce3/window.php:89
+msgid "Extended version"
+msgstr "النسخة الموسعة"
+
+#: ../tinymce/window.php:90
+#: ../tinymce3/window.php:90
+msgid "Compact version"
+msgstr "النسخة المضغوطة"
+
+#: ../tinymce/window.php:101
+#: ../tinymce3/window.php:101
+msgid "Select picture"
+msgstr "حدد الصور"
+
+#: ../tinymce/window.php:103
+#: ../tinymce3/window.php:103
+msgid "No picture"
+msgstr "لا يوجد صور"
+
+#: ../tinymce/window.php:115
+#: ../tinymce3/window.php:115
+msgid "Width x Height"
+msgstr "العرض × الارتفاع"
+
+#: ../tinymce/window.php:119
+#: ../tinymce3/window.php:119
+msgid "Effect"
+msgstr "المؤثرات"
+
+#: ../tinymce/window.php:122
+#: ../tinymce3/window.php:122
+msgid "No effect"
+msgstr "لا يوجد مؤثرات"
+
+#: ../tinymce/window.php:124
+#: ../tinymce3/window.php:124
+msgid "Web 2.0"
+msgstr "الويب 2.0"
+
+#: ../tinymce/window.php:129
+#: ../tinymce3/window.php:129
+msgid "Float"
+msgstr "عائم"
+
+#: ../tinymce/window.php:132
+#: ../tinymce3/window.php:132
+msgid "No float"
+msgstr "ليس عائما"
+

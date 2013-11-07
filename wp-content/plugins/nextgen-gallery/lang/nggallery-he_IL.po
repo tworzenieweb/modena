@@ -1,0 +1,3291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-27 10:06+0100\n"
+"PO-Revision-Date: 2010-03-04 13:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:169
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "מצטערים, הגלרייה עובדת רק עם הגבלת זיכרון של 16 מגה בייט ומעלה"
+
+#: ../nggallery.php:194
+msgid "Picture tag"
+msgstr "תגית התמונה"
+
+#: ../nggallery.php:195
+msgid "Picture tag: %2$l."
+msgstr "תגית התמונה: %2$l."
+
+#: ../nggallery.php:196
+msgid "Separate picture tags with commas."
+msgstr "הפרד את התגיות על ידי פסיקים."
+
+#: ../nggallery.php:292
+msgid "L O A D I N G"
+msgstr "טוען"
+
+#: ../nggallery.php:293
+msgid "Click to Close"
+msgstr "לחץ לסגירה"
+
+#: ../nggallery.php:308
+msgid "loading"
+msgstr "טוען"
+
+#: ../nggallery.php:406
+#: ../nggfunctions.php:848
+#: ../admin/admin.php:32
+msgid "Overview"
+msgstr "סקירה"
+
+#: ../nggallery.php:407
+msgid "Get help"
+msgstr "עזרה"
+
+#: ../nggallery.php:408
+msgid "Contribute"
+msgstr "תרום"
+
+#: ../nggallery.php:409
+msgid "Donate"
+msgstr "תרומה"
+
+#: ../nggfunctions.php:37
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "דרוש <a href=\"http://www.macromedia.com/go/getflashplayer\">נגן פלאש</a> ו- <a href=\"http://www.mozilla.com/firefox/\">ודפדפן עם תמיכה בJAVASCRIPT</a>."
+
+#: ../nggfunctions.php:103
+#: ../nggfunctions.php:558
+msgid "[Gallery not found]"
+msgstr "[הגלרייה לא נמצאה]"
+
+#: ../nggfunctions.php:363
+msgid "[Album not found]"
+msgstr "[האלבום לא נמצא]"
+
+#: ../nggfunctions.php:675
+msgid "[SinglePic not found]"
+msgstr "[SinglePic לא נמצא]"
+
+#: ../nggfunctions.php:813
+msgid "Related images for"
+msgstr "תמונות הקשורות ל-"
+
+#: ../admin/about.php:9
+msgid "Copyright notes / Credits"
+msgstr "זכויות יוצרים / קרדטים"
+
+#: ../admin/about.php:12
+msgid "NextGEN DEV Team"
+msgstr "קבוצת הפיתוח של NextGEN"
+
+#: ../admin/about.php:14
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "התוסף הזה מפותח, מתוחזק, נתמך ומתועד על ידי"
+
+#: ../admin/about.php:14
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "ישנם אחרים רבים שתרמו לפרוייקט הזה:"
+
+#: ../admin/about.php:19
+msgid "Contributors / Tribute to"
+msgstr "התורמים / מחווה ל"
+
+#: ../admin/about.php:21
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "אם תלמד את הקוד של התוסף הזה, תמצא שעירבבנו הרבה קוד איכותי ורעיונות שכבר קיימים ביחד."
+
+#: ../admin/about.php:22
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "ברצוננו להודות לאנשים הבאים על העבודה שלהם (ללא העבודה הזאת אין אפשרות ליצור תוסף כזה כל כך מהר)"
+
+#: ../admin/about.php:24
+msgid "for their great documented code"
+msgstr "על הקוד המתועד הנפלא שלהם"
+
+#: ../admin/about.php:25
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "לjQuery, על הסביבת עבודה ווב 2.0 הטובה ביותר שלהם"
+
+#: ../admin/about.php:26
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "על הPHP CLASS לתמונות תצוגה הנפלא שלו"
+
+#: ../admin/about.php:27
+msgid "for a lot of very useful plugins and ideas"
+msgstr "על הרבה תוספים שימושיים ורעיונות"
+
+#: ../admin/about.php:28
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "על התריס החדש, אפקט קליל באמת לתמונות"
+
+#: ../admin/about.php:29
+msgid "for the best Media Flash Scripts on earth"
+msgstr "על הסקריפטים של מדיה פלאש הטובים ביותר בעולם"
+
+#: ../admin/about.php:30
+msgid "for the Fugue Iconset"
+msgstr "על סט אייקונים Fugue"
+
+#: ../admin/about.php:31
+msgid "for the Watermark plugin"
+msgstr "על התוסף של הסימון מים"
+
+#: ../admin/about.php:33
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "אם השם שלך לא נמצא ברשימה והשתמשתי בקוד שלך בתוסף, אל תהסס לשלוח לי אימייל."
+
+#: ../admin/about.php:37
+msgid "How to support ?"
+msgstr "איך לתמוך?"
+
+#: ../admin/about.php:39
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "ישנם כמה דרכים לתרום, לעזור או למוך בנו בפרוייקט הזה. אף אחד מהם אינו חובה."
+
+#: ../admin/about.php:41
+msgid "Send us bugfixes / code changes"
+msgstr "שלח לנו תיקוני באגים / שינויי קוד"
+
+#: ../admin/about.php:41
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "התמיכה הכי מוטיבית עבור תוסף זה הם הרעיונות ועבודת המוח שלך"
+
+#: ../admin/about.php:42
+msgid "Translate the plugin"
+msgstr "תרגם תוסף זה"
+
+#: ../admin/about.php:42
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "על מנת לעזור לאנשים עם התוסף הזה, ברצוני שהוא יהיה זמין בכל השפות"
+
+#: ../admin/about.php:43
+msgid "Donate the work via paypal"
+msgstr "תרום לפרוייקט דרך פייפל"
+
+#: ../admin/about.php:56
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "ללא ספק מוטיבציה מאוד שימושית וקלה :-)"
+
+#: ../admin/about.php:58
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "שים קישור לתוסף הזה בבלוג/אתר שלך"
+
+#: ../admin/about.php:58
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "כן, שיתוף וטראקבאג הינם גם תמיכה טובה לפרוייקט הזה"
+
+#: ../admin/about.php:63
+msgid "Thanks!"
+msgstr "תודה!"
+
+#: ../admin/about.php:65
+msgid "We would like to thank this people which support us in the work :"
+msgstr "ברצוננו להודות לאנשים שתומכים בנו בפרוייקט הזה :"
+
+#: ../admin/about.php:164
+msgid "and all donators..."
+msgstr "ולכל התורמים..."
+
+#: ../admin/addgallery.php:37
+#: ../admin/addgallery.php:52
+msgid "Upload failed!"
+msgstr "ההעלאה נכשלה!"
+
+#: ../admin/addgallery.php:57
+#: ../admin/functions.php:836
+#: ../admin/functions.php:936
+msgid "No gallery selected !"
+msgstr "לא נבחרה גלרייה!"
+
+#: ../admin/addgallery.php:104
+msgid "Image Files"
+msgstr "קבצי תמונות"
+
+#: ../admin/addgallery.php:123
+#: ../admin/addgallery.php:154
+msgid "remove"
+msgstr "הסר"
+
+#: ../admin/addgallery.php:124
+msgid "Browse..."
+msgstr "עיון..."
+
+#: ../admin/addgallery.php:125
+#: ../admin/addgallery.php:293
+msgid "Upload images"
+msgstr "העלאת קבצים"
+
+#: ../admin/addgallery.php:173
+#: ../admin/addgallery.php:185
+#: ../admin/manage-galleries.php:134
+msgid "Add new gallery"
+msgstr "הוספת גלרייה חדשה"
+
+#: ../admin/addgallery.php:175
+#: ../admin/addgallery.php:205
+msgid "Upload a Zip-File"
+msgstr "העלאת קובץ זיפ (דחוס)"
+
+#: ../admin/addgallery.php:178
+#: ../admin/addgallery.php:246
+msgid "Import image folder"
+msgstr "ייבוא תיקיית תמונות"
+
+#: ../admin/addgallery.php:180
+#: ../admin/addgallery.php:263
+msgid "Upload Images"
+msgstr "העלאת תמונות"
+
+#: ../admin/addgallery.php:190
+#: ../admin/manage-galleries.php:217
+msgid "New Gallery"
+msgstr "גלרייה חדשה"
+
+#: ../admin/addgallery.php:193
+#: ../admin/manage-galleries.php:219
+msgid "Create a new , empty gallery below the folder"
+msgstr "צור גלרייה ריקה תחת התיקייה"
+
+#: ../admin/addgallery.php:195
+#: ../admin/manage-galleries.php:221
+msgid "Allowed characters for file and folder names are"
+msgstr "התוויות המותרת לשמות קבצים ותיקיות הינן"
+
+#: ../admin/addgallery.php:199
+msgid "Add gallery"
+msgstr "הוספת גלרייה"
+
+#: ../admin/addgallery.php:210
+msgid "Select Zip-File"
+msgstr "בחר קובץ זיפ"
+
+#: ../admin/addgallery.php:212
+msgid "Upload a zip file with images"
+msgstr "העלה קובץ זיפ עם תמונות"
+
+#: ../admin/addgallery.php:216
+msgid "or enter a Zip-File URL"
+msgstr "או הזמן כתובת URL לקובץ הזיפ"
+
+#: ../admin/addgallery.php:218
+msgid "Import a zip file with images from a url"
+msgstr "ייבוא קובץ זיפ עם תמונות מכתובת URL"
+
+#: ../admin/addgallery.php:222
+#: ../admin/addgallery.php:272
+msgid "in to"
+msgstr "לתוך"
+
+#: ../admin/addgallery.php:224
+msgid "a new gallery"
+msgstr "גלרייה חדשה"
+
+#: ../admin/addgallery.php:235
+msgid "Note : The upload limit on your server is "
+msgstr "הערה: הגבלת ההעלאה בשרת שלך הינה"
+
+#: ../admin/addgallery.php:239
+msgid "Start upload"
+msgstr "התחל בהעלאה"
+
+#: ../admin/addgallery.php:251
+msgid "Import from Server path:"
+msgstr "ייבוא מנתיב בשרת:"
+
+#: ../admin/addgallery.php:254
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "שימו לב: במצב בטוח - פעיל עליכם להוסיף את התת-תיקייה thumbs ידנית"
+
+#: ../admin/addgallery.php:257
+msgid "Import folder"
+msgstr "ייבוא תיקייה"
+
+#: ../admin/addgallery.php:268
+msgid "Upload image"
+msgstr "העלה תמונה"
+
+#: ../admin/addgallery.php:274
+msgid "Choose gallery"
+msgstr "בחר גלרייה"
+
+#: ../admin/addgallery.php:289
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "העלאה בקבוצה מצריכה אדובי פלאש 10, נטרל את זה במידה ויש לך בעיות"
+
+#: ../admin/addgallery.php:289
+msgid "Disable flash upload"
+msgstr "ניטרול העלאה בקבוצה"
+
+#: ../admin/addgallery.php:291
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "העלה כמה קבצים במכה על ידי שימוש בctrl/shift ובחירת הקבצים בדיאלוג"
+
+#: ../admin/addgallery.php:291
+msgid "Enable flash based upload"
+msgstr "הפעל העלאת קבצים מבוססת פלאש"
+
+#: ../admin/admin.php:31
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "גלריה"
+msgstr[1] "גלריות"
+
+#: ../admin/admin.php:33
+msgid "Add Gallery / Images"
+msgstr "הוסף גלרייה / תמונות"
+
+#: ../admin/admin.php:34
+msgid "Manage Gallery"
+msgstr "ניהול גלרייה"
+
+#: ../admin/admin.php:35
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "אלבום"
+msgstr[1] "אלבומים"
+
+#: ../admin/admin.php:36
+msgid "Tags"
+msgstr "תגיות"
+
+#: ../admin/admin.php:37
+msgid "Options"
+msgstr "אפשרויות"
+
+#: ../admin/admin.php:39
+msgid "Style"
+msgstr "סגנון"
+
+#: ../admin/admin.php:40
+msgid "Setup Gallery"
+msgstr "הגדרות הגלרייה"
+
+#: ../admin/admin.php:40
+msgid "Setup"
+msgstr "הגדרות"
+
+#: ../admin/admin.php:42
+msgid "Roles"
+msgstr "תפקידים"
+
+#: ../admin/admin.php:43
+msgid "About this Gallery"
+msgstr "אודות הגלרייה"
+
+#: ../admin/admin.php:43
+msgid "About"
+msgstr "אודות"
+
+#: ../admin/admin.php:45
+msgid "NextGEN Gallery"
+msgstr "גלריית NextGEN"
+
+#: ../admin/admin.php:73
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "ישנה גירסא חדשה של הגלרייה זמינה!"
+
+#: ../admin/admin.php:73
+msgid "Download here"
+msgstr "הורד כאן"
+
+#: ../admin/admin.php:92
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "תודה על השימוש בתוסף הזה, אני מקווה שהינך מרוצה! אם ברצונך לתמוך בהמשך הפיתוח, אנא שקול <strong><a href=\"%s\">תרומה</a></strong>! אם אתה עדיין צריך קצת עזרה, אנא פרסם את שאלותיך <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">כאן</a> ."
+
+#: ../admin/admin.php:95
+msgid "OK, hide this message now !"
+msgstr "בסדר, הסתר את ההודעה הזאת עכשיו!"
+
+#: ../admin/admin.php:178
+msgid "You do not have the correct permission"
+msgstr "אין לך הרשאות מתאימות"
+
+#: ../admin/admin.php:179
+msgid "Unexpected Error"
+msgstr "שגיאה לא צפויה"
+
+#: ../admin/admin.php:180
+msgid "A failure occurred"
+msgstr "היה כשל"
+
+#: ../admin/admin.php:265
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">הקדמה</a>"
+
+#: ../admin/admin.php:268
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">התקנה</a>"
+
+#: ../admin/admin.php:271
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">תרגום על ידי עומר שפלטר</a>"
+
+#: ../admin/admin.php:274
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">תפקידים</a>"
+
+#: ../admin/admin.php:277
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">סגנונות</a>"
+
+#: ../admin/admin.php:278
+msgid "Templates"
+msgstr "תבניות עיצוב"
+
+#: ../admin/admin.php:281
+#: ../admin/admin.php:287
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">ניהול הגלרייה</a>"
+
+#: ../admin/admin.php:282
+msgid "Gallery example"
+msgstr "דוגמא לגלרייה"
+
+#: ../admin/admin.php:288
+#: ../admin/admin.php:298
+msgid "Gallery tags"
+msgstr "תגיות הגלרייה"
+
+#: ../admin/admin.php:291
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">ניהול אלבום</a>"
+
+#: ../admin/admin.php:292
+msgid "Album example"
+msgstr "דוגמא לאלבום"
+
+#: ../admin/admin.php:293
+#: ../admin/admin.php:299
+msgid "Album tags"
+msgstr "תגיות האלבום"
+
+#: ../admin/admin.php:296
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">תגיות הגלרייה</a>"
+
+#: ../admin/admin.php:297
+msgid "Related images"
+msgstr "תמונות קשורות"
+
+#: ../admin/admin.php:302
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">ניהול תמונות</a>"
+
+#: ../admin/admin.php:303
+msgid "Custom fields"
+msgstr "שדות מותאמות אישית"
+
+#: ../admin/admin.php:308
+msgid "Get help with NextGEN Gallery"
+msgstr "קבל עזרה על הגלרייה"
+
+#: ../admin/admin.php:312
+msgid "More Help & Info"
+msgstr "עוד עזרה & מידע"
+
+#: ../admin/admin.php:314
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">פורומי תמיכה (אנגלית)</a>"
+
+#: ../admin/admin.php:315
+msgid "FAQ"
+msgstr "שאלות ותשובות (אנגלית)"
+
+#: ../admin/admin.php:316
+msgid "Feature request"
+msgstr "בקשות עתידיות"
+
+#: ../admin/admin.php:317
+msgid "Get your language pack"
+msgstr "קבל את חבילת השפה שלך"
+
+#: ../admin/admin.php:318
+msgid "Contribute development"
+msgstr "תרום פיתוח"
+
+#: ../admin/admin.php:319
+msgid "Download latest version"
+msgstr "הורד את הגירסא האחרונה"
+
+#: ../admin/album.php:99
+#: ../admin/album.php:112
+#: ../admin/album.php:138
+msgid "Update Successfully"
+msgstr "עודכן בהצלחה"
+
+#: ../admin/album.php:120
+msgid "Album deleted"
+msgstr "האלבום נמחק"
+
+#: ../admin/album.php:248
+msgid "Manage Albums"
+msgstr "ניהול אלבומים"
+
+#: ../admin/album.php:254
+#: ../admin/album.php:297
+msgid "Select album"
+msgstr "בחירת אלבום"
+
+#: ../admin/album.php:256
+msgid "No album selected"
+msgstr "לא נבחר אלבום"
+
+#: ../admin/album.php:267
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "עדכן"
+
+#: ../admin/album.php:268
+msgid "Edit album"
+msgstr "ערוך אלבום"
+
+#: ../admin/album.php:269
+#: ../admin/manage-galleries.php:195
+msgid "Delete"
+msgstr "מחק"
+
+#: ../admin/album.php:269
+msgid "Delete album ?"
+msgstr "למחוק את האלבום?"
+
+#: ../admin/album.php:271
+msgid "Add new album"
+msgstr "הוסף אלבום חדש"
+
+#: ../admin/album.php:273
+msgid "Add"
+msgstr "הוסף"
+
+#: ../admin/album.php:283
+msgid "Show / hide used galleries"
+msgstr "הצג / הסתר גלריות משומשות"
+
+#: ../admin/album.php:283
+msgid "[Show all]"
+msgstr "[הצג הכל]"
+
+#: ../admin/album.php:284
+msgid "Maximize the widget content"
+msgstr "מקסם את תוכן הוידגט"
+
+#: ../admin/album.php:284
+msgid "[Maximize]"
+msgstr "[מקסם]"
+
+#: ../admin/album.php:285
+msgid "Minimize the widget content"
+msgstr "צמצם את תוכן הוידגט"
+
+#: ../admin/album.php:285
+msgid "[Minimize]"
+msgstr "[צמצם]"
+
+#: ../admin/album.php:287
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "לאחר יצירת ובחירת אלבום, תוכל לגרור לתוכו גלרייה או אלבום אחר"
+
+#: ../admin/album.php:313
+msgid "Select gallery"
+msgstr "בחר גלרייה"
+
+#: ../admin/album.php:342
+msgid "Album ID"
+msgstr "מזהה האלבום"
+
+#: ../admin/album.php:355
+msgid "No album selected!"
+msgstr "לא נבחר אלבום!"
+
+#: ../admin/album.php:375
+msgid "Album name:"
+msgstr "שם האלבום:"
+
+#: ../admin/album.php:381
+msgid "Album description:"
+msgstr "תאור האלבום:"
+
+#: ../admin/album.php:387
+msgid "Select a preview image:"
+msgstr "בחר תמונת תצוגה מקדימה:"
+
+#: ../admin/album.php:389
+msgid "No picture"
+msgstr "אין תמונה"
+
+#: ../admin/album.php:403
+msgid "Page Link to"
+msgstr "קשר עמוד אל"
+
+#: ../admin/album.php:405
+msgid "Not linked"
+msgstr "לא מקושר"
+
+#: ../admin/album.php:415
+#: ../admin/manage-galleries.php:226
+#: ../admin/manage-galleries.php:255
+#: ../admin/manage-galleries.php:285
+msgid "OK"
+msgstr "אישור"
+
+#: ../admin/album.php:417
+#: ../admin/manage-galleries.php:228
+#: ../admin/manage-galleries.php:257
+#: ../admin/manage-galleries.php:287
+msgid "Cancel"
+msgstr "בטל"
+
+#: ../admin/album.php:500
+msgid "Name"
+msgstr "שם"
+
+#: ../admin/album.php:501
+#: ../admin/manage-galleries.php:155
+msgid "Title"
+msgstr "כותרת"
+
+#: ../admin/album.php:502
+msgid "Page"
+msgstr "עמד"
+
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+msgid "Cheatin&#8217; uh?"
+msgstr "מרמה&#8217; הא?"
+
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "בחר באמצעות העכבר את איזור התמונת תצוגה"
+
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "התמונת תצוגה עודכנה"
+
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "שגיאה בעידכון התמונת תצוגה"
+
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "בחר את איזור התמונת תצוגה מהתמונה בצד שמאל."
+
+#: ../admin/functions.php:40
+msgid "No valid gallery name!"
+msgstr "שם הגלרייה אינו תקין!"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+#: ../admin/functions.php:147
+#: ../admin/functions.php:154
+msgid "Directory"
+msgstr "תיקייה"
+
+#: ../admin/functions.php:47
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "אינו קיים. אנא צור את תיקיית הגלרייה ראשית קודם"
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:57
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "עיין בקישור הבא אם אינך יודע איך לקבוע את ההרשאות:"
+
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+msgid "is not writeable !"
+msgstr "אינו ניתן לכתיבה!"
+
+#: ../admin/functions.php:65
+#: ../admin/functions.php:75
+#: ../admin/functions.php:795
+msgid "Unable to create directory "
+msgstr "אין אפשרות ליצור תיקייה"
+
+#: ../admin/functions.php:79
+msgid "The server setting Safe-Mode is on !"
+msgstr "השרת נמצא במצב בטוח!"
+
+#: ../admin/functions.php:80
+msgid "If you have problems, please create directory"
+msgstr "אם יש לך בעיות, אנא צור תיקייה"
+
+#: ../admin/functions.php:81
+msgid "and the thumbnails directory"
+msgstr "ותיקיית תמונות תצוגה"
+
+#: ../admin/functions.php:81
+msgid "with permission 777 manually !"
+msgstr "עם הרשאות 777 ידנית!"
+
+#: ../admin/functions.php:99
+msgid "already exists"
+msgstr "כבר קיים"
+
+#: ../admin/functions.php:113
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "הגלרייה %1$s נוצרה בהצלחה.<br/>באפשרותך להציג את הגלרייה הזאת עם התגית הזאת: %2$s.<br/>"
+
+#: ../admin/functions.php:116
+msgid "Edit gallery"
+msgstr "עריכת הגלרייה"
+
+#: ../admin/functions.php:147
+msgid "doesn&#96;t exist!"
+msgstr "אינה קיימת!"
+
+#: ../admin/functions.php:154
+msgid "contains no pictures"
+msgstr "אינה מכילה תמונות"
+
+#: ../admin/functions.php:172
+msgid "Database error. Could not add gallery!"
+msgstr "שגיאה במסד נתונים. אין אפשרות להוסיף את הגלרייה!"
+
+#: ../admin/functions.php:175
+msgid "successfully created!"
+msgstr "נוצרה בהצלחה!"
+
+#: ../admin/functions.php:204
+#: ../admin/functions.php:912
+#: ../admin/manage-galleries.php:127
+msgid "Create new thumbnails"
+msgstr "צור תמונות תצוגה חדשות"
+
+#: ../admin/functions.php:207
+msgid " picture(s) successfully added"
+msgstr "התמונות נוספו בהצלחה"
+
+#: ../admin/functions.php:254
+#: ../admin/functions.php:327
+#: ../admin/functions.php:377
+#: ../admin/functions.php:470
+msgid "Object didn't contain correct data"
+msgstr "האובייקט לא הכיל נתונים נכונים"
+
+#: ../admin/functions.php:259
+msgid " is not writeable "
+msgstr "אינו ניתן לכתיבה"
+
+#: ../admin/functions.php:337
+#: ../admin/functions.php:380
+#: ../admin/functions.php:476
+msgid " is not writeable"
+msgstr "אינו ניתן לכתיבה"
+
+#: ../admin/functions.php:586
+msgid "(Error : Couldn't not update data base)"
+msgstr "(שגיאה: אין אפשרות לעדכן את הבסיס נתונים"
+
+#: ../admin/functions.php:593
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(שגיאה : אין אפשרות לעדכן את הנתוני מטה)"
+
+#: ../admin/functions.php:602
+msgid "(Error : Couldn't not find image)"
+msgstr "(שגיאה : אין אפשרות למיצוא את התמונה)"
+
+#: ../admin/functions.php:732
+msgid "No valid URL path "
+msgstr "נתיב URL לא תקין"
+
+#: ../admin/functions.php:748
+msgid "Import via cURL failed."
+msgstr "ייבוא מURL נכשל"
+
+#: ../admin/functions.php:763
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "הקובץ שהועלה אינו זיפ או שאינו תקין! השרת זיהה:"
+
+#: ../admin/functions.php:779
+msgid "Could not get a valid foldername"
+msgstr "לא הצלחתי להשיג שם תיקייה תקין"
+
+#: ../admin/functions.php:790
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "אין אפשרות ליצור את התיקייה %s. האם תיקיית האב שלו ניתנת לכתיבה על ידי השרת?"
+
+#: ../admin/functions.php:805
+msgid "Zip-File successfully unpacked"
+msgstr "קובץ הזיפ נפרס בהצלחה"
+
+#: ../admin/functions.php:844
+#: ../admin/functions.php:962
+msgid "Failure in database, no gallery path set !"
+msgstr "שגיאה במסד נתונים, אין נתיב מוגדר לגלריה!"
+
+#: ../admin/functions.php:868
+#: ../admin/functions.php:956
+msgid "is no valid image file!"
+msgstr "אינה תמונה תקינה!"
+
+#: ../admin/functions.php:882
+#: ../admin/functions.php:1098
+#: ../admin/functions.php:1171
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "אין אפשרות לכתובת לתיקייה %s. האם התיקייה ניתנת לכתיבה על ידי השרת?"
+
+#: ../admin/functions.php:889
+#: ../admin/functions.php:979
+msgid "Error, the file could not moved to : "
+msgstr "שגיאה, לא הייתה אפשרות להוזיז את הקובץ:"
+
+#: ../admin/functions.php:894
+#: ../admin/functions.php:983
+msgid "Error, the file permissions could not set"
+msgstr "שגיאה, לא הייתה אפשרות להגדיר את הרשאות הקובץ"
+
+#: ../admin/functions.php:916
+msgid " Image(s) successfully added"
+msgstr "התמונות נוספו בהצלחה"
+
+#: ../admin/functions.php:945
+msgid "Invalid upload. Error Code : "
+msgstr "העלאה לא תקינה. קוד שגיאה:"
+
+#: ../admin/functions.php:998
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "מצטערים, השתמשת בכל הזיכרון הפנוי. אנא מחק קבצים על מנת לעלות קבצים נוספים."
+
+#: ../admin/functions.php:1038
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "הגבלות מצב בטוח פעילות! עליך ליצור את התיקייה <strong>%s</strong> ידנית"
+
+#: ../admin/functions.php:1039
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "כשמצב בטוח פעיל, PHP בודק אם הבעלים (%s) של הסקריפט הנוכחי תואם לבעלים (%s) של הקובץ המצריך שינוי על ידי פונקציה או על ידי הספרייה שלו"
+
+#: ../admin/functions.php:1092
+#: ../admin/functions.php:1165
+msgid "The destination gallery does not exist"
+msgstr "הגלריית יעד אינה קיימת"
+
+#: ../admin/functions.php:1123
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "כשל בהעברת התמונה %1$s אל %2$s"
+
+#: ../admin/functions.php:1141
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr " %1$s תמונות הוזזו אל הגלרייה : %2$s ."
+
+#: ../admin/functions.php:1198
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "כשל בהעברת התמונה %1$s אל %2$s"
+
+#: ../admin/functions.php:1210
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "כשל בהעתקת השורה במסד נתונים של התמונה %s"
+
+#: ../admin/functions.php:1218
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "התמונה %1$s (%2$s) נעתקה כהתמונה %3$s (%4$s) &raquo; הקובץ כבר קיים בגלריית יעד."
+
+#: ../admin/functions.php:1221
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "התמונה %1$s (%2$s) נעתקה כהתמונה %3$s (%4$s)"
+
+#: ../admin/functions.php:1230
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "נעתקו %1$s תמונות לגלרייה : %2$s ."
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "מצטערים, הגלרייה עובדת רק עם תפקיד בשם administrator"
+
+#: ../admin/install.php:108
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "גלריית נקסטגן: לא הייתה אפשרות ליצור את הטבלאות, אנא בדוק את הגדרות המסד נתונים שלך"
+
+#: ../admin/install.php:165
+msgid "[Show as slideshow]"
+msgstr "[הצג כשקופיות]"
+
+#: ../admin/install.php:166
+msgid "[Show picture list]"
+msgstr "[הצג רשימת תמונות]"
+
+#: ../admin/manage-galleries.php:20
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:21
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:62
+msgid "No images selected"
+msgstr "לא נבחרו תמונות"
+
+#: ../admin/manage-galleries.php:79
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"הינך עומד להתחיל בעריכה קבוצתית של  %s גלריות \n"
+" \n"
+"'ביטול' על מנת להפסיק, 'אישור' על מנת להמשיך."
+
+#: ../admin/manage-galleries.php:107
+msgid "Gallery Overview"
+msgstr "סקירת הגלרייה"
+
+#: ../admin/manage-galleries.php:110
+#: ../admin/manage-galleries.php:113
+msgid "Search Images"
+msgstr "חיפוש תמונות"
+
+#: ../admin/manage-galleries.php:125
+msgid "No action"
+msgstr "שום פעולה"
+
+#: ../admin/manage-galleries.php:126
+msgid "Set watermark"
+msgstr "הגדר סימון מים"
+
+#: ../admin/manage-galleries.php:128
+msgid "Resize images"
+msgstr "שינוי גודל תמונות"
+
+#: ../admin/manage-galleries.php:129
+msgid "Import metadata"
+msgstr "ייבוא נתוני מטה"
+
+#: ../admin/manage-galleries.php:131
+msgid "Apply"
+msgstr "החל"
+
+#: ../admin/manage-galleries.php:139
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "מציג %s&#8211;%s מתוך %s"
+
+#: ../admin/manage-galleries.php:154
+msgid "ID"
+msgstr "מזהה"
+
+#: ../admin/manage-galleries.php:156
+msgid "Description"
+msgstr "תאור"
+
+#: ../admin/manage-galleries.php:157
+msgid "Author"
+msgstr "מחבר"
+
+#: ../admin/manage-galleries.php:158
+msgid "Page ID"
+msgstr "מזהה העמוד"
+
+#: ../admin/manage-galleries.php:159
+msgid "Quantity"
+msgstr "כמות"
+
+#: ../admin/manage-galleries.php:160
+msgid "Action"
+msgstr "פעולה"
+
+#: ../admin/manage-galleries.php:182
+msgid "Edit"
+msgstr "עריכה"
+
+#: ../admin/manage-galleries.php:195
+msgid "Delete this gallery ?"
+msgstr "למחוק את הגלרייה הזאת?"
+
+#: ../admin/manage-galleries.php:202
+msgid "No entries found"
+msgstr "לא נמצאו ערכים"
+
+#: ../admin/manage-galleries.php:246
+msgid "Resize Images to"
+msgstr "שנה את גודל התמונות אל"
+
+#: ../admin/manage-galleries.php:250
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "רוחב x גובה (בפיקסלים). הגלרייה תשמור על הפרופורציות"
+
+#: ../admin/manage-galleries.php:274
+msgid "Width x height (in pixel)"
+msgstr "רוחב X גובה (בפיקסלים)"
+
+#: ../admin/manage-galleries.php:276
+msgid "These values are maximum values "
+msgstr "הערכים האלה הינם הערכי מקסימום"
+
+#: ../admin/manage-galleries.php:279
+msgid "Set fix dimension"
+msgstr "הגדר ממדים קבועים"
+
+#: ../admin/manage-galleries.php:281
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "התעלם מפרופורציות, אין תמונות תצוגה פורטרט"
+
+#: ../admin/manage-images.php:31
+msgid "Gallery not found."
+msgstr "הגלרייה לא נמצאה."
+
+#: ../admin/manage-images.php:37
+msgid "Sorry, you have no access here"
+msgstr "מצטערים, אין לך גישה לכאן"
+
+#: ../admin/manage-images.php:165
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"הינך עומד להתחיל בעריכה קבוצתית של  %s תמונות \n"
+" \n"
+"'ביטול' על מנת להפסיק, 'אישור' על מנת להמשיך."
+
+#: ../admin/manage-images.php:181
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "תוצאות החיפוש ל- &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:209
+#: ../admin/settings.php:274
+msgid "Gallery settings"
+msgstr "הגדרות הגלרייה"
+
+#: ../admin/manage-images.php:209
+msgid "Click here for more settings"
+msgstr "לחץ כאן להגדרות נוספות"
+
+#: ../admin/manage-images.php:226
+msgid "Preview image"
+msgstr "תצוגה מקדימה של התמונה"
+
+#: ../admin/manage-images.php:229
+msgid "No Picture"
+msgstr "אין תמונה"
+
+#: ../admin/manage-images.php:242
+msgid "Path"
+msgstr "נתיב"
+
+#: ../admin/manage-images.php:259
+msgid "Create new page"
+msgstr "צור עמוד חדש"
+
+#: ../admin/manage-images.php:262
+msgid "Main page (No parent)"
+msgstr "עמוד ראשי (אין עמוד אב)"
+
+#: ../admin/manage-images.php:265
+msgid "Add page"
+msgstr "הוסף עמוד"
+
+#: ../admin/manage-images.php:272
+msgid "Scan Folder for new images"
+msgstr "סרוק תיקייה למציאת תמונות חדשות"
+
+#: ../admin/manage-images.php:273
+#: ../admin/manage-images.php:312
+#: ../admin/manage-images.php:461
+#: ../admin/settings.php:198
+#: ../admin/settings.php:227
+#: ../admin/settings.php:267
+#: ../admin/settings.php:349
+#: ../admin/settings.php:382
+#: ../admin/settings.php:489
+#: ../admin/settings.php:614
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: ../admin/manage-images.php:296
+msgid "Delete images"
+msgstr "מחק תמונות"
+
+#: ../admin/manage-images.php:298
+msgid "Rotate images clockwise"
+msgstr "סובב תמונות עם כיוון השעון"
+
+#: ../admin/manage-images.php:299
+msgid "Rotate images counter-clockwise"
+msgstr "סובב תמונות נגד כיוון השעון"
+
+#: ../admin/manage-images.php:300
+msgid "Copy to..."
+msgstr "העתק אל..."
+
+#: ../admin/manage-images.php:301
+msgid "Move to..."
+msgstr "העבר אל..."
+
+#: ../admin/manage-images.php:302
+msgid "Add tags"
+msgstr "הוסף תגיות"
+
+#: ../admin/manage-images.php:303
+msgid "Delete tags"
+msgstr "מחק תגיות"
+
+#: ../admin/manage-images.php:304
+msgid "Overwrite tags"
+msgstr "שכתב תגיות"
+
+#: ../admin/manage-images.php:309
+msgid "Sort gallery"
+msgstr "מיין את הגלרייה"
+
+#: ../admin/manage-images.php:384
+msgid "pixel"
+msgstr "פיקסל"
+
+#: ../admin/manage-images.php:391
+#, php-format
+msgid "View \"%s\""
+msgstr "הצג \"%s\""
+
+#: ../admin/manage-images.php:391
+msgid "View"
+msgstr "הצג"
+
+#: ../admin/manage-images.php:392
+msgid "Show Meta data"
+msgstr "הצג נתוני מטה"
+
+#: ../admin/manage-images.php:392
+msgid "Meta"
+msgstr "מטה"
+
+#: ../admin/manage-images.php:393
+msgid "Customize thumbnail"
+msgstr "התאמה אישית של התמונת תצוגה"
+
+#: ../admin/manage-images.php:393
+msgid "Edit thumb"
+msgstr "ערוך תמונת תצוגה"
+
+#: ../admin/manage-images.php:394
+msgid "Rotate"
+msgstr "סובב"
+
+#: ../admin/manage-images.php:395
+#, php-format
+msgid "Delete \"%s\""
+msgstr "מחק \"%s\""
+
+#: ../admin/manage-images.php:475
+msgid "Enter the tags"
+msgstr "הזן את התגיות"
+
+#: ../admin/manage-images.php:499
+msgid "Select the destination gallery:"
+msgstr "בחר את הגלריית יעד:"
+
+#: ../admin/manage-images.php:600
+#: ../admin/media-upload.php:212
+msgid "Thumbnail"
+msgstr "תמונת תצוגה"
+
+#: ../admin/manage-images.php:602
+#: ../admin/manage-sort.php:74
+msgid "Filename"
+msgstr "שם הקובץ"
+
+#: ../admin/manage-images.php:604
+msgid "Alt &amp; Title Text"
+msgstr "טקסט אלט &amp; כותרת"
+
+#: ../admin/manage-images.php:605
+msgid "Tags (comma separated list)"
+msgstr "תגיות (מופרדות על ידי פסיק)"
+
+#: ../admin/manage-images.php:607
+msgid "exclude"
+msgstr "אל תכלול"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "סדר המיון שונה"
+
+#: ../admin/manage-sort.php:59
+msgid "Sort Gallery"
+msgstr "מיין גלרייה"
+
+#: ../admin/manage-sort.php:63
+msgid "Update Sort Order"
+msgstr "עדכן את סדר המיון"
+
+#: ../admin/manage-sort.php:66
+msgid "Back to gallery"
+msgstr "חזרה אל הגלרייה"
+
+#: ../admin/manage-sort.php:71
+msgid "Presort"
+msgstr "מיון מקדים"
+
+#: ../admin/manage-sort.php:72
+msgid "Unsorted"
+msgstr "לא ממוין"
+
+#: ../admin/manage-sort.php:73
+#: ../admin/settings.php:335
+msgid "Image ID"
+msgstr "מזהה התמונה"
+
+#: ../admin/manage-sort.php:75
+#: ../admin/media-upload.php:187
+msgid "Alt/Title text"
+msgstr "טקסט אלט/כותרת"
+
+#: ../admin/manage-sort.php:76
+msgid "Date/Time"
+msgstr "תאריך / זמן"
+
+#: ../admin/manage-sort.php:77
+#: ../admin/settings.php:343
+msgid "Ascending"
+msgstr "בסדר עולה"
+
+#: ../admin/manage-sort.php:78
+#: ../admin/settings.php:344
+msgid "Descending"
+msgstr "בסדר יורד"
+
+#: ../admin/manage.php:87
+#: ../admin/manage.php:105
+msgid "deleted successfully"
+msgstr "נמחק בהצלחה"
+
+#: ../admin/manage.php:105
+msgid "Picture"
+msgstr "תמונה"
+
+#: ../admin/manage.php:114
+msgid "Operation successful. Please clear your browser cache."
+msgstr "הפעולה צלחה. אנא נקה את מטמון הדפדפן."
+
+#: ../admin/manage.php:207
+#: ../admin/manage.php:210
+msgid "Rotate images"
+msgstr "סובב תמונות"
+
+#: ../admin/manage.php:228
+msgid "Pictures deleted successfully "
+msgstr "התמונות נמחקו בהצלחה"
+
+#: ../admin/manage.php:324
+msgid "Tags changed"
+msgstr "התגיות שונו"
+
+#: ../admin/manage.php:351
+msgid "Update successful"
+msgstr "העידכון עבר בהצלחה"
+
+#: ../admin/manage.php:385
+msgid "New gallery page ID"
+msgstr "מזהה העמוד של גלרייה חדשה"
+
+#: ../admin/manage.php:385
+msgid "created"
+msgstr "נוצר"
+
+#: ../admin/media-upload.php:132
+msgid "No gallery"
+msgstr "אין גלרייה"
+
+#: ../admin/media-upload.php:144
+msgid "Select &#187;"
+msgstr "בחר &#187;"
+
+#: ../admin/media-upload.php:175
+msgid "Show"
+msgstr "הצג"
+
+#: ../admin/media-upload.php:176
+msgid "Hide"
+msgstr "הסתר"
+
+#: ../admin/media-upload.php:181
+msgid "Image ID:"
+msgstr "מזהה התמונה:"
+
+#: ../admin/media-upload.php:195
+msgid "Alignment"
+msgstr "יישור"
+
+#: ../admin/media-upload.php:198
+#: ../admin/settings.php:367
+msgid "None"
+msgstr "ללא"
+
+#: ../admin/media-upload.php:200
+msgid "Left"
+msgstr "שמאל"
+
+#: ../admin/media-upload.php:202
+msgid "Center"
+msgstr "אמצע"
+
+#: ../admin/media-upload.php:204
+msgid "Right"
+msgstr "ימין"
+
+#: ../admin/media-upload.php:208
+#: ../admin/settings.php:471
+msgid "Size"
+msgstr "גודל"
+
+#: ../admin/media-upload.php:214
+msgid "Full size"
+msgstr "גודל מלא"
+
+#: ../admin/media-upload.php:216
+msgid "Singlepic"
+msgstr "תמונה אחת"
+
+#: ../admin/media-upload.php:224
+msgid "Insert into Post"
+msgstr "הוסף לפוסט"
+
+#: ../admin/media-upload.php:234
+msgid "Save all changes"
+msgstr "שמור את כל השינויים"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "סקירת גלריית נקסטגן"
+
+#: ../admin/overview.php:104
+msgid "Thanks to all donators..."
+msgstr "תודה לכל התורמים..."
+
+#: ../admin/overview.php:126
+msgid "View all"
+msgstr "הצג הכל"
+
+#: ../admin/overview.php:164
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "לא הייתה אפשרות לטעון את הזנת החדשות. בדוק ב-<a href=\"%s\">עמוד ראשי</a> אם יש עידכונים."
+
+#: ../admin/overview.php:184
+msgid "At a Glance"
+msgstr "סיכום מהיר"
+
+#: ../admin/overview.php:211
+msgid "Upload pictures"
+msgstr "העלאת תמונות"
+
+#: ../admin/overview.php:212
+msgid "Here you can control your images, galleries and albums."
+msgstr "כאן ביכולתך לשלוט בתמונות, גלריות ואלבומים שלך."
+
+#: ../admin/overview.php:216
+msgid "Gallery Administrator"
+msgstr "מנהל הגלרייה"
+
+#: ../admin/overview.php:216
+msgid "Gallery Editor"
+msgstr "עורך הגלרייה"
+
+#: ../admin/overview.php:217
+#, php-format
+msgid "You currently have %s rights."
+msgstr "כרגע יש לך זכויות %s."
+
+#: ../admin/overview.php:224
+msgid "Welcome to NextGEN Gallery !"
+msgstr "ברוך הבא לגלריית נקסטגן!"
+
+#: ../admin/overview.php:225
+msgid "Latest News"
+msgstr "חדשות אחרונות"
+
+#: ../admin/overview.php:226
+msgid "Recent donators"
+msgstr "תורמים אחרונים"
+
+#: ../admin/overview.php:227
+msgid "Server Settings"
+msgstr "הגדרות השרת"
+
+#: ../admin/overview.php:228
+msgid "Related plugins"
+msgstr "תוספים קשורים"
+
+#: ../admin/overview.php:229
+msgid "Graphic Library"
+msgstr "ספריית גרפיקה"
+
+#: ../admin/overview.php:249
+msgid "No GD support"
+msgstr "אין תמיכה בGD"
+
+#: ../admin/overview.php:261
+#: ../admin/overview.php:307
+#: ../admin/overview.php:310
+#: ../admin/overview.php:313
+msgid "Yes"
+msgstr "כן"
+
+#: ../admin/overview.php:263
+#: ../admin/overview.php:308
+#: ../admin/overview.php:311
+#: ../admin/overview.php:314
+msgid "No"
+msgstr "לא"
+
+#: ../admin/overview.php:281
+msgid "Not set"
+msgstr "לא מוגדר"
+
+#: ../admin/overview.php:283
+#: ../admin/overview.php:286
+msgid "On"
+msgstr "פעיל"
+
+#: ../admin/overview.php:284
+#: ../admin/overview.php:287
+msgid "Off"
+msgstr "כבוי"
+
+#: ../admin/overview.php:290
+#: ../admin/overview.php:293
+#: ../admin/overview.php:296
+#: ../admin/overview.php:299
+#: ../admin/overview.php:302
+#: ../admin/overview.php:305
+msgid "N/A"
+msgstr "אין"
+
+#: ../admin/overview.php:304
+msgid " MByte"
+msgstr "מגה בייט"
+
+#: ../admin/overview.php:317
+msgid "Operating System"
+msgstr "מערכת הפעלה"
+
+#: ../admin/overview.php:318
+msgid "Server"
+msgstr "שרת"
+
+#: ../admin/overview.php:319
+msgid "Memory usage"
+msgstr "שימוש בזיכרון"
+
+#: ../admin/overview.php:320
+msgid "MYSQL Version"
+msgstr "גירסת MYSQL"
+
+#: ../admin/overview.php:321
+msgid "SQL Mode"
+msgstr "מצב SQL"
+
+#: ../admin/overview.php:322
+msgid "PHP Version"
+msgstr "גירסת PHP"
+
+#: ../admin/overview.php:323
+msgid "PHP Safe Mode"
+msgstr "PHP מצב בטוח"
+
+#: ../admin/overview.php:324
+msgid "PHP Allow URL fopen"
+msgstr "PHP הרשה URL FOPEN"
+
+#: ../admin/overview.php:325
+msgid "PHP Memory Limit"
+msgstr "PHP הגבלת זיכרון"
+
+#: ../admin/overview.php:326
+msgid "PHP Max Upload Size"
+msgstr "PHP מקסימום גודל העלאה"
+
+#: ../admin/overview.php:327
+msgid "PHP Max Post Size"
+msgstr "PHP מקסימום גודל POST"
+
+#: ../admin/overview.php:328
+msgid "PHP Output Buffer Size"
+msgstr "PHP Output Buffer גודל"
+
+#: ../admin/overview.php:329
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#: ../admin/overview.php:330
+msgid "PHP Exif support"
+msgstr "PHP Exif support"
+
+#: ../admin/overview.php:331
+msgid "PHP IPTC support"
+msgstr "PHP IPTC support"
+
+#: ../admin/overview.php:332
+msgid "PHP XML support"
+msgstr "PHP XML support"
+
+#: ../admin/overview.php:344
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "גלריית נקסטגן מכילה פונקציות שנתמכות רק בPHP 5.2. הינך משתמש בPHP 4, שדרג אותו עכשיו! הוא כבר לא נתמך על ידי קבוצת הPHP. המון חברות אחסון מציעים PHP 4 וגם PHP 5, בו זמנית. שאל את הספק שלך אם הוא יכול לעשות זאת."
+
+#: ../admin/overview.php:403
+msgid "Storage Space"
+msgstr "מקום אחסון"
+
+#: ../admin/overview.php:406
+msgid "Upload Space Used:"
+msgstr "מקום אחסון  העלאות בשימוש:"
+
+#: ../admin/overview.php:412
+msgid "Upload Space Remaining:"
+msgstr "מקום אחסון העלאות שנותר:"
+
+#: ../admin/overview.php:554
+msgid "Install"
+msgstr "התקן"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "היכולות עודכנו"
+
+#: ../admin/roles.php:27
+msgid "Roles / capabilities"
+msgstr "תפקידים / יכולות"
+
+#: ../admin/roles.php:28
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "בחר בתפקיד המינימלי שיוכל לגשת על היכולות הבאות. נקסטגן תומכות בתפקידים הסטנדרטים של וורדפרס."
+
+#: ../admin/roles.php:29
+msgid "For a more flexible user management you can use the"
+msgstr "לניהול משתמשים גמיש יותר ביכולתך להשתמש ב"
+
+#: ../admin/roles.php:34
+msgid "Main NextGEN Gallery overview"
+msgstr "סקירת גלריית נקסטגן ראשית"
+
+#: ../admin/roles.php:38
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "דהשתמש בפתור TinyMCE / לשונית העלאה"
+
+#: ../admin/roles.php:42
+msgid "Add gallery / Upload images"
+msgstr "הוסף גלרייה / העלה תמונות"
+
+#: ../admin/roles.php:46
+msgid "Manage gallery"
+msgstr "ניהול גלרייה"
+
+#: ../admin/roles.php:50
+msgid "Manage others gallery"
+msgstr "ניהול גלריות אחרות"
+
+#: ../admin/roles.php:54
+msgid "Manage tags"
+msgstr "ניהול תגיות"
+
+#: ../admin/roles.php:58
+msgid "Edit Album"
+msgstr "ערוך אלבום"
+
+#: ../admin/roles.php:62
+msgid "Change style"
+msgstr "שנה סגנון"
+
+#: ../admin/roles.php:66
+msgid "Change options"
+msgstr "שנה אפשרויות"
+
+#: ../admin/roles.php:70
+msgid "Update capabilities"
+msgstr "עדכן יכולות"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "סיבוב התמונה בוצע"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "שגיאה בסיבוב התמונת תצוגה"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; בכיוון השעון"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; נגד כיוון השעון"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "הפיכה אנכית"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "הפיכה אופקית"
+
+#: ../admin/settings.php:61
+msgid "Cache cleared"
+msgstr "המטמון נוקה בהצלחה"
+
+#: ../admin/settings.php:126
+#: ../admin/settings.php:138
+msgid "General Options"
+msgstr "אפשרויות כלליות"
+
+#: ../admin/settings.php:127
+#: ../admin/settings.php:306
+msgid "Thumbnails"
+msgstr "תמונות תצוגה"
+
+#: ../admin/settings.php:128
+msgid "Images"
+msgstr "תמונות"
+
+#: ../admin/settings.php:130
+#: ../admin/settings.php:356
+msgid "Effects"
+msgstr "אפקטים"
+
+#: ../admin/settings.php:131
+#: ../admin/settings.php:395
+msgid "Watermark"
+msgstr "סימון מים"
+
+#: ../admin/settings.php:132
+#: ../admin/settings.php:307
+#: ../admin/settings.php:499
+msgid "Slideshow"
+msgstr "שקופיות"
+
+#: ../admin/settings.php:144
+#: ../admin/wpmu.php:47
+msgid "Gallery path"
+msgstr "נתיב הגלרייה"
+
+#: ../admin/settings.php:146
+msgid "This is the default path for all galleries"
+msgstr "זהו הנתיב ברירת מחדל לכל הגלריות"
+
+#: ../admin/settings.php:149
+msgid "Delete image files"
+msgstr "מחק קבצי תמונה"
+
+#: ../admin/settings.php:151
+msgid "Delete files, when removing a gallery in the database"
+msgstr "מחק קבצים, בזמן מחיקת גלרייה מהמסד נתונים"
+
+#: ../admin/settings.php:154
+msgid "Activate permalinks"
+msgstr "הפעל לינקים משוכתבים"
+
+#: ../admin/settings.php:156
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "ברגע שהינך מפעיל את האפשרות הזאת, עליך לעדכן את מבנה הלינקים המשוכתבים שלך פעם אחת."
+
+#: ../admin/settings.php:159
+msgid "Select graphic library"
+msgstr "בחר ספרייה גרפית"
+
+#: ../admin/settings.php:160
+msgid "GD Library"
+msgstr "ספריית GD"
+
+#: ../admin/settings.php:161
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (ניסוני). נתיב לספרייה: "
+
+#: ../admin/settings.php:166
+msgid "Activate Media RSS feed"
+msgstr "הפעל הזנת RSS של מדיה"
+
+#: ../admin/settings.php:168
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "הזנת RSS תיווסף לכותרת הבלוג שלך. שימושי לCoolIris/PicLens"
+
+#: ../admin/settings.php:171
+msgid "Activate PicLens/CoolIris support"
+msgstr "הפעל תמיכה ב-PicLens/CoolIris"
+
+#: ../admin/settings.php:173
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "ברגע שאתה מפעיל את האפשרות הזאת, נוסף JAVASCRIPT לתחתית האתר שלך. אנא וודא ש-wp_footer כלול בתבנית שלך."
+
+#: ../admin/settings.php:176
+msgid "Tags / Categories"
+msgstr "תגיות / קטגוריות"
+
+#: ../admin/settings.php:179
+msgid "Activate related images"
+msgstr "הפעל תמונות קשורות"
+
+#: ../admin/settings.php:181
+msgid "This option will append related images to every post"
+msgstr "האפשרות הזאת תוסיף תמונות קשורות לכל פוסט"
+
+#: ../admin/settings.php:185
+msgid "Match with"
+msgstr "התאם עם"
+
+#: ../admin/settings.php:186
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: ../admin/settings.php:191
+msgid "Max. number of images"
+msgstr "מקסימום מספר תמונות"
+
+#: ../admin/settings.php:193
+msgid "0 will show all images"
+msgstr "0 יציג את כל התמונות"
+
+#: ../admin/settings.php:197
+#: ../admin/settings.php:226
+#: ../admin/settings.php:266
+#: ../admin/settings.php:348
+#: ../admin/settings.php:381
+#: ../admin/settings.php:613
+msgid "More settings"
+msgstr "הגדרות נוספות"
+
+#: ../admin/settings.php:205
+msgid "Thumbnail settings"
+msgstr "הגדרות תמונות תצוגה"
+
+#: ../admin/settings.php:209
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "שים לב: אם אתה משנה את ההגדרות, תצטרך ליצור מחדש את התמונות תצודה תחת ->ניהול גלרייה ."
+
+#: ../admin/settings.php:222
+msgid "Thumbnail quality"
+msgstr "איכות התמונת תצוגה"
+
+#: ../admin/settings.php:234
+msgid "Image settings"
+msgstr "הגדרות תמונה"
+
+#: ../admin/settings.php:240
+msgid "Resize Images"
+msgstr "שינוי גודל של תמונות"
+
+#: ../admin/settings.php:247
+msgid "Image quality"
+msgstr "איכות התמונה"
+
+#: ../admin/settings.php:252
+msgid "Single picture"
+msgstr "תמונה יחידה"
+
+#: ../admin/settings.php:255
+msgid "Cache single pictures"
+msgstr "שמור תמונות יחידות במטמון"
+
+#: ../admin/settings.php:258
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "יוצר קובץ להגדרות של כל תמונה יחידה. מפחת את עומס המעבד"
+
+#: ../admin/settings.php:261
+msgid "Clear cache folder"
+msgstr "נקה את תיקיית המטמון"
+
+#: ../admin/settings.php:263
+msgid "Proceed now"
+msgstr "המשך כעת"
+
+#: ../admin/settings.php:280
+msgid "Deactivate gallery page link"
+msgstr "נטרל את הקישור לעמוד גלרייה"
+
+#: ../admin/settings.php:282
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "האלבום לא ייקשר לגלרייה בתת עמוד. הגלרייה תוצג באותו עמוד."
+
+#: ../admin/settings.php:286
+msgid "Number of images per page"
+msgstr "מספר התמונות לעמוד"
+
+#: ../admin/settings.php:288
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 ינטרל את החלוקה לעמודים, כל התמונות יוצגו בעמוד אחד"
+
+#: ../admin/settings.php:292
+msgid "Number of columns"
+msgstr "מספר עמודות"
+
+#: ../admin/settings.php:294
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 יציג כמה שיותר בהתחשב ברוחב התבנית שלך. בדרך כלל צריך הגדרה רק בשביל הכתוביות מתחת לתמונות"
+
+#: ../admin/settings.php:298
+msgid "Integrate slideshow"
+msgstr "שלב שקופיות"
+
+#: ../admin/settings.php:305
+msgid "Show first"
+msgstr "הצג ראשון"
+
+#: ../admin/settings.php:311
+msgid "Show ImageBrowser"
+msgstr "הצג את ה-ImageBrowser"
+
+#: ../admin/settings.php:313
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "הגלרייה תפתח את ImageBrowser במקום האפקט."
+
+#: ../admin/settings.php:317
+msgid "Add hidden images"
+msgstr "הוסף תמונות נסתרות"
+
+#: ../admin/settings.php:319
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increase the page load"
+msgstr "אם חלוקה לעמודים בשימוש, האפשרות הזאת תציג את כל התמונות בחלון מודל (Thickbox, Lightbox וכו.) שים לב: מגדיל את זמן טעינת העמוד"
+
+#: ../admin/settings.php:323
+msgid "Enable AJAX pagination"
+msgstr "אפשר חלוקה לעמודים AJAX"
+
+#: ../admin/settings.php:325
+msgid "Browse images without reload the page. Note : Work only in combination with Shutter effect"
+msgstr "עיין בתמונות ללא טעינה מחדש של העמוד. שים לב: עובד רק בשיתוף עם האפקט תריס"
+
+#: ../admin/settings.php:329
+msgid "Sort options"
+msgstr "אפשרויות מיון"
+
+#: ../admin/settings.php:332
+msgid "Sort thumbnails"
+msgstr "מיון תמונות תצוגה"
+
+#: ../admin/settings.php:334
+msgid "Custom order"
+msgstr "סדר מותאם אישית"
+
+#: ../admin/settings.php:336
+msgid "File name"
+msgstr "שם קובץ"
+
+#: ../admin/settings.php:337
+msgid "Alt / Title text"
+msgstr "טקסט אלט / כותרת"
+
+#: ../admin/settings.php:338
+msgid "Date / Time"
+msgstr "תאריך / זמן"
+
+#: ../admin/settings.php:342
+msgid "Sort direction"
+msgstr "כיוון המיון"
+
+#: ../admin/settings.php:360
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "כאן ביכולתך לבחור את האפקט לתמונת התצוגה, נקסטגן תמזג את הקוד הנדרש בתמונות. אנא שים לב שרק האפקטים תריס וThickbox יתווספו בצורה אוטומטית לערכת עיצוב שלך"
+
+#: ../admin/settings.php:361
+msgid "With the placeholder"
+msgstr "עם המציין מיקום"
+
+#: ../admin/settings.php:361
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "ביכולתך להפעיל ניווט דרך בתמונות (תלוי באפקט). שנה את השורת קוד רק אם אתה משתמש באפקט אחר לתמונות תצוגה, או כשאתה יודע מה אתה עושה."
+
+#: ../admin/settings.php:364
+msgid "JavaScript Thumbnail effect"
+msgstr "אפקט JAVASCRIPT לתמונות תצוגה"
+
+#: ../admin/settings.php:368
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:369
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:370
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:371
+msgid "Shutter"
+msgstr "תריס"
+
+#: ../admin/settings.php:372
+msgid "Custom"
+msgstr "מותאם אישית"
+
+#: ../admin/settings.php:377
+msgid "Link Code line"
+msgstr "קשר את שורת הקוד"
+
+#: ../admin/settings.php:396
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "שים לב : ביכולתך להפעיל את הסימון מים רק דרך ->ניהול גלרייה. אין אפשרות לבטל את הפעולה הזאת."
+
+#: ../admin/settings.php:401
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: ../admin/settings.php:403
+#: ../admin/settings.php:408
+msgid "Position"
+msgstr "מיקום"
+
+#: ../admin/settings.php:428
+msgid "Offset"
+msgstr "קיזוז (אופסט)"
+
+#: ../admin/settings.php:444
+msgid "Use image as watermark"
+msgstr "השתמש בתמונה לסימון מים"
+
+#: ../admin/settings.php:447
+msgid "URL to file"
+msgstr "כתובת URL לקובץ"
+
+#: ../admin/settings.php:449
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "גישה לקבצים דרך URL אינה פעילה בשרת שלך (הפעל את allow_url_fopen)"
+
+#: ../admin/settings.php:452
+msgid "Use text as watermark"
+msgstr "השתמש בטקסט לסימון מים"
+
+#: ../admin/settings.php:455
+msgid "Font"
+msgstr "פונט"
+
+#: ../admin/settings.php:464
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "הפונקציה הזאת לא תעבוד מכיוון שאתה צריך את ספריית ה-FreeType"
+
+#: ../admin/settings.php:466
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "ביכולתך לעלות עוד פונטים לתיקייה <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:475
+msgid "Color"
+msgstr "צבע"
+
+#: ../admin/settings.php:477
+msgid "(hex w/o #)"
+msgstr "האקס (ללא #)"
+
+#: ../admin/settings.php:480
+msgid "Text"
+msgstr "טקסט"
+
+#: ../admin/settings.php:484
+msgid "Opaque"
+msgstr "אטימות (שקיפות)"
+
+#: ../admin/settings.php:504
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "הנתיב אל imagerotator.swf אינו מוגדר, התצוגת שקופיות לא תעבוד."
+
+#: ../admin/settings.php:505
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "אם ברצונך להשתמש ב- JW Image Rotatator, אנא הורד את הנגן מ - <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >כאן</a> והעלה אותו לתיקיית ההעלאות שלך (הברירת מחדל הינה wp-content/uploads)"
+
+#: ../admin/settings.php:510
+msgid "The settings are used in the JW Image Rotator Version"
+msgstr "ההגדרות בשימוש בגירסת ה -JW Image Rotator"
+
+#: ../admin/settings.php:511
+msgid "See more information for the Flash Player on the web page"
+msgstr "ראה עוד מידע על הנגן פלאש בעמוד אינטרנט"
+
+#: ../admin/settings.php:515
+msgid "Path to the Imagerotator (URL)"
+msgstr "נתיב לImagerotator (URL)"
+
+#: ../admin/settings.php:518
+msgid "Search now"
+msgstr "חפש כעת"
+
+#: ../admin/settings.php:519
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "לחץ על הכפתור על מנת לבצע חיפוש אוטומטי של ה-Imagerotator, אם כבר העלת אותו אל wp-content/uploads או אל תת תיקייה"
+
+#: ../admin/settings.php:523
+msgid "Default size (W x H)"
+msgstr "גודל ברירת מחדל (גובה X רוחב)"
+
+#: ../admin/settings.php:528
+msgid "Shuffle mode"
+msgstr "מצב ערבוב"
+
+#: ../admin/settings.php:532
+msgid "Show next image on click"
+msgstr "הצג תמונה הבאה בלחיצה"
+
+#: ../admin/settings.php:536
+msgid "Show navigation bar"
+msgstr "הצג סרגל ניווט"
+
+#: ../admin/settings.php:540
+msgid "Show loading icon"
+msgstr "הצג אייקון טעינה"
+
+#: ../admin/settings.php:544
+msgid "Use watermark logo"
+msgstr "השתמש בלוגו של הסימון מים"
+
+#: ../admin/settings.php:546
+msgid "You can change the logo at the watermark settings"
+msgstr "ביכולתך לשנות את הלוגו בהגדרות סימון מים"
+
+#: ../admin/settings.php:549
+msgid "Stretch image"
+msgstr "מתח תמונה"
+
+#: ../admin/settings.php:552
+msgid "true"
+msgstr "חיובי"
+
+#: ../admin/settings.php:553
+msgid "false"
+msgstr "שלילי"
+
+#: ../admin/settings.php:554
+msgid "fit"
+msgstr "התאם"
+
+#: ../admin/settings.php:555
+msgid "none"
+msgstr "ללא"
+
+#: ../admin/settings.php:560
+msgid "Duration time"
+msgstr "משך הזמן"
+
+#: ../admin/settings.php:561
+msgid "sec."
+msgstr "שניות"
+
+#: ../admin/settings.php:564
+msgid "Transition / Fade effect"
+msgstr "אפקט מעבר / דעיכה"
+
+#: ../admin/settings.php:567
+msgid "fade"
+msgstr "דעיכה"
+
+#: ../admin/settings.php:568
+msgid "bgfade"
+msgstr "דעיכת רקע"
+
+#: ../admin/settings.php:569
+msgid "slowfade"
+msgstr "דעיכה איטית"
+
+#: ../admin/settings.php:570
+msgid "circles"
+msgstr "עיגולים"
+
+#: ../admin/settings.php:571
+msgid "bubbles"
+msgstr "בועות"
+
+#: ../admin/settings.php:572
+msgid "blocks"
+msgstr "בלוקים"
+
+#: ../admin/settings.php:573
+msgid "fluids"
+msgstr "נוזלים"
+
+#: ../admin/settings.php:574
+msgid "flash"
+msgstr "פלאש"
+
+#: ../admin/settings.php:575
+msgid "lines"
+msgstr "שורות"
+
+#: ../admin/settings.php:576
+msgid "random"
+msgstr "רנדומאלי"
+
+#: ../admin/settings.php:580
+msgid "Use slow zooming effect"
+msgstr "השתמש באפקט זום איטי"
+
+#: ../admin/settings.php:584
+msgid "Background Color"
+msgstr "צבע הרקע"
+
+#: ../admin/settings.php:589
+msgid "Texts / Buttons Color"
+msgstr "צבע הטקסטים / כפתורים"
+
+#: ../admin/settings.php:594
+msgid "Rollover / Active Color"
+msgstr "צבע במעבר מעל / פעיל"
+
+#: ../admin/settings.php:599
+msgid "Screen Color"
+msgstr "צבע המסך"
+
+#: ../admin/settings.php:604
+msgid "Background music (URL)"
+msgstr "מוסיקת רקע (URL)"
+
+#: ../admin/settings.php:608
+msgid "Try XHTML validation (with CDATA)"
+msgstr "נסה אימות XHTML (על ידי CDATA)"
+
+#: ../admin/settings.php:610
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "חשוב: יכול ליצור בעיות בדפדפנים מסויימים. אנא בדוק את העמוד שלך שנית."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "אפס את כל ההגדרות לפרמטר ברירת מחדל"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "הסרת ההתקנה עברה בהצלחה! כעת מחק את התוסף ותהנה מהחיים שלך! בהצלחה!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "אפס אפשרויות"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "אפס את כל האפשרויות/הגדרות לברירת מחדל של ההתקנה."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "אפס הגדרות"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"האם לאפס את האפשרויות להגדרות ברירת מחדל?\\n"
+"\\n"
+"בחר [ביטול] על מנת לבטל, [אישור] על מנת להמשיך.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "הסר את טבלאות התוסף"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "אינך אוהב את הגלרייה נקסטגן?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "אין בעיה, רק לפני שאתה מנטרל את התוסף לחץ על כפתור ההסרת התקנה, מכיוון שניטרול התוסף אינו מסיר נתונים שיכול להיות שנוצרו."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "אזהרה:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "ברגע שהגלרייה תוסר, אין אפשרות לבטל את ההסרה. צור גיבוי של טבלאות המסד נתונים קודם. נקסטגן מאחוסנות בטבלאות במסד נתונים"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "ו-"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "הסרת התוסף"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"הינך עומד להסיר את התוסף הזה מוורדפרס.\\n"
+"אין אפשרות לבטל את הפעולה הזאת.\\n"
+"\\n"
+"בחר [ביטול] על מנת לבטל, [אישור] על מנת להמשיך.\\n"
+
+#: ../admin/showmeta.php:28
+msgid "Meta Data"
+msgstr "נתוני מטה"
+
+#: ../admin/showmeta.php:33
+#: ../admin/showmeta.php:59
+#: ../admin/showmeta.php:84
+#: ../admin/showmeta.php:108
+msgid "Tag"
+msgstr "תגית"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Value"
+msgstr "ערך"
+
+#: ../admin/showmeta.php:48
+msgid "No meta data saved"
+msgstr "לא נשמרו נתוני מטה"
+
+#: ../admin/showmeta.php:54
+msgid "EXIF Data"
+msgstr "נתוני EXIF"
+
+#: ../admin/showmeta.php:73
+msgid "No exif data"
+msgstr "אין נתוני EXIF"
+
+#: ../admin/showmeta.php:80
+msgid "IPTC Data"
+msgstr "נתוני IPTC"
+
+#: ../admin/showmeta.php:104
+msgid "XMP Data"
+msgstr "נתוני XMP"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(מהתיקייה של הערכת עיצוב)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "אין לך הרשאות מתאימות לעריכת תבניות מהבלוג הזה."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "הקובץ CSS עודכן בהצלחה"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "עורך הסגנון"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "הפעל והשתמש בגיליון סגנונות:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "הפעל"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "עורך את <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "מעיין <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "גירסא"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "טיפ: העתק את הגיליון סגנונות שלך (nggallery.css) אל תיקיית הערכת עיצוב שלך, על מנת שזה לא ילך לאיבוד בזמן שידרוג"
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "הערכת עיצוב שלך מכילה גיליון סגנונות של נקסטגן (nggallery.css), הקובץ הזה יהיה בשימוש"
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "טיפ מס. 2: השתמש בבוחר הצבע לקמן על מנת למצוא את המתאים ביותר לגלרייה שלך!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "קובץ עידכון"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "אם הקובץ הזה היה ניתן לכתיבה היה ביכולתך לערוך אותו."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "אופס, קובץ כזה אינו קיים! אנא בדוק שוב את השם ונסה שנית, תודה."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "הפופלרי/ת ביותר"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "הכי פחות בשימוש"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "לפי סדר הא-ב"
+
+#: ../admin/tags.php:95
+msgid "Manage image tags"
+msgstr "ניהול תגיות תמונה"
+
+#: ../admin/tags.php:107
+msgid "Existing Tags"
+msgstr "תגיות קיימות"
+
+#: ../admin/tags.php:111
+msgid "Search tags"
+msgstr "חיפוש תגיות"
+
+#: ../admin/tags.php:115
+msgid "Go"
+msgstr "סע"
+
+#: ../admin/tags.php:120
+msgid "Sort Order:"
+msgstr "סדר המיון:"
+
+#: ../admin/tags.php:137
+#, php-format
+msgid "View all images tagged with %s"
+msgstr "הצג את כל התמונות המתוייגות ב-%s"
+
+#: ../admin/tags.php:152
+#: ../admin/tags.php:156
+#: ../admin/tags.php:169
+msgid "Previous tags"
+msgstr "תגיות קודמות"
+
+#: ../admin/tags.php:165
+msgid "Next tags"
+msgstr "תגיות הבאות"
+
+#: ../admin/tags.php:177
+msgid "Rename Tag"
+msgstr "שנה שם תגית"
+
+#: ../admin/tags.php:185
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "הזן את התגית המצריכה שינוי שם ואת הערך החדש שלה. ביכולתך להשתמש בתכונה זאת גם למיזוג תגיות. לחץ על \"שינוי שם\" וכל הפוסטים שמשתמשים בתגית הזאת יעודכנו."
+
+#: ../admin/tags.php:186
+#: ../admin/tags.php:234
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "ביכולתך לציין כמה תגיות לשינוי שם, הפרד אותם על ידי פסיק"
+
+#: ../admin/tags.php:190
+msgid "Tag(s) to rename:"
+msgstr "תגיות לשינוי שם:"
+
+#: ../admin/tags.php:194
+msgid "New tag name(s):"
+msgstr "שמות חדשים לתגיות:"
+
+#: ../admin/tags.php:197
+msgid "Rename"
+msgstr "שינוי שם"
+
+#: ../admin/tags.php:203
+msgid "Delete Tag"
+msgstr "מחק תגית"
+
+#: ../admin/tags.php:211
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "הזן את השם של התגית למחיקה. התגית הזאת תוסר מכל הפוסטים."
+
+#: ../admin/tags.php:212
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "ביכולתך לציין כמה תגיות למחיקה, הפרד את התגיות על ידי פסיק"
+
+#: ../admin/tags.php:216
+msgid "Tag(s) to delete:"
+msgstr "תגיות למחיקה:"
+
+#: ../admin/tags.php:225
+msgid "Edit Tag Slug"
+msgstr "ערוך אסימון תגית"
+
+#: ../admin/tags.php:233
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "הזן את שם התגית לעריכה ואת האסימון החדש שלה. <a href=\"http://codex.wordpress.org/Glossary#Slug\">הגדרת אסימון</a>"
+
+#: ../admin/tags.php:238
+msgid "Tag(s) to match:"
+msgstr "תגיות להתאים:"
+
+#: ../admin/tags.php:242
+msgid "Slug(s) to set:"
+msgstr "אסימונים להגדרה:"
+
+#: ../admin/upgrade.php:20
+msgid "Upgrade database structure..."
+msgstr "עדכן את מבנה המסד נתונים..."
+
+#: ../admin/upgrade.php:98
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:115
+#: ../admin/upgrade.php:126
+#: ../admin/upgrade.php:140
+msgid "finished"
+msgstr "הסתיים"
+
+#: ../admin/upgrade.php:106
+msgid "Update file structure..."
+msgstr "עדכן את מבנה קבצים..."
+
+#: ../admin/upgrade.php:113
+msgid "Import date and time information..."
+msgstr "יבוא מידע תאריך ושעה..."
+
+#: ../admin/upgrade.php:121
+msgid "Move imagerotator to new location..."
+msgstr "העבר את Imagerotator למיקום חדש..."
+
+#: ../admin/upgrade.php:132
+msgid "Update settings..."
+msgstr "עדכן הגדרות..."
+
+#: ../admin/upgrade.php:205
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "לא הייתה אפשרות לשנות את השם של חלק מהתיקיות/קבצים, אנא בדוק את ההרשאות ובצע סריקה חוזרת של התיקייה במחלקת ניהול הגלרייה."
+
+#: ../admin/upgrade.php:207
+msgid "Rename failed"
+msgstr "שינוי השם נכשל"
+
+#: ../admin/upgrade.php:302
+#: ../admin/upgrade.php:321
+msgid "Upgrade NextGEN Gallery"
+msgstr "שדרג את גלריית נקסטגן"
+
+#: ../admin/upgrade.php:303
+msgid "The script detect that you upgrade from a older version."
+msgstr "הסקריפט זיהה ששדרגת מגירסא ישנה יותר"
+
+#: ../admin/upgrade.php:304
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "הטבלאות מסד נתונים שלך של נקסטגן מיושנות, וחייבות לעבור שידרוג לפני שאתה יכול להמשיך."
+
+#: ../admin/upgrade.php:305
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "אם ברצונך לבצע שדרוג לאחור מאוחר יותר, אנא קודם בצע גיבוי מלא למסד נתונים ולתמונות."
+
+#: ../admin/upgrade.php:306
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "תהליך השדרוג עלול לקחת זמן, אנא האזר בסבלנות."
+
+#: ../admin/upgrade.php:307
+msgid "Start upgrade now"
+msgstr "התחל שדרוג כעת"
+
+#: ../admin/upgrade.php:323
+msgid "Upgrade sucessful"
+msgstr "השדרוג עבר בהצלחה"
+
+#: ../admin/upgrade.php:324
+msgid "Continue"
+msgstr "המשך"
+
+#: ../admin/wpmu.php:32
+msgid "Update successfully"
+msgstr "העדכון עבר בהצלחה"
+
+#: ../admin/wpmu.php:41
+msgid "General WordPress MU Settings"
+msgstr "הגדרות כלליות לוורדפרס אם.יו."
+
+#: ../admin/wpmu.php:49
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "זהו הנתיב ברירת מחדל לכל הבלוגים. עם המציין מיקום  %BLOG_ID% ביכותלך לסדר את מבנה התיקיות בצורה טובה יותר. הנתיב חייב להסתיים עם /."
+
+#: ../admin/wpmu.php:52
+msgid "Enable upload quota check"
+msgstr "אפשר בדיקת מכסת העלאה"
+
+#: ../admin/wpmu.php:54
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "צריך לעבוד אם הגלרייה נמצאת תחת התיקייה של הבלוק"
+
+#: ../admin/wpmu.php:58
+msgid "Enable zip upload option"
+msgstr "הפעל את האפשרות להעלאת זיפ"
+
+#: ../admin/wpmu.php:60
+msgid "Allow users to upload zip folders."
+msgstr "אפשר למשתמשים להעלות תיקיות זיפ."
+
+#: ../admin/wpmu.php:64
+msgid "Enable style selection"
+msgstr "אפשר בחירת סגנון"
+
+#: ../admin/wpmu.php:66
+msgid "Allow users to choose a style for the gallery."
+msgstr "אפשר למשתמשים לבחור סגנון לגלרייה."
+
+#: ../admin/wpmu.php:70
+msgid "Enable roles/capabilities"
+msgstr "אפשר תפקידים/יכולות"
+
+#: ../admin/wpmu.php:72
+msgid "Allow users to change the roles for other blog authors."
+msgstr "אפשר למשתמשים לשנות את התפקידים למחברים אחרים של הבלוג."
+
+#: ../admin/wpmu.php:76
+msgid "Default style"
+msgstr "סגנון ברירת מחדל"
+
+#: ../admin/wpmu.php:93
+msgid "Choose the default style for the galleries."
+msgstr "בחר את הסגנון ברירת מחדל לגלריות."
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "אינך מורשה להיות כאן"
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "הצג כ-"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "רשימת תמונות"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "Imagebrowser"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "אין אלבום"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "גירסא מורחבת"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "גירסא מצומצמת"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "בחר תמונה"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "רוחב  X גובה"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "אפקט"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "אין אפקט"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "ווב 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "פלוט (ציפה)"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "אין פלוט (ציפה)"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "הוספה"
+
+#: ../lib/core.php:368
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "שים לב: בהתחשב בהגבלת הזיכרון של השרת שלך, עדיף לא להעלות תמונות העולות על <strong>%d x %d</strong> פיקסלים"
+
+#: ../lib/meta.php:123
+msgid " mm"
+msgstr "מילימטר"
+
+#: ../lib/meta.php:129
+msgid " sec"
+msgstr "שניות"
+
+#: ../lib/meta.php:133
+msgid "Fired"
+msgstr "נורה"
+
+#: ../lib/meta.php:133
+msgid "Not fired"
+msgstr "לא נורה"
+
+#: ../lib/meta.php:414
+msgid "Aperture"
+msgstr "פתח"
+
+#: ../lib/meta.php:415
+#: ../lib/meta.php:440
+msgid "Credit"
+msgstr "קרדיט"
+
+#: ../lib/meta.php:416
+msgid "Camera"
+msgstr "תמונה"
+
+#: ../lib/meta.php:417
+msgid "Caption"
+msgstr "כתובית"
+
+#: ../lib/meta.php:419
+msgid "Copyright"
+msgstr "זכויות יוצרים"
+
+#: ../lib/meta.php:420
+msgid "Focal length"
+msgstr "אורך פוקלי"
+
+#: ../lib/meta.php:421
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:422
+msgid "Shutter speed"
+msgstr "מהירות התריס"
+
+#: ../lib/meta.php:426
+msgid "Subject"
+msgstr "נושא"
+
+#: ../lib/meta.php:427
+msgid "Make"
+msgstr "צור"
+
+#: ../lib/meta.php:428
+msgid "Edit Status"
+msgstr "ערוך סטטוס"
+
+#: ../lib/meta.php:429
+msgid "Category"
+msgstr "קטגוריה"
+
+#: ../lib/meta.php:430
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+#: ../lib/meta.php:431
+msgid "Date Created"
+msgstr "תאריך יצירה"
+
+#: ../lib/meta.php:432
+msgid "Time Created"
+msgstr "שעת יצירה"
+
+#: ../lib/meta.php:433
+msgid "Author Position"
+msgstr "מיקום המחבר"
+
+#: ../lib/meta.php:434
+msgid "City"
+msgstr "עיר"
+
+#: ../lib/meta.php:435
+msgid "Location"
+msgstr "מיקום"
+
+#: ../lib/meta.php:436
+msgid "Province/State"
+msgstr "מדינה/מחוז"
+
+#: ../lib/meta.php:437
+msgid "Country code"
+msgstr "קוד ארץ"
+
+#: ../lib/meta.php:438
+msgid "Country"
+msgstr "ארץ"
+
+#: ../lib/meta.php:439
+msgid "Headline"
+msgstr "כותרת"
+
+#: ../lib/meta.php:441
+msgid "Source"
+msgstr "מקור"
+
+#: ../lib/meta.php:442
+msgid "Copyright Notice"
+msgstr "הודעת זכויות יוצרים"
+
+#: ../lib/meta.php:443
+msgid "Contact"
+msgstr "יצירת קשר"
+
+#: ../lib/meta.php:444
+msgid "Last modified"
+msgstr "עודכן לאחרונה"
+
+#: ../lib/meta.php:445
+msgid "Program tool"
+msgstr "כלי תוכנה"
+
+#: ../lib/meta.php:446
+msgid "Format"
+msgstr "פורמט"
+
+#: ../lib/meta.php:447
+msgid "Image Width"
+msgstr "רוחב התמונה"
+
+#: ../lib/meta.php:448
+msgid "Image Height"
+msgstr "גובה התמונה"
+
+#: ../lib/meta.php:449
+msgid "Flash"
+msgstr "פלאש"
+
+#: ../lib/ngg-db.php:313
+#: ../lib/ngg-db.php:314
+msgid "Album overview"
+msgstr "סקירת אלבום"
+
+#: ../lib/shortcodes.php:289
+msgid "[Pictures not found]"
+msgstr "[התמונות לא נמצאו]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "לא צויינה תגית חדשה!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "לא צויינה תגית חדשה/ישנה!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "לא שונה שם לתגית."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "השם של התגיות &laquo;%1$s&raquo; עד &laquo;%2$s&raquo; שונה"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "אין תגית חדשה תקינה."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "לא נמצאו אובייקטים (פוסט/עמוד) לתגיות הישנות שצויינו."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "לא מוזגו תגיות."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "התגיות &laquo;%1$s&raquo; עד &laquo;%2$s&raquo;. %3$s מוזגו, האבוייקטים נערכו בהצלחה."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "שגיאה. אין מספיק תגיות לשינוי שם ולמיזוג. אנא בחר!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "לא צויינה תגית!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "לא נמחקה תגית."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s תגיות נמחקו."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "לא צויינו אסימונים חדשים!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "מספר התגים אינו תואם את מספר האסימונים!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "לא נערך אסימון."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s אסימונים נערכו."
+
+#: ../lib/xmlrpc.php:55
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "שירותי XML-RPC מנוטרלים בבלוג הזה. יש באפשרות מנהל להפעיל אותם ב-%s"
+
+#: ../lib/xmlrpc.php:62
+msgid "Bad login/pass combination."
+msgstr "שגיאה בפרטי ההתחברות."
+
+#: ../lib/xmlrpc.php:118
+msgid "You are not allowed to upload files to this site."
+msgstr "אינך מורשה לעלות קבצים לאתר הזה."
+
+#: ../lib/xmlrpc.php:124
+#: ../lib/xmlrpc.php:309
+msgid "Could not find gallery "
+msgstr "אין אפשרות למצוא את הגלרייה"
+
+#: ../lib/xmlrpc.php:129
+#: ../lib/xmlrpc.php:314
+msgid "You are not allowed to upload files to this gallery."
+msgstr "אינך מורשה לעלות קבצים לגלרייה הזאת."
+
+#: ../lib/xmlrpc.php:141
+msgid "This is no valid image file."
+msgstr "זה אינו קובץ תמונה תקין."
+
+#: ../lib/xmlrpc.php:153
+msgid "Could not find image id "
+msgstr "אין אפשרות למצוא מזהה תמונה"
+
+#: ../lib/xmlrpc.php:160
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "נכשל במחיקת התמונה %1$s "
+
+#: ../lib/xmlrpc.php:169
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "נכשל בכתיבת הקובץ %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:236
+#: ../lib/xmlrpc.php:272
+msgid "Sorry, you must be able to manage galleries to view the list of galleries"
+msgstr "מצטערים, חייב להיות ביכולתך לנהל גלריות על מנת שתוכל לראות את רשימת הגלריות"
+
+#: ../lib/xmlrpc.php:242
+msgid "Sorry, could not create the gallery"
+msgstr "מצטערים, לא הייתה אפשרות ליצור את הגלרייה"
+
+#: ../view/album-compact.php:32
+msgid "Photos"
+msgstr "תמונות"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery-hidden.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:236
+msgid "[View with PicLens]"
+msgstr "[הצג באמצעות PicLens]"
+
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "הקודם"
+
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "הבא"
+
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "מ-"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "נתוני מטה"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "מצלמה / סוג"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "אורך פוקלי"
+
+#: ../widgets/media-rss-widget.php:31
+msgid "NextGEN Media RSS"
+msgstr "NextGEN מדיה RSS"
+
+#: ../widgets/media-rss-widget.php:37
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "ווידגאט שמציג קישורי RSS מדיה לגלריית נקסטגן."
+
+#: ../widgets/media-rss-widget.php:135
+#: ../widgets/media-rss-widget.php:200
+#: ../widgets/media-rss-widget.php:260
+msgid "Media RSS"
+msgstr "RSS מדיה"
+
+#: ../widgets/media-rss-widget.php:136
+#: ../widgets/media-rss-widget.php:261
+msgid "Link to the main image feed"
+msgstr "קישור להזנת תמונה ראשית"
+
+#: ../widgets/media-rss-widget.php:151
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "כותרת:"
+
+#: ../widgets/media-rss-widget.php:159
+msgid "Show Media RSS icon"
+msgstr "הצג אייקון של RSS מדיה"
+
+#: ../widgets/media-rss-widget.php:165
+msgid "Show the global Media RSS link"
+msgstr "הצג את הקישור הגלובלי לRSS מדיה"
+
+#: ../widgets/media-rss-widget.php:170
+msgid "Text for the global Media RSS link:"
+msgstr "טקסט לקישור הגלובלי לRSS מדיה:"
+
+#: ../widgets/media-rss-widget.php:176
+msgid "Tooltip text for the global Media RSS link:"
+msgstr "טקסט טולטיפ לקישור הגלובלי לRSS מדיה:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "הצג שקופיות של גלריית נקסטגן"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "שקופיות נקסטגן"
+
+#: ../widgets/widgets.php:66
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">הורד נגן פלאש</a> על מנת לראות את השקופיות."
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "בחר גלרייה:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "כל התמונות"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "גובה:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "רוחב:"
+
+#: ../widgets/widgets.php:171
+msgid "Add recent or random images from the galleries"
+msgstr "הוסף תמונות אחרונות או רנדומאליות מהגלריות"
+
+#: ../widgets/widgets.php:173
+msgid "NextGEN Widget"
+msgstr "וידגאט נקסטגן"
+
+#: ../widgets/widgets.php:273
+msgid "Title :"
+msgstr "כותרת :"
+
+#: ../widgets/widgets.php:279
+msgid "Show :"
+msgstr "הצג :"
+
+#: ../widgets/widgets.php:285
+msgid "Original images"
+msgstr "תמונות מקוריות"
+
+#: ../widgets/widgets.php:293
+msgid "recent added "
+msgstr "נוספו לאחרונה"
+
+#: ../widgets/widgets.php:299
+msgid "Enable IE8 Web Slices"
+msgstr "אפשר חיתוכי ווב של IE8"
+
+#: ../widgets/widgets.php:304
+msgid "Width x Height :"
+msgstr "רוחב X גובה :"
+
+#: ../widgets/widgets.php:311
+msgid "Select :"
+msgstr "בחר :"
+
+#: ../widgets/widgets.php:313
+msgid "All galleries"
+msgstr "כל הגלריות"
+
+#: ../widgets/widgets.php:314
+msgid "Only which are not listed"
+msgstr "רק את שאינם רשומים"
+
+#: ../widgets/widgets.php:315
+msgid "Only which are listed"
+msgstr "רק את הרשומים"
+
+#: ../widgets/widgets.php:321
+msgid "Gallery ID :"
+msgstr "מזהה הגלרייה :"
+
+#: ../widgets/widgets.php:323
+msgid "Gallery IDs, separated by commas."
+msgstr "מזההי גלריות, מופרדים על ידי פסיק."
+
+#: ../xml/media-rss.php:58
+msgid "No galleries have been yet created."
+msgstr "עדיין לא נוצרו גלריות."
+
+#: ../xml/media-rss.php:77
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "הגלרייה מזהה=%s אינה קיימת."
+
+#: ../xml/media-rss.php:108
+msgid "No album ID has been provided as parameter"
+msgstr "לא צויין מזהה אלבום כפרמטר"
+
+#: ../xml/media-rss.php:116
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "האלבום מזהה=%s אינו קיים."
+
+#: ../xml/media-rss.php:123
+#, php-format
+msgid "Invalid MediaRSS command (%s)."
+msgstr "פקודת RSSמדיה לא תקינה (%s)."
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "für PclZip, eine ZIP PHP Library"
+
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "Mittige Thumbnails aus Bildern ausschneiden"
+
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr "Erstellt viereckige Thumbnails, nutzt nur den Wert der Breite :"
+
+#~ msgid "Image"
+
+#~ msgid_plural "Images"
+#~ msgstr[0] "Bild"
+#~ msgstr[1] "Bilder"
+
+#, fuzzy
+#~ msgid "Search Media"
+#~ msgstr "Suche nach Stichwörter"
+
+#~ msgid "Select Gallery"
+#~ msgstr "Wähle Galerie"
+
+#~ msgid "Album Page ID"
+#~ msgstr "Album Seiten ID (Page ID)"
+
+#~ msgid "Import a folder with all images."
+#~ msgstr "Importiere ein Verzeichnis mit Bildern."
+
+#~ msgid "Show tags"
+#~ msgstr "Zeige Tags"
+
+#~ msgid "Hide tags"
+#~ msgstr "Verstecke Tags"
+
+#~ msgid "Delete this file ?"
+#~ msgstr "Diese Datei löschen ?"
+
+#~ msgid ""
+#~ "You are about to copy or move %s images \n"
+#~ " \n"
+#~ " 'Cancel' to stop, 'OK' to proceed."
+#~ msgstr ""
+#~ "Willst du wirklich %s Bild(er) verschieben \n"
+#~ " \n"
+#~ " 'Abbrechen' um zu stoppen, 'OK' um die Bearbeitung durchzuführen."
+
+#~ msgid "Show thumbnails "
+#~ msgstr "Thumbnails zeigen"
+
+#~ msgid "Add Gallery"
+#~ msgstr "Bilder/Galerie hinzufügen"
+
+#~ msgid "Manage galleries"
+#~ msgstr "Galerie verwalten"
+
+#~ msgid ""
+#~ "There are totally %1$s pictures in %2$s galleries, which are spread "
+#~ "across %3$s albums."
+#~ msgstr ""
+#~ "Es gibt insgesamt %1$s Bilder in %2$s Galerien - verteilt in %3$s Alben."
+
+#~ msgid "GD support"
+#~ msgstr "GD Unterstützung"
+
+#~ msgid "ImageMagick"
+#~ msgstr "ImageMagick"
+
+#~ msgid "Add Metadata :"
+#~ msgstr "Metadaten hinzufügen :"
+
+#~ msgid "Import EXIF, IPTC or XMP data (if available)"
+#~ msgstr "EXIF, IPTC oder XMP Daten importieren (wenn verfügbar)"
+
+#~ msgid "New Version available"
+#~ msgstr "Neue Version verfügbar !!"
+
+#~ msgid ""
+#~ "The server reports that a new NextGEN Gallery Version is now available. "
+#~ "Please visit the plugin homepage for more information."
+#~ msgstr ""
+#~ "Der Server benachrichtigt Dich über eine neu verfügbare Version der "
+#~ "NextGEN Galerie. Bitte besuche die Plugin Homepage um weitere "
+#~ "Informationen zu erhalten."
+
+#~ msgid "Resample Mode"
+#~ msgstr "Resample Modus"
+
+#~ msgid "Value between 1-5 (higher value, more CPU load)"
+#~ msgstr "Wähle zwischen 1-5 (je höhere desto länger braucht der Server)"
+
+#~ msgid "NextGEN Gallery %d"
+#~ msgstr "NextGEN Gallery %d"
+
+#~ msgid "How many NextGEN Gallery widgets would you like?"
+#~ msgstr "Wie viele NextGEN Gallery Widgets möchtest du haben ?"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "for Simple:Press Forum, it saved me a lot of time"
+#~ msgstr "für das  Simple:Press Forum, welches mir viel Zeit sparte"
+
+#~ msgid "Sorry, NextGEN Gallery works only under WordPress 2.5 or higher"
+#~ msgstr ""
+#~ "Tut mir leid aber NextGEN Galerie arbeitet nur ab WordPress 2.5 und "
+#~ "aufwärts"
+
+#~ msgid "Watch gallery"
+#~ msgstr "Galerie ansehen"
+
+#~ msgid "from"
+#~ msgstr "von"
+
+#~ msgid "Running... Please wait"
+#~ msgstr "Läuft... Bitte warten"
+
+#~ msgid " : Image resized..."
+#~ msgstr " : Bild angepasst..."
+
+#~ msgid "Some pictures are not writeable :"
+#~ msgstr "Einige Bilder sind schreibgeschützt :"
+
+#~ msgid " : Watermark created..."
+#~ msgstr " : Wasserzeichen gesetzt..."
+
+#~ msgid " : Thumbnail created..."
+#~ msgstr ": Thumbnail erstellt..."
+
+#~ msgid "Follow thumbnails could not created."
+#~ msgstr "Folgende Thumbnails konnten nicht erstellt werden  :"
+
+#~ msgid "Some thumbnails are not writeable :"
+#~ msgstr "Einige Thumbnails sind schreibgeschützt :"
+
+#~ msgid "Watermark successfully added"
+#~ msgstr "Wasserzeichen erfolgreich erstellt"
+
+#~ msgid "Images successfully resized"
+#~ msgstr "Bilder erfolgreich verkleinert"
+
+#~ msgid " (require WordPress 2.3 or higher)"
+#~ msgstr " (benötigt WordPress 2.3 oder höher)"
+
+#~ msgid "Show thumbnail description"
+#~ msgstr "Zeige Bildbeschreibung"
+
+#~ msgid "Description text"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Import a folder with images. Please note :"
+#~ msgstr "Importiere ein Verzeichniss mit Bildern. Bitte beachte:"
+
+#~ msgid "For safe-mode = ON you need to add the subfolder thumbs manually"
+#~ msgstr ""
+#~ "Da der Safe-Mode  (PHP.INI) eingeschaltet ist, mußt Du das "
+#~ "Unterverzeichnis für die Vorschaubilder (\"thumbs\") manuell (per FTP) "
+#~ "anlegen"
+
+#~ msgid "The Zip-file is too large. Exceed Memory limit !"
+#~ msgstr "Das Zip-File ist zu groß. Speicherlimit überschritten !"
+
+#~ msgid "Summary"
+#~ msgstr "Zusammenfassung"
+
+#~ msgid "Welcome"
+#~ msgstr "Willkommen"
+
+#~ msgid ""
+#~ "Welcome to NextGEN Gallery. Here you can control your images, galleries "
+#~ "and albums. You currently have %s rights."
+#~ msgstr ""
+#~ "Willkommen zur NextGEN Galerie. Hier kannst Du Deine Bilder, Galerien und "
+#~ "Alben verwalten. Du hast im Moment %s Rechte."
+
+#~ msgid "Add a new gallery or import pictures"
+#~ msgstr "Neue Galerie erstellen oder Bilder importieren"
+
+#~ msgid "Manage galleries and images"
+#~ msgstr "Verwalte Galerien und Bilder"
+
+#~ msgid "Create and manage albums"
+#~ msgstr "Erstelle und verwalte Alben"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Delete File"
+#~ msgstr "Datei löschen"
+
+#~ msgid "Delete image ?"
+#~ msgstr "Bilder löschen ?"
+
+#~ msgid "Browse your files"
+#~ msgstr "Durchsuche deine Dateien"
+
+#~ msgid "Direct link to file"
+#~ msgstr "Link zur Datei"
+
+#~ msgid "Show:"
+#~ msgstr "Zeige als:"
+
+#~ msgid "Link to:"
+#~ msgstr "Link zu:"
+
+#~ msgid "Send to editor &raquo;"
+#~ msgstr "Zum  Editor schicken &raquo;"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the file '%s'?\n"
+#~ "Click ok to delete or cancel to go back."
+#~ msgstr "Bist du sicher das Du diese Datei '%s' löschen willst ?"
+
+#~ msgid "Alt/Titel text"
+#~ msgstr "Alt / Titel Text"

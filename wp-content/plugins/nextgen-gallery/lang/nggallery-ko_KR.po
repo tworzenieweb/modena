@@ -1,0 +1,3935 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Korean by Soul\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-23 18:02+0100\n"
+"PO-Revision-Date: 2011-11-28 03:37+0900\n"
+"Last-Translator: Jong-In Kim <soulofpure@hotmail.com>\n"
+"Language-Team: Jong-In Kim <soulofpure@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _n:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA, REPUBLIC OF\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:100
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>번역 : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">여기를 확인하세요</a>"
+
+#: ../nggallery.php:101
+msgid "<strong>This translation is not yet updated for Version 1.9.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>이 번역은 아직 1.9.0 버전에 맞춰서 업데이트되지 않았습니다</strong>. 번역에 도움을 주고 싶다면 현재 플러그인 폴더의 po 파일을 다운로드받고 <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">여기</a>를 확인해서 어떻게 번역해야 하는지 확인하세요."
+
+#: ../nggallery.php:205
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "죄송합니다. NextGEN 갤러리는 16MB 이상의 메모리에서 동작합니다."
+
+#: ../nggallery.php:225
+msgid "Please update the database of NextGEN Gallery."
+msgstr "NextGEN 갤러리의 데이터베이스를 업데이트하세요."
+
+#: ../nggallery.php:225
+msgid "Click here to proceed."
+msgstr "계속 진행하기 위해 여기를 클릭하세요."
+
+#: ../nggallery.php:248
+msgid "Picture tag"
+msgstr "사진 태그"
+
+#: ../nggallery.php:249
+msgid "Picture tag: %2$l."
+msgstr "사진 태그: %2$l."
+
+#: ../nggallery.php:250
+msgid "Separate picture tags with commas."
+msgstr "쉼표로 사진 태그들을 나눕니다."
+
+#: ../nggallery.php:357
+#: ../admin/admin.php:256
+msgid "L O A D I N G"
+msgstr "로딩중"
+
+#: ../nggallery.php:358
+#: ../admin/admin.php:257
+msgid "Click to Close"
+msgstr "닫으시려면 여기를 클릭하세요"
+
+#: ../nggallery.php:379
+msgid "loading"
+msgstr "로딩"
+
+#: ../nggallery.php:517
+#: ../nggfunctions.php:941
+#: ../admin/admin.php:37
+#: ../admin/admin.php:79
+msgid "Overview"
+msgstr "개요"
+
+#: ../nggallery.php:518
+msgid "Get help"
+msgstr "도움 요청"
+
+#: ../nggallery.php:519
+msgid "Contribute"
+msgstr "기부"
+
+#: ../nggallery.php:520
+msgid "Donate"
+msgstr "기부"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a>와 <a href=\"http://www.mozilla.com/firefox/\">자바스크립트가 지원되는 브라우저</a>가 필요합니다."
+
+#: ../nggfunctions.php:164
+#: ../nggfunctions.php:642
+msgid "[Gallery not found]"
+msgstr "[갤러리를 찾지 못했습니다]"
+
+#: ../nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[앨범을 찾지 못했습니다]"
+
+#: ../nggfunctions.php:771
+msgid "[SinglePic not found]"
+msgstr "[사진을 찾지 못했습니다]"
+
+#: ../nggfunctions.php:906
+msgid "Related images for"
+msgstr "관련 이미지들"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "저작권 노트 / 크레딧"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN DEV Team"
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "이 플러그인은 개발되었으며, 유지중이고, 지원하고있으며, 문서화되었습니다."
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "다른 여러 사람들도 이 프로젝트에 도움을 주었습니다 :"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "공현자 / 고마우신 분들"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "만일 당신이 이 플러그인을 분석해 본다면, 플러그인 코드 내에서 기존의 여러 좋은 코드와 기발한 생각들이 뒤섞여 있는 것을 보게 될 것입니다."
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "그래서, 우리는 다음과 같은 개발자 분들에게 감사의 마음을 전합니다. (이 분들이 아니였다면, 이 플러그인을 이렇게 빨리 만들지 못했을 것입니다.)"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "그들의 멋진 문서화 코드"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "Web2.0 Framework에 최고인 jQuery."
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "환상적인 PHP 섬네일 클래스"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "많은 유용한 플러그인과 아이디어들"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "진짜 가벼운 셔터리로드 이미지 효과"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "지구상 최고의 미디어 플래시 스크립트들"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "갤러리 아이콘"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "워터마크 플러그인"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "만일 당신의 코드가 제 플러그인에 포함이 되어 있는데 이 목록에서 당신의 이름을 찾을 수 없다면, 절 원망하지는 마시고 저에게 이메일을 보내주세요."
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "도움을 주는 방법"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "이 플러그인 제작에 도움을 주거나 제작 지원 또는 기부를 할 수 있습니다. 하지만 강제는 아닙니다."
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "코드 변경 내용 또는 버그 보고하기"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "이 플러그인의 제작에 도움을 주는 가장 좋은 방법은 바로 당신의 번뜩이는 아이디어입니다."
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "플러그인 번역하기"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "사람들이 이 플러그인을 사용하는데 도움을 주기 위해 모든 가능한 언어들을 포함시켰습니다."
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "paypal을 이용해 기부하기"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "매우 유용하고 쉬운 동기임에 틀림없습니다."
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "당신의 블로그 혹은 웹페이지에서 이 플러그인 제작 페이지로 링크를 걸어주에요."
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "예, 공유 혹은 트랙백은 이 플러그인을 제작하는데 있어 힘이 됩니다."
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "감사합니다!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "이 플러그인을 만드는데 도움을 주신 분들입니다. 이 분들에게 감사의 마음을 가지고 있습니다."
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "그리고 모든 기부자들..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:124
+#: ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "누구를 속이시려고?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "올리기 실패!"
+
+#: ../admin/addgallery.php:85
+#: ../admin/addgallery.php:93
+msgid "Upload failed! "
+msgstr "업로드 실패!"
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:943
+#: ../admin/functions.php:1043
+msgid "No gallery selected !"
+msgstr "갤러리를 선택하지 않았습니다!"
+
+#: ../admin/addgallery.php:180
+#: ../admin/addgallery.php:263
+msgid "Image Files"
+msgstr "이미지 파일"
+
+#: ../admin/addgallery.php:195
+#: ../admin/addgallery.php:284
+#: ../admin/addgallery.php:312
+msgid "remove"
+msgstr "제거"
+
+#: ../admin/addgallery.php:196
+#: ../admin/addgallery.php:285
+#: ../admin/addgallery.php:466
+msgid "Browse..."
+msgstr "찾아보기"
+
+#: ../admin/addgallery.php:197
+#: ../admin/addgallery.php:235
+#: ../admin/addgallery.php:286
+#: ../admin/addgallery.php:298
+#: ../admin/addgallery.php:537
+msgid "Upload images"
+msgstr "이미지 올리기"
+
+#: ../admin/addgallery.php:376
+#: ../admin/addgallery.php:484
+msgid "Upload Images"
+msgstr "이미지 올리기"
+
+#: ../admin/addgallery.php:379
+#: ../admin/addgallery.php:396
+#: ../admin/manage-galleries.php:119
+#: ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "새로운 갤러리 추가"
+
+#: ../admin/addgallery.php:382
+#: ../admin/addgallery.php:418
+msgid "Upload a Zip-File"
+msgstr "압축 파일로 올리기"
+
+#: ../admin/addgallery.php:385
+#: ../admin/addgallery.php:460
+msgid "Import image folder"
+msgstr "이미지 폴더에서 가져오기"
+
+#: ../admin/addgallery.php:401
+#: ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "새 갤러리 이름"
+
+#: ../admin/addgallery.php:404
+#: ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "다음의 폴더 밑에 신규 갤러리를 만듭니다. : "
+
+#: ../admin/addgallery.php:406
+#: ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "파일 및 폴더 이름은 다음의 문자들만 사용해야 합니다."
+
+#: ../admin/addgallery.php:410
+msgid "Add gallery"
+msgstr "갤러리 추가"
+
+#: ../admin/addgallery.php:423
+msgid "Select Zip-File"
+msgstr "압축 파일 선택"
+
+#: ../admin/addgallery.php:425
+msgid "Upload a zip file with images"
+msgstr "이미지가 포함된 압축 파일을 올립니다."
+
+#: ../admin/addgallery.php:429
+msgid "or enter a Zip-File URL"
+msgstr "또는 Zip파일 URL 입력"
+
+#: ../admin/addgallery.php:431
+msgid "Import a zip file with images from a url"
+msgstr "이미지가 포함된 압축 파일을 가져오기"
+
+#: ../admin/addgallery.php:435
+#: ../admin/addgallery.php:512
+msgid "in to"
+msgstr "대상"
+
+#: ../admin/addgallery.php:437
+msgid "a new gallery"
+msgstr "갤러리 새로 만들기"
+
+#: ../admin/addgallery.php:448
+msgid "Note : The upload limit on your server is "
+msgstr "주의: 당신의 서버에 업로드 가능한 한계 용량은 "
+
+#: ../admin/addgallery.php:452
+msgid "Start upload"
+msgstr "올리기 시작"
+
+#: ../admin/addgallery.php:465
+msgid "Import from Server path:"
+msgstr "가져올 서버 경로: "
+
+#: ../admin/addgallery.php:468
+msgid "Note : Change the default path in the gallery settings"
+msgstr "알림: 갤러리 설정에서 기본 경로를 변경"
+
+#: ../admin/addgallery.php:470
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "참고 사항 : Safe-mode = ON 상태라면 thumbs 폴더를 당신이 직접 만들어야 합니다."
+
+#: ../admin/addgallery.php:473
+msgid "Import folder"
+msgstr "폴더에서 가져오기"
+
+#: ../admin/addgallery.php:490
+msgid "Upload image"
+msgstr "이미지 올리기"
+
+#: ../admin/addgallery.php:495
+msgid "Choose files to upload"
+msgstr "업로드 할 파일 선택"
+
+#: ../admin/addgallery.php:496
+msgid "Select Files"
+msgstr "파일 선택"
+
+#: ../admin/addgallery.php:498
+msgid "Or you can drop the files into this window."
+msgstr "또는 이 창으로 파일들을 드랍할 수 있습니다."
+
+#: ../admin/addgallery.php:501
+#, php-format
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "이미지 크기를 최대 넓이 %1$dpx 또는 최대 높이 %2$dpx로 조절"
+
+#: ../admin/addgallery.php:514
+msgid "Choose gallery"
+msgstr "갤러리 선택"
+
+#: ../admin/addgallery.php:533
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "어도비 플래쉬 10 이상이 필요합니다. 만일 문제가 있다면 사용하지 말아주세요."
+
+#: ../admin/addgallery.php:533
+msgid "Disable flash upload"
+msgstr "플래쉬 올리기 사용 안함"
+
+#: ../admin/addgallery.php:535
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "대화 상자에서 Ctrl/Shift키를 이용해 한꺼번에 여러개의 파일을 올릴 수 있습니다."
+
+#: ../admin/addgallery.php:535
+msgid "Enable flash based upload"
+msgstr "플래쉬 올리기 사용"
+
+#: ../admin/admin.php:36
+#: ../admin/admin.php:59
+#: ../admin/admin.php:78
+#: ../admin/admin.php:352
+#: ../admin/admin.php:444
+#: ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "갤러리"
+msgstr[1] "갤러리"
+
+#: ../admin/admin.php:38
+#: ../admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "갤러리 / 이미지 추가"
+
+#: ../admin/admin.php:39
+#: ../admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "갤러리 관리"
+
+#: ../admin/admin.php:40
+#: ../admin/admin.php:85
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "앨범"
+msgstr[1] "앨범"
+
+#: ../admin/admin.php:41
+#: ../admin/admin.php:87
+msgid "Tags"
+msgstr "태그"
+
+#: ../admin/admin.php:42
+#: ../admin/admin.php:89
+msgid "Options"
+msgstr "설정"
+
+#: ../admin/admin.php:44
+#: ../admin/admin.php:91
+msgid "Style"
+msgstr "스타일"
+
+#: ../admin/admin.php:46
+msgid "Roles"
+msgstr "권한"
+
+#: ../admin/admin.php:47
+msgid "About this Gallery"
+msgstr "이 갤러리에 대한 소개"
+
+#: ../admin/admin.php:47
+#: ../admin/admin.php:92
+msgid "About"
+msgstr "소개"
+
+#: ../admin/admin.php:50
+#: ../admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "초기화 / 제거"
+
+#: ../admin/admin.php:60
+msgid "Network settings"
+msgstr "네트워크 설정"
+
+#: ../admin/admin.php:131
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "이 플러그인을 사용해 주셔서 감사합니다, 만족하셨기를 바랍니다! 만약 지원을 하고 싶다면, <strong><a href=\"%s\">기부</a></strong>를 고려해 보세요! 만약 도움이 더 필요하다면, 질문을 <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">여기</a>에 남겨주세요 ."
+
+#: ../admin/admin.php:134
+msgid "OK, hide this message now !"
+msgstr "OK, 지금 이 메세지를 숨깁니다 !"
+
+#: ../admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "권한이 없습니다."
+
+#: ../admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "예상치못한 에러"
+
+#: ../admin/admin.php:215
+msgid "A failure occurred"
+msgstr "실패"
+
+#: ../admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "대기열에 너무 많은 파일들을 시도했습니다."
+
+#: ../admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "이 파일은 이 사이트 업로드 용량의 최대치를 초과했습니다."
+
+#: ../admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "이 파일은 비었습니다. 다른 것을 시도하세요."
+
+#: ../admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "이 파일 타입은 허용되지 않습니다. 다른 것을 시도하세요."
+
+#: ../admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "이 파일은 이미지가 아닙니다. 다른 것을 시도하세요."
+
+#: ../admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "메모리를 초과했습니다. 다른 더 작은 파일을 시도하세요."
+
+#: ../admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "이것은 최대 용량보다 큽니다. 다른 것을 시도하세요."
+
+#: ../admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "업로드에 에러가 발생했습니다. 나중에 다시 시도하세요."
+
+#: ../admin/admin.php:227
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "설정 에러가 있습니다. 서버 관리자에게 연락하세요."
+
+#: ../admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "당신은 단 하나의 파일만 업로드할 수 있습니다."
+
+#: ../admin/admin.php:229
+msgid "HTTP error."
+msgstr "HTTP 에러."
+
+#: ../admin/admin.php:230
+msgid "Upload failed."
+msgstr "업로드 실패함."
+
+#: ../admin/admin.php:231
+msgid "IO error."
+msgstr "IO 에러."
+
+#: ../admin/admin.php:232
+msgid "Security error."
+msgstr "보안 에러."
+
+#: ../admin/admin.php:233
+msgid "File canceled."
+msgstr "파일 취소됨."
+
+#: ../admin/admin.php:234
+msgid "Upload stopped."
+msgstr "업로드 중지됨."
+
+#: ../admin/admin.php:235
+msgid "Dismiss"
+msgstr "버리기"
+
+#: ../admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "Crunching&hellip;"
+
+#: ../admin/admin.php:237
+msgid "moved to the trash."
+msgstr "휴지통으로 옮겼습니다."
+
+#: ../admin/admin.php:238
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "&#8220;%s&#8221; 은(는) 에러로 인해 업로드에 실패했습니다"
+
+#: ../admin/admin.php:356
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">소개</a>"
+
+#: ../admin/admin.php:359
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">셋업</a>"
+
+#: ../admin/admin.php:362
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">번역 by alex rabe</a>"
+
+#: ../admin/admin.php:365
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">권한 / 기능</a>"
+
+#: ../admin/admin.php:368
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">스타일</a>"
+
+#: ../admin/admin.php:369
+msgid "Templates"
+msgstr "템플릿"
+
+#: ../admin/admin.php:372
+#: ../admin/admin.php:378
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">갤러리 관리</a>"
+
+#: ../admin/admin.php:373
+msgid "Gallery example"
+msgstr "갤러리 예제"
+
+#: ../admin/admin.php:379
+#: ../admin/admin.php:389
+msgid "Gallery tags"
+msgstr "갤러리 태그"
+
+#: ../admin/admin.php:382
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">앨범 관리</a>"
+
+#: ../admin/admin.php:383
+msgid "Album example"
+msgstr "앨범 예제"
+
+#: ../admin/admin.php:384
+#: ../admin/admin.php:390
+msgid "Album tags"
+msgstr "앨범 태그"
+
+#: ../admin/admin.php:387
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">갤러리 태그</a>"
+
+#: ../admin/admin.php:388
+msgid "Related images"
+msgstr "관련 이미지들"
+
+#: ../admin/admin.php:393
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">이미지 관리</a>"
+
+#: ../admin/admin.php:394
+msgid "Custom fields"
+msgstr "사용자 정의 필드"
+
+#: ../admin/admin.php:399
+msgid "Get help with NextGEN Gallery"
+msgstr "NextGEN 갤러리에 도움 요청"
+
+#: ../admin/admin.php:403
+msgid "More Help & Info"
+msgstr "더 많은 도움 & 정보"
+
+#: ../admin/admin.php:405
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">지원 포럼</a>"
+
+#: ../admin/admin.php:406
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/admin.php:407
+msgid "Feature request"
+msgstr "기능 요청"
+
+#: ../admin/admin.php:408
+msgid "Get your language pack"
+msgstr "당신의 언어팩을 받으세요."
+
+#: ../admin/admin.php:409
+msgid "Contribute development"
+msgstr "개발에 기여"
+
+#: ../admin/admin.php:410
+msgid "Download latest version"
+msgstr "최신 버전을 받으세요"
+
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "여기에 있을 수 없습니다."
+
+#: ../admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "%s x %s 픽셀의 이미지 생성가능"
+
+#: ../admin/album.php:102
+#: ../admin/album.php:117
+#: ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "업데이트 성공"
+
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "앨범이 삭제되었습니다."
+
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "앨범 편집"
+
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "앨범 관리"
+
+#: ../admin/album.php:284
+#: ../admin/album.php:333
+msgid "Select album"
+msgstr "앨범 선택"
+
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "선택된 앨범이 없습니다."
+
+#: ../admin/album.php:297
+#: ../admin/edit-thumbnail.php:155
+msgid "Update"
+msgstr "업데이트"
+
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "앨범 편집"
+
+#: ../admin/album.php:302
+#: ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:448
+msgid "Delete"
+msgstr "삭제"
+
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "새 앨범 추가"
+
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "추가"
+
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "사용한 갤러리 보기 / 숨기기"
+
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[모두 보이기]"
+
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "위젯 내용 최대화"
+
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[최대화]"
+
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "위젯 내용 최소화"
+
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[최소화]"
+
+#: ../admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "앨범을 먼저 만든후 선택한 앨범 밑으로 선택한 갤러리를 끌어다 놓을 수 있습니다."
+
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "갤러리 선택"
+
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "앨범 ID"
+
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "선택된 앨범이 없습니다!"
+
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "앨범 이름:"
+
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "앨범 설명:"
+
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "미리보기 이미지 선택:"
+
+#: ../admin/album.php:426
+#: ../admin/album.php:429
+msgid "No picture"
+msgstr "사진 없음"
+
+#: ../admin/album.php:440
+#: ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "연결할 페이지"
+
+#: ../admin/album.php:442
+#: ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "연결되지 않았음"
+
+#: ../admin/album.php:455
+#: ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317
+#: ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:533
+#: ../admin/manage-images.php:569
+#: ../admin/manage-images.php:598
+#: ../admin/manage-images.php:628
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/album.php:457
+#: ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319
+#: ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:535
+#: ../admin/manage-images.php:571
+#: ../admin/manage-images.php:600
+#: ../admin/manage-images.php:630
+msgid "Cancel"
+msgstr "취소"
+
+#: ../admin/album.php:543
+msgid "Name"
+msgstr "이름"
+
+#: ../admin/album.php:544
+#: ../admin/manage-images.php:255
+msgid "Title"
+msgstr "제목"
+
+#: ../admin/album.php:545
+msgid "Page"
+msgstr "페이지"
+
+#: ../admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "새 섬네일을 위해 범위를 마우스로 선택하세요."
+
+#: ../admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "작은 그림 품질"
+
+#: ../admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "섬네일 업데이트 에러"
+
+#: ../admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "사진 왼쪽부터 작은그림의 범위를 선택하세요."
+
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "올바르지 않은 갤러리 이름입니다!"
+
+#: ../admin/functions.php:46
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+#: ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "디렉토리"
+
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "이(가) 없습니다. 갤러리 메인 폴더 먼저를 만들어 주세요."
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "만일 권한 설정 방법을 모르고 있다면, 다음 링크를 참고하세요."
+
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr "에 쓰기 권한이 없습니다!"
+
+#: ../admin/functions.php:76
+#: ../admin/functions.php:85
+#: ../admin/functions.php:902
+msgid "Unable to create directory "
+msgstr "다음의 디렉토리를 만들 수 없습니다. : "
+
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "서버의 안전-모드가 켜졌습니다 !"
+
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "만일 문제가 있다면, 디렉토리를 만들어 주세요."
+
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "그리고 thumbs 디렉토리에 수동으로"
+
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "권한을 777로 부여를 해야합니다."
+
+#: ../admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "갤러리 %1$s 성공적으로 만들어졌습니다.<br/>당신은 태그와 함께 이 갤러리를 보여줄 수 있습니다. %2$s.<br/>"
+
+#: ../admin/functions.php:119
+#: ../admin/functions.php:217
+msgid "Edit gallery"
+msgstr "갤러리 편집"
+
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "을(를) 찾을 수 없습니다."
+
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "사진이 없습니다."
+
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "데이터베이스 오류. 갤러리를 추가할 수 없습니다."
+
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "이(가) 생성되었습니다."
+
+#: ../admin/functions.php:212
+#: ../admin/functions.php:1019
+#: ../admin/manage-galleries.php:81
+#: ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203
+#: ../admin/manage-images.php:342
+#: ../admin/manage.php:223
+#: ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "작은 그림 다시 만들기"
+
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " 개의 사진이 추가되었습니다."
+
+#: ../admin/functions.php:270
+#: ../admin/functions.php:350
+#: ../admin/functions.php:405
+#: ../admin/functions.php:502
+#: ../admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr "개제가 올바른 데이터를 가지고 있지 않습니다."
+
+#: ../admin/functions.php:278
+msgid " is not writeable "
+msgstr "에 쓰기 권한이 없습니다!"
+
+#: ../admin/functions.php:360
+#: ../admin/functions.php:408
+#: ../admin/functions.php:508
+#: ../admin/functions.php:559
+msgid " is not writeable"
+msgstr "에 쓰기 권한이 없습니다!"
+
+#: ../admin/functions.php:562
+msgid "File do not exists"
+msgstr "파일이 존재하지 않습니다"
+
+#: ../admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "원래 이미지를 복구할 수 없습니다"
+
+#: ../admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(에러 : 데이터베이스 업데이트를 할 수 없음)"
+
+#: ../admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(에러 : 메타 데이터 업데이트를 할 수 없음)"
+
+#: ../admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(에러 : 이미지를 찾을 수 없음)"
+
+#: ../admin/functions.php:836
+msgid "No valid URL path "
+msgstr "유효한 URL 경로가 없음"
+
+#: ../admin/functions.php:852
+msgid "Import via cURL failed."
+msgstr "cURL로 가져오기 실패."
+
+#: ../admin/functions.php:869
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "압축 파일이 아니거나 손상된 압축 파일입니다! 서버가 다음의 파일로 인식했습니다. :"
+
+#: ../admin/functions.php:886
+msgid "Could not get a valid foldername"
+msgstr "유효한 폴더명을 얻을 수 없습니다."
+
+#: ../admin/functions.php:897
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "%s 디렉토리를 만들 수 없습니다. 상위 디렉토리가 쓰기 권한이 있는지 확인해주세요."
+
+#: ../admin/functions.php:912
+msgid "Zip-File successfully unpacked"
+msgstr "압축 파일을 성공적으로 풀었습니다."
+
+#: ../admin/functions.php:951
+#: ../admin/functions.php:1068
+msgid "Failure in database, no gallery path set !"
+msgstr "데이터베이스 실패, 갤러리 경로가 설정되지 않았습니다 !"
+
+#: ../admin/functions.php:975
+#: ../admin/functions.php:1062
+msgid "is no valid image file!"
+msgstr "은(는) 올바른 이미지 파일이 아닙니다!"
+
+#: ../admin/functions.php:989
+#: ../admin/functions.php:1187
+#: ../admin/functions.php:1264
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "%s 디렉토리에 쓰기 권한이 없습니다. 이 디렉토리의 권한을 확인해주세요."
+
+#: ../admin/functions.php:996
+#: ../admin/functions.php:1085
+msgid "Error, the file could not be moved to : "
+msgstr "오류, 파일을 다음으로 이동시킬 수 없습니다.: "
+
+#: ../admin/functions.php:1001
+#: ../admin/functions.php:1089
+msgid "Error, the file permissions could not be set"
+msgstr "오류, 파일의 권한을 설정할 수 없습니다."
+
+#: ../admin/functions.php:1024
+msgid " Image(s) successfully added"
+msgstr " 개의 이미지가 추가되었습니다."
+
+#: ../admin/functions.php:1051
+msgid "Invalid upload. Error Code : "
+msgstr "올바르지 않은 올리기 수행. 오류 코드: "
+
+#: ../admin/functions.php:1127
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "안전 모드 효과 제한! 당신은  폴더를 만들어야 합니다.<strong>%s</strong> 수동으로"
+
+#: ../admin/functions.php:1128
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "안전_모드가 켜졌을때, PHP는 현재의 주인이 (%s) 파일의 주인이 맞는지(%s) 확인합니다."
+
+#: ../admin/functions.php:1181
+#: ../admin/functions.php:1258
+msgid "The destination gallery does not exist"
+msgstr "대상 갤러리가 존재하지 않습니다"
+
+#: ../admin/functions.php:1212
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "%1$s 를 %2$s 로 옮기지 못했습니다."
+
+#: ../admin/functions.php:1232
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "%1$s 사진이 : %2$s 로 옮겨졌습니다."
+
+#: ../admin/functions.php:1291
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "%1$s 를 %2$s 로 복사하지 못했습니다."
+
+#: ../admin/functions.php:1305
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "사진에 대한 데이터베이스 행을 복사하는 데 실패  %s"
+
+#: ../admin/functions.php:1317
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; 파일은 이미 해당 갤러리에 존재하고 있습니다."
+
+#: ../admin/functions.php:1320
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+
+#: ../admin/functions.php:1329
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "%1$s 사진을 갤러리로 복사함: %2$s ."
+
+#: ../admin/functions.php:1437
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "업로드하려는 파일이 php.ini 에 설정된 upload_max_filesize 를 초과했습니다"
+
+#: ../admin/functions.php:1440
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "업로드하려는 파일이 HTML 양식에 설정된 MAX_FILE_SIZE를 초과했습니다"
+
+#: ../admin/functions.php:1443
+msgid "The uploaded file was only partially uploaded"
+msgstr "업로드한 파일이 부분적으로만 업로드되었습니다"
+
+#: ../admin/functions.php:1446
+msgid "No file was uploaded"
+msgstr "업로드된 파일이 없음"
+
+#: ../admin/functions.php:1449
+msgid "Missing a temporary folder"
+msgstr "임시 폴더 실종"
+
+#: ../admin/functions.php:1452
+msgid "Failed to write file to disk"
+msgstr "파일을 디스크로 쓰는데 실패함"
+
+#: ../admin/functions.php:1455
+msgid "File upload stopped by extension"
+msgstr "확장자로 인해 파일 업로드 중지되었습니다"
+
+#: ../admin/functions.php:1458
+msgid "Unknown upload error"
+msgstr "알 수 없는 업로드 에러"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "죄송합니다. NextGEN Gallery 는 administrator 권한만 사용할 수 있습니다."
+
+#: ../admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN 갤러리: 테이블을 만들 수 없습니다. 당신의 데이터베이스 설정을 살펴봐 주십시오."
+
+#: ../admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[연속 보기로 보여주기]"
+
+#: ../admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[사진 목록으로 보여주기]"
+
+#: ../admin/manage-galleries.php:69
+#: ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "선택된 이미지가 없습니다."
+
+#: ../admin/manage-galleries.php:77
+#: ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199
+#: ../admin/manage-images.php:343
+#: ../admin/manage.php:207
+#: ../admin/manage.php:285
+msgid "Resize images"
+msgstr "이미지 크기 조정"
+
+#: ../admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"%s 갤러리의 벌크 편집을 시작합니다\n"
+"\n"
+"중지하련 '취소'를, 계속 진행하려면 '확인'을 선택해주세요."
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225
+#: ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "이미지 검색"
+
+#: ../admin/manage-galleries.php:145
+#: ../admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "일괄 작업"
+
+#: ../admin/manage-galleries.php:147
+#: ../admin/manage-images.php:341
+#: ../admin/manage.php:140
+#: ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "워터마크 설정"
+
+#: ../admin/manage-galleries.php:150
+#: ../admin/manage-images.php:346
+#: ../admin/manage.php:145
+#: ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "메타 정보 가져오기"
+
+#: ../admin/manage-galleries.php:151
+#: ../admin/manage-images.php:344
+#: ../admin/manage.php:135
+#: ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "백업으로부터 복구"
+
+#: ../admin/manage-galleries.php:153
+#: ../admin/manage-images.php:355
+msgid "Apply"
+msgstr "적용"
+
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "편집"
+
+#: ../admin/manage-galleries.php:261
+#: ../admin/manage-images.php:506
+msgid "No entries found"
+msgstr "현재 저장된 것이 없습니다."
+
+#: ../admin/manage-galleries.php:308
+#: ../admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "이미지 크기 조정"
+
+#: ../admin/manage-galleries.php:312
+#: ../admin/manage-images.php:593
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "폭 x 높이 (픽셀 단위). 그림의 크기의 비율은 계속 유지됩니다."
+
+#: ../admin/manage-galleries.php:336
+#: ../admin/manage-images.php:617
+msgid "Width x height (in pixel)"
+msgstr "폭 x 높이 (픽셀 단위)"
+
+#: ../admin/manage-galleries.php:338
+#: ../admin/manage-images.php:619
+msgid "These values are maximum values "
+msgstr "여기에 최대 값을 입력해 주세요."
+
+#: ../admin/manage-galleries.php:341
+#: ../admin/manage-images.php:622
+msgid "Set fix dimension"
+msgstr "크기 고정"
+
+#: ../admin/manage-galleries.php:343
+#: ../admin/manage-images.php:624
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "파일의 기본 크기의 비율이 무시됩니다."
+
+#: ../admin/manage-galleries.php:406
+#: ../admin/manage-images.php:694
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:408
+#: ../admin/manage-images.php:266
+#: ../admin/manage-images.php:697
+msgid "Description"
+msgstr "설명"
+
+#: ../admin/manage-galleries.php:409
+#: ../admin/manage-images.php:295
+msgid "Author"
+msgstr "작성자"
+
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "페이지 ID"
+
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "이미지"
+msgstr[1] "이미지들"
+
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "갤러리를 찾지 못했습니다."
+
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "죄송합니다, 여기에 접근할 수 없습니다"
+
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "이곳으로 이미지 복사..."
+
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "이곳으로 이미지 이동..."
+
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "새 태그 추가"
+
+#: ../admin/manage-images.php:191
+#: ../admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "태그 지우기"
+
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+#: ../admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"선택한 %s 개의 이미지에 대한 일괄 작업을 수행하겠습니까?\n"
+"\n"
+"중지하련 '취소'를, 계속 진행하려면 '확인'을 선택해주세요."
+
+#: ../admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 의 검색 결과"
+
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "갤러리 설정"
+
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "다른 설정을 위해 여기를 클릭하세요."
+
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "미리 보기"
+
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "사진이 없음"
+
+#: ../admin/manage-images.php:293
+msgid "Path"
+msgstr "경로"
+
+#: ../admin/manage-images.php:310
+msgid "Create new page"
+msgstr "새 페이지 만들기"
+
+#: ../admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "메인 페이지(부모 없음)"
+
+#: ../admin/manage-images.php:316
+msgid "Add page"
+msgstr "페이지 추가"
+
+#: ../admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "폴더에서 추가된 이미지가 있는지 검사하기"
+
+#: ../admin/manage-images.php:326
+#: ../admin/manage-images.php:361
+#: ../admin/manage-images.php:513
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: ../admin/manage-images.php:345
+msgid "Delete images"
+msgstr "이미지 지우기"
+
+#: ../admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "시계방향으로 이미지 회전"
+
+#: ../admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "시계반대방향으로 이미지 회전"
+
+#: ../admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "이곳으로 복사..."
+
+#: ../admin/manage-images.php:350
+msgid "Move to..."
+msgstr "이곳으로 이동..."
+
+#: ../admin/manage-images.php:351
+msgid "Add tags"
+msgstr "태그 추가"
+
+#: ../admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "태그 일괄 바꾸기"
+
+#: ../admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "이미지 순서 바꾸기"
+
+#: ../admin/manage-images.php:434
+msgid "pixel"
+msgstr "픽셀"
+
+#: ../admin/manage-images.php:440
+#, php-format
+msgid "View \"%s\""
+msgstr "보기 \"%s\""
+
+#: ../admin/manage-images.php:440
+msgid "View"
+msgstr "보기"
+
+#: ../admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "메타 정보 확인"
+
+#: ../admin/manage-images.php:441
+msgid "Meta"
+msgstr "메타"
+
+#: ../admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "작은 그림 커스터마이즈"
+
+#: ../admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "앨범 편집"
+
+#: ../admin/manage-images.php:443
+msgid "Rotate"
+msgstr "회전"
+
+#: ../admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "이 이미지 출판"
+
+#: ../admin/manage-images.php:445
+msgid "Publish"
+msgstr "출판"
+
+#: ../admin/manage-images.php:447
+msgid "Recover"
+msgstr "복구"
+
+#: ../admin/manage-images.php:447
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "\"%s\" 를 복구할까요?"
+
+#: ../admin/manage-images.php:448
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "\"%s\" 를 삭제할까요?"
+
+#: ../admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "태그를 입력해 주세요"
+
+#: ../admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "원하는 갤러리 선택:"
+
+#: ../admin/manage-images.php:695
+msgid "Thumbnail"
+msgstr "작은 그림"
+
+#: ../admin/manage-images.php:696
+#: ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "파일명"
+
+#: ../admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Title Text"
+
+#: ../admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "태그(콤마로 구분됩니다.)"
+
+#: ../admin/manage-images.php:699
+msgid "exclude"
+msgstr "제외"
+
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "순서가 바뀌었습니다."
+
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "이미지 순서 바꾸기"
+
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "정렬 시작"
+
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "갤러리로 돌아가기"
+
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "정렬됨"
+
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "정렬되지않음"
+
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "이미지 ID"
+
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "Alt / Titel Text"
+
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "날짜/시간"
+
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "오름차순"
+
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "내름차순"
+
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "사진"
+
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "이(가) 삭제되었습니다."
+
+#: ../admin/manage.php:99
+#: ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "작동은 성공했습니다. 브라우저 캐쉬를 지우세요."
+
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "갤러리가 성공적으로 삭제되었습니다"
+
+#: ../admin/manage.php:240
+#: ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "이미지 회전"
+
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "사진이 삭제되었습니다."
+
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "태그가 변경되었습니다."
+
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "갱신되었습니다."
+
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "새 갤러리 페이지 ID"
+
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "이(가) 생성되었습니다."
+
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "새로운 글 출판함"
+
+#: ../admin/manage.php:582
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1개의 아이템"
+msgstr[1] "%s개의 아이템"
+
+#: ../admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN 갤러리"
+
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "갤러리가 없음"
+
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "선택 &#187;"
+
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "보이기"
+
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "숨기기"
+
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "이미지 ID:"
+
+#: ../admin/media-upload.php:229
+#: ../admin/publish.php:55
+msgid "Alignment"
+msgstr "정렬"
+
+#: ../admin/media-upload.php:232
+#: ../admin/publish.php:57
+#: ../admin/settings.php:480
+msgid "None"
+msgstr "하지 않음"
+
+#: ../admin/media-upload.php:234
+#: ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "왼쪽"
+
+#: ../admin/media-upload.php:236
+#: ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "중앙"
+
+#: ../admin/media-upload.php:238
+#: ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "오른쪽"
+
+#: ../admin/media-upload.php:242
+#: ../admin/settings.php:587
+msgid "Size"
+msgstr "크기"
+
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "전체 크기"
+
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "단독사진"
+
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "본문에 삽입"
+
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "모든 변경사항 저장"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN 갤러리 개요"
+
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "NextGEN 갤러리를 이용해주셔서 감사합니다!"
+
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "이 플러그인이 마음에 드세요?"
+
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "번역"
+
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "새로운 소식"
+
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "최근 기부자"
+
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "플러그인 체크"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "서버 설정"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "관련 플러그인들"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "이 플러그인은 <a href=\"%s\">Alex Rabe</a>에 의해 개발되고 관리되었으며 지원과 문서화되었습니다. 어떤 형식의 기부라도 감사히 받겠습니다. 고맙습니다!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Wordpress.org 에서 좋은 평점을 주세요."
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "paypal을 이용해 기부하기"
+
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "번역을 도움."
+
+#: ../admin/overview.php:252
+msgid "Running..."
+msgstr "작동중..."
+
+#: ../admin/overview.php:299
+msgid "Check plugin/theme conflict"
+msgstr "플러그인/테마 충돌 체크"
+
+#: ../admin/overview.php:300
+#: ../admin/overview.php:306
+#: ../admin/overview.php:312
+msgid "Not tested"
+msgstr "테스트되지 않음"
+
+#: ../admin/overview.php:301
+msgid "No conflict could be detected"
+msgstr "감지된 충돌은 없음"
+
+#: ../admin/overview.php:302
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "테스트 실패함, 다른 플러그인을 비활성화하고 기본 테마로 변경"
+
+#: ../admin/overview.php:305
+msgid "Test image function"
+msgstr "이미지 기능 테스트"
+
+#: ../admin/overview.php:307
+msgid "The plugin could create images"
+msgstr "이미지 생성가능"
+
+#: ../admin/overview.php:308
+msgid "Couldn't create image, check your memory limit"
+msgstr "이미지 생성 불가, 메모리 한도 확인 바람"
+
+#: ../admin/overview.php:311
+msgid "Check theme compatibility"
+msgstr "테마 호환성 체크"
+
+#: ../admin/overview.php:313
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "당신의 테마는 NextGEN 갤러리 사용에 문제 없습니다"
+
+#: ../admin/overview.php:314
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() 가 없음, 테마 제작자에게 연락바람"
+
+#: ../admin/overview.php:318
+msgid "Check plugin"
+msgstr "체크 플러그인"
+
+#: ../admin/overview.php:339
+msgid "Graphic Library"
+msgstr "그래픽 라이브러리"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "Loading&#8230;"
+msgstr "로딩&#8230;"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "This widget requires JavaScript."
+msgstr "위젯은 자바스크립트를 필요로 합니다."
+
+#: ../admin/overview.php:368
+msgid "Thanks to all donators..."
+msgstr "모든 기부자들에게 감사의 인사를..."
+
+#: ../admin/overview.php:390
+msgid "View all"
+msgstr "모두 보기"
+
+#: ../admin/overview.php:416
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "새로운 소식을 불러올 수 없습니다. 업데이트를 위해 <a href=\"%s\">front page</a>를 확인하세요."
+
+#: ../admin/overview.php:428
+msgid "Untitled"
+msgstr "제목없음"
+
+#: ../admin/overview.php:478
+msgid "At a Glance"
+msgstr "둘러보기"
+
+#: ../admin/overview.php:504
+msgid "Upload pictures"
+msgstr "사진 올리기"
+
+#: ../admin/overview.php:505
+msgid "Here you can control your images, galleries and albums."
+msgstr "여기에서 이미지와 갤러리 및 앨범을 제어할 수 있습니다. "
+
+#: ../admin/overview.php:535
+msgid "Storage Space"
+msgstr "여유 공간"
+
+#: ../admin/overview.php:539
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:540
+msgid "Space Allowed"
+msgstr "허용된 공간"
+
+#: ../admin/overview.php:547
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:548
+msgid "Space Used"
+msgstr "사용한 공간"
+
+#: ../admin/overview.php:577
+msgid "Translation file successful updated. Please reload page."
+msgstr "번역 파일이 성공적으로 업데이트되었습니다. 페이지를 새로고침하세요."
+
+#: ../admin/overview.php:579
+msgid "Reload page"
+msgstr "페이지 새로고침"
+
+#: ../admin/overview.php:584
+msgid "Translation file couldn't be updated"
+msgstr "번역 파일이 업데이트되지 않았습니다"
+
+#: ../admin/overview.php:621
+msgid "Download"
+msgstr "다운로드"
+
+#: ../admin/overview.php:650
+msgid "No GD support"
+msgstr "GD를 지원하지 않습니다."
+
+#: ../admin/overview.php:662
+#: ../admin/overview.php:708
+#: ../admin/overview.php:711
+#: ../admin/overview.php:714
+msgid "Yes"
+msgstr "예"
+
+#: ../admin/overview.php:664
+#: ../admin/overview.php:709
+#: ../admin/overview.php:712
+#: ../admin/overview.php:715
+msgid "No"
+msgstr "아니오"
+
+#: ../admin/overview.php:682
+msgid "Not set"
+msgstr "Not set"
+
+#: ../admin/overview.php:684
+#: ../admin/overview.php:687
+msgid "On"
+msgstr "On"
+
+#: ../admin/overview.php:685
+#: ../admin/overview.php:688
+msgid "Off"
+msgstr "Off"
+
+#: ../admin/overview.php:691
+#: ../admin/overview.php:694
+#: ../admin/overview.php:697
+#: ../admin/overview.php:700
+#: ../admin/overview.php:703
+#: ../admin/overview.php:706
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:705
+msgid " MByte"
+msgstr " MByte"
+
+#: ../admin/overview.php:718
+msgid "Operating System"
+msgstr "운영체제"
+
+#: ../admin/overview.php:719
+msgid "Server"
+msgstr "서버"
+
+#: ../admin/overview.php:720
+msgid "Memory usage"
+msgstr "메모리 사용량"
+
+#: ../admin/overview.php:721
+msgid "MYSQL Version"
+msgstr "MYSQL 버전"
+
+#: ../admin/overview.php:722
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#: ../admin/overview.php:723
+msgid "PHP Version"
+msgstr "PHP 버전"
+
+#: ../admin/overview.php:724
+msgid "PHP Safe Mode"
+msgstr "PHP 안전 모드"
+
+#: ../admin/overview.php:725
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: ../admin/overview.php:726
+msgid "PHP Memory Limit"
+msgstr "PHP 메모리 리밋"
+
+#: ../admin/overview.php:727
+msgid "PHP Max Upload Size"
+msgstr "PHP 최대 업로드 크기"
+
+#: ../admin/overview.php:728
+msgid "PHP Max Post Size"
+msgstr "PHP 최대 포스트 크기"
+
+#: ../admin/overview.php:729
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE 백트랙킹 한도"
+
+#: ../admin/overview.php:730
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#: ../admin/overview.php:731
+msgid "PHP Exif support"
+msgstr "PHP Exif 지원"
+
+#: ../admin/overview.php:732
+msgid "PHP IPTC support"
+msgstr "PHP IPTC 지원"
+
+#: ../admin/overview.php:733
+msgid "PHP XML support"
+msgstr "PHP XML 지원"
+
+#: ../admin/overview.php:745
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGEN 갤러리는 PHP 5.2 이하에서만 사용할 수 있는 몇가지 기능을 포함하고 있습니다. 구 PHP 4 버전을 사용중이니, 지금 업그레이드하세요! PHP 그룹에 의해서는 더이상 지원되지 않습니다. 많은 호스팅 제공사들은 PHP 4 와 PHP 5를 같이 제공합니다. 이렇게 할 수 있는지 호스팅업체에 문의하세요."
+
+#: ../admin/overview.php:841
+msgid "Install"
+msgstr "설치"
+
+#: ../admin/pointer.php:22
+msgid "<h3>Client side resize</h3><p>You can now resize the images before you start with the upload.</p>"
+msgstr "<h3>클라이언트 사이드 크기 조절</h3><p>이제 업로드를 시작하기 전에 이미지의 크기 조절을 할 수 있습니다.</p>"
+
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "글 제목"
+
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "글 제목 입력"
+
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "이미지 크기"
+
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "임시글"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "권한이 갱신되었습니다."
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "권한 설정"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "다음과 같은 기능에 접근하기 위해 제일 낮은 권한을 선택하세요.  NextGEN Gallery 는 워드프레스 표준을 지원합니다."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "좀더 유연한 사용자 관리를 위해 다음 플러그인을 사용할 수 있습니다.: "
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGEN Gallery 개요 보기"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "TinyMCE 버튼 / 올리기 탭 사용"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "갤러리 추가 / 이미지 올리기"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "갤러리 관리"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "다른 갤러리 관리"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "태그 관리"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "스타일 변경"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "설정 변경"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "갱신하기"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "이미지 회전됨"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "섬네일 회전 에러"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&도; 시계방향"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&도; 시계반대방향"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "수직으로 뒤집기"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "수평으로 뒤집기"
+
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "캐쉬를 비웠습니다."
+
+#: ../admin/settings.php:217
+#: ../admin/settings.php:236
+msgid "General Options"
+msgstr "일반 설정"
+
+#: ../admin/settings.php:218
+#: ../admin/settings.php:417
+msgid "Thumbnails"
+msgstr "작은 그림"
+
+#: ../admin/settings.php:219
+msgid "Images"
+msgstr "이미지"
+
+#: ../admin/settings.php:221
+#: ../admin/settings.php:469
+msgid "Effects"
+msgstr "효과"
+
+#: ../admin/settings.php:222
+#: ../admin/settings.php:511
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "워터마크"
+
+#: ../admin/settings.php:223
+#: ../admin/settings.php:418
+#: ../admin/settings.php:618
+#: ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "슬라이드쇼"
+
+#: ../admin/settings.php:242
+#: ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "갤러리 경로"
+
+#: ../admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "이 경로에 갤러리가 생성이 됩니다."
+
+#: ../admin/settings.php:247
+msgid "Delete image files"
+msgstr "이미지 지우기"
+
+#: ../admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "데이터베이스에서 갤러리를 지울때 하위 그림도 같이 지웁니다."
+
+#: ../admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "고유 주소 사용"
+
+#: ../admin/settings.php:254
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "이 설정을 활성화하면, 당신은 워드프레스의 고유주소(.htaccess)를 갱신해야 합니다."
+
+#: ../admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "갤러리 슬러그명 :"
+
+#: ../admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr "친근한 이미지 슬러그의 새로운 URL 생성"
+
+#: ../admin/settings.php:260
+#: ../admin/settings.php:371
+msgid "Proceed now"
+msgstr "지금 바로 수행하기"
+
+#: ../admin/settings.php:263
+msgid "Select graphic library"
+msgstr "그래픽 라이브러리 선택"
+
+#: ../admin/settings.php:264
+msgid "GD Library"
+msgstr "GD 라이브러리"
+
+#: ../admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (실험). 라이브러리로 경로 :"
+
+#: ../admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "미디어 RSS 피드 활성화"
+
+#: ../admin/settings.php:272
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSS 피드는 당신의 블로그 헤더에 추가될 것 입니다. CoolIris/PicLens 에 효과적입니다."
+
+#: ../admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "PicLens/CoolIris 지원 활성화"
+
+#: ../admin/settings.php:277
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "이 설정을 활성화 시키면, 몇몇의 자바스크립트는 당신의 사이트 푸터에 추가됩니다. wp_footer 가 당신 테마에 불러지는걸 확인하십시오."
+
+#: ../admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "태그 / 카테고리"
+
+#: ../admin/settings.php:283
+msgid "Activate related images"
+msgstr "관련 이미지 활성화"
+
+#: ../admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "각 글과 관련된 이미지가 나타나도록 합니다."
+
+#: ../admin/settings.php:289
+msgid "Match with"
+msgstr "연계"
+
+#: ../admin/settings.php:290
+msgid "Categories"
+msgstr "카테고리"
+
+#: ../admin/settings.php:295
+msgid "Max. number of images"
+msgstr "Max. 이미지 갯수"
+
+#: ../admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0은 모든 이미지가 표시됩니다"
+
+#: ../admin/settings.php:301
+#: ../admin/settings.php:332
+#: ../admin/settings.php:374
+#: ../admin/settings.php:459
+#: ../admin/settings.php:494
+#: ../admin/settings.php:755
+msgid "More settings"
+msgstr "더 많은 설정"
+
+#: ../admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "작은 그림 설정"
+
+#: ../admin/settings.php:315
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "주의 할 점: 만일 여기의 설정을 바꿨다면, 갤러리 관리 페이지에서 작은 그림을 다시 만들어야 합니다."
+
+#: ../admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "작은 그림 품질"
+
+#: ../admin/settings.php:342
+msgid "Image settings"
+msgstr "이미지 설정"
+
+#: ../admin/settings.php:348
+msgid "Resize Images"
+msgstr "이미지 크기 조정"
+
+#: ../admin/settings.php:353
+msgid "Image quality"
+msgstr "이미지 품질"
+
+#: ../admin/settings.php:357
+msgid "Backup original images"
+msgstr "원본 이미지 백업"
+
+#: ../admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "삽입된 이미지들의 백업을 생성"
+
+#: ../admin/settings.php:362
+msgid "Automatically resize"
+msgstr "자동으로 리사이즈"
+
+#: ../admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "업로드시 자동으로 이미지 리사이즈"
+
+#: ../admin/settings.php:367
+msgid "Single picture"
+msgstr "단일 사진"
+
+#: ../admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "캐쉬 폴더 비우기"
+
+#: ../admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "갤러리 페이지 연결 비활성화"
+
+#: ../admin/settings.php:393
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "갤러리가 앨범의 하위 페이지로 연결되지 않게 합니다. 갤러리는 계속해서 페이지를 통해 감상할 수 있습니다."
+
+#: ../admin/settings.php:397
+msgid "Number of images per page"
+msgstr "쪽당 보여줄 이미지 갯 수"
+
+#: ../admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0으로 설정하면 한 페이지에 모두 보여주게 됩니다."
+
+#: ../admin/settings.php:403
+msgid "Number of columns"
+msgstr "열 번호"
+
+#: ../admin/settings.php:405
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0으로 설정하시면 당신의 테마폭이 허용하는 한 표시됩니다. 설정은 보통 이미지 아래에 캡션만 요구합니다."
+
+#: ../admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "통합 슬라이드쇼"
+
+#: ../admin/settings.php:416
+msgid "Show first"
+msgstr "이미지 출력 방법"
+
+#: ../admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "이미지 브라우저로 보여주기"
+
+#: ../admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "이미지 브라우저로 그림을 보여주게 됩니다."
+
+#: ../admin/settings.php:428
+msgid "Add hidden images"
+msgstr "숨김 이미지 추가"
+
+#: ../admin/settings.php:430
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "만약 페이지번호 매김이 사용중이라면, 이 옵션은 여전히 모든 이미지를 창에서 보여줍니다(틱박스, 라이트박스 등). 알림: 이것은 페이지 부하를 증가시킵니다"
+
+#: ../admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "AJAX 페이지번호 매김 활성"
+
+#: ../admin/settings.php:436
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "페이지 새로고침없이 이미지 보기. 알림: 셔터 효과에서만 작동함"
+
+#: ../admin/settings.php:440
+msgid "Sort options"
+msgstr "졍렬 설정"
+
+#: ../admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "작은 그림 정렬 방법"
+
+#: ../admin/settings.php:445
+msgid "Custom order"
+msgstr "사용자 정의"
+
+#: ../admin/settings.php:447
+msgid "File name"
+msgstr "파일 이름"
+
+#: ../admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "Alt / Title text"
+
+#: ../admin/settings.php:449
+msgid "Date / Time"
+msgstr "날짜 / 시간"
+
+#: ../admin/settings.php:453
+msgid "Sort direction"
+msgstr "정렬 방법"
+
+#: ../admin/settings.php:473
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "여기에서 섬네일 효과를 선택할 수 있습니다. NextGEN 갤러리는 이미지에 필요한 HTML 코드와 통합할 것입니다. 셔터와 틱박스효과만 자동적으로 테마에 추가됩니다."
+
+#: ../admin/settings.php:474
+msgid "With the placeholder"
+msgstr "자리표시자와 함께"
+
+#: ../admin/settings.php:474
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "당신은 이미지를 통해 네비게이션을 활성화 시킬 수 있습니다.(효과에 따라서). 다른 섬네일효과를 쓰거나, 뭐를 해야될 지 안다면 코드라인만 바꾸십시오."
+
+#: ../admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "자바스크립트 작은그림 효과"
+
+#: ../admin/settings.php:481
+msgid "Thickbox"
+msgstr "틱박스"
+
+#: ../admin/settings.php:482
+msgid "Lightbox"
+msgstr "라이트박스"
+
+#: ../admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:484
+msgid "Shutter"
+msgstr "셔터"
+
+#: ../admin/settings.php:485
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: ../admin/settings.php:490
+msgid "Link Code line"
+msgstr "Link Code line"
+
+#: ../admin/settings.php:512
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "주의 할 점: 워터마크는 갤러리 관리에서만 적용할 수 있습니다. 여기에서는 적용할 수 없습니다."
+
+#: ../admin/settings.php:517
+msgid "Preview"
+msgstr "미리 보기"
+
+#: ../admin/settings.php:519
+#: ../admin/settings.php:524
+msgid "Position"
+msgstr "위치"
+
+#: ../admin/settings.php:544
+msgid "Offset"
+msgstr "좌표"
+
+#: ../admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "이미지를 워터마크로 사용합니다."
+
+#: ../admin/settings.php:563
+msgid "URL to file"
+msgstr "파일 URL"
+
+#: ../admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "URL 파일의 엑세스가 당신의 서버에서 비활성화 되어있습니다.(allow_url_fopen)"
+
+#: ../admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "글씨를 워터마크로 사용"
+
+#: ../admin/settings.php:571
+msgid "Font"
+msgstr "폰트"
+
+#: ../admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "이 함수는 사용할 수 없는 것 같습니다. FreeType 라이브러리가 필요합니다."
+
+#: ../admin/settings.php:582
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "<strong>nggallery/fonts</strong>에 다른 글꼴을 올려 사용할 수 있습니다."
+
+#: ../admin/settings.php:591
+msgid "Color"
+msgstr "색깔"
+
+#: ../admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: ../admin/settings.php:596
+msgid "Text"
+msgstr "텍스트"
+
+#: ../admin/settings.php:600
+msgid "Opaque"
+msgstr "불투명도"
+
+#: ../admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "기본 크기 (폭 X 높이)"
+
+#: ../admin/settings.php:626
+msgid "Duration time"
+msgstr "지연 시간"
+
+#: ../admin/settings.php:627
+msgid "sec."
+msgstr "초"
+
+#: ../admin/settings.php:630
+#: ../admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "그림 전환 효과"
+
+#: ../admin/settings.php:633
+#: ../admin/settings.php:708
+msgid "fade"
+msgstr "페이드(fade)"
+
+#: ../admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:635
+msgid "cover"
+msgstr "커버"
+
+#: ../admin/settings.php:636
+msgid "scrollUp"
+msgstr "스크롤 위로"
+
+#: ../admin/settings.php:637
+msgid "scrollDown"
+msgstr "스크롤 아래로"
+
+#: ../admin/settings.php:638
+msgid "shuffle"
+msgstr "셔플"
+
+#: ../admin/settings.php:639
+msgid "toss"
+msgstr "토스"
+
+#: ../admin/settings.php:640
+msgid "wipe"
+msgstr "와이프"
+
+#: ../admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "효과에 대한 더 많은 정보들은 여기를 확인하세요 :"
+
+#: ../admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "JW Image Rotator 설정"
+
+#: ../admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "설정은 JW Image Rotator Version 에서만 사용됩니다"
+
+#: ../admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "플래쉬 재생기에 대한 더 자세한 정보는 다음 웹페이지를 참고하세요: "
+
+#: ../admin/settings.php:653
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "imagerotator.swf 의 경로가 지정되지 않았습니다. 슬라이드쇼는 작동할 수 없습니다."
+
+#: ../admin/settings.php:654
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "만약 당신이 JW Image Rotator를 쓰고싶다면, 플레이어를 다운로드 하십시오. <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >여기</a> 그리고 당신의 업로드 폴더에 올리세요. (Default is wp-content/uploads)."
+
+#: ../admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "플래쉬 슬라이드쇼 활성화"
+
+#: ../admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "모든 플래쉬를 지원하는 기기들을 위한 플래쉬 기반의 슬라이드쇼"
+
+#: ../admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Imagerotator 경로 (URL)"
+
+#: ../admin/settings.php:668
+msgid "Search now"
+msgstr "지금 검색"
+
+#: ../admin/settings.php:669
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "만약 당신이 wp-content/uploads 나 다른 하위 폴더로 올렸다면. imagerotator를 위해 자동으로 찾기 위해 버튼을 누르세요"
+
+#: ../admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "셔플 모드 "
+
+#: ../admin/settings.php:677
+msgid "Show next image on click"
+msgstr "클릭했을때 다음 그림 보여주기"
+
+#: ../admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "넘기기 버튼 보여주기"
+
+#: ../admin/settings.php:685
+msgid "Show loading icon"
+msgstr "불러오기 아이콘 보여주기"
+
+#: ../admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "워터마크 로고 사용"
+
+#: ../admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "로고은 워터마크 설정 페이지에서 변경할 수 있습니다."
+
+#: ../admin/settings.php:694
+msgid "Stretch image"
+msgstr "이미지 확장"
+
+#: ../admin/settings.php:697
+msgid "true"
+msgstr "true"
+
+#: ../admin/settings.php:698
+msgid "false"
+msgstr "false"
+
+#: ../admin/settings.php:699
+msgid "fit"
+msgstr "fit"
+
+#: ../admin/settings.php:700
+msgid "none"
+msgstr "하지 않음"
+
+#: ../admin/settings.php:709
+msgid "bgfade"
+msgstr "bg페이드(bgfade)"
+
+#: ../admin/settings.php:710
+msgid "slowfade"
+msgstr "느린 페이드(slowfade)"
+
+#: ../admin/settings.php:711
+msgid "circles"
+msgstr "원형(circles)"
+
+#: ../admin/settings.php:712
+msgid "bubbles"
+msgstr "방울(bubbles)"
+
+#: ../admin/settings.php:713
+msgid "blocks"
+msgstr "블럭(blocks)"
+
+#: ../admin/settings.php:714
+msgid "fluids"
+msgstr "흐르는(fluids)"
+
+#: ../admin/settings.php:715
+msgid "flash"
+msgstr "플래시(flash)"
+
+#: ../admin/settings.php:716
+msgid "lines"
+msgstr "선(lines)"
+
+#: ../admin/settings.php:717
+msgid "random"
+msgstr "랜덤(random)"
+
+#: ../admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "천천히 확대되는 효과 사용"
+
+#: ../admin/settings.php:726
+msgid "Background Color"
+msgstr "배경색"
+
+#: ../admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "글자 / 버튼 색"
+
+#: ../admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "마우스가 글/버튼 위에 있을때의 색깔"
+
+#: ../admin/settings.php:741
+msgid "Screen Color"
+msgstr "화면 색상"
+
+#: ../admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "배경 음악(URL)"
+
+#: ../admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "문자 데이터를 포함한 XHTML 권고안 준수"
+
+#: ../admin/settings.php:752
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "중요: 일부 브라우저에서 문제가 발생하는 경우가 있습니다. 당신의 페이지를 다시 체크하십시오."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "모든 설정값을 기본값으로 되돌렸습니다."
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "제거하였습니다! 이제 플러그인을 지우고 당신의 인생을 즐기세요. 행복하세요!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "설정 초기화"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "모든 설정 값을 설치시 초기 값으로 되돌립니다."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "초기화"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"모든 설정 값을 기본 값으로 되돌리겠습니까?\\n"
+"\\n"
+"취소하려면 [취소]를, 계속 진행하려면 [확인]을 선택해주세요."
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "플러그인 테이블 제거"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "NextGEN Gallery가 맘에 안드세요 ?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "이 플러그인을 비 활성화하기 전에 우선 플러그인 제거 버튼을 눌러 플러그인을 제거해주세요. 만일 그렇지 않고, 이 플러그인을 그냥 비 활성화하면 기존의 자료는 그냥 남아있게 됩니다."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "경고:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "한번 제거하고 나면 다시 되돌릴 수 없습니다. 제거하기에 앞서 워드프레스의 테이터베이스를 백업해둘 것을 권장합니다. NextGEN 갤러리는 다음의 테이블들을 사용하고 있습니다."
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "그리고"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "플러그인 제거"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"당신은 지금 플러그인 제거 버튼을 클릭하셨습니다.\\n"
+"한번 수행하고 나면 다시 되돌릴 수 없습니다.\\n"
+"\\n"
+"취소하려면 [취소]를, 계속하려면 [확인]버튼을 클릭해주세요.\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "메타 데이터"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "태그"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "값"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "메타 정보가 저장되지 않음"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF 정보"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "EXIF 정보가 없습니다."
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC 정보"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP 정보"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(테마 폴더로부터)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "당신은 이 블로그의 템플릿을 수정할 만한 권한이 없습니다."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS 파일이 갱신되었습니다."
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "스타일 편집기"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "스타일 쉬트 사용 및 활성화: "
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "활성화"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "<strong>%s</strong> 편집하기"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "<strong>%s</strong>을(를) 탐색중"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "버전"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "팁 : 업그레이드중에 잃어버리지 않게 당신의 스타일시트(nggallery.css)를 당신의 테마 폴더로 복사하세요."
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "당신의 테마는 NextGEN 갤러리 스타일시트(nggallery.css)를 가지고 있습니다, 이 파일은 사용될 것 입니다."
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "팁 2번: 아래의 색상 선택기를 사용해서 갤러리에 맞는 색상을 찾을 수 있습니다!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "파일을 갱신합니다."
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "이 파일에 쓰기 권한이 있을 경우, 편집이 가능합니다."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "이런, 파일이 없는 거 같습니다. 다시 한번 확인해 보시고 시도해주세요. 감사합니다."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "가장 인기있는"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "최소 사용"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "알파벳순"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "이미지 태그 관리"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "존재하는 태그"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "태그 검색"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Go"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "정렬 순서 :"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "이전 태그"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "다음 태그"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "태그 이름바꾸기"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "태그의 이름과 새 값을 입력하세요. 당신은 이 기능으로 태그를 합칠 수도 있습니다. \"이름변경\" 을 클릭하시면 이 태그를 쓰는 모든 포스트가 갱신됩니다."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "당신은 여러 태그의 이름을 바꿀 수 있습니다. (콤마로 분류해서)"
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "태그(s) 이름변경:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "새 태그 이름(s):"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "이름변경"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "태그 삭제"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "삭제할 태그의 이름을 입력하십시오. 이 태그는 모든 글에서 삭제됩니다."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "당신은 여러 태그의 이름을 바꿀 수 있습니다. (콤마로 분류해서)"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "태그(s) 삭제:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "태그 슬러그 편집"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "편집할 태그 이름을 입력하세요.<a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "태그(s) 매치:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "슬러그(s) 셋:"
+
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "데이터베이스 구조 업그레이드..."
+
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:119
+#: ../admin/upgrade.php:126
+#: ../admin/upgrade.php:137
+#: ../admin/upgrade.php:151
+msgid "finished"
+msgstr "종료"
+
+#: ../admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "파일 구조 갱신..."
+
+#: ../admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "날짜와 시간 정보 가져오기..."
+
+#: ../admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "imagerotator 새 위치로 이동..."
+
+#: ../admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "설정 업데이트..."
+
+#: ../admin/upgrade.php:157
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "위젯 구조가 업데이트되었습니다. 만약 NextGEN 위젯을 사용했었다면 다시 설정해줘야 합니다..."
+
+#: ../admin/upgrade.php:165
+#: ../admin/upgrade.php:187
+msgid "Updated options."
+msgstr "업데이트된 옵션."
+
+#: ../admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "독특한 슬러그 생성"
+
+#: ../admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "새로 제공될 기능 중 한 가지는 수정된 영구링크 구조입니다."
+
+#: ../admin/upgrade.php:174
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "따라서 각 이미지, 갤러리, 앨범을 위해 고유의 식별자가 필요합니다."
+
+#: ../admin/upgrade.php:175
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "데이터베이스 항목의 양에 따라 시간이 좀 걸리니 이 페이지를 새로고침하지 마세요."
+
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "NextGEN 갤러리 데이터베이스 테이블을 찾을 수 없습니다, 업그레이드가 실패했습니다 !"
+
+#: ../admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "폴더/파일 의 이름을 바꿀 수 없습니다. 권한과 갤러리 관리 섹션에서 폴더를 다시 확인해보세요."
+
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "이름변경 실패"
+
+#: ../admin/upgrade.php:356
+#: ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "NextGEN Gallery 업그레이드"
+
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "이 스크립트는 여러분이 이전 버전에서 업그레이드하는 것을 감지합니다."
+
+#: ../admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "당신의 NextGEN 갤러리를 위한 데이터베이스 테이블이 구버전입니다. 계속하기 전에 업그레이드부터 하시기 바랍니다."
+
+#: ../admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "만약 나중에 다운그레이드를 하고 싶다면, 당신의 데이터베이스와 이미지들을 먼저 백업하십시오."
+
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "업그레이드는 시간이 걸릴 수 있으니 기다리십시오."
+
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "지금 업그레이드를 시작"
+
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "업그레이드가 끝났습니다..."
+
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "계속"
+
+#: ../admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "이미지 구조 재작성 : %s / %s 이미지"
+
+#: ../admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "갤러리 구조 재작성: %s / %s 갤러리"
+
+#: ../admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "앨범 구조 재작성 : %s / %s 앨범"
+
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "완료."
+
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "갱신 성공"
+
+#: ../admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "이 플러그인을 사용해주셔서 감사합니다, NextGEN 갤러리는 개인용 블로그를 위해 개발되었습니다. 다수의 설치가 가능하지만 몇가지 특별한 조건에 의해(예. 도메인 맵핑) 현재는 완벽히 지원은 되지 않고 있습니다.<br />만약 개발 지원에 관심이 있으시다면 <strong><a href=\"%s\">기부</a></strong>를 고려해주세요! 만약 더 도움이 필요하시다면, <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">여기</a>에 질문을 남겨주세요."
+
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "네트워크 옵션"
+
+#: ../admin/wpmu.php:70
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "모든 블로그의 기본 경로입니다.  placeholder와 함께 %BLOG_ID% 당신은 폴더 구조를 더 좋게 정리할 수 있습니다."
+
+#: ../admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "기본 설정은 %s 여야 합니다"
+
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "업로드 quota 체크를 켭니다."
+
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "만약 갤러리가 blog.dir 아래에 있다면 작동할 것입니다."
+
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "zip 업로드 설정을 켭니다."
+
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "유저들이 압축폴더를 올릴 수 있게 허락합니다."
+
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "가져오기 기능 활성화"
+
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "사용자들이 서버에서 이미지 폴더를 가져올 수 있도록 허용합니다."
+
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "스타일 선택을 켭니다."
+
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "갤러리의 스타일을 유저들이 선택할 수 있게 합니다."
+
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "권한 설정을 켭니다."
+
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "다른 블로그 작가를 위해서 유저들이 권한을 변경할 수 있게 허락합니다."
+
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "기본 스타일"
+
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "갤러리의 기본 스타일을 선택하세요."
+
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "갤러리 선택 또는 입력"
+
+#: ../admin/tinymce/window.php:61
+#: ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "   보기로 "
+
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "이미지 리스트"
+
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "이미지 브라우저"
+
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "앨범 선택 또는 입력"
+
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "확장 버전"
+
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "간단 버전"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "사진 선택 또는 입력"
+
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "폭 x 높이"
+
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "효과"
+
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "효과 없음"
+
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Float"
+
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "float 없음"
+
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "첨부"
+
+#: ../lib/core.php:407
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "알림 : 당신의 서버 메모리 제한에 기초하여 당신은 <strong>%d x %d</strong> 픽셀보다 큰 이미지를 올릴 수 없습니다."
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "잘못된 URL이 제공됨."
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "임시 파일을 생성할 수 없습니다."
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " 초"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "발광됨"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "발광되지 않음"
+
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "조리개"
+
+#: ../lib/meta.php:431
+#: ../lib/meta.php:456
+msgid "Credit"
+msgstr "크레딧"
+
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "카메라"
+
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "캡션"
+
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "저작권"
+
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "초점 거리"
+
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "셔터 스피드"
+
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "주제"
+
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "Make"
+
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "상태 편집"
+
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "카테고리"
+
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "키워드"
+
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "생성 날짜"
+
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "생성 시간"
+
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "작성자 사는 곳"
+
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "도시"
+
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "위치"
+
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "도 / 주"
+
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "지역 코드"
+
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "나라"
+
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "표제"
+
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "소스"
+
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "저작권 알림"
+
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "연락처"
+
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "마지막 수정"
+
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "프로그램 도구"
+
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "형식"
+
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "이미지 넓이"
+
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "이미지 높이"
+
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "플래시"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "죄송합니다. 당산에게 할당된 여유공간이 거의 없습니다. 더 많은 올리기위해서는 일부 파일을 삭제해야 합니다."
+
+#: ../lib/ngg-db.php:331
+#: ../lib/ngg-db.php:332
+msgid "Album overview"
+msgstr "앨범 개요"
+
+#: ../lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[사진을 찾을 수 없습니다]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "새로운 태그가 없습니다!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "새로운 / 옛날 유효한 태그를 지정할 수 없습니다!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "태그 이름이 바뀌지 않았습니다."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "태그 이름변경됨 &laquo;%1$s&raquo; 에서 &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "유효한 새로운 태그가 없습니다."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "개체 (게시물 / 페이지)에 지정된 옛 태그를 찾을 수 없습니다."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "합쳐진 태그가 없습니다."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "태그 합침 &laquo;%1$s&raquo; 과(와) &laquo;%2$s&raquo;. %3$s 가 만들어짐."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "오류. 이름변경을 위한 충분한 태그가 없습니다. 너무 합쳐져있습니다. 선택하세요 !"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "태그가 없습니다!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "삭제된 태그가 없습니다."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s 태그(s)가 삭제되었습니다."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "새로운 슬러그가 없습니다!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "태그 수와 슬러그 수가 일치하지 않습니다!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "편집된 슬러그가 없습니다."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s 슬러그(s)가 편집되었습니다."
+
+#: ../lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPC 서비스가 비활성되어 있습니다.  %s 에서 관리자는 활성할 수 있습니다"
+
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "잘못된 로그인/비밀번호 조합."
+
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "이 사이트에 파일을 올릴 권한이 없습니다."
+
+#: ../lib/xmlrpc.php:135
+#: ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "갤러리를 찾을 수 없습니다"
+
+#: ../lib/xmlrpc.php:140
+#: ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "이 갤러리에 파일을 올릴 권한이 없습니다."
+
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "올바른 이미지 파일이 아닙니다."
+
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "이미지 ID를 찾을 수 없습니다"
+
+#: ../lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "이미지 %1$s 삭제를 실패했습니다"
+
+#: ../lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "%1$s (%2$s) 파일을 쓸 수 없습니다"
+
+#: ../lib/xmlrpc.php:247
+#: ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "올바르지 않은 이미지 ID"
+
+#: ../lib/xmlrpc.php:250
+#: ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "죄송합니다, 이 이미지를 편집할 수 있어야 합니다"
+
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "죄송합니다, 이미지를 업데이트 할 수 없습니다"
+
+#: ../lib/xmlrpc.php:344
+#: ../lib/xmlrpc.php:576
+#: ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "죄송합니다, 갤러리를 관리할 수 있어야 합니다"
+
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "죄송합니다, 갤러리를 생성할 수 없습니다"
+
+#: ../lib/xmlrpc.php:393
+#: ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "올바르지 않은 갤러리 ID"
+
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "죄송합니다, 이 갤러리를 관리할 수 있어야 합니다"
+
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "죄송합니다, 갤러리를 업데이트 할 수 없습니다"
+
+#: ../lib/xmlrpc.php:442
+#: ../lib/xmlrpc.php:494
+#: ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "죄송합니다, 앨범을 관리 할 수 있어야 합니다"
+
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "죄송합니다, 앨범을 생성 할 수 없습니다"
+
+#: ../lib/xmlrpc.php:491
+#: ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "올바르지 않은 앨범 ID"
+
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "죄송합니다, 앨범을 업데이트 할 수 없습니다"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "개의 사진이 있습니다."
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[PicLens으로 보기]"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "뒤로"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "다음"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "의"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "메타 정보"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "카메라 / 기종"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "초점 거리"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "NextGEN 갤러리에 대한 미디어 RSS 링크를 표시하는 위젯입니다."
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN 미디어 RSS"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "미디어 RSS"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "메인 이미지 피드에 링크"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "타이틀 :"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "미디어 RSS 아이콘 보기"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "미디어 RSS 링크 보기"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "미디어 RSS 링크에 대한 텍스트 :"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "미디어 RSS 링크에 대한 도구 설명 텍스트 :"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "NextGEN 갤러리 슬라이드쇼 보기"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN 슬라이드쇼"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "슬라이드쇼를 보기 위해 <a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a>"
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "제목:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "갤러리 선택: "
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "모든 이미지"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "높이:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "폭:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "최근이나 랜덤으로 갤러리에서 이미들을 추가합니다."
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN 위젯"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "보여주기 : "
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "원본 이미지"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "최근 추가된 것"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "IE8 웹 슬라이스 활성화"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "폭 x 높이: "
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "선택 :"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "모든 갤러리"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "사진 목록을 출력하지 않음"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "사진 목록을 출력함"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "갤러리 ID : "
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "갤러리 ID는 콤마로 구분합니다."
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "아직 갤러리가 만들어지지 않았습니다."
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "갤러리 ID=%s 존재하지 않습니다."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "파라미터 값으로 앨범 ID가 제공된게 없습니다."
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "앨범 ID=%s 존재하지 않습니다."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "잘못된 MediaRSS 명령"
+
+#~ msgid "Cache single pictures"
+#~ msgstr "캐시 단일 사진"
+
+#~ msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+#~ msgstr "각 singlepic 설정을 위해 파일을 만듭니다. CPU의 부하를 줄입니다."
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "Displaying %s&#8211;%s of %s"
+#~ msgstr "Displaying %s&#8211;%s of %s"
+
+#~ msgid "Send a gift to show your appreciation."
+#~ msgstr "감사의 선물을 보내주세요."
+
+#~ msgid "Currently not used, prepare database for upcoming version"
+#~ msgstr "현재는 사용되지 않으며, 다음 버전을 위해 데이터베이스 준비를 하세요"
+
+#~ msgid "Delete album ?"
+#~ msgstr "앨범을 삭제하시겠습니까 ?"
+
+#~ msgid "A new version of NextGEN Gallery is available !"
+#~ msgstr "NextGEN 갤러리의 새로운 버전이 있습니다 !"
+
+#~ msgid "Download here"
+#~ msgstr "여기서 다운로드 하십시오"
+
+#~ msgid "already exists"
+#~ msgstr "은(는) 이미 있습니다."
+
+#~ msgid "Gallery Overview"
+#~ msgstr "갤러리 개요"
+
+#~ msgid "Quantity"
+#~ msgstr "이미지 갯수"
+
+#~ msgid "Action"
+#~ msgstr "명령"
+
+#~ msgid "Delete this gallery ?"
+#~ msgstr "이 갤러리를 지우시겠습니까?"
+
+#~ msgid "General WordPress MU Settings"
+#~ msgstr "기본 워드프레스 MU 설정"
+
+#~ msgid "No album"
+#~ msgstr "앨범 없음"
+
+#~ msgid "for the Fugue Iconset"
+#~ msgstr "Fugue 아이콘셋"
+
+#~ msgid "Gallery Administrator"
+#~ msgstr "갤러리 관리자"
+
+#~ msgid "Gallery Editor"
+#~ msgstr "갤러리 에디터"
+
+#~ msgid "You currently have %s rights."
+#~ msgstr "당신은 현재 %s로 접속중 입니다."
+
+#~ msgid "Upload Space Remaining:"
+#~ msgstr "남은 공간: "
+
+#~ msgid "View all images tagged with %s"
+#~ msgstr "모든 이미지를 %s 태그와 함께 보여주기"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "업그레이드 성공"
+
+#~ msgid "Setup Gallery"
+#~ msgstr "갤러리 셋업"
+
+#~ msgid "Setup"
+#~ msgstr "초기화"
+
+#~ msgid "PHP Output Buffer Size"
+#~ msgstr "PHP 아웃풋 버퍼 크기"
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "PHP library 에서 ZIP 압축을 관리하는 PclZip"
+
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "작은 그림을 정사각형으로 잘라서 만들기"
+
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr ""
+#~ "작은 그림(썸네일)을 정사각형으로 잘라 만들게 됩니다. 작은 그림의 크기는 다"
+#~ "음 크기로 고정이 됩니다. : "
+
+#~ msgid "Select Gallery"
+#~ msgstr "겔러리 선택"
+
+#~ msgid "Album Page ID"
+#~ msgstr "앨범 페이지 ID"
+
+#~ msgid "Import a folder with all images."
+#~ msgstr "이미지가 들어 있는 폴더에서 가져오기를 수행합니다."
+
+#~ msgid "Show tags"
+#~ msgstr "Zeige Tags"
+
+#~ msgid "Hide tags"
+#~ msgstr "Verstecke Tags"
+
+#~ msgid "Delete this file ?"
+#~ msgstr "Diese Datei löschen ?"
+
+#~ msgid ""
+#~ "You are about to copy or move %s images \n"
+#~ " \n"
+#~ " 'Cancel' to stop, 'OK' to proceed."
+#~ msgstr ""
+#~ "Willst du wirklich %s Bild(er) verschieben \n"
+#~ " \n"
+#~ " 'Abbrechen' um zu stoppen, 'OK' um die Bearbeitung durchzuführen."
+
+#~ msgid "Show thumbnails "
+#~ msgstr "Thumbnails zeigen"
+
+#~ msgid "Add Gallery"
+#~ msgstr "Bilder/Galerie hinzufügen"
+
+#~ msgid "Manage galleries"
+#~ msgstr "Galerie verwalten"
+
+#~ msgid ""
+#~ "There are totally %1$s pictures in %2$s galleries, which are spread "
+#~ "across %3$s albums."
+#~ msgstr ""
+#~ "Es gibt insgesamt %1$s Bilder in %2$s Galerien - verteilt in %3$s Alben."
+
+#~ msgid "GD support"
+#~ msgstr "GD Unterstützung"
+
+#~ msgid "ImageMagick"
+#~ msgstr "ImageMagick"
+
+#~ msgid "Add Metadata :"
+#~ msgstr "Metadaten hinzufügen :"
+
+#~ msgid "Import EXIF, IPTC or XMP data (if available)"
+#~ msgstr "EXIF, IPTC oder XMP Daten importieren (wenn verfügbar)"
+
+#~ msgid "New Version available"
+#~ msgstr "Neue Version verfügbar !!"
+
+#~ msgid ""
+#~ "The server reports that a new NextGEN Gallery Version is now available. "
+#~ "Please visit the plugin homepage for more information."
+#~ msgstr ""
+#~ "Der Server benachrichtigt Dich über eine neu verfügbare Version der "
+#~ "NextGEN Galerie. Bitte besuche die Plugin Homepage um weitere "
+#~ "Informationen zu erhalten."
+
+#~ msgid "Resample Mode"
+#~ msgstr "Resample Modus"
+
+#~ msgid "Value between 1-5 (higher value, more CPU load)"
+#~ msgstr "Wähle zwischen 1-5 (je höhere desto länger braucht der Server)"
+
+#~ msgid "NextGEN Gallery %d"
+#~ msgstr "NextGEN Gallery %d"
+
+#~ msgid "How many NextGEN Gallery widgets would you like?"
+#~ msgstr "Wie viele NextGEN Gallery Widgets möchtest du haben ?"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "for Simple:Press Forum, it saved me a lot of time"
+#~ msgstr "für das  Simple:Press Forum, welches mir viel Zeit sparte"
+
+#~ msgid "Sorry, NextGEN Gallery works only under WordPress 2.5 or higher"
+#~ msgstr ""
+#~ "Tut mir leid aber NextGEN Galerie arbeitet nur ab WordPress 2.5 und "
+#~ "aufwärts"
+
+#~ msgid "Watch gallery"
+#~ msgstr "Galerie ansehen"
+
+#~ msgid "from"
+#~ msgstr "von"
+
+#~ msgid " : Image resized..."
+#~ msgstr " : Bild angepasst..."
+
+#~ msgid "Some pictures are not writeable :"
+#~ msgstr "Einige Bilder sind schreibgeschützt :"
+
+#~ msgid " : Watermark created..."
+#~ msgstr " : Wasserzeichen gesetzt..."
+
+#~ msgid " : Thumbnail created..."
+#~ msgstr ": Thumbnail erstellt..."
+
+#~ msgid "Follow thumbnails could not created."
+#~ msgstr "Folgende Thumbnails konnten nicht erstellt werden  :"
+
+#~ msgid "Some thumbnails are not writeable :"
+#~ msgstr "Einige Thumbnails sind schreibgeschützt :"
+
+#~ msgid "Watermark successfully added"
+#~ msgstr "Wasserzeichen erfolgreich erstellt"
+
+#~ msgid "Images successfully resized"
+#~ msgstr "Bilder erfolgreich verkleinert"
+
+#~ msgid " (require WordPress 2.3 or higher)"
+#~ msgstr " (benötigt WordPress 2.3 oder höher)"
+
+#~ msgid "Show thumbnail description"
+#~ msgstr "Zeige Bildbeschreibung"
+
+#~ msgid "Description text"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Import a folder with images. Please note :"
+#~ msgstr "Importiere ein Verzeichniss mit Bildern. Bitte beachte:"
+
+#~ msgid "For safe-mode = ON you need to add the subfolder thumbs manually"
+#~ msgstr ""
+#~ "Da der Safe-Mode  (PHP.INI) eingeschaltet ist, mußt Du das "
+#~ "Unterverzeichnis für die Vorschaubilder (\"thumbs\") manuell (per FTP) "
+#~ "anlegen"
+
+#~ msgid "The Zip-file is too large. Exceed Memory limit !"
+#~ msgstr "Das Zip-File ist zu groß. Speicherlimit überschritten !"
+
+#~ msgid "Summary"
+#~ msgstr "Zusammenfassung"
+
+#~ msgid "Welcome"
+#~ msgstr "Willkommen"
+
+#~ msgid ""
+#~ "Welcome to NextGEN Gallery. Here you can control your images, galleries "
+#~ "and albums. You currently have %s rights."
+#~ msgstr ""
+#~ "Willkommen zur NextGEN Galerie. Hier kannst Du Deine Bilder, Galerien und "
+#~ "Alben verwalten. Du hast im Moment %s Rechte."
+
+#~ msgid "Add a new gallery or import pictures"
+#~ msgstr "Neue Galerie erstellen oder Bilder importieren"
+
+#~ msgid "Manage galleries and images"
+#~ msgstr "Verwalte Galerien und Bilder"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Delete File"
+#~ msgstr "Datei löschen"
+
+#~ msgid "Delete image ?"
+#~ msgstr "Bilder löschen ?"
+
+#~ msgid "Browse your files"
+#~ msgstr "Durchsuche deine Dateien"
+
+#~ msgid "Direct link to file"
+#~ msgstr "Link zur Datei"
+
+#~ msgid "Show:"
+#~ msgstr "Zeige als:"
+
+#~ msgid "Link to:"
+#~ msgstr "Link zu:"
+
+#~ msgid "Send to editor &raquo;"
+#~ msgstr "Zum  Editor schicken &raquo;"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the file '%s'?\n"
+#~ "Click ok to delete or cancel to go back."
+#~ msgstr "Bist du sicher das Du diese Datei '%s' löschen willst ?"
+
+#~ msgid "Alt/Titel text"
+#~ msgstr "Alt / Titel Text"

@@ -1,0 +1,4362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-17 14:19+0100\n"
+"PO-Revision-Date: 2011-10-13 22:56+0900\n"
+"Last-Translator: FURUKAWA Kayoko <hope.misari@gmail.com>\n"
+"Language-Team: ja <hope.misari@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: 682,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ nggallery
+#: ../nggallery.php:97
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "NEXTGENギャラリーの日本語ファイルは<a href=\"http://design-cupola.com/nextgen-gallery-ja/\" target=\"_blank\">キュポラボ</a>が更新しています。"
+
+# @ nggallery
+#: ../nggallery.php:98
+msgid "<strong>This translation is not yet updated for Version 1.8.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>この翻訳はバージョン1.8.0に更新されていません</strong>。"
+
+# @ nggallery
+#: ../nggallery.php:202
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "申し訳ありませんが、NextGENギャラリーはMemory Limitが16MB以上の環境でご利用下さい。"
+
+# @ nggallery
+#: ../nggallery.php:222
+msgid "Please update the database of NextGEN Gallery."
+msgstr "NextGENギャラリーのデータベースをアップデートします。"
+
+# @ nggallery
+#: ../nggallery.php:222
+msgid "Click here to proceed."
+msgstr "こちらをクリックして更に設定を続けて下さい"
+
+# @ nggallery
+#: ../nggallery.php:245
+msgid "Picture tag"
+msgstr "画像タグ"
+
+# @ nggallery
+#: ../nggallery.php:246
+msgid "Picture tag: %2$l."
+msgstr "画像のタグ：%2$l."
+
+# @ nggallery
+#: ../nggallery.php:247
+msgid "Separate picture tags with commas."
+msgstr "タグはコンマで区切って下さい"
+
+# @ nggallery
+#: ../nggallery.php:347
+msgid "L O A D I N G"
+msgstr "読 み 込 み 中 で す"
+
+# @ nggallery
+#: ../nggallery.php:348
+msgid "Click to Close"
+msgstr "クリックで閉じる"
+
+# @ nggallery
+#: ../nggallery.php:369
+msgid "loading"
+msgstr "読み込み中"
+
+# @ nggallery
+#: ../nggallery.php:509
+#: ../nggfunctions.php:940
+#: ../admin/admin.php:35
+msgid "Overview"
+msgstr "プラグイン概要"
+
+# @ nggallery
+#: ../nggallery.php:510
+msgid "Get help"
+msgstr "ヘルプ（英語）"
+
+# @ nggallery
+#: ../nggallery.php:511
+msgid "Contribute"
+msgstr "貢献"
+
+# @ nggallery
+#: ../nggallery.php:512
+msgid "Donate"
+msgstr "寄付"
+
+# @ nggallery
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "<a href=\"http://www.mozilla.com/firefox/\">ブラウザのJavascriptを有効</a>にして下さい。<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a>が必要です。"
+
+# @ nggallery
+#: ../nggfunctions.php:163
+#: ../nggfunctions.php:641
+msgid "[Gallery not found]"
+msgstr "[ギャラリーが見つかりません]"
+
+# @ nggallery
+#: ../nggfunctions.php:448
+msgid "[Album not found]"
+msgstr "[アルバムが見つかりません]"
+
+# @ nggallery
+#: ../nggfunctions.php:770
+msgid "[SinglePic not found]"
+msgstr "[個別画像が見つかりません]"
+
+# @ nggallery
+#: ../nggfunctions.php:905
+msgid "Related images for"
+msgstr "関連画像"
+
+# @ nggallery
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "コピーライト / クレジット"
+
+# @ nggallery
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN 開発チーム"
+
+# @ nggallery
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "このプラグインは以下のメンバーによって主に開発、保守、サポート、ドキュメント化されています。"
+
+# @ nggallery
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "また、このプロジェクトは多くの方々に貢献していただいています。"
+
+# @ nggallery
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "協力者 / 感謝します"
+
+# @ nggallery
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "このプラグインのコードを見れば、既存のすばらしいコードやアイデアが盛り込まれていることがわかるでしょう。"
+
+# @ nggallery
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "次の方々のパイオニアワークに感謝します。(彼等の仕事がなければこのプラグインをこれほど早く作成することはできなかったでしょう。）"
+
+# @ nggallery
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "彼等のすばらしいコードに。"
+
+# @ nggallery
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "最高のWeb2.0フレームワークのjQueryに。"
+
+# @ nggallery
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "すばらしいPHPサムネイルクラスに。"
+
+# @ nggallery
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "たくさんのすばらしいプラグインとアイデアに。"
+
+# @ nggallery
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "軽快な画像効果のShutter Reloadedに。"
+
+# @ nggallery
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "最高のメディアフラッシュスクリプトに。"
+
+# @ nggallery
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "ギャラリーのアイコンに"
+
+# @ nggallery
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "ウォーターマークプラグインに。"
+
+# @ nggallery
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "このプラグインに使われているにもかかわらずこのリストに名前がない方は、遠慮なく私にメールをください。"
+
+# @ nggallery
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "私たちに協力するには？"
+
+# @ nggallery
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "このプロジェクトをサポート、協力して頂くにはたくさんの方法があります。"
+
+# @ nggallery
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "バグフィクスや改良コードを送って下さい"
+
+# @ nggallery
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "最もやりがいのあるサポートはあなたのアイデアと頭脳です。"
+
+# @ nggallery
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "プラグインを翻訳してください"
+
+# @ nggallery
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "誰もがこのプラグインを利用するために、すべての言語を利用できるようにしたいと思います。"
+
+# @ nggallery
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Paypal経由で寄付をおねがいします"
+
+# @ nggallery
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "とても有効で、やる気が出ます！"
+
+# @ nggallery
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "ブログやwebサイトにこのプラグインへのリンクを張って下さい"
+
+# @ nggallery
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "もちろん、トラックバックや共有もすばらしいサポートです。"
+
+# @ nggallery
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "ありがとう！"
+
+# @ nggallery
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "この仕事をサポートしていただいている以下の方々へ感謝します。"
+
+# @ nggallery
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "そして全ての支援者"
+
+# @ default
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:124
+#: ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "間違えましたか？"
+
+# @ nggallery
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "アップロードに失敗しました"
+
+# @ nggallery
+#: ../admin/addgallery.php:85
+msgid "Upload failed! "
+msgstr "アップロードに失敗しました"
+
+# @ nggallery
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:938
+#: ../admin/functions.php:1038
+msgid "No gallery selected !"
+msgstr "ギャラリーが選択されていません！"
+
+# @ nggallery
+#: ../admin/addgallery.php:162
+msgid "Image Files"
+msgstr "画像ファイル"
+
+# @ nggallery
+#: ../admin/addgallery.php:183
+#: ../admin/addgallery.php:211
+msgid "remove"
+msgstr "削除"
+
+# @ nggallery
+#: ../admin/addgallery.php:184
+#: ../admin/addgallery.php:364
+msgid "Browse..."
+msgstr "選択.."
+
+# @ nggallery
+#: ../admin/addgallery.php:185
+#: ../admin/addgallery.php:197
+#: ../admin/addgallery.php:414
+msgid "Upload images"
+msgstr "画像アップロード"
+
+# @ nggallery
+#: ../admin/addgallery.php:274
+#: ../admin/addgallery.php:380
+msgid "Upload Images"
+msgstr "画像アップロード"
+
+# @ nggallery
+#: ../admin/addgallery.php:277
+#: ../admin/addgallery.php:294
+#: ../admin/manage-galleries.php:119
+#: ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "新規ギャラリー追加"
+
+# @ nggallery
+#: ../admin/addgallery.php:280
+#: ../admin/addgallery.php:316
+msgid "Upload a Zip-File"
+msgstr "Zipファイルでアップロード"
+
+# @ nggallery
+#: ../admin/addgallery.php:283
+#: ../admin/addgallery.php:358
+msgid "Import image folder"
+msgstr "画像フォルダからインポート"
+
+# @ nggallery
+#: ../admin/addgallery.php:299
+#: ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "新規ギャラリー"
+
+# @ nggallery
+#: ../admin/addgallery.php:302
+#: ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "新しいギャラリーを、このフォルダに作成"
+
+# @ nggallery
+#: ../admin/addgallery.php:304
+#: ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "ファイルとフォルダに使用できるのは、以下の文字のみです："
+
+# @ nggallery
+#: ../admin/addgallery.php:308
+msgid "Add gallery"
+msgstr "ギャラリー追加"
+
+# @ nggallery
+#: ../admin/addgallery.php:321
+msgid "Select Zip-File"
+msgstr "Zipファイルを選択"
+
+# @ nggallery
+#: ../admin/addgallery.php:323
+msgid "Upload a zip file with images"
+msgstr "画像のZipファイルをアップロード"
+
+# @ nggallery
+#: ../admin/addgallery.php:327
+msgid "or enter a Zip-File URL"
+msgstr "またはZipファイルのURLを入力"
+
+# @ nggallery
+#: ../admin/addgallery.php:329
+msgid "Import a zip file with images from a url"
+msgstr "画像のzipファイルをURLからインポート"
+
+# @ nggallery
+#: ../admin/addgallery.php:333
+#: ../admin/addgallery.php:389
+msgid "in to"
+msgstr "次のギャラリーへ"
+
+# @ nggallery
+#: ../admin/addgallery.php:335
+msgid "a new gallery"
+msgstr "新しいギャラリー"
+
+# @ nggallery
+#: ../admin/addgallery.php:346
+msgid "Note : The upload limit on your server is "
+msgstr "注意: サーバーのアップロード制限は："
+
+# @ nggallery
+#: ../admin/addgallery.php:350
+msgid "Start upload"
+msgstr "アップロード開始"
+
+# @ nggallery
+#: ../admin/addgallery.php:363
+msgid "Import from Server path:"
+msgstr "サーバーパスからインポート："
+
+# @ nggallery
+#: ../admin/addgallery.php:366
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Note：ギャラリー設定でデフォルトのパスに変更します"
+
+# @ nggallery
+#: ../admin/addgallery.php:368
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "注意：Safe-mode = ONではサブフォルダーthmbsを手動で作成する必要があります"
+
+# @ nggallery
+#: ../admin/addgallery.php:371
+msgid "Import folder"
+msgstr "フォルダインポート"
+
+# @ nggallery
+#: ../admin/addgallery.php:385
+msgid "Upload image"
+msgstr "画像アップロード"
+
+# @ nggallery
+#: ../admin/addgallery.php:391
+msgid "Choose gallery"
+msgstr "ギャラリー選択"
+
+# @ nggallery
+#: ../admin/addgallery.php:410
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "連続アップロードにはAdobeFlash10が必要です。問題がある場合はこの機能を使用しないでください"
+
+# @ nggallery
+#: ../admin/addgallery.php:410
+msgid "Disable flash upload"
+msgstr "Flashアップロードを使用しない"
+
+# @ nggallery
+#: ../admin/addgallery.php:412
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "ダイアログ画面からコントロールキー/シフトキーを使って選択することで複数のファイルをアップロードすることができます。"
+
+# @ nggallery
+#: ../admin/addgallery.php:412
+msgid "Enable flash based upload"
+msgstr "Flashをつかったアップロードを利用する"
+
+# @ nggallery
+#: ../admin/admin.php:34
+#: ../admin/admin.php:60
+#: ../admin/admin.php:295
+#: ../admin/admin.php:373
+#: ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "ギャラリー"
+msgstr[1] "ギャラリー"
+
+# @ nggallery
+#: ../admin/admin.php:36
+msgid "Add Gallery / Images"
+msgstr "ギャラリー追加 / 画像アップロード"
+
+# @ nggallery
+#: ../admin/admin.php:37
+msgid "Manage Gallery"
+msgstr "ギャラリーの管理"
+
+# @ nggallery
+#: ../admin/admin.php:38
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "アルバム"
+msgstr[1] "アルバム"
+
+# @ nggallery
+#: ../admin/admin.php:39
+msgid "Tags"
+msgstr "タグ"
+
+# @ nggallery
+#: ../admin/admin.php:40
+msgid "Options"
+msgstr "オプション"
+
+# @ nggallery
+#: ../admin/admin.php:42
+msgid "Style"
+msgstr "スタイル"
+
+# @ nggallery
+#: ../admin/admin.php:44
+msgid "Roles"
+msgstr "ユーザーの種類"
+
+# @ nggallery
+#: ../admin/admin.php:45
+msgid "About this Gallery"
+msgstr "このギャラリーについて"
+
+# @ nggallery
+#: ../admin/admin.php:45
+msgid "About"
+msgstr "アバウト"
+
+# @ nggallery
+#: ../admin/admin.php:48
+msgid "NextGEN Gallery"
+msgstr "NextGENギャラリー"
+
+# @ nggallery
+#: ../admin/admin.php:51
+#: ../admin/admin.php:62
+msgid "Reset / Uninstall"
+msgstr "リセット / アンインストール"
+
+# @ nggallery
+#: ../admin/admin.php:61
+msgid "Network settings"
+msgstr "ネットワーク設定"
+
+# @ nggallery
+#: ../admin/admin.php:101
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "このプラグインを利用してくれたことに感謝します。あなたが満足してくれることを望みます。更に開発するためのサポートを下さる場合には、どうぞ<strong><a href=\"%s\">寄付</a></strong>を検討して下さい！また更にヘルプが必要な場合は、<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">こちら（英語）</a>で質問を投稿して下さい。"
+
+# @ nggallery
+#: ../admin/admin.php:104
+msgid "OK, hide this message now !"
+msgstr "はい、このメッセージを非表示にします。"
+
+# @ nggallery
+#: ../admin/admin.php:189
+msgid "You do not have the correct permission"
+msgstr "あなたにはアクセス許可がありません"
+
+# @ nggallery
+#: ../admin/admin.php:190
+msgid "Unexpected Error"
+msgstr "予期せぬエラー"
+
+# @ nggallery
+#: ../admin/admin.php:191
+msgid "A failure occurred"
+msgstr "問題が発生しました"
+
+# @ nggallery
+#: ../admin/admin.php:299
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">はじめに（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:302
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">セットアップ（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:305
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">翻訳 alex rabe</a>"
+
+# @ nggallery
+#: ../admin/admin.php:308
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">ユーザーの種類 / 権限（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:311
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">スタイル（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:312
+msgid "Templates"
+msgstr "テンプレート"
+
+# @ nggallery
+#: ../admin/admin.php:315
+#: ../admin/admin.php:321
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">ギャラリー管理（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:316
+msgid "Gallery example"
+msgstr "ギャラリー例"
+
+# @ nggallery
+#: ../admin/admin.php:322
+#: ../admin/admin.php:332
+msgid "Gallery tags"
+msgstr "ギャラリータグ"
+
+# @ nggallery
+#: ../admin/admin.php:325
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">アルバム管理</a>"
+
+# @ nggallery
+#: ../admin/admin.php:326
+msgid "Album example"
+msgstr "アルバム例"
+
+# @ nggallery
+#: ../admin/admin.php:327
+#: ../admin/admin.php:333
+msgid "Album tags"
+msgstr "アルバムタグ"
+
+# @ nggallery
+#: ../admin/admin.php:330
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">ギャラリータグ</a>"
+
+# @ nggallery
+#: ../admin/admin.php:331
+msgid "Related images"
+msgstr "関連画像"
+
+# @ nggallery
+#: ../admin/admin.php:336
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">画像の管理</a>"
+
+# @ nggallery
+#: ../admin/admin.php:337
+msgid "Custom fields"
+msgstr "カスタムフィールド"
+
+# @ nggallery
+#: ../admin/admin.php:342
+msgid "Get help with NextGEN Gallery"
+msgstr "NextGENギャラリーのトラブルシューティング"
+
+# @ nggallery
+#: ../admin/admin.php:346
+msgid "More Help & Info"
+msgstr "詳細なヘルプと情報"
+
+# @ nggallery
+#: ../admin/admin.php:348
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">サポートフォーラム（英語）</a>"
+
+# @ nggallery
+#: ../admin/admin.php:349
+msgid "FAQ"
+msgstr "FAQ"
+
+# @ nggallery
+#: ../admin/admin.php:350
+msgid "Feature request"
+msgstr "機能のリクエスト"
+
+# @ nggallery
+#: ../admin/admin.php:351
+msgid "Get your language pack"
+msgstr "言語パックを入手"
+
+# @ nggallery
+#: ../admin/admin.php:352
+msgid "Contribute development"
+msgstr "開発協力"
+
+# @ nggallery
+#: ../admin/admin.php:353
+msgid "Download latest version"
+msgstr "最新バージョンをダウンロード"
+
+# @ default
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "こちらは許可されていません"
+
+# @ nggallery
+#: ../admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "%s x %s ピクセルの画像を作成することが出来ます"
+
+# @ nggallery
+#: ../admin/album.php:102
+#: ../admin/album.php:117
+#: ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "更新しました"
+
+# @ nggallery
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "アルバム削除"
+
+# @ nggallery
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "アルバム編集"
+
+# @ nggallery
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "アルバム管理"
+
+# @ nggallery
+#: ../admin/album.php:284
+#: ../admin/album.php:333
+msgid "Select album"
+msgstr "アルバム選択"
+
+# @ nggallery
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "アルバムが選択されていません"
+
+# @ nggallery
+# @ default
+#: ../admin/album.php:297
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "更新"
+
+# @ nggallery
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "アルバム編集"
+
+# @ nggallery
+# @ default
+#: ../admin/album.php:302
+#: ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:440
+msgid "Delete"
+msgstr "削除"
+
+# @ nggallery
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "新規アルバム追加"
+
+# @ nggallery
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "追加"
+
+# @ nggallery
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "ギャラリーを表示 / 非表示"
+
+# @ nggallery
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[すべて表示]"
+
+# @ nggallery
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "ウィジェットを最大に"
+
+# @ nggallery
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[最大]"
+
+# @ nggallery
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "ウィジェットを最小に"
+
+# @ nggallery
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[最小]"
+
+# @ nggallery
+#: ../admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "アルバムを作成し選択して下さい。ドラッグ&ドロップでギャラリーをアルバムに追加できます。"
+
+# @ nggallery
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "ギャラリーを選択"
+
+# @ nggallery
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "アルバムID"
+
+# @ nggallery
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "アルバムが選択されてません！"
+
+# @ nggallery
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "アルバム名："
+
+# @ nggallery
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "アルバムの説明"
+
+# @ nggallery
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "プレビュー画像を選択"
+
+# @ nggallery
+#: ../admin/album.php:426
+#: ../admin/album.php:429
+msgid "No picture"
+msgstr "画像がありません"
+
+# @ nggallery
+#: ../admin/album.php:440
+#: ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "このページへリンク："
+
+# @ nggallery
+#: ../admin/album.php:442
+#: ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "ページへはリンクしない"
+
+# @ nggallery
+#: ../admin/album.php:455
+#: ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317
+#: ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:525
+#: ../admin/manage-images.php:561
+#: ../admin/manage-images.php:590
+#: ../admin/manage-images.php:620
+msgid "OK"
+msgstr "OK"
+
+# @ nggallery
+#: ../admin/album.php:457
+#: ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319
+#: ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:527
+#: ../admin/manage-images.php:563
+#: ../admin/manage-images.php:592
+#: ../admin/manage-images.php:622
+msgid "Cancel"
+msgstr "キャンセル"
+
+# @ nggallery
+#: ../admin/album.php:541
+msgid "Name"
+msgstr "名前"
+
+# @ nggallery
+# @ default
+#: ../admin/album.php:542
+#: ../admin/manage-images.php:255
+msgid "Title"
+msgstr "タイトル"
+
+# @ nggallery
+#: ../admin/album.php:543
+msgid "Page"
+msgstr "ページ"
+
+# @ nggallery
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "新しくサムネイルに表示したいエリアをマウスで選択"
+
+# @ nggallery
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "サムネイルが更新されました"
+
+# @ nggallery
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "サムネイルを更新出来ませんでした"
+
+# @ nggallery
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "サムネイルに指定したい部分を、左の画像で選択して下さい"
+
+# @ nggallery
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "有効なギャラリー名ではありません"
+
+# @ nggallery
+#: ../admin/functions.php:46
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+#: ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "ディレクトリ"
+
+# @ nggallery
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "存在しません。最初にメインギャラリーフォルダーを作成してください"
+
+# @ nggallery
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "パーミッションの設定方法が分からない場合は以下のリンクを参照ください。"
+
+# @ nggallery
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr "は書き込み出来ません！"
+
+# @ nggallery
+#: ../admin/functions.php:76
+#: ../admin/functions.php:85
+#: ../admin/functions.php:897
+msgid "Unable to create directory "
+msgstr "ディレクトリを作成できません"
+
+# @ nggallery
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "サーバーの設定がセーフモードになっています"
+
+# @ nggallery
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "問題が発生した場合はディレクトリを作成してください"
+
+# @ nggallery
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "またサムネイルディレクトリ"
+
+# @ nggallery
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "パーミッションは手動で777に設定してください！"
+
+# @ nggallery
+#: ../admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "ギャラリーID %1$s の作成に成功しました。ショートコード %2$s をページもしくは投稿に挿入すると、このギャラリーを表示する事ができます。<br/>"
+
+# @ nggallery
+#: ../admin/functions.php:119
+msgid "Edit gallery"
+msgstr "ギャラリー編集"
+
+# @ nggallery
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "存在しません！"
+
+# @ nggallery
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "画像がありません"
+
+# @ nggallery
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "データベースエラーです。ギャラリーを追加できませんでした。"
+
+# @ nggallery
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "作成に成功しました！"
+
+# @ nggallery
+#: ../admin/functions.php:212
+#: ../admin/functions.php:1014
+#: ../admin/manage-galleries.php:81
+#: ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203
+#: ../admin/manage-images.php:334
+#: ../admin/manage.php:223
+#: ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "新しいサムネイルを作成"
+
+# @ nggallery
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr "画像が正常に追加されました"
+
+# @ nggallery
+#: ../admin/functions.php:265
+#: ../admin/functions.php:345
+#: ../admin/functions.php:400
+#: ../admin/functions.php:497
+#: ../admin/functions.php:551
+msgid "Object didn't contain correct data"
+msgstr "オブジェクトに適切なデータが含まれていません"
+
+# @ nggallery
+#: ../admin/functions.php:273
+msgid " is not writeable "
+msgstr "は書き込み可能ではありません。"
+
+# @ nggallery
+#: ../admin/functions.php:355
+#: ../admin/functions.php:403
+#: ../admin/functions.php:503
+#: ../admin/functions.php:554
+msgid " is not writeable"
+msgstr "は書き込み可能ではありません。"
+
+# @ nggallery
+#: ../admin/functions.php:557
+msgid "File do not exists"
+msgstr "ファイルが存在しません"
+
+# @ nggallery
+#: ../admin/functions.php:561
+msgid "Couldn't restore original image"
+msgstr "元の画像を復元できませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:677
+msgid "(Error : Couldn't not update data base)"
+msgstr "（エラー：データベースが更新できません）"
+
+# @ nggallery
+#: ../admin/functions.php:684
+msgid "(Error : Couldn't not update meta data)"
+msgstr "（エラー：メタデータが更新できません）"
+
+# @ nggallery
+#: ../admin/functions.php:693
+msgid "(Error : Couldn't not find image)"
+msgstr "（エラー：画像ファイルが見つかりません）"
+
+# @ nggallery
+#: ../admin/functions.php:831
+msgid "No valid URL path "
+msgstr "正しいURLパスではありません"
+
+# @ nggallery
+#: ../admin/functions.php:847
+msgid "Import via cURL failed."
+msgstr "cURLからのインポートに失敗しました"
+
+# @ nggallery
+#: ../admin/functions.php:864
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "アップロードされたファイルはZipファイルではないか、壊れています。サーバーは以下のように判断しました："
+
+# @ nggallery
+#: ../admin/functions.php:881
+msgid "Could not get a valid foldername"
+msgstr "有効なフォルダ名が取得できませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:892
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "%sのディレクトリを作成できませでした。サーバ上の親ディレクトリは書き込み可能になっていますか？"
+
+# @ nggallery
+#: ../admin/functions.php:907
+msgid "Zip-File successfully unpacked"
+msgstr "Zipファイルを解凍しました"
+
+# @ nggallery
+#: ../admin/functions.php:946
+#: ../admin/functions.php:1063
+msgid "Failure in database, no gallery path set !"
+msgstr "データベースに問題が起きました。ギャラリーのパスがセットされていません！"
+
+# @ nggallery
+#: ../admin/functions.php:970
+#: ../admin/functions.php:1057
+msgid "is no valid image file!"
+msgstr "は有効な画像ファイルではありません！"
+
+# @ nggallery
+#: ../admin/functions.php:984
+#: ../admin/functions.php:1183
+#: ../admin/functions.php:1260
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "%sへ書き込みできませんでした。このディレクトリは書き込み可能になっていますか？"
+
+# @ nggallery
+#: ../admin/functions.php:991
+#: ../admin/functions.php:1080
+msgid "Error, the file could not be moved to : "
+msgstr "エラー：ファイルは以下へ移動できませんでした："
+
+# @ nggallery
+#: ../admin/functions.php:996
+#: ../admin/functions.php:1084
+msgid "Error, the file permissions could not be set"
+msgstr "エラー：ファイルパーミッションを設定できませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:1019
+msgid " Image(s) successfully added"
+msgstr "画像の追加に成功しました"
+
+# @ nggallery
+#: ../admin/functions.php:1046
+msgid "Invalid upload. Error Code : "
+msgstr "アップロード失敗。エラーコード："
+
+# @ nggallery
+#: ../admin/functions.php:1123
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "サーバーがセーフモードに設定されています。<strong>%s</strong>ディレクトリを手動で作成する必要があります。"
+
+# @ nggallery
+#: ../admin/functions.php:1124
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "safe_modeがオンの場合、PHPは操作されるファイルやディレクトリの親(%s)が、現在のスクリプトの親(%s)であるかチェックします。"
+
+# @ nggallery
+#: ../admin/functions.php:1177
+#: ../admin/functions.php:1254
+msgid "The destination gallery does not exist"
+msgstr "リンク先のギャラリーは存在しません"
+
+# @ nggallery
+#: ../admin/functions.php:1208
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "画像 %1$s を %2$s に移動出来ませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:1228
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "画像 %1$s を次のギャラリーに移動しました：%2$s "
+
+# @ nggallery
+#: ../admin/functions.php:1287
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "画像 %1$s を %2$s にコピー出来ませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:1301
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr " %s のデータベース行のコピーに失敗しました"
+
+# @ nggallery
+#: ../admin/functions.php:1313
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "画像 %1$s (%2$s) は、画像 %3$s (%4$s) としてコピーされました &raquo; リンク先のギャラリーには、ファイルが既に存在していました。"
+
+# @ nggallery
+#: ../admin/functions.php:1316
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "画像 %1$s (%2$s) は、画像 %3$s (%4$s) としてコピーされました"
+
+# @ nggallery
+#: ../admin/functions.php:1325
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "画像 %1$s は以下のギャラリーにコピーされました：%2$s"
+
+# @ nggallery
+#: ../admin/functions.php:1433
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "アップロードしたファイルは、php.iniのupload_max_filesizeを超えています"
+
+# @ nggallery
+#: ../admin/functions.php:1436
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "アップロードしたファイルは、HTMLフォームで指定されたMAX_FILE_SIZEを超えています"
+
+# @ nggallery
+#: ../admin/functions.php:1439
+msgid "The uploaded file was only partially uploaded"
+msgstr "アップロードしたファイルは、部分的にしかアップロードされませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:1442
+msgid "No file was uploaded"
+msgstr "ファイルはアップロードされませんでした"
+
+# @ nggallery
+#: ../admin/functions.php:1445
+msgid "Missing a temporary folder"
+msgstr "テンポラリーフォルダが見つかりません"
+
+# @ nggallery
+#: ../admin/functions.php:1448
+msgid "Failed to write file to disk"
+msgstr "ファイルのディスクへの書き込みに失敗しました"
+
+# @ nggallery
+#: ../admin/functions.php:1451
+msgid "File upload stopped by extension"
+msgstr "ファイルのアップロードは拡張によって停止されました"
+
+# @ nggallery
+#: ../admin/functions.php:1454
+msgid "Unknown upload error"
+msgstr "不明なアップロードエラー"
+
+# @ nggallery
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "申し訳ありませんが、NextGENギャラリーは管理者権限でのみ動作します。"
+
+# @ nggallery
+#: ../admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGENギャラリー：テーブルが作成できませんでした。データベース設定を確認してください。"
+
+# @ nggallery
+#: ../admin/install.php:171
+msgid "[Show as slideshow]"
+msgstr "[スライドショーで表示]"
+
+# @ nggallery
+#: ../admin/install.php:172
+msgid "[Show picture list]"
+msgstr "[リストで表示]"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:69
+#: ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "画像が選択されていません"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:77
+#: ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199
+#: ../admin/manage-images.php:335
+#: ../admin/manage.php:207
+#: ../admin/manage.php:285
+msgid "Resize images"
+msgstr "サイズ変更"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"%s枚の写真を一括編集しようとしています。 \n"
+" \n"
+" 'キャンセル'で中止、'OK'で実行します"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225
+#: ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "画像を検索"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:145
+#: ../admin/manage-images.php:332
+msgid "Bulk actions"
+msgstr "何もしない"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:147
+#: ../admin/manage-images.php:333
+#: ../admin/manage.php:140
+#: ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "ウォーターマークを付ける"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:150
+#: ../admin/manage-images.php:338
+#: ../admin/manage.php:145
+#: ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "メタデータをインポート"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:151
+#: ../admin/manage-images.php:336
+#: ../admin/manage.php:135
+#: ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "バックアップから修復する"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:153
+#: ../admin/manage-images.php:347
+msgid "Apply"
+msgstr "適用"
+
+# @ default
+# @ nggallery
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "編集"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:261
+#: ../admin/manage-images.php:498
+msgid "No entries found"
+msgstr "エントリーが見つかりません"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:308
+#: ../admin/manage-images.php:581
+msgid "Resize Images to"
+msgstr "画像サイズを変更："
+
+# @ nggallery
+#: ../admin/manage-galleries.php:312
+#: ../admin/manage-images.php:585
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "横幅 × 縦幅 （ピクセル）。縦横の比率は保持されます。"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:336
+#: ../admin/manage-images.php:609
+msgid "Width x height (in pixel)"
+msgstr "横幅 × 縦幅 （ピクセル）"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:338
+#: ../admin/manage-images.php:611
+msgid "These values are maximum values "
+msgstr "こちらは最大値です"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:341
+#: ../admin/manage-images.php:614
+msgid "Set fix dimension"
+msgstr "サイズを適用します"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:343
+#: ../admin/manage-images.php:616
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "アスペクト比を無視します。ポートレートのサムネイルには不向きです。"
+
+# @ default
+#: ../admin/manage-galleries.php:406
+#: ../admin/manage-images.php:684
+msgid "ID"
+msgstr "ID"
+
+# @ nggallery
+# @ default
+#: ../admin/manage-galleries.php:408
+#: ../admin/manage-images.php:266
+#: ../admin/manage-images.php:687
+msgid "Description"
+msgstr "説明"
+
+# @ nggallery
+# @ default
+#: ../admin/manage-galleries.php:409
+#: ../admin/manage-images.php:287
+msgid "Author"
+msgstr "作者"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "ページID"
+
+# @ nggallery
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "画像"
+msgstr[1] "画像"
+
+# @ nggallery
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "ギャラリーが見つかりません"
+
+# @ nggallery
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "申し訳ありませんが、あなたにはアクセス許可がありません。"
+
+# @ nggallery
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "画像をコピー ... "
+
+# @ nggallery
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "画像を移動 ... "
+
+# @ nggallery
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "新規タグ追加"
+
+# @ nggallery
+#: ../admin/manage-images.php:191
+#: ../admin/manage-images.php:344
+msgid "Delete tags"
+msgstr "タグ削除"
+
+# @ nggallery
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "上書き"
+
+# @ nggallery
+#: ../admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"%s枚の写真を一括編集しようとしています。 \n"
+" \n"
+" 'キャンセル'で中止、'OK'で実行します"
+
+# @ nggallery
+#: ../admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr " &#8220;%s&#8221; の検索結果"
+
+# @ nggallery
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "ギャラリー設定"
+
+# @ nggallery
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "こちらをクリックして更に設定を続けて下さい"
+
+# @ nggallery
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "画像プレビュー"
+
+# @ nggallery
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "画像がありません"
+
+# @ nggallery
+#: ../admin/manage-images.php:285
+msgid "Path"
+msgstr "パス"
+
+# @ nggallery
+#: ../admin/manage-images.php:302
+msgid "Create new page"
+msgstr "新規ページ追加"
+
+# @ nggallery
+#: ../admin/manage-images.php:305
+msgid "Main page (No parent)"
+msgstr "メインページ（上位フォルダなし）"
+
+# @ nggallery
+#: ../admin/manage-images.php:308
+msgid "Add page"
+msgstr "ページ追加"
+
+# @ nggallery
+#: ../admin/manage-images.php:317
+msgid "Scan Folder for new images"
+msgstr "新しい画像のフォルダをスキャン"
+
+# @ nggallery
+# @ default
+#: ../admin/manage-images.php:318
+#: ../admin/manage-images.php:353
+#: ../admin/manage-images.php:505
+msgid "Save Changes"
+msgstr "変更保存"
+
+# @ nggallery
+#: ../admin/manage-images.php:337
+msgid "Delete images"
+msgstr "画像削除"
+
+# @ nggallery
+#: ../admin/manage-images.php:339
+msgid "Rotate images clockwise"
+msgstr "時計回りに回転"
+
+# @ nggallery
+#: ../admin/manage-images.php:340
+msgid "Rotate images counter-clockwise"
+msgstr "反時計回りに回転"
+
+# @ nggallery
+#: ../admin/manage-images.php:341
+msgid "Copy to..."
+msgstr "コピーする"
+
+# @ nggallery
+#: ../admin/manage-images.php:342
+msgid "Move to..."
+msgstr "移動する"
+
+# @ nggallery
+#: ../admin/manage-images.php:343
+msgid "Add tags"
+msgstr "タグ追加"
+
+# @ nggallery
+#: ../admin/manage-images.php:345
+msgid "Overwrite tags"
+msgstr "タグを上書き"
+
+# @ nggallery
+#: ../admin/manage-images.php:350
+msgid "Sort gallery"
+msgstr "ギャラリー内を並べ替え"
+
+# @ nggallery
+#: ../admin/manage-images.php:426
+msgid "pixel"
+msgstr "ピクセル"
+
+# @ default
+#: ../admin/manage-images.php:432
+#, php-format
+msgid "View \"%s\""
+msgstr " \"%s\" を見る"
+
+# @ nggallery
+#: ../admin/manage-images.php:432
+msgid "View"
+msgstr "見る"
+
+# @ nggallery
+#: ../admin/manage-images.php:433
+msgid "Show Meta data"
+msgstr "画像情報を表示"
+
+# @ nggallery
+#: ../admin/manage-images.php:433
+msgid "Meta"
+msgstr "画像情報"
+
+# @ nggallery
+#: ../admin/manage-images.php:434
+msgid "Customize thumbnail"
+msgstr "サムネイルをカスタマイズ"
+
+# @ nggallery
+#: ../admin/manage-images.php:434
+msgid "Edit thumb"
+msgstr "サムネイル編集"
+
+# @ nggallery
+#: ../admin/manage-images.php:435
+msgid "Rotate"
+msgstr "回転"
+
+# @ nggallery
+#: ../admin/manage-images.php:437
+msgid "Publish this image"
+msgstr "この画像を公開する"
+
+# @ nggallery
+#: ../admin/manage-images.php:437
+msgid "Publish"
+msgstr "公開"
+
+# @ nggallery
+#: ../admin/manage-images.php:439
+msgid "Recover"
+msgstr "復帰"
+
+# @ nggallery
+#: ../admin/manage-images.php:439
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "\"%s\" を修復しますか？"
+
+# @ nggallery
+#: ../admin/manage-images.php:440
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr " \"%s\" を削除しますか？"
+
+# @ nggallery
+#: ../admin/manage-images.php:521
+msgid "Enter the tags"
+msgstr "タグを入力"
+
+# @ nggallery
+#: ../admin/manage-images.php:545
+msgid "Select the destination gallery:"
+msgstr "リンク先のギャラリーを選択"
+
+# @ nggallery
+# @ default
+#: ../admin/manage-images.php:685
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+# @ nggallery
+#: ../admin/manage-images.php:686
+#: ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "ファイル名"
+
+# @ nggallery
+#: ../admin/manage-images.php:687
+msgid "Alt &amp; Title Text"
+msgstr "タイトル &amp; 代替テキスト"
+
+# @ nggallery
+#: ../admin/manage-images.php:688
+msgid "Tags (comma separated list)"
+msgstr "タグ(コンマで区切る)"
+
+# @ nggallery
+#: ../admin/manage-images.php:689
+msgid "exclude"
+msgstr "除外"
+
+# @ nggallery
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "並び替え順変更"
+
+# @ nggallery
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "ギャラリー並び順"
+
+# @ nggallery
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "並び順更新"
+
+# @ nggallery
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "ギャラリーへ戻る"
+
+# @ nggallery
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "並び順"
+
+# @ nggallery
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "ソートしない"
+
+# @ nggallery
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "画像ID"
+
+# @ nggallery
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "タイトル/テキスト"
+
+# @ nggallery
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "日付/時間"
+
+# @ nggallery
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "昇順"
+
+# @ nggallery
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "降順"
+
+# @ nggallery
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "画像"
+
+# @ nggallery
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "正常に削除されました"
+
+# @ nggallery
+#: ../admin/manage.php:99
+#: ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "操作は成功しました。ブラウザを再読み込みしてキャッシュをリフレッシュしてください。"
+
+# @ nggallery
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "ギャラリーを削除しました"
+
+# @ nggallery
+#: ../admin/manage.php:240
+#: ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "画像を回転"
+
+# @ nggallery
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "画像は正常に削除されました"
+
+# @ nggallery
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "タグは変更されました"
+
+# @ nggallery
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "更新に成功しました"
+
+# @ nggallery
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "新規ギャラリーページID"
+
+# @ nggallery
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "作成"
+
+# @ nggallery
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "投稿を公開しました"
+
+# @ default
+#: ../admin/manage.php:572
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 アイテム"
+msgstr[1] "%s アイテム"
+
+# @ nggallery
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "ギャラリーがありません"
+
+# @ nggallery
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "選択 &#187;"
+
+# @ nggallery
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "表示"
+
+# @ nggallery
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "隠す"
+
+# @ nggallery
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "画像ID："
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:229
+#: ../admin/publish.php:55
+msgid "Alignment"
+msgstr "位置"
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:232
+#: ../admin/publish.php:57
+#: ../admin/settings.php:484
+msgid "None"
+msgstr "なし"
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:234
+#: ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "左"
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:236
+#: ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "中央"
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:238
+#: ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "右"
+
+# @ default
+# @ nggallery
+#: ../admin/media-upload.php:242
+#: ../admin/settings.php:591
+msgid "Size"
+msgstr "サイズ"
+
+# @ default
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "フルサイズ"
+
+# @ nggallery
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "個別画像"
+
+# @ default
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "投稿に挿入"
+
+# @ nggallery
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "全ての変更を保存"
+
+# @ nggallery
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGENギャラリー概要"
+
+# @ nggallery
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "NextGENギャラリーへようこそ！"
+
+# @ nggallery
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "このプラグインが気に入りましたか？"
+
+# @ nggallery
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "翻訳"
+
+# @ nggallery
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "最新ニュース"
+
+# @ nggallery
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "最新の支援者"
+
+# @ nggallery
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "プラグインチェック"
+
+# @ nggallery
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "サーバー設定"
+
+# @ nggallery
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "関連プラグイン"
+
+# @ nggallery
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "このプラグインの開発・維持サポート・提供は<a href=\"%s\">Alex Rabe</a>と、たくさんの愛＆努力によるものです。どのような寄付でも頂ければ幸いです。ありがとう！"
+
+# @ nggallery
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "WordPress.orgで良い評価を下さい。"
+
+# @ nggallery
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Paypal経由で寄付をおねがいします"
+
+# @ nggallery
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "翻訳の協力を求めています。"
+
+# @ nggallery
+#: ../admin/overview.php:253
+msgid "Running..."
+msgstr "処理中です…"
+
+# @ nggallery
+#: ../admin/overview.php:300
+msgid "Check plugin/theme conflict"
+msgstr "プラグインとテーマのコンフリクトをチェック"
+
+# @ nggallery
+#: ../admin/overview.php:301
+#: ../admin/overview.php:307
+#: ../admin/overview.php:313
+msgid "Not tested"
+msgstr "テストされていません"
+
+# @ nggallery
+#: ../admin/overview.php:302
+msgid "No conflict could be detected"
+msgstr "コンフリクトは検出されませんでした"
+
+# @ nggallery
+#: ../admin/overview.php:303
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "テストに失敗しました。その他のプラグインを停止し、デフォルトのテーマに変更して下さい。"
+
+# @ nggallery
+#: ../admin/overview.php:306
+msgid "Test image function"
+msgstr "画像関数テスト"
+
+# @ nggallery
+#: ../admin/overview.php:308
+msgid "The plugin could create images"
+msgstr "プラグインは画像作成が可能です"
+
+# @ nggallery
+#: ../admin/overview.php:309
+msgid "Couldn't create image, check your memory limit"
+msgstr "画像作成が出来ません。memory limitを確認して下さい。"
+
+# @ nggallery
+#: ../admin/overview.php:312
+msgid "Check theme compatibility"
+msgstr "テーマの互換性を確認"
+
+# @ nggallery
+#: ../admin/overview.php:314
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "あなたのテーマは、NextGENギャラリーの動作に問題ありません。"
+
+# @ nggallery
+#: ../admin/overview.php:315
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() が見つかりません。テーマの作者に連絡して下さい。"
+
+# @ nggallery
+#: ../admin/overview.php:319
+msgid "Check plugin"
+msgstr "プラグインチェック"
+
+# @ nggallery
+#: ../admin/overview.php:340
+msgid "Graphic Library"
+msgstr "Graphic Library"
+
+# @ default
+#: ../admin/overview.php:356
+#: ../admin/overview.php:405
+#: ../admin/overview.php:592
+#: ../admin/overview.php:782
+msgid "Loading&#8230;"
+msgstr "読み込み中&#8230;"
+
+# @ default
+#: ../admin/overview.php:356
+#: ../admin/overview.php:405
+#: ../admin/overview.php:592
+#: ../admin/overview.php:782
+msgid "This widget requires JavaScript."
+msgstr "このウィジェットはJavaScriptが必要です。"
+
+# @ nggallery
+#: ../admin/overview.php:369
+msgid "Thanks to all donators..."
+msgstr "全ての支援者に感謝します"
+
+# @ nggallery
+#: ../admin/overview.php:391
+msgid "View all"
+msgstr "全て見る"
+
+# @ nggallery
+#: ../admin/overview.php:417
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "ニュースフィードを読み込みできませんでした。<a href=\\\"%s\\\">こちら</a>で最新情報をチェックしてください。"
+
+# @ default
+#: ../admin/overview.php:429
+msgid "Untitled"
+msgstr "タイトルなし"
+
+# @ nggallery
+#: ../admin/overview.php:479
+msgid "At a Glance"
+msgstr "概要"
+
+# @ nggallery
+#: ../admin/overview.php:505
+msgid "Upload pictures"
+msgstr "画像アップロード"
+
+# @ nggallery
+#: ../admin/overview.php:506
+msgid "Here you can control your images, galleries and albums."
+msgstr "こちらはあなたが管理している画像・ギャラリー・アルバムです。"
+
+# @ default
+#: ../admin/overview.php:536
+msgid "Storage Space"
+msgstr "保存領域"
+
+# @ default
+#: ../admin/overview.php:540
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"アップロード管理\" class=\"musublink\">%2$sMB</a>"
+
+# @ default
+#: ../admin/overview.php:541
+msgid "Space Allowed"
+msgstr "空き領域"
+
+# @ default
+#: ../admin/overview.php:548
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"アップロード管理\" class=\"musublink\">%2$sMB</a>"
+
+# @ default
+#: ../admin/overview.php:549
+msgid "Space Used"
+msgstr "使用中の領域"
+
+# @ nggallery
+#: ../admin/overview.php:578
+msgid "Translation file successful updated. Please reload page."
+msgstr "翻訳ファイルの更新に成功しました。ページを再読み込みして下さい。"
+
+# @ nggallery
+#: ../admin/overview.php:580
+msgid "Reload page"
+msgstr "再読み込み"
+
+# @ nggallery
+#: ../admin/overview.php:585
+msgid "Translation file couldn't be updated"
+msgstr "翻訳ファイルを更新出来ませんでした"
+
+# @ nggallery
+#: ../admin/overview.php:622
+msgid "Download"
+msgstr "ダウンロード"
+
+# @ nggallery
+#: ../admin/overview.php:651
+msgid "No GD support"
+msgstr "GDサポート無し"
+
+# @ nggallery
+#: ../admin/overview.php:663
+#: ../admin/overview.php:709
+#: ../admin/overview.php:712
+#: ../admin/overview.php:715
+msgid "Yes"
+msgstr "はい"
+
+# @ nggallery
+#: ../admin/overview.php:665
+#: ../admin/overview.php:710
+#: ../admin/overview.php:713
+#: ../admin/overview.php:716
+msgid "No"
+msgstr "いいえ"
+
+# @ nggallery
+#: ../admin/overview.php:683
+msgid "Not set"
+msgstr "セットされていません"
+
+# @ nggallery
+#: ../admin/overview.php:685
+#: ../admin/overview.php:688
+msgid "On"
+msgstr "オン"
+
+# @ nggallery
+#: ../admin/overview.php:686
+#: ../admin/overview.php:689
+msgid "Off"
+msgstr "オフ"
+
+# @ nggallery
+#: ../admin/overview.php:692
+#: ../admin/overview.php:695
+#: ../admin/overview.php:698
+#: ../admin/overview.php:701
+#: ../admin/overview.php:704
+#: ../admin/overview.php:707
+msgid "N/A"
+msgstr "N/A"
+
+# @ nggallery
+#: ../admin/overview.php:706
+msgid " MByte"
+msgstr " MByte"
+
+# @ nggallery
+#: ../admin/overview.php:719
+msgid "Operating System"
+msgstr "オペレーションシステム"
+
+# @ nggallery
+#: ../admin/overview.php:720
+msgid "Server"
+msgstr "サーバ"
+
+# @ nggallery
+#: ../admin/overview.php:721
+msgid "Memory usage"
+msgstr "メモリ使用量"
+
+# @ nggallery
+#: ../admin/overview.php:722
+msgid "MYSQL Version"
+msgstr "MYSQLバージョン"
+
+# @ nggallery
+#: ../admin/overview.php:723
+msgid "SQL Mode"
+msgstr "SQLモード"
+
+# @ nggallery
+#: ../admin/overview.php:724
+msgid "PHP Version"
+msgstr "PHPバージョン"
+
+# @ nggallery
+#: ../admin/overview.php:725
+msgid "PHP Safe Mode"
+msgstr "PHPセーフモード"
+
+# @ nggallery
+#: ../admin/overview.php:726
+msgid "PHP Allow URL fopen"
+msgstr "PHP URL fopen許可"
+
+# @ nggallery
+#: ../admin/overview.php:727
+msgid "PHP Memory Limit"
+msgstr "PHPメモリリミット(PHP Memory Limit)"
+
+# @ nggallery
+#: ../admin/overview.php:728
+msgid "PHP Max Upload Size"
+msgstr "PHP最大アップロードサイズ(PHP Max Upload Size)"
+
+# @ nggallery
+#: ../admin/overview.php:729
+msgid "PHP Max Post Size"
+msgstr "PHP最大ポストサイズ(PHP Max Post Size)"
+
+# @ nggallery
+#: ../admin/overview.php:730
+msgid "PCRE Backtracking Limit"
+msgstr "PCREのバックトラックリミット"
+
+# @ nggallery
+#: ../admin/overview.php:731
+msgid "PHP Max Script Execute Time"
+msgstr "PHP最大スクリプト実行時間(PHP Max Script Execute Time)"
+
+# @ nggallery
+#: ../admin/overview.php:732
+msgid "PHP Exif support"
+msgstr "PHP Exifサポート"
+
+# @ nggallery
+#: ../admin/overview.php:733
+msgid "PHP IPTC support"
+msgstr "PHP IPTCサポート"
+
+# @ nggallery
+#: ../admin/overview.php:734
+msgid "PHP XML support"
+msgstr "PHP XMLサポート"
+
+# @ nggallery
+#: ../admin/overview.php:746
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGENギャラリーにはPHP5.2以上で利用できる機能が含まれています。現在あなたは古いバージョンのPHP4を使用しています！ 今すぐPHPのアップグレードをして下さい。多くのプロバイダや共用ホスティングではPHP4とPHP5のどちらも実行することが出来ます。あなたのプロバイダに問い合わせて下さい。"
+
+# @ default
+#: ../admin/overview.php:838
+msgid "Install"
+msgstr "インストール"
+
+# @ nggallery
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "投稿タイトル"
+
+# @ nggallery
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "投稿のタイトルを入力"
+
+# @ nggallery
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "画像サイズ"
+
+# @ nggallery
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "下書き"
+
+# @ nggallery
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "権限を更新しました"
+
+# @ nggallery
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "ユーザーの種類 / 権限"
+
+# @ nggallery
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "次の機能へアクセスできるもっとも低い権限を選択してください。NextGENギャラリーはWordpressの権限管理をサポートしています。"
+
+# @ nggallery
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "より詳細なユーザー管理を行うには次のプラグインが利用できます"
+
+# @ nggallery
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGENギャラリー概要メイン"
+
+# @ nggallery
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "TinyMCEボタン利用 / アップロードタブ"
+
+# @ nggallery
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "ギャラリーを追加 / 画像をアップロード"
+
+# @ nggallery
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "ギャラリー管理"
+
+# @ nggallery
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "他のギャラリーを編集"
+
+# @ nggallery
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "タグ管理"
+
+# @ nggallery
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "スタイル変更"
+
+# @ nggallery
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "オプション変更"
+
+# @ nggallery
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "権限を更新"
+
+# @ nggallery
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "画像回転"
+
+# @ nggallery
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "サムネイル回転にエラー"
+
+# @ nggallery
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "時計回りに90&deg;"
+
+# @ nggallery
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "反時計回りに90&deg;"
+
+# @ nggallery
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "垂直方向に反転"
+
+# @ nggallery
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "水平方向に反転"
+
+# @ nggallery
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "キャッシュ削除"
+
+# @ nggallery
+#: ../admin/settings.php:216
+#: ../admin/settings.php:235
+msgid "General Options"
+msgstr "一般設定"
+
+# @ nggallery
+#: ../admin/settings.php:217
+#: ../admin/settings.php:421
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+# @ nggallery
+#: ../admin/settings.php:218
+msgid "Images"
+msgstr "画像"
+
+# @ nggallery
+#: ../admin/settings.php:220
+#: ../admin/settings.php:473
+msgid "Effects"
+msgstr "エフェクト"
+
+# @ nggallery
+#: ../admin/settings.php:221
+#: ../admin/settings.php:515
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "ウォーターマーク"
+
+# @ nggallery
+#: ../admin/settings.php:222
+#: ../admin/settings.php:422
+#: ../admin/settings.php:622
+#: ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "スライドショー"
+
+# @ nggallery
+#: ../admin/settings.php:241
+#: ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "ギャラリーのパス"
+
+# @ nggallery
+#: ../admin/settings.php:243
+msgid "This is the default path for all galleries"
+msgstr "全てのギャラリーのデフォルトパス"
+
+# @ nggallery
+#: ../admin/settings.php:246
+msgid "Delete image files"
+msgstr "画像ファイルを削除"
+
+# @ nggallery
+#: ../admin/settings.php:248
+msgid "Delete files, when removing a gallery in the database"
+msgstr "データベースからギャラリーが削除された場合にファイルを削除"
+
+# @ nggallery
+#: ../admin/settings.php:251
+msgid "Activate permalinks"
+msgstr "パーマリンクを有効にする"
+
+# @ nggallery
+#: ../admin/settings.php:253
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "このオプションを有効にした場合、パーマリンク構造を一度更新する必要があります"
+
+# @ nggallery
+#: ../admin/settings.php:254
+msgid "Gallery slug name :"
+msgstr "ギャラリースラッグ名："
+
+# @ nggallery
+#: ../admin/settings.php:258
+msgid "Create new URL friendly image slugs"
+msgstr "新規フレンドリーURL"
+
+# @ nggallery
+#: ../admin/settings.php:259
+#: ../admin/settings.php:375
+msgid "Proceed now"
+msgstr "すぐに実行"
+
+# @ nggallery
+#: ../admin/settings.php:262
+msgid "Select graphic library"
+msgstr "画像ライブラリーを選択"
+
+# @ nggallery
+#: ../admin/settings.php:263
+msgid "GD Library"
+msgstr "GDライブラリー"
+
+# @ nggallery
+#: ../admin/settings.php:264
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Experimental) ライブラリへのパス："
+
+# @ nggallery
+#: ../admin/settings.php:269
+msgid "Activate Media RSS feed"
+msgstr "メディアRSSを有効にする"
+
+# @ nggallery
+#: ../admin/settings.php:271
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSSフィードはブログのヘッダに追加されます。CoolIris/PicLens に有効です"
+
+# @ nggallery
+#: ../admin/settings.php:274
+msgid "Activate PicLens/CoolIris support"
+msgstr "PicLens/CoolIris のサポートを有効にする"
+
+# @ nggallery
+#: ../admin/settings.php:276
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "このオプションを有効にした場合、サイトのフッターにjavascriptが追加されます。テーマ上で wp_footer が記述されている事を確認してください。"
+
+# @ nggallery
+#: ../admin/settings.php:279
+msgid "Tags / Categories"
+msgstr "タグ / カテゴリー"
+
+# @ nggallery
+#: ../admin/settings.php:282
+msgid "Activate related images"
+msgstr "関連画像を有効にする"
+
+# @ nggallery
+#: ../admin/settings.php:284
+msgid "This option will append related images to every post"
+msgstr "このオプションは、すべての投稿に関連した画像を表示します"
+
+# @ nggallery
+#: ../admin/settings.php:288
+msgid "Match with"
+msgstr "次の要素と一致"
+
+# @ nggallery
+#: ../admin/settings.php:289
+msgid "Categories"
+msgstr "カテゴリー"
+
+# @ nggallery
+#: ../admin/settings.php:294
+msgid "Max. number of images"
+msgstr "画像の最大数"
+
+# @ nggallery
+#: ../admin/settings.php:296
+msgid "0 will show all images"
+msgstr "0はすべての画像を表示します"
+
+# @ nggallery
+#: ../admin/settings.php:300
+#: ../admin/settings.php:331
+#: ../admin/settings.php:378
+#: ../admin/settings.php:463
+#: ../admin/settings.php:498
+#: ../admin/settings.php:759
+msgid "More settings"
+msgstr "詳細設定"
+
+# @ nggallery
+#: ../admin/settings.php:310
+msgid "Thumbnail settings"
+msgstr "サムネイル設定"
+
+# @ nggallery
+#: ../admin/settings.php:314
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "この設定を変更した場合、「ギャラリー管理」からサムネイルを再構築する必要があります"
+
+# @ nggallery
+#: ../admin/settings.php:327
+msgid "Thumbnail quality"
+msgstr "サムネイルの品質"
+
+# @ nggallery
+#: ../admin/settings.php:341
+msgid "Image settings"
+msgstr "画像設定"
+
+# @ nggallery
+#: ../admin/settings.php:347
+msgid "Resize Images"
+msgstr "画像リサイズ"
+
+# @ nggallery
+#: ../admin/settings.php:352
+msgid "Image quality"
+msgstr "画像の品質"
+
+# @ nggallery
+#: ../admin/settings.php:356
+msgid "Backup original images"
+msgstr "オリジナル画像をバックアップ"
+
+# @ nggallery
+#: ../admin/settings.php:358
+msgid "Creates a backup for inserted images"
+msgstr "挿入画像のバックアップを作成します"
+
+# @ nggallery
+#: ../admin/settings.php:361
+msgid "Automatically resize"
+msgstr "自動リサイズ"
+
+# @ nggallery
+#: ../admin/settings.php:363
+msgid "Automatically resize images on upload."
+msgstr "アップロード時に自動的に画像サイズを変更"
+
+# @ nggallery
+#: ../admin/settings.php:366
+msgid "Single picture"
+msgstr "個別画像"
+
+# @ nggallery
+#: ../admin/settings.php:369
+msgid "Cache single pictures"
+msgstr "個別画像のキャッシュ"
+
+# @ nggallery
+#: ../admin/settings.php:371
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "それぞれ個別画像の設定でファイルを作成。CPUロードを軽減します。"
+
+# @ nggallery
+#: ../admin/settings.php:374
+msgid "Clear cache folder"
+msgstr "キャッシュフォルダーをクリア"
+
+# @ nggallery
+#: ../admin/settings.php:395
+msgid "Deactivate gallery page link"
+msgstr "ギャラリーページリンクを使用しない"
+
+# @ nggallery
+#: ../admin/settings.php:397
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "アルバムはギャラリーサブページにリンクしません。ギャラリーは同じページ上に表示されます"
+
+# @ nggallery
+#: ../admin/settings.php:401
+msgid "Number of images per page"
+msgstr "1ページに表示する画像数"
+
+# @ nggallery
+#: ../admin/settings.php:403
+msgid "0 will disable pagination, all images on one page"
+msgstr "0にした場合、ページナビゲーションを使用せず、一つのページにすべての画像を表示します"
+
+# @ nggallery
+#: ../admin/settings.php:407
+msgid "Number of columns"
+msgstr "列の数"
+
+# @ nggallery
+#: ../admin/settings.php:409
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 はあなたのテーマの幅に基づき可能な限り表示します。通常は画像の下にキャプションが必須の場合にのみ設定して下さい。"
+
+# @ nggallery
+#: ../admin/settings.php:413
+msgid "Integrate slideshow"
+msgstr "スライドショーを統合"
+
+# @ nggallery
+#: ../admin/settings.php:420
+msgid "Show first"
+msgstr "最初に表示"
+
+# @ nggallery
+#: ../admin/settings.php:426
+msgid "Show ImageBrowser"
+msgstr "ImageBrowserを表示"
+
+# @ nggallery
+#: ../admin/settings.php:428
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "ギャラリーでエフェクトの代わりにImageBrowserを表示します"
+
+# @ nggallery
+#: ../admin/settings.php:432
+msgid "Add hidden images"
+msgstr "非表示画像を追加"
+
+# @ nggallery
+#: ../admin/settings.php:434
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "改ページが有効の場合、全ての画像をモーダルウインドウで表示します（Thickbox, Lightbox等）。Note：これはページ読み込み拡張です"
+
+# @ nggallery
+#: ../admin/settings.php:438
+msgid "Enable AJAX pagination"
+msgstr "AJAXな改ページを有効"
+
+# @ nggallery
+#: ../admin/settings.php:440
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "ページ読み込みなしで画像をブラウズする（Shutter effect との組み合わせでのみ有効）"
+
+# @ nggallery
+#: ../admin/settings.php:444
+msgid "Sort options"
+msgstr "並び替えオプション"
+
+# @ nggallery
+#: ../admin/settings.php:447
+msgid "Sort thumbnails"
+msgstr "サムネイルの並び順"
+
+# @ nggallery
+#: ../admin/settings.php:449
+msgid "Custom order"
+msgstr "カスタム（手動で設定）"
+
+# @ nggallery
+#: ../admin/settings.php:451
+msgid "File name"
+msgstr "ファイル名"
+
+# @ nggallery
+#: ../admin/settings.php:452
+msgid "Alt / Title text"
+msgstr "Alt / タイトル文"
+
+# @ nggallery
+#: ../admin/settings.php:453
+msgid "Date / Time"
+msgstr "日付 / 時間"
+
+# @ nggallery
+#: ../admin/settings.php:457
+msgid "Sort direction"
+msgstr "並び順"
+
+# @ nggallery
+#: ../admin/settings.php:477
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "こちらではサムネイルエフェクトを選べます。NextGENギャラリーは画像に必要なHTMLコードを生成します。ShutterとThickboxエフェクトは自動的にあなたのテーマに追加されます。"
+
+# @ nggallery
+#: ../admin/settings.php:478
+msgid "With the placeholder"
+msgstr "プレースホルダー"
+
+# @ nggallery
+#: ../admin/settings.php:478
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "を使用して、画像間のナビゲーションを有効にすることができます(エフェクトによります)。他のサムネイルエフェクトを使用する場合、または設定することが分かっている場合のみ、コードを変更してください"
+
+# @ nggallery
+#: ../admin/settings.php:481
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScriptサムネイルエフェクト"
+
+# @ nggallery
+#: ../admin/settings.php:485
+msgid "Thickbox"
+msgstr "Thickbox"
+
+# @ nggallery
+#: ../admin/settings.php:486
+msgid "Lightbox"
+msgstr "Lightbox"
+
+# @ nggallery
+#: ../admin/settings.php:487
+msgid "Highslide"
+msgstr "Highslide"
+
+# @ nggallery
+#: ../admin/settings.php:488
+msgid "Shutter"
+msgstr "Shutter"
+
+# @ nggallery
+#: ../admin/settings.php:489
+msgid "Custom"
+msgstr "カスタム"
+
+# @ nggallery
+#: ../admin/settings.php:494
+msgid "Link Code line"
+msgstr "リンクコード行"
+
+# @ nggallery
+#: ../admin/settings.php:516
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "注意：「画像管理」画面からのみウォーターマークを有効化できます。このアクションは取り消しできません"
+
+# @ nggallery
+#: ../admin/settings.php:521
+msgid "Preview"
+msgstr "プレビュー"
+
+# @ nggallery
+#: ../admin/settings.php:523
+#: ../admin/settings.php:528
+msgid "Position"
+msgstr "位置"
+
+# @ nggallery
+#: ../admin/settings.php:548
+msgid "Offset"
+msgstr "距離"
+
+# @ nggallery
+#: ../admin/settings.php:564
+msgid "Use image as watermark"
+msgstr "画像をウォーターマークとして使用"
+
+# @ nggallery
+#: ../admin/settings.php:567
+msgid "URL to file"
+msgstr "ファイルのURL"
+
+# @ nggallery
+#: ../admin/settings.php:569
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "サーバーのファイルをURLでアクセスすることを禁止します(allow_url_fopen)"
+
+# @ nggallery
+#: ../admin/settings.php:572
+msgid "Use text as watermark"
+msgstr "テキストをウォーターマークとして使用"
+
+# @ nggallery
+#: ../admin/settings.php:575
+msgid "Font"
+msgstr "フォント"
+
+# @ nggallery
+#: ../admin/settings.php:584
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "この機能は動作しません。FreeTypeライブラリが必要です"
+
+# @ nggallery
+#: ../admin/settings.php:586
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "<strong>nggallery/fonts</strong>にフォントをアップロードすることができます。"
+
+# @ nggallery
+#: ../admin/settings.php:595
+msgid "Color"
+msgstr "色"
+
+# @ nggallery
+#: ../admin/settings.php:597
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+# @ nggallery
+#: ../admin/settings.php:600
+msgid "Text"
+msgstr "テキスト"
+
+# @ nggallery
+#: ../admin/settings.php:604
+msgid "Opaque"
+msgstr "不透明度"
+
+# @ nggallery
+#: ../admin/settings.php:625
+msgid "Default size (W x H)"
+msgstr "デフォルトサイズ（横×縦）"
+
+# @ nggallery
+#: ../admin/settings.php:630
+msgid "Duration time"
+msgstr "表示時間"
+
+# @ nggallery
+#: ../admin/settings.php:631
+msgid "sec."
+msgstr "秒"
+
+# @ nggallery
+#: ../admin/settings.php:634
+#: ../admin/settings.php:709
+msgid "Transition / Fade effect"
+msgstr "トランジション / フェードエフェクト"
+
+# @ nggallery
+#: ../admin/settings.php:637
+#: ../admin/settings.php:712
+msgid "fade"
+msgstr "フェード"
+
+# @ nggallery
+#: ../admin/settings.php:638
+msgid "blindX"
+msgstr "隠す"
+
+# @ nggallery
+#: ../admin/settings.php:639
+msgid "cover"
+msgstr "cover"
+
+# @ nggallery
+#: ../admin/settings.php:640
+msgid "scrollUp"
+msgstr "上にスクロール"
+
+# @ nggallery
+#: ../admin/settings.php:641
+msgid "scrollDown"
+msgstr "下にスクロール"
+
+# @ nggallery
+#: ../admin/settings.php:642
+msgid "shuffle"
+msgstr "シャッフル"
+
+# @ nggallery
+#: ../admin/settings.php:643
+msgid "toss"
+msgstr "toss"
+
+# @ nggallery
+#: ../admin/settings.php:644
+msgid "wipe"
+msgstr "ワイプ"
+
+# @ nggallery
+#: ../admin/settings.php:646
+msgid "See here for more information about the effects :"
+msgstr "エフェクトの詳細についてはこちら："
+
+# @ nggallery
+#: ../admin/settings.php:650
+msgid "Settings for the JW Image Rotator"
+msgstr "JW image Rotatorの設定"
+
+# @ nggallery
+#: ../admin/settings.php:651
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "この設定はJW image Rotatorのみで使用されます。 JW image Rotator バージョン"
+
+# @ nggallery
+#: ../admin/settings.php:652
+msgid "See more information for the Flash Player on the web page"
+msgstr "FlashPlayerについてのより詳しい情報はwebページをごらんください。"
+
+# @ nggallery
+#: ../admin/settings.php:657
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "imagerotator.swfがnggalleryディレクトリにありません。スライドショーは動作しません"
+
+# @ nggallery
+#: ../admin/settings.php:658
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr " JW Image Rotatator を使用する場合は、<a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >こちら</a>からプレーヤーをダウンロードし、フォルダーにアップロードしてください。（デフォルトは wp-content/uploads です）"
+
+# @ nggallery
+#: ../admin/settings.php:664
+msgid "Enable flash slideshow"
+msgstr "スライドショーにFlashを使用"
+
+# @ nggallery
+#: ../admin/settings.php:666
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Flashをサポートしたデバイスでは、Flashベースのスライドショーを使用します"
+
+# @ nggallery
+#: ../admin/settings.php:669
+msgid "Path to the Imagerotator (URL)"
+msgstr "Imagerotatorのパス (URL)"
+
+# @ nggallery
+#: ../admin/settings.php:672
+msgid "Search now"
+msgstr "検索する"
+
+# @ nggallery
+#: ../admin/settings.php:673
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "あなたが wp-content/uploads またはそのサブフォルダーにアップロードしている場合、ボタンをクリックするとimagerotatorを探します。"
+
+# @ nggallery
+#: ../admin/settings.php:677
+msgid "Shuffle mode"
+msgstr "シャッフルモード"
+
+# @ nggallery
+#: ../admin/settings.php:681
+msgid "Show next image on click"
+msgstr "クリックで次の画像を表示"
+
+# @ nggallery
+#: ../admin/settings.php:685
+msgid "Show navigation bar"
+msgstr "ナビゲーションバーを表示"
+
+# @ nggallery
+#: ../admin/settings.php:689
+msgid "Show loading icon"
+msgstr "読み込み中のアイコンを表示"
+
+# @ nggallery
+#: ../admin/settings.php:693
+msgid "Use watermark logo"
+msgstr "ウォーターマークロゴを使用"
+
+# @ nggallery
+#: ../admin/settings.php:695
+msgid "You can change the logo at the watermark settings"
+msgstr "ウォーターマーク設定でロゴを変更できます"
+
+# @ nggallery
+#: ../admin/settings.php:698
+msgid "Stretch image"
+msgstr "画像の拡大"
+
+# @ nggallery
+#: ../admin/settings.php:701
+msgid "true"
+msgstr "はい"
+
+# @ nggallery
+#: ../admin/settings.php:702
+msgid "false"
+msgstr "いいえ"
+
+# @ nggallery
+#: ../admin/settings.php:703
+msgid "fit"
+msgstr "フィット"
+
+# @ nggallery
+#: ../admin/settings.php:704
+msgid "none"
+msgstr "なし"
+
+# @ nggallery
+#: ../admin/settings.php:713
+msgid "bgfade"
+msgstr "背景フェード"
+
+# @ nggallery
+#: ../admin/settings.php:714
+msgid "slowfade"
+msgstr "ゆっくりフェード"
+
+# @ nggallery
+#: ../admin/settings.php:715
+msgid "circles"
+msgstr "サークル"
+
+# @ nggallery
+#: ../admin/settings.php:716
+msgid "bubbles"
+msgstr "バブル"
+
+# @ nggallery
+#: ../admin/settings.php:717
+msgid "blocks"
+msgstr "ブロック"
+
+# @ nggallery
+#: ../admin/settings.php:718
+msgid "fluids"
+msgstr "流動"
+
+# @ nggallery
+#: ../admin/settings.php:719
+msgid "flash"
+msgstr "フラッシュ"
+
+# @ nggallery
+#: ../admin/settings.php:720
+msgid "lines"
+msgstr "ライン"
+
+# @ nggallery
+#: ../admin/settings.php:721
+msgid "random"
+msgstr "ランダム"
+
+# @ nggallery
+#: ../admin/settings.php:726
+msgid "Use slow zooming effect"
+msgstr "スローズームエフェクトを使用"
+
+# @ nggallery
+#: ../admin/settings.php:730
+msgid "Background Color"
+msgstr "背景色"
+
+# @ nggallery
+#: ../admin/settings.php:735
+msgid "Texts / Buttons Color"
+msgstr "テキスト / ボタン色"
+
+# @ nggallery
+#: ../admin/settings.php:740
+msgid "Rollover / Active Color"
+msgstr "ロールオーバー / アクティブカラー"
+
+# @ nggallery
+#: ../admin/settings.php:745
+msgid "Screen Color"
+msgstr "スクリーンカラー"
+
+# @ nggallery
+#: ../admin/settings.php:750
+msgid "Background music (URL)"
+msgstr "BGM(URL)"
+
+# @ nggallery
+#: ../admin/settings.php:754
+msgid "Try XHTML validation (with CDATA)"
+msgstr "XHTML検証 (with CDATA)"
+
+# @ nggallery
+#: ../admin/settings.php:756
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "重要：いくつかのブラウザで問題を引き起こす可能性があります。設定後に必ずページを再確認してください"
+
+# @ nggallery
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "すべての設定をデフォルトの数値にリセットします"
+
+# @ nggallery
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "アンインストールに成功しました！ プラグインを削除してください！"
+
+# @ nggallery
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "リセットオプション"
+
+# @ nggallery
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "すべてのオプション/設定をインストール時のデフォルトに戻す"
+
+# @ nggallery
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "設定リセット"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"全てのオプションをデフォルトに戻します\\n"
+"\\n"
+"[Cancel]で中止、[OK]で実行します\\n"
+
+# @ nggallery
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "プラグインテーブルをアンインストール"
+
+# @ nggallery
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "NextGENギャラリーが気に入りませんか？"
+
+# @ nggallery
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "アンインストールボタンを押す前にこのプラグインを無効にすることができます。NextGenギャラリーを無効にしても作成されたデータを消去しません。"
+
+# @ nggallery
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "警告："
+
+# @ nggallery
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "一度アンインストールしたら元に戻す事はできません。最初にデータベースバックアップツールを使ってすべてのテーブルをバックアップしておくことをお勧めします。NetexGENギャラリーは次のテーブルに保存されています"
+
+# @ nggallery
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "と"
+
+# @ nggallery
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "プラグインをアンインストール"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"このプラグインをアンインストールしようとしています\\n"
+"この操作は元に戻せません\\n"
+"\\n"
+"[Cancel]で中止、[OK]でアンインストールします\\n"
+
+# @ nggallery
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "メタデータ"
+
+# @ nggallery
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "タグ"
+
+# @ nggallery
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "値"
+
+# @ nggallery
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "メタデータはセーブされていません"
+
+# @ nggallery
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIFデータ"
+
+# @ nggallery
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "exifデータなし"
+
+# @ nggallery
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTCデータ"
+
+# @ nggallery
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMPデータ"
+
+# @ nggallery
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "（テーマフォルダーから）"
+
+# @ default
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "このブログのテンプレートを変更する権限がありません"
+
+# @ nggallery
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSSファイルは正常に更新されました"
+
+# @ nggallery
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "スタイルエディタ"
+
+# @ nggallery
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "有効化しスタイルシートを利用："
+
+# @ nggallery
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "有効"
+
+# @ nggallery
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "<strong>%s</strong>編集中"
+
+# @ nggallery
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "<strong>%s</strong>ブラウズ中"
+
+# @ nggallery
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "バージョン"
+
+# @ nggallery
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Tip：nggallery.css をあなたのテーマフォルダーにコピーすると、アップグレード中に失わずにすみます。"
+
+# @ nggallery
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "あなたのテーマはNextGEN Galleryのスタイルシート（nggallery.css）が含まれています。このファイルが使用されます。"
+
+# @ nggallery
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Tip 2：下のカラーピッカーを利用して、あなたのギャラリーの配色を見つけて下さい。"
+
+# @ nggallery
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "ファイルを更新"
+
+# @ nggallery
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "ファイルが書き込み可能であれば編集できます"
+
+# @ nggallery
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "おっと。そのようなファイルは存在しません。名前を再確認して試して下さい"
+
+# @ nggallery
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "最も人気がある"
+
+# @ nggallery
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "最も使われてない"
+
+# @ nggallery
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "アルファベット順"
+
+# @ nggallery
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "画像タグ管理"
+
+# @ nggallery
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "既存のタグ"
+
+# @ nggallery
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "タグ検索"
+
+# @ nggallery
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "検索"
+
+# @ nggallery
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "並び順更新"
+
+# @ nggallery
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "前のタグ"
+
+# @ nggallery
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "次のタグ"
+
+# @ nggallery
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "タグの名称を変更"
+
+# @ nggallery
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "名称を変更するタグと、新しい名前を入力して下さい。この機能を利用して、タグを統合することが出来ます。 \"名称を変更\" をクリックして、このタグを使用する全ての記事を更新して下さい。"
+
+# @ nggallery
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "コンマで区切ることで、複数のタグを変更できます"
+
+# @ nggallery
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "名称を変更するタグ："
+
+# @ nggallery
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "新しいタグの名称"
+
+# @ nggallery
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "名称を変更"
+
+# @ nggallery
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "タグ削除"
+
+# @ nggallery
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "削除するタグ名を入力して下さい。このタグは全ての記事から削除されます。"
+
+# @ nggallery
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "コンマで区切ることで、複数のタグを削除できます"
+
+# @ nggallery
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "削除するタグ："
+
+# @ nggallery
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "タグスラッグの編集"
+
+# @ nggallery
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "編集するタグ名と新しいスラッグを入力して下さい。<a href=\"http://codex.wordpress.org/Glossary#Slug\">スラッグの定義（英語）</a>"
+
+# @ nggallery
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "編集するタグ："
+
+# @ nggallery
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "セットするスラッグ："
+
+# @ nggallery
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "データベース構造をアップグレード..."
+
+# @ nggallery
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:122
+#: ../admin/upgrade.php:129
+#: ../admin/upgrade.php:140
+#: ../admin/upgrade.php:154
+msgid "finished"
+msgstr "完了しました"
+
+# @ nggallery
+#: ../admin/upgrade.php:120
+msgid "Update file structure..."
+msgstr "ファイル構造を更新..."
+
+# @ nggallery
+#: ../admin/upgrade.php:127
+msgid "Import date and time information..."
+msgstr "日時情報をインポート..."
+
+# @ nggallery
+#: ../admin/upgrade.php:135
+msgid "Move imagerotator to new location..."
+msgstr "imagerotatorの場所を移動..."
+
+# @ nggallery
+#: ../admin/upgrade.php:146
+msgid "Update settings..."
+msgstr "設定を更新..."
+
+# @ nggallery
+#: ../admin/upgrade.php:160
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "ウィジェットを更新します。NextGENのウィジェットを使用する場合には、再度セットアップしてください。"
+
+# @ nggallery
+#: ../admin/upgrade.php:168
+#: ../admin/upgrade.php:190
+msgid "Updated options."
+msgstr "オプションを更新"
+
+# @ nggallery
+#: ../admin/upgrade.php:175
+msgid "Create unique slug"
+msgstr "ユニークスラッグを作成"
+
+# @ nggallery
+#: ../admin/upgrade.php:176
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "今後パーマリンク構造を再構築する機能の追加を予定しています"
+
+# @ nggallery
+#: ../admin/upgrade.php:177
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "したがって、画像・ギャラリー・アルバムはそれぞれ一意のIDを持つ必要があります。"
+
+# @ nggallery
+#: ../admin/upgrade.php:178
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "データベースのエントリ数によって、しばらく時間がかかることがあります。このページをリロードしないでください。"
+
+# @ nggallery
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "NextGENのギャラリーのデータベーステーブルが見つかりません。アップグレード出来ませんでした。"
+
+# @ nggallery
+#: ../admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "いくつかのフォルダとファイルは名称の変更が出来ませんでした。ギャラリーを管理する部分のフォルダーのパーミッションやフォルダ内を再確認してください。"
+
+# @ nggallery
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "名称の変更に失敗しました"
+
+# @ nggallery
+#: ../admin/upgrade.php:356
+#: ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "NextGENギャラリーのアップグレード"
+
+# @ nggallery
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "このスクリプトは旧バージョンからのアップグレードを検出します。"
+
+# @ nggallery
+#: ../admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "あなたのNextGEN Galleryのデータベーステーブルは古くなっています。続けるためにはアップグレードする必要があります。"
+
+# @ nggallery
+#: ../admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "もしダウングレードしたいとお思いでしたら、最初にデータベースと画像の完全なバックアップを取って下さい。"
+
+# @ nggallery
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "アップグレードのブロセスはしばらくかかることがあります。気長にお待ち下さい。"
+
+# @ nggallery
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "アップグレード開始"
+
+# @ nggallery
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "アップグレードを完了しました。"
+
+# @ nggallery
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "続ける"
+
+# @ nggallery
+#: ../admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "イメージ構造を再構築：%s / %s 枚の画像"
+
+# @ nggallery
+#: ../admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "ギャラリー構造を再構築：%s / %s のギャラリー"
+
+# @ nggallery
+#: ../admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "アルバム構造を再構築：%s / %s のアルバム"
+
+# @ nggallery
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "完了"
+
+# @ nggallery
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "正常に更新しました"
+
+# @ nggallery
+#: ../admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "このプラグインを利用してくれたことに感謝します。あなたが満足してくれることを望みます。更に開発するためのサポートを下さる場合には、どうぞ<strong><a href=\"%s\">寄付</a></strong>を検討して下さい！また更にヘルプが必要な場合は、<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">こちら（英語）</a>で質問を投稿して下さい。"
+
+# @ nggallery
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "ネットワークオプション"
+
+# @ nggallery
+#: ../admin/wpmu.php:70
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "これはすべてのブログのデフォルトパスです。%BLOG_ID%プレースホルダーを利用して、フォルダー構造を管理することができます。"
+
+# @ nggallery
+#: ../admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "デフォルトの設定は %s であるべきです"
+
+# @ nggallery
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "アップロード割当チェックを有効"
+
+# @ nggallery
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "以下のblog.ディレクトリにギャラリーがある場合は動作するはずです"
+
+# @ nggallery
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "zipアップロードオプションを有効"
+
+# @ nggallery
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "zipフォルダーのアップロードをユーザーに許可する"
+
+# @ nggallery
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "インポートを可能にする"
+
+# @ nggallery
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "サーバーからの画像フォルダのインポートをユーザーに許可する"
+
+# @ nggallery
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "スタイル選択有効"
+
+# @ nggallery
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "ギャラリーのスタイル選択をユーザーに許可する"
+
+# @ nggallery
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "ユーザーの種類 / 権限 を有効"
+
+# @ nggallery
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "他の作者が権限の変更を出来るようにする"
+
+# @ nggallery
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "デフォルトスタイル"
+
+# @ nggallery
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "デフォルトスタイルを選択"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "ギャラリーを選択、または入力"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:61
+#: ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "表示方法"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "画像リスト"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Imagebrowser"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "アルバム選択、または入力"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "拡張バージョン"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "コンパクトバージョン"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "画像選択、もしくは入力"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "幅 × 高さ"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "エフェクト"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "エフェクトなし"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Float"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Floatなし"
+
+# @ nggallery
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "挿入"
+
+# @ nggallery
+#: ../lib/core.php:397
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Note：あなたのサーバのメモリリミット(memory limit)は、<strong>%d x %d</strong>ピクセル以上の写真のアップロードに適していません。"
+
+# @ default
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "無効なURLです"
+
+# @ default
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "テンポラリーファイルの作成が出来ません"
+
+# @ nggallery
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+# @ nggallery
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr "秒"
+
+# @ nggallery
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "フラッシュあり"
+
+# @ nggallery
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "フラッシュなし"
+
+# @ nggallery
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "絞り"
+
+# @ nggallery
+#: ../lib/meta.php:431
+#: ../lib/meta.php:456
+msgid "Credit"
+msgstr "クレジット"
+
+# @ nggallery
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "カメラ"
+
+# @ nggallery
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "説明"
+
+# @ nggallery
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "コピーライト"
+
+# @ nggallery
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "焦点距離"
+
+# @ nggallery
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+# @ nggallery
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "シャッタースピード"
+
+# @ nggallery
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "題名"
+
+# @ nggallery
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "メーカー"
+
+# @ nggallery
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "ステータス編集"
+
+# @ nggallery
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "カテゴリ"
+
+# @ nggallery
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "キーワード"
+
+# @ nggallery
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "撮影日"
+
+# @ nggallery
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "撮影時間"
+
+# @ nggallery
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "作者のポジション"
+
+# @ nggallery
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "市"
+
+# @ nggallery
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "場所"
+
+# @ nggallery
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "県"
+
+# @ nggallery
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "国番号"
+
+# @ nggallery
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "国"
+
+# @ nggallery
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "ヘッドライン"
+
+# @ nggallery
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "ソース"
+
+# @ nggallery
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "著作権について"
+
+# @ nggallery
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "連絡先"
+
+# @ nggallery
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "最終変更"
+
+# @ nggallery
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "使用ツール"
+
+# @ nggallery
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "フォーマット"
+
+# @ nggallery
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "横幅"
+
+# @ nggallery
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "高さ"
+
+# @ nggallery
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "フラッシュ"
+
+# @ nggallery
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "申し訳ありませんが、あなたのアップロードスペースは一杯です。ファイルをアップロードするには、いくつかのファイルを削除してください。"
+
+# @ nggallery
+#: ../lib/ngg-db.php:330
+#: ../lib/ngg-db.php:331
+msgid "Album overview"
+msgstr "アルバム概要"
+
+# @ nggallery
+#: ../lib/shortcodes.php:298
+msgid "[Pictures not found]"
+msgstr "[画像が見つかりません]"
+
+# @ nggallery
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "新しいタグが指定されていません！"
+
+# @ nggallery
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "有効なタグではありません！"
+
+# @ nggallery
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "変更するタグ名がありません"
+
+# @ nggallery
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "タグ &laquo;%1$s&raquo;  を &laquo;%2$s&raquo; に変更しました"
+
+# @ nggallery
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "新規タグは有効ではありません"
+
+# @ nggallery
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "旧タグに指定された記事・ページはありませんでした"
+
+# @ nggallery
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "統合するタグがありません"
+
+# @ nggallery
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "タグ &laquo;%1$s&raquo; を &laquo;%2$s&raquo;. %3$s に統合しました"
+
+# @ nggallery
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "エラー：名称の変更または統合にはタグが足りません。選択して下さい。"
+
+# @ nggallery
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "タグが指定されてません！"
+
+# @ nggallery
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "削除するタグがありません"
+
+# @ nggallery
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "タグ %1s は削除されました"
+
+# @ nggallery
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "新しいスラッグの指定がありません！"
+
+# @ nggallery
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "タグの数とスラッグの数が一致しません！"
+
+# @ nggallery
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "編集するスラッグがありません"
+
+# @ nggallery
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "スラッグ %s は編集されました"
+
+# @ default
+#: ../lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPCはこのブログでは利用出来ません。管理者のみ %s で有効に出来ます。"
+
+# @ default
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "ログインIDとパスワードの組み合わせが間違っています"
+
+# @ default
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "あなたはこのサイトにファイルをアップロードする権限がありません"
+
+# @ default
+#: ../lib/xmlrpc.php:135
+#: ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "ギャラリーが見つかりません"
+
+# @ default
+#: ../lib/xmlrpc.php:140
+#: ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "あなたはこのギャラリーにファイルをアップロードする権限がありません"
+
+# @ nggallery
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "正しい画像ファイルではありません"
+
+# @ default
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "画像IDが見つかりません"
+
+# @ nggallery
+#: ../lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "画像  %1$s は削除出来ませんでした"
+
+# @ default
+#: ../lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr " ファイル %1$s (%2$s) は書き込み出来ません"
+
+# @ default
+#: ../lib/xmlrpc.php:247
+#: ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "無効な画像IDです"
+
+# @ default
+#: ../lib/xmlrpc.php:250
+#: ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "申し訳ありません。この画像は編集する必要があります。"
+
+# @ default
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "申し訳ありません。画像をアップデート出来ませんでした。"
+
+# @ default
+#: ../lib/xmlrpc.php:344
+#: ../lib/xmlrpc.php:576
+#: ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "申し訳ありません。ギャラリー管理を行う必要があります。"
+
+# @ default
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "申し訳ありません。ギャラリーを作成出来ませんでした。"
+
+# @ default
+#: ../lib/xmlrpc.php:393
+#: ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "有効なギャラリーIDではありません"
+
+# @ default
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "申し訳ありません。このギャラリーは管理を行う必要があります。"
+
+# @ default
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "申し訳ありません。ギャラリーをアップデート出来ませんでした。"
+
+# @ default
+#: ../lib/xmlrpc.php:442
+#: ../lib/xmlrpc.php:494
+#: ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "申し訳ありません。ギャラリー一覧を表示するためには、ギャラリー管理を行う必要があります。"
+
+# @ default
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "申し訳ありません。アルバムを作成出来ませんでした。"
+
+# @ default
+#: ../lib/xmlrpc.php:491
+#: ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "無効なアルバムIDです"
+
+# @ default
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "申し訳ありません。アルバムをアップデート出来ませんでした。"
+
+# @ nggallery
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "写真"
+
+# @ nggallery
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[PicLensで見る]"
+
+# @ nggallery
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "戻る"
+
+# @ nggallery
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "進む"
+
+# @ nggallery
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "/"
+
+# @ nggallery
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "情報"
+
+# @ nggallery
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "カメラ / 種類"
+
+# @ nggallery
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "焦点距離"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "ウィジェットにNextGENギャラリーのMedia RSSを表示します。"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Media RSS"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "メイン画像のフィードにリンク"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "タイトル："
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Media RSS のアイコンを表示"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Media RSSリンクを見る"
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Media RSSリンクのテキスト："
+
+# @ nggallery
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Media RSSリンクのツールチップのテキスト："
+
+# @ nggallery
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "スライドショーでギャラリーを表示"
+
+# @ nggallery
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN スライドショー"
+
+# @ nggallery
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "スライドショーを見るためには<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Playerを入手</a>してください。"
+
+# @ default
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "タイトル: "
+
+# @ nggallery
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "ギャラリー選択："
+
+# @ nggallery
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "全ての画像"
+
+# @ nggallery
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "高さ："
+
+# @ nggallery
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "幅："
+
+# @ nggallery
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "ギャラリーから最新の画像、またはランダムな画像を追加"
+
+# @ nggallery
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGENウィジェット"
+
+# @ nggallery
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "表示："
+
+# @ nggallery
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "オリジナル画像"
+
+# @ nggallery
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "最近追加された画像"
+
+# @ nggallery
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "IE8のウェブスライスを有効にする"
+
+# @ nggallery
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "幅 x 高さ"
+
+# @ nggallery
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "選択："
+
+# @ nggallery
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "全てのギャラリー"
+
+# @ nggallery
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "リストにないもののみ"
+
+# @ nggallery
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "リストにあるもののみ"
+
+# @ nggallery
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "ギャラリーID："
+
+# @ nggallery
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "ギャラリーIDはコンマで区切ってください"
+
+# @ nggallery
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "まだギャラリーが作成されていません"
+
+# @ nggallery
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "ギャラリー ID=%s は存在しません"
+
+# @ nggallery
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "提供されているアルバムIDがありません"
+
+# @ nggallery
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "アルバム ID=%s は存在しません"
+
+# @ nggallery
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "無効なMedia RSSコマンドです"
+

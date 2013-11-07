@@ -1,0 +1,239 @@
+#sequence {
+    overflow: hidden;
+    width: 100%;
+    color: white;
+    font-size: 15px;
+    margin: 0 auto;
+    position: relative;
+    height: 450px;
+
+    li { list-style: none; }
+
+}
+#sequence > .sequence-canvas {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+#sequence > .sequence-canvas > li {
+    position: absolute;
+    width: 100%;
+    .opacity(0);
+    height: 100%;
+    z-index: 1;
+    clear: both;
+    .transition(all 0.3s ease 0s);
+}
+#sequence > .sequence-canvas li > * {
+    position: absolute;
+    /* only cause the left and opacity properties to transition */
+
+}
+#sequence .sequence-next,
+#sequence .sequence-prev {
+    text-decoration: none;
+    line-height: 0;
+    font-size: 0;
+    text-indent: -9999px;
+    color: transparent;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    z-index: 200;
+    display: block;
+    width: 46px;
+    height: 46px;
+}
+#sequence .sequence-next {
+    right: 20px;
+    background: url(images/slider/slider-button-right.png);
+}
+#sequence .sequence-prev {
+    left: 20px;
+    background: url(images/slider/slider-button-left.png);
+}
+#sequence .sequence-prev:hover,
+#sequence .sequence-next:hover {
+    background-position: 0 -46px;
+}
+#sequence .start_anime {
+    position: relative;
+    .opacity(0);
+    width: 100%;
+    height: 100%;
+    .transition-property(opacity);
+    .transition-duration(0.4s);
+}
+#sequence .title {
+    top: -100%;
+    right: -100%;
+    z-index: 5;
+    position: absolute;
+    font-size: 50px;
+    font-family: 'Coda Caption';
+    line-height: 50px;
+    background: rgba(0, 0, 0, 0.7);
+    margin: 0;
+    padding: 10px;
+    max-width: 500px;
+    display: inline;
+    vertical-align: middle;
+    .transition-property(top);
+    .transition-duration(0.5s);
+}
+#sequence .title small {
+    display: block;
+    color: white;
+    font-size: 29px;
+}
+#sequence .description {
+    position: absolute;
+    left: 0px;
+    bottom: -100%;
+    max-width: 500px;
+    z-index: 5;
+    width: 100%;
+    padding: 10px;
+    .transition-property(bottom);
+    .transition-duration(0.5s);
+}
+
+#sequence .description > p:first-child {
+    position: absolute;
+    right: -100%;
+    bottom: -100%;
+    max-width: 500px;
+    z-index: 5;
+    width: 100%;
+    padding: 10px;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000;
+    .transition-property(all);
+    .transition-duration(0.5s);
+    text-align: right;
+    a { color: #333; font-weight: bold; font-size: 20px;}
+
+}
+#sequence .img_sllider {
+    position: absolute;
+    right: -100%;
+    bottom: 25%;
+    .transition-property(right);
+    .transition-duration(0.5s);
+
+}
+
+#sequence .img_sllider2 {
+    position: absolute;
+    left: -100%;
+    bottom: 25%;
+    
+    .transition-property(left);
+    .transition-duration(0.5s);
+}
+
+
+#sequence .img_sllider3 {
+    position: absolute;
+    left: -100%;
+    bottom: -100%;
+    .box-shadow(none) !important;
+    .transition-duration(0.5s);
+}
+
+
+#sequence .animate-in .start_anime {
+    .opacity(100);
+    .transition-delay(0.2s);
+}
+#sequence .animate-in .title {
+    top: 17%;
+    left: 38%;
+    .opacity(100);
+    .transition-delay(0.3s);
+}
+#sequence .animate-in .description {
+    bottom: 0%;
+    .transition-delay(0.5s);
+}
+
+#sequence .animate-in .description > p:first-child {
+    bottom: 5%;
+    .transition-delay(0.5s);
+    left: 77%;
+}
+#sequence .animate-in .img_sllider {
+    right: 20px;
+    .transition-delay(0.1s);
+}
+
+#sequence .panel img {
+
+
+}
+
+
+
+
+#sequence .animate-in .img_sllider2 {
+    left: 31%;
+    .transition-delay(0.1s);
+}
+
+#sequence .animate-in .img_sllider3 {
+    left: -500px;
+    bottom: 0;
+    .transition-delay(0.3s);
+    .rotate(45deg);
+}
+
+#sequence .animate-out .start_anime {
+    .opacity(0);
+    .transition-delay(0.1s);
+}
+#sequence .animate-out .title {
+    top: -100%;
+    .transition-delay(0.1s);
+}
+#sequence .animate-out .description {
+    bottom: -100%;
+    .transition-delay(0.1s);
+}
+
+#sequence .animate-out .description > p:first-child {
+    right: -200%;
+    .transition-delay(0.1s);
+    .transition-duration(0.5s);
+    
+}
+#sequence .animate-out .img_sllider {
+    right: -100%;
+    .transition-delay(0.3s);
+}
+#sequence .animate-out .img_sllider2 {
+    left: -100%;
+    .transition-delay(0.3s);
+}
+#sequence .box_area_slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#sequence .box_area_slider .panel {
+    position: relative;
+    max-width: 1000px;
+    padding: 0 20px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 0px;
+}
+#sequence .bg_slider {
+    width: 100%;
+    height: 100%;
+}
+
+

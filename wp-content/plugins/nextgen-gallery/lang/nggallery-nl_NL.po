@@ -1,0 +1,4624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next-GEN Gallery v1.7.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-17 17:36+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Frank <frankske_699@hotmail.com>\n"
+"Language-Team: werkgroepen.net <team@werkgroepen.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: k\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ nggallery
+#: admin/functions.php:1024
+msgid " Image(s) successfully added"
+msgstr "Afbeelding(en) met succes toegevoegd"
+
+#@ nggallery
+#: admin/overview.php:705
+msgid " MByte"
+msgstr " MByte"
+
+#@ nggallery
+#: admin/addgallery.php:470
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Opmerking: Indien safe-mode = AAN moet je de thumbnail submap manueel aanmaken"
+
+#@ nggallery
+#: admin/functions.php:360
+#: admin/functions.php:408
+#: admin/functions.php:508
+#: admin/functions.php:559
+msgid " is not writeable"
+msgstr "is niet beschrijfbaar"
+
+#@ nggallery
+#: admin/functions.php:278
+msgid " is not writeable "
+msgstr "is niet beschrijfbaar"
+
+#@ nggallery
+#: lib/meta.php:126
+msgid " mm"
+msgstr " mm"
+
+#@ nggallery
+#: admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " afbeelding(en) met succes toegevoegd"
+
+#@ nggallery
+#: lib/meta.php:132
+msgid " sec"
+msgstr " sec"
+
+#@ nggallery
+#: lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s tag(s) verwijderd."
+
+#@ nggallery
+#: lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s slug(s) bewerkt."
+
+#@ nggallery
+#: admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(Mislukt : Kan de afbeelding niet vinden)"
+
+#@ nggallery
+#: admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Mislukt : Kan de database niet bijwerken)"
+
+#@ nggallery
+#: admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Mislukt : Kan de metadata niet bijwerken)"
+
+#@ nggallery
+#: admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Van de thema map)"
+
+#@ nggallery
+#: admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#@ nggallery
+#: admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 schakelt instellen voor pagina&#39;s uit, alle afbeeldingen komen op 1 pagina"
+
+#@ nggallery
+#: admin/settings.php:405
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 zal zoveel mogelijk tonen, gebaseerd op de breedte van je thema. Instellen is normaal alleen vereist voor tekst onder de afbeeldingen."
+
+#@ nggallery
+#: admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0 zal alle afbeeldingen tonen"
+
+#@ nggallery
+#: admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; tegen de klok in"
+
+#@ nggallery
+#: admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; met de klok mee"
+
+#@ default
+#: admin/overview.php:547
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Beheer uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#@ default
+#: admin/overview.php:539
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Beheer uploads\" class=\"musublink\">%2$sMB</a>"
+
+#@ nggallery
+#: admin/admin.php:362
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://http://www.werkgroepen.net/wordpress/downloads/\" target=\"_blank\">Vertaling door Anja (werkgroepen.net)</a>"
+
+#@ nggallery
+#: admin/admin.php:393
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Afbeeldingsbeheer</a>"
+
+#@ nggallery
+#: admin/admin.php:382
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album beheer</a>"
+
+#@ nggallery
+#: admin/admin.php:372
+#: admin/admin.php:378
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery beheer</a>"
+
+#@ nggallery
+#: admin/admin.php:387
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+
+#@ nggallery
+#: admin/admin.php:356
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introductie</a>"
+
+#@ nggallery
+#: admin/admin.php:365
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Rollen / Rechten</a>"
+
+#@ nggallery
+#: admin/admin.php:359
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+
+#@ nggallery
+#: admin/admin.php:368
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+
+#@ nggallery
+#: admin/admin.php:405
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Ondersteuningsforums</a> (Engels)"
+
+#@ nggallery
+#: widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Gebruik de Flash Player</a> om de slideshow te bekijken."
+
+#@ nggallery
+#: nggallery.php:100
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Vertaling door: </strong><a target=\"_blank\" href=\"http://www.werkgroepen.net/wordpress/\">Anja</a>"
+
+#@ nggallery
+#: admin/settings.php:272
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "Een RSS feed wordt toegevoegd aan je header. Handig voor CoolIris/PicLens"
+
+#@ nggallery
+#: admin/admin.php:215
+msgid "A failure occurred"
+msgstr "Er is een fout opgetreden"
+
+#@ nggallery
+#: admin/admin.php:47
+#: admin/admin.php:92
+msgid "About"
+msgstr "Over"
+
+#@ nggallery
+#: admin/admin.php:47
+msgid "About this Gallery"
+msgstr "Over deze galerij"
+
+#@ nggallery
+#: admin/style.php:113
+msgid "Activate"
+msgstr "Activeren"
+
+#@ nggallery
+#: admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "Activeer Media RSS feed"
+
+#@ nggallery
+#: admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "Activeer PicLens/CoolIris ondersteuning"
+
+#@ nggallery
+#: admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Activeer en gebruik style sheet:"
+
+#@ nggallery
+#: admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "Permalinks activeren"
+
+#@ nggallery
+#: admin/settings.php:283
+msgid "Activate related images"
+msgstr "Gerelateerde afbeeldingen activeren"
+
+#@ nggallery
+#: admin/album.php:308
+msgid "Add"
+msgstr "Toevoegen"
+
+#@ nggallery
+#: admin/admin.php:38
+#: admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "Galerij / afbeeldingen toevoegen"
+
+#@ nggallery
+#: admin/addgallery.php:410
+msgid "Add gallery"
+msgstr "Galerij toevoegen"
+
+#@ nggallery
+#: admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Galerij toevoegen / afbeeldingen uploaden"
+
+#@ nggallery
+#: admin/settings.php:428
+msgid "Add hidden images"
+msgstr "Toevoegen verborgen afbeeldingen"
+
+#@ nggallery
+#: admin/album.php:306
+msgid "Add new album"
+msgstr "Nieuw album toevoegen"
+
+#@ nggallery
+#: admin/addgallery.php:379
+#: admin/addgallery.php:396
+#: admin/manage-galleries.php:119
+#: admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Nieuwe galerij toevoegen"
+
+#@ nggallery
+#: admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "Nieuwe tags toevoegen"
+
+#@ nggallery
+#: admin/manage-images.php:316
+msgid "Add page"
+msgstr "Pagina toevoegen"
+
+#@ nggallery
+#: widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Toevoegen recente of random afbeeldingen van de galerijen"
+
+#@ nggallery
+#: admin/manage-images.php:351
+msgid "Add tags"
+msgstr "Tags toevoegen"
+
+#@ nggallery
+#: admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Nadat je een album geslecteerd hebt, kun je een galerij of zelfs een ander album naar je nieuwe album hieronder slepen"
+
+#@ nggallery
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:40
+#: admin/admin.php:85
+#: admin/overview.php:495
+#: admin/tinymce/window.php:43
+#: admin/tinymce/window.php:75
+#: lib/rewrite.php:223
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Albums"
+
+#@ nggallery
+#: admin/album.php:378
+msgid "Album ID"
+msgstr "Album ID"
+
+#@ nggallery
+#: admin/album.php:131
+msgid "Album deleted"
+msgstr "Album verwijderd"
+
+#@ nggallery
+#: admin/album.php:418
+msgid "Album description:"
+msgstr "Album omschrijving:"
+
+#@ nggallery
+#: admin/admin.php:383
+msgid "Album example"
+msgstr "Album voorbeeld"
+
+#@ nggallery
+#: admin/album.php:412
+msgid "Album name:"
+msgstr "Album naam:"
+
+#@ nggallery
+#: lib/ngg-db.php:331
+#: lib/ngg-db.php:332
+msgid "Album overview"
+msgstr "Album overzicht"
+
+#@ nggallery
+#: admin/admin.php:384
+#: admin/admin.php:390
+msgid "Album tags"
+msgstr "Album tags"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:229
+#: admin/publish.php:55
+msgid "Alignment"
+msgstr "Uitlijning"
+
+#@ nggallery
+#: widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Alle galerijen"
+
+#@ nggallery
+#: widgets/widgets.php:125
+msgid "All images"
+msgstr "Alle afbeeldingen"
+
+#@ nggallery
+#: admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Gebruikers toestaan de rollen voor andere site auteurs te wijzigen"
+
+#@ nggallery
+#: admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "Gebruikers toestaan een stijl te kiezen voor de galerij"
+
+#@ nggallery
+#: admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "Gebruikers toestaan afbeeldingsmappen te importeren vanaf de server."
+
+#@ nggallery
+#: admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "Gebruikers toestaan zip mappen te uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:406
+#: admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "Toegestane karakters voor bestanden en mappen zijn"
+
+#@ nggallery
+#: admin/tags.php:43
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+#@ nggallery
+#: admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Titel tekst"
+
+#@ nggallery
+#: admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "Alt / Titel tekst"
+
+#@ nggallery
+#: admin/manage-sort.php:78
+#: admin/media-upload.php:221
+msgid "Alt/Title text"
+msgstr "Alt / Titel tekst"
+
+#@ nggallery
+#: lib/meta.php:432
+#: view/imagebrowser-exif.php:46
+msgid "Aperture"
+msgstr "Opening"
+
+#@ nggallery
+#: admin/manage-galleries.php:153
+#: admin/manage-images.php:355
+msgid "Apply"
+msgstr "Toepassen"
+
+#@ nggallery
+#: admin/manage-sort.php:80
+#: admin/settings.php:454
+msgid "Ascending"
+msgstr "Oplopend"
+
+#@ nggallery
+#: admin/overview.php:478
+msgid "At a Glance"
+msgstr "In een oogopslag"
+
+#@ nggallery
+#@ default
+#: admin/manage-galleries.php:410
+#: admin/manage-images.php:295
+#: admin/overview.php:842
+#: admin/style.php:134
+#: lib/meta.php:442
+msgid "Author"
+msgstr "Auteur"
+
+#@ nggallery
+#: lib/meta.php:451
+msgid "Author Position"
+msgstr "Auteur positie"
+
+#@ nggallery
+#: admin/settings.php:362
+msgid "Automatically resize"
+msgstr "Automatisch grootte aanpassen"
+
+#@ nggallery
+#: admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "Afbeeldingsgrootte automatisch aanpassen tijdens uploaden"
+
+#@ nggallery
+#: view/imagebrowser-caption.php:26
+#: view/imagebrowser-exif.php:30
+#: view/imagebrowser.php:26
+msgid "Back"
+msgstr "Terug"
+
+#@ nggallery
+#: admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Terug naar galerij"
+
+#@ nggallery
+#: admin/settings.php:726
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#@ nggallery
+#: admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "Achtergrond muziek (URL)"
+
+#@ nggallery
+#: admin/settings.php:357
+msgid "Backup original images"
+msgstr "Backup originele afbeeldingen"
+
+#@ default
+#: lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "Onjuiste login/wachtwoord combinatie"
+
+#@ nggallery
+#: admin/settings.php:436
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "Blader door afbeeldingen zonder de pagina te herladen. Opmerking: Werkt alleen in combinatie met het shutter effect"
+
+#@ nggallery
+#: admin/addgallery.php:196
+#: admin/addgallery.php:285
+#: admin/addgallery.php:466
+msgid "Browse..."
+msgstr "Blader..."
+
+#@ nggallery
+#: admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Bladeren <strong>%s</strong>"
+
+#@ nggallery
+#: admin/manage-galleries.php:145
+#: admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "Bulk acties:"
+
+#@ nggallery
+#: admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS bestand met succes bijgewerkt"
+
+#@ nggallery
+#: admin/settings.php:97
+msgid "Cache cleared"
+msgstr "Cache leeg gemaakt"
+
+#@ nggallery
+#: lib/meta.php:434
+msgid "Camera"
+msgstr "Camera"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Camera / Type"
+
+#@ nggallery
+#: admin/album.php:458
+#: admin/manage-galleries.php:291
+#: admin/manage-galleries.php:320
+#: admin/manage-galleries.php:350
+#: admin/manage-images.php:535
+#: admin/manage-images.php:571
+#: admin/manage-images.php:600
+#: admin/manage-images.php:630
+#: admin/tinymce/window.php:134
+msgid "Cancel"
+msgstr "Annuleren"
+
+#@ nggallery
+#: lib/meta.php:435
+msgid "Caption"
+msgstr "Titel"
+
+#@ nggallery
+#: admin/settings.php:290
+msgid "Categories"
+msgstr "Categorie&#235;n"
+
+#@ nggallery
+#: lib/meta.php:447
+msgid "Category"
+msgstr "Categorie"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:236
+#: admin/publish.php:61
+#: admin/tinymce/window.php:121
+msgid "Center"
+msgstr "Centreren"
+
+#@ nggallery
+#: admin/roles.php:67
+msgid "Change options"
+msgstr "Bijwerken opties"
+
+#@ nggallery
+#: admin/roles.php:63
+msgid "Change style"
+msgstr "Stijl bewerken"
+
+#@ default
+#: admin/addgallery.php:46
+#: admin/addgallery.php:57
+#: admin/addgallery.php:69
+#: admin/addgallery.php:80
+#: admin/album.php:96
+#: admin/album.php:124
+#: admin/album.php:142
+#: admin/edit-thumbnail.php:19
+#: admin/edit-thumbnail.php:22
+#: admin/manage.php:191
+#: admin/publish.php:17
+#: admin/publish.php:20
+#: admin/publish.php:23
+#: admin/rotate.php:17
+#: admin/rotate.php:20
+#: admin/showmeta.php:10
+#: admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Vals aan 't spelen, eh?"
+
+#@ nggallery
+#: admin/overview.php:318
+msgid "Check plugin"
+msgstr "Controleer plugin"
+
+#@ nggallery
+#: admin/overview.php:299
+msgid "Check plugin/theme conflict"
+msgstr "Plugin controle / thema conflict"
+
+#@ nggallery
+#: admin/overview.php:311
+msgid "Check theme compatibility"
+msgstr "Controleer thema compatibiliteit"
+
+#@ nggallery
+#: admin/functions.php:47
+#: admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Klik deze link, als je niet weet hoe je rechten moet toewijzen :"
+
+#@ nggallery
+#: admin/addgallery.php:515
+msgid "Choose gallery"
+msgstr "Kies galerij"
+
+#@ nggallery
+#: admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "Kies de standaard stijl voor de galerijen."
+
+#@ nggallery
+#: lib/meta.php:452
+msgid "City"
+msgstr "Plaats"
+
+#@ nggallery
+#: admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "Leegmaken cache map"
+
+#@ nggallery
+#: admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Klik hier voor meer instellingen"
+
+#@ nggallery
+#: nggallery.php:225
+msgid "Click here to proceed."
+msgstr "Klik hier om door te gaan."
+
+#@ nggallery
+#: admin/admin.php:257
+#: nggallery.php:358
+msgid "Click to Close"
+msgstr "Klik om te sluiten"
+
+#@ nggallery
+#: admin/settings.php:591
+msgid "Color"
+msgstr "Kleur"
+
+#@ nggallery
+#: admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "Compacte versie"
+
+#@ nggallery
+#: lib/meta.php:461
+msgid "Contact"
+msgstr "Contact"
+
+#@ nggallery
+#: admin/upgrade.php:378
+msgid "Continue"
+msgstr "Doorgaan"
+
+#@ nggallery
+#: nggallery.php:519
+msgid "Contribute"
+msgstr "Bijdragen"
+
+#@ nggallery
+#: admin/admin.php:409
+msgid "Contribute development"
+msgstr "Meewerken aan ontwikkeling"
+
+#@ nggallery
+#: admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Met dank aan : "
+
+#@ nggallery
+#: admin/functions.php:1329
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "%1$s afbeelding(en) gekopieerd naar galerij: %2$s ."
+
+#@ nggallery
+#: admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "Kopieer afbeelding naar..."
+
+#@ nggallery
+#: admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "Kopieer naar..."
+
+#@ nggallery
+#: lib/meta.php:437
+msgid "Copyright"
+msgstr "Copyright"
+
+#@ nggallery
+#: lib/meta.php:460
+msgid "Copyright Notice"
+msgstr "Copyright opmerking:"
+
+#@ nggallery
+#: admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Copyright gegevens / Medewerkers van deze plugin"
+
+#@ nggallery
+#: admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "Kan afbeelding maken met  %s x %s pixels"
+
+#@ default
+#: lib/locale.php:124
+#: lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Kan geen tijdelijk bestand maken."
+
+#@ nggallery
+#: admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "De NextGEN Gallery database tabellen kunnen niet gevonden worden, upgrade is mislukt !"
+
+#@ default
+#: lib/xmlrpc.php:135
+#: lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "Kan geen galerij vinden"
+
+#@ default
+#: lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "Kan het afbeeldings id niet vinden"
+
+#@ nggallery
+#: admin/functions.php:886
+msgid "Could not get a valid foldername"
+msgstr "Geen geldige mapnaam"
+
+#@ default
+#: lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Kan bestand %1$s (%2$s) niet beschrijven"
+
+#@ nggallery
+#: admin/overview.php:308
+msgid "Couldn't create image, check your memory limit"
+msgstr "Kan de afbeeldingen niet maken, controleer de geheugen limiet"
+
+#@ nggallery
+#: admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "Kan de originele afbeelding niet terugzetten"
+
+#@ nggallery
+#: lib/meta.php:456
+msgid "Country"
+msgstr "Land"
+
+#@ nggallery
+#: lib/meta.php:455
+msgid "Country code"
+msgstr "Postcode"
+
+#@ nggallery
+#: admin/addgallery.php:404
+#: admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Maak een nieuwe, lege galerij bij de map"
+
+#@ nggallery
+#: admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr "Maak nieuwe URL(internetadres) vriendelijke afbeelding slugs."
+
+#@ nggallery
+#: admin/manage-images.php:310
+msgid "Create new page"
+msgstr "Nieuwe pagina maken"
+
+#@ nggallery
+#: admin/functions.php:212
+#: admin/functions.php:1019
+#: admin/manage-galleries.php:81
+#: admin/manage-galleries.php:148
+#: admin/manage-images.php:203
+#: admin/manage-images.php:342
+#: admin/manage.php:230
+#: admin/manage.php:306
+msgid "Create new thumbnails"
+msgstr "Nieuwe thumbnails maken"
+
+#@ nggallery
+#: admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "Maak een unieke slug"
+
+#@ nggallery
+#: admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "Maakt een backup van de ingevoegde afbeeldingen"
+
+#@ nggallery
+#: lib/meta.php:433
+#: lib/meta.php:458
+msgid "Credit"
+msgstr "Credit"
+
+#@ nggallery
+#: admin/settings.php:485
+msgid "Custom"
+msgstr "Custom"
+
+#@ nggallery
+#: admin/admin.php:394
+msgid "Custom fields"
+msgstr "Wijzigings/aanpas velden"
+
+#@ nggallery
+#: admin/settings.php:445
+msgid "Custom order"
+msgstr "Volgorde wijzigen"
+
+#@ nggallery
+#: admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "Aanpassen thumbnail"
+
+#@ nggallery
+#: admin/functions.php:176
+msgid "Database error. Could not add gallery!"
+msgstr "Database fout. Kan geen galerij toevoegen!"
+
+#@ nggallery
+#: admin/settings.php:449
+#: view/imagebrowser-exif.php:58
+msgid "Date / Time"
+msgstr "Datum / tijd"
+
+#@ nggallery
+#: lib/meta.php:449
+msgid "Date Created"
+msgstr "Datum gemaakt"
+
+#@ nggallery
+#: admin/manage-sort.php:79
+#: lib/meta.php:436
+msgid "Date/Time"
+msgstr "Datum/tijd"
+
+#@ nggallery
+#: admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "Deactiveer galerij pagina link"
+
+#@ nggallery
+#: admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "Standaard maat (B x H)"
+
+#@ nggallery
+#: admin/wpmu.php:105
+msgid "Default style"
+msgstr "Standaard style"
+
+#@ nggallery
+#@ default
+#: admin/album.php:302
+#: admin/manage-galleries.php:146
+#: admin/manage-images.php:448
+#: admin/tags.php:226
+msgid "Delete"
+msgstr "Verwijder"
+
+#@ nggallery
+#: admin/manage-images.php:448
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr " \"%s\" verwijderen?"
+
+#@ nggallery
+#: admin/tags.php:210
+msgid "Delete Tag"
+msgstr " verwijder Tag"
+
+#@ nggallery
+#: admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Verwijder bestanden, als een galerij in de database verwijderd wordt."
+
+#@ nggallery
+#: admin/settings.php:247
+msgid "Delete image files"
+msgstr "Verwijder afbeeldings bestanden"
+
+#@ nggallery
+#: admin/manage-images.php:345
+msgid "Delete images"
+msgstr "Afbeeldingen verwijderen"
+
+#@ nggallery
+#: admin/manage-images.php:191
+#: admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "Tags verwijderen"
+
+#@ nggallery
+#: admin/upgrade.php:175
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "Afhankelijk van de grootte van de database gegevens zal dit een tijdje duren, herlaad deze pagina daarom niet."
+
+#@ nggallery
+#: admin/manage-sort.php:81
+#: admin/settings.php:455
+msgid "Descending"
+msgstr "Aflopend"
+
+#@ nggallery
+#@ default
+#: admin/manage-galleries.php:409
+#: admin/manage-images.php:266
+#: admin/manage-images.php:697
+#: admin/media-upload.php:225
+#: admin/style.php:136
+msgid "Description"
+msgstr "Beschrijving"
+
+#@ nggallery
+#: admin/functions.php:46
+#: admin/functions.php:55
+#: admin/functions.php:80
+#: admin/functions.php:149
+#: admin/functions.php:157
+msgid "Directory"
+msgstr "Directory"
+
+#@ nggallery
+#: admin/addgallery.php:534
+msgid "Disable flash upload"
+msgstr "Flash upload uitschakelen"
+
+#@ nggallery
+#: admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "Vind je deze plugin nuttig en leuk?"
+
+#@ nggallery
+#: nggallery.php:520
+msgid "Donate"
+msgstr "Doneer"
+
+#@ nggallery
+#: admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Donaties voor het werk zien we graag tegemoet via paypal"
+
+#@ nggallery
+#: admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Donaties voor het werk ziet de ontwikkelaar graag tegemoet via paypal"
+
+#@ nggallery
+#: admin/upgrade.php:460
+msgid "Done."
+msgstr "Klaar."
+
+#@ nggallery
+#: admin/overview.php:621
+msgid "Download"
+msgstr "Download"
+
+#@ nggallery
+#: admin/admin.php:410
+msgid "Download latest version"
+msgstr "Download laatste versie"
+
+#@ nggallery
+#: admin/publish.php:70
+msgid "Draft"
+msgstr "Concept"
+
+#@ nggallery
+#: admin/settings.php:626
+msgid "Duration time"
+msgstr "Tijdsduur"
+
+#@ nggallery
+#: admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF Data"
+
+#@ default
+#@ nggallery
+#: admin/manage-galleries.php:220
+#: admin/tags.php:252
+msgid "Edit"
+msgstr "Bewerk"
+
+#@ nggallery
+#: admin/album.php:269
+#: admin/roles.php:59
+msgid "Edit Album"
+msgstr "Album bewerken"
+
+#@ nggallery
+#: lib/meta.php:446
+msgid "Edit Status"
+msgstr "Bewerk status"
+
+#@ nggallery
+#: admin/tags.php:232
+msgid "Edit Tag Slug"
+msgstr "Bewerk tag slug"
+
+#@ nggallery
+#: admin/album.php:299
+msgid "Edit album"
+msgstr "Album bewerken"
+
+#@ nggallery
+#: admin/functions.php:119
+#: admin/functions.php:217
+msgid "Edit gallery"
+msgstr "Galerij bewerken"
+
+#@ nggallery
+#: admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "Bewerk thumbnail"
+
+#@ nggallery
+#: admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Bewerking <strong>%s</strong>"
+
+#@ nggallery
+#: admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "Effect"
+
+#@ nggallery
+#: admin/settings.php:221
+#: admin/settings.php:469
+msgid "Effects"
+msgstr "Effecten"
+
+#@ nggallery
+#: admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "Inschakelen AJAX paginering"
+
+#@ nggallery
+#: widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "IE8 webslices inschakelen"
+
+#@ nggallery
+#: admin/addgallery.php:536
+msgid "Enable flash based upload"
+msgstr "Inschakelen flash gebaseerde upload"
+
+#@ nggallery
+#: admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "Inschakelen flash slideshow"
+
+#@ nggallery
+#: admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "Inschakelen importeer functie"
+
+#@ nggallery
+#: admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "Inschakelen Rollen/Rechten mogelijkheden"
+
+#@ nggallery
+#: admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "Inschakelen style selectie"
+
+#@ nggallery
+#: admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "Inschakelen upload quota controle"
+
+#@ nggallery
+#: admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "Inschakelen zip upload optie"
+
+#@ nggallery
+#: admin/tags.php:218
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Geef de naam van de tag om te verwijderen. Deze tag zal verwijderd worden van alle berichten."
+
+#@ nggallery
+#: admin/publish.php:47
+msgid "Enter the post title "
+msgstr "Geef de titel van het bericht"
+
+#@ nggallery
+#: admin/tags.php:240
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Geef de tagnaam om te bewerken en de nieuwe slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definitie</a>"
+
+#@ nggallery
+#: admin/tags.php:192
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Geef de tag die je wilt hernoemen een nieuwe naam. Je kunt deze mogelijkheid ook gebruiken om tags samen te voegen. Klik  \"Hernoemen\" en alle berichten die deze tag gebruiken zullen bijgewerkt worden."
+
+#@ nggallery
+#: admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "Geef tags in"
+
+#@ nggallery
+#: admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Fout bij roteren van de thumbnail"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "Fout bij updaten van de thumbnail"
+
+#@ nggallery
+#: admin/functions.php:996
+#: admin/functions.php:1085
+msgid "Error, the file could not be moved to : "
+msgstr "Mislukt, het bestand kan niet verplaatst worden naar: "
+
+#@ nggallery
+#: admin/functions.php:1001
+#: admin/functions.php:1089
+msgid "Error, the file permissions could not be set"
+msgstr "Fout, de bestandspermissies kunnen niet ingesteld worden"
+
+#@ nggallery
+#: lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Mislukt. Niet genoeg tags om te hernoemen. Ook voor samenvoegen. Kies!"
+
+#@ nggallery
+#: admin/tags.php:111
+msgid "Existing Tags"
+msgstr "Bestaande tags"
+
+#@ nggallery
+#: admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "Uitgebreide versie"
+
+#@ nggallery
+#: admin/admin.php:406
+msgid "FAQ"
+msgstr "Veel gestelde vragen"
+
+#@ nggallery
+#: admin/functions.php:1305
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Database rij kopieeren mislukt voor afbeelding %s"
+
+#@ nggallery
+#: admin/functions.php:1291
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "afbeelding kopieeren mislukt van %1$s naar %2$s"
+
+#@ nggallery
+#: lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Afbeelding verwijderen mislukt %1$s"
+
+#@ nggallery
+#: admin/functions.php:1212
+#: lib/xmlrpc.php:194
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Afbeelding verplaatsen mislukt %1$s naar %2$s"
+
+#@ nggallery
+#: admin/functions.php:1452
+msgid "Failed to write file to disk"
+msgstr "Bestand naar disk schrijven is mislukt"
+
+#@ nggallery
+#: admin/functions.php:951
+#: admin/functions.php:1068
+msgid "Failure in database, no gallery path set !"
+msgstr "Mislukt in de database, geen galerij pad ingesteld !"
+
+#@ nggallery
+#: admin/admin.php:407
+msgid "Feature request"
+msgstr "Verzoeken voor de toekomst"
+
+#@ nggallery
+#: admin/functions.php:562
+msgid "File do not exists"
+msgstr "Bestand bestaat niet"
+
+#@ nggallery
+#: admin/settings.php:447
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#@ nggallery
+#: admin/functions.php:1455
+msgid "File upload stopped by extension"
+msgstr "Bestands upload is gestopt vanwege de extensie"
+
+#@ nggallery
+#: admin/manage-images.php:696
+#: admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+#@ nggallery
+#: lib/meta.php:136
+msgid "Fired"
+msgstr "Fired"
+
+#@ nggallery
+#: lib/meta.php:467
+msgid "Flash"
+msgstr "Flash"
+
+#@ nggallery
+#: admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Horizontaal omklappen"
+
+#@ nggallery
+#: admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Vericaal omklappen"
+
+#@ nggallery
+#: admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Float"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Focal lengte"
+
+#@ nggallery
+#: lib/meta.php:438
+msgid "Focal length"
+msgstr "Focal lengte"
+
+#@ nggallery
+#: admin/settings.php:571
+msgid "Font"
+msgstr "Lettertype"
+
+#@ nggallery
+#: admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Als je een flexibeler gebruikersmanagement wilt, kijk dan eens bij "
+
+#@ nggallery
+#: lib/meta.php:464
+msgid "Format"
+msgstr "Formaat"
+
+#@ default
+#: admin/media-upload.php:248
+msgid "Full size"
+msgstr "Volledige grootte"
+
+#@ nggallery
+#: admin/settings.php:264
+msgid "GD Library"
+msgstr "GD bibliotheek"
+
+#@ nggallery
+#@ default
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:36
+#: admin/admin.php:59
+#: admin/admin.php:352
+#: admin/admin.php:444
+#: admin/functions.php:179
+#: admin/manage-galleries.php:127
+#: admin/manage-galleries.php:408
+#: admin/manage-images.php:239
+#: admin/overview.php:489
+#: admin/settings.php:220
+#: admin/tinymce/window.php:42
+#: admin/admin.php:78
+#: admin/tinymce/window.php:54
+#: lib/rewrite.php:217
+#: lib/rewrite.php:226
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galerij"
+msgstr[1] "Galerijen"
+
+#@ nggallery
+#: admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "Galerij ID %1$s met succes gemaakt. Je kunt deze galerij in je bericht of pagina tonen met de code %2$s.<br/>"
+
+#@ nggallery
+#: widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "Galerij ID :"
+
+#@ nggallery
+#: widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "Galerij IDs, door komma gescheiden."
+
+#@ nggallery
+#: admin/manage.php:177
+msgid "Gallery deleted successfully "
+msgstr "Galerij met succes verwijderd"
+
+#@ nggallery
+#: admin/admin.php:373
+msgid "Gallery example"
+msgstr "Galerij voorbeeld"
+
+#@ nggallery
+#: admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "Galerij niet gevonden"
+
+#@ nggallery
+#: admin/settings.php:242
+#: admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "Galerij pad"
+
+#@ nggallery
+#: admin/manage-images.php:251
+#: admin/settings.php:385
+msgid "Gallery settings"
+msgstr "Galerij instellingen"
+
+#@ nggallery
+#: admin/admin.php:379
+#: admin/admin.php:389
+msgid "Gallery tags"
+msgstr "Galerij tags"
+
+#@ nggallery
+#: admin/settings.php:217
+#: admin/settings.php:236
+msgid "General Options"
+msgstr "Algemene Opties"
+
+#@ nggallery
+#: nggallery.php:518
+msgid "Get help"
+msgstr "Help (Engels)"
+
+#@ nggallery
+#: admin/admin.php:399
+msgid "Get help with NextGEN Gallery"
+msgstr "Hulp bij NextGEN Gallery !"
+
+#@ nggallery
+#: admin/admin.php:408
+msgid "Get your language pack"
+msgstr "Kies je taalpakket"
+
+#@ nggallery
+#: admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Geef het een goede waardering op WordPress.org"
+
+#@ nggallery
+#: admin/tags.php:119
+msgid "Go"
+msgstr "Ga"
+
+#@ nggallery
+#: admin/overview.php:339
+msgid "Graphic Library"
+msgstr "Grafische bibliotheek"
+
+#@ nggallery
+#: lib/meta.php:457
+msgid "Headline"
+msgstr "Headline"
+
+#@ nggallery
+#: widgets/widgets.php:137
+msgid "Height:"
+msgstr "Hoogte : "
+
+#@ nggallery
+#: admin/overview.php:116
+msgid "Help translating it."
+msgstr "Help met vertalen."
+
+#@ nggallery
+#: admin/overview.php:505
+msgid "Here you can control your images, galleries and albums."
+msgstr "Hier kunnen de afbeeldingen, gallerys en albums beheerd worden."
+
+#@ nggallery
+#: admin/settings.php:473
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Hier kun je het thumbnail effect selecteren, NextGEN Gallery zal de vereiste HTML code in de afbeeldingen integreren. Houd er rekening mee dat alleen het sluiter en thickbox effect automatisch toegevoegd worden aan je thema. "
+
+#@ nggallery
+#: admin/media-upload.php:210
+msgid "Hide"
+msgstr "Verberg"
+
+#@ nggallery
+#: admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+#@ nggallery
+#: admin/about.php:38
+msgid "How to support ?"
+msgstr "Hoe kun je ondersteunen?"
+
+#@ default
+#: admin/manage-galleries.php:407
+#: admin/manage-images.php:694
+msgid "ID"
+msgstr "ID"
+
+#@ nggallery
+#: admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC Data"
+
+#@ nggallery
+#: lib/meta.php:439
+msgid "ISO"
+msgstr "ISO"
+
+#@ nggallery
+#: admin/settings.php:430
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "Als paginering wordt gebruikt, zal deze optie nog steeds getoond worden in het modale venster (thickbox, lightbox enz.). Opmerking: dit neemt meer ruimte/tijd bij het laden van de pagina"
+
+#@ nggallery
+#: admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Als dit bestand beschrijfbaar zou zijn, zou je het kunnen bewerken"
+
+#@ nggallery
+#: admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Als je je naam niet gevonden hebt op deze lijst en ik heb code ge&iuml;ntegreerd in mijn plugin, aarzel dan niet mij een mail te sturen."
+
+#@ nggallery
+#: admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "Als je problemen hebt, maak map "
+
+#@ nggallery
+#: admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Als je de code van deze plugin bestudeert, zul je zien dat we veel goede al bestaande code en idee&euml;n gecombineerd hebben."
+
+#@ nggallery
+#: admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Wil je later downgraden, maak dan een complete backup van je database en afbeeldingen."
+
+#@ nggallery
+#: admin/settings.php:654
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Als je de JW image rotator wilt gebruiken, download de speler dan vanaf <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >hier</a> en upload het naar je upload map (standaard is dit wp-content/uploads)."
+
+#@ nggallery
+#: admin/manage-galleries.php:344
+#: admin/manage-images.php:624
+#: admin/settings.php:325
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Negeer het aspect ratio, waardoor de thumbnails op de pagina dezelfde afmeting krijgen, geen portret thumbnails."
+
+#@ nggallery
+#: admin/manage-galleries.php:412
+#: admin/overview.php:483
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Afbeelding"
+msgstr[1] "Afbeeldingen"
+
+#@ nggallery
+#: admin/functions.php:1320
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Afbeelding %1$s (%2$s) gekopieerd als afbeelding %3$s (%4$s)"
+
+#@ nggallery
+#: admin/functions.php:1317
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Afbeelding %1$s (%2$s) gekopieerd als afbeelding %3$s (%4$s) &raquo; De bestandsnaam was al aanwezig in de bestaande galerij."
+
+#@ nggallery
+#: admin/addgallery.php:180
+#: admin/addgallery.php:263
+msgid "Image Files"
+msgstr "Afbeeldings Bestanden"
+
+#@ nggallery
+#: lib/meta.php:466
+msgid "Image Height"
+msgstr "Afbeelding hoogte"
+
+#@ nggallery
+#: admin/manage-sort.php:76
+#: admin/settings.php:446
+msgid "Image ID"
+msgstr "Afbeeldings ID"
+
+#@ nggallery
+#: admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "Afbeeldings ID:"
+
+#@ nggallery
+#: lib/meta.php:465
+msgid "Image Width"
+msgstr "Afbeelding breedte"
+
+#@ nggallery
+#: admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "Afbeeldingen lijst"
+
+#@ nggallery
+#: admin/settings.php:353
+msgid "Image quality"
+msgstr "Kwaliteit afbeeldingen"
+
+#@ nggallery
+#: admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Afbeelding geroteerd"
+
+#@ nggallery
+#: admin/settings.php:342
+msgid "Image settings"
+msgstr "Afbeeldings instellingen"
+
+#@ nggallery
+#: admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Experimenteel). Pad naar de bibliotheek :"
+
+#@ nggallery
+#: admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Afbeeldingsbrowser"
+
+#@ nggallery
+#: admin/settings.php:219
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#@ nggallery
+#: admin/addgallery.php:431
+msgid "Import a zip file with images from a url"
+msgstr "Importeer een zip bestand met afbeeldingen van een url"
+
+#@ nggallery
+#: admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "Importeer datum en tijd informatie... "
+
+#@ nggallery
+#: admin/addgallery.php:473
+msgid "Import folder"
+msgstr "Importeer map"
+
+#@ nggallery
+#: admin/addgallery.php:465
+msgid "Import from Server path:"
+msgstr "Importeer van Server pad:"
+
+#@ nggallery
+#: admin/addgallery.php:385
+#: admin/addgallery.php:460
+msgid "Import image folder"
+msgstr "Importeer map met afbeeldingen"
+
+#@ nggallery
+#: admin/manage-galleries.php:150
+#: admin/manage-images.php:346
+#: admin/manage.php:147
+#: admin/manage.php:276
+msgid "Import metadata"
+msgstr "Importeer metadata"
+
+#@ nggallery
+#: admin/functions.php:852
+msgid "Import via cURL failed."
+msgstr "Importeer via cURL mislukt."
+
+#@ nggallery
+#: admin/settings.php:752
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Belangrijk: kan problemen veroorzaken met bepaalde browsers. Controleer je pagina."
+
+#@ nggallery
+#: admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "Toevoegen"
+
+#@ default
+#: admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Invoegen in bericht"
+
+#@ default
+#: admin/overview.php:841
+msgid "Install"
+msgstr "Installeer"
+
+#@ nggallery
+#: admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "Integreer slideshow"
+
+#@ nggallery
+#: admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integreer de flash gebaseerde slideshow voor alle flash ondersteunde apparaten"
+
+#@ nggallery
+#: xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Ongeldige MediaRSS opdracht"
+
+#@ default
+#: lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Ongeldige plugin gebruikt."
+
+#@ default
+#: lib/xmlrpc.php:491
+#: lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "Ongeldig album ID"
+
+#@ default
+#: lib/xmlrpc.php:393
+#: lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "Ongeldige gallery ID"
+
+#@ default
+#: lib/xmlrpc.php:247
+#: lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "Ongeldige afbeelding ID"
+
+#@ nggallery
+#: admin/functions.php:1051
+msgid "Invalid upload. Error Code : "
+msgstr "Ongeldige upload: fout code:"
+
+#@ nggallery
+#: admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript Thumbnail effect"
+
+#@ nggallery
+#: lib/meta.php:448
+msgid "Keywords"
+msgstr "Sleutelwoorden"
+
+#@ nggallery
+#: admin/admin.php:256
+#: nggallery.php:357
+msgid "L O A D I N G"
+msgstr "L A D E N"
+
+#@ nggallery
+#: lib/meta.php:462
+msgid "Last modified"
+msgstr "Laatst gewijzigd"
+
+#@ nggallery
+#: admin/overview.php:90
+msgid "Latest News"
+msgstr "Laatste nieuws"
+
+#@ nggallery
+#: admin/tags.php:42
+msgid "Least used"
+msgstr "Laatst gebruikt"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:234
+#: admin/publish.php:59
+#: admin/tinymce/window.php:120
+msgid "Left"
+msgstr "Links"
+
+#@ nggallery
+#: admin/settings.php:482
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#@ nggallery
+#: admin/settings.php:490
+msgid "Link Code line"
+msgstr "Link Code regel"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Link naar de hoofd afbeeldingsfeed"
+
+#@ default
+#: admin/overview.php:355
+#: admin/overview.php:404
+#: admin/overview.php:591
+#: admin/overview.php:781
+msgid "Loading&#8230;"
+msgstr "Laden&#8230;"
+
+#@ nggallery
+#: lib/meta.php:453
+msgid "Location"
+msgstr "Locatie"
+
+#@ nggallery
+#: admin/overview.php:721
+msgid "MYSQL Version"
+msgstr "MYSQL Versie"
+
+#@ nggallery
+#: admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGEN Gallery Overzicht"
+
+#@ nggallery
+#: admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "Hoofpagina (geen parent)"
+
+#@ nggallery
+#: lib/meta.php:445
+msgid "Make"
+msgstr "Maak"
+
+#@ nggallery
+#: admin/album.php:278
+msgid "Manage Albums"
+msgstr "Beheer Albums"
+
+#@ nggallery
+#: admin/admin.php:39
+#: admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "Galerij beheren"
+
+#@ nggallery
+#: admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Galerij Beheren"
+
+#@ nggallery
+#: admin/tags.php:99
+msgid "Manage image tags"
+msgstr "Beheer afbeeldingstags"
+
+#@ nggallery
+#: admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Beheer galerij van anderen"
+
+#@ nggallery
+#: admin/roles.php:55
+msgid "Manage tags"
+msgstr "Beheer tags"
+
+#@ nggallery
+#: admin/settings.php:289
+msgid "Match with"
+msgstr "Matchen met"
+
+#@ nggallery
+#: admin/settings.php:295
+msgid "Max. number of images"
+msgstr "Max. aantal afbeeldingen"
+
+#@ nggallery
+#: admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "De widget inhoud maximaliseren"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#@ nggallery
+#: admin/overview.php:720
+msgid "Memory usage"
+msgstr "Geheugen gebruik"
+
+#@ nggallery
+#: lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Samengevoegde tag(s) &laquo;%1$s&raquo; naar &laquo;%2$s&raquo;. %3$s objecten bewerkt."
+
+#@ nggallery
+#: admin/manage-images.php:441
+msgid "Meta"
+msgstr "Meta"
+
+#@ nggallery
+#: admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Meta data"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Meta data"
+
+#@ nggallery
+#: admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "De widget inhoud minimaliseren"
+
+#@ nggallery
+#: admin/functions.php:1449
+msgid "Missing a temporary folder"
+msgstr "Een tijdelijke bestandsmap ontbreekt"
+
+#@ nggallery
+#: admin/admin.php:403
+msgid "More Help & Info"
+msgstr "Meer hulp & Info"
+
+#@ nggallery
+#: admin/settings.php:301
+#: admin/settings.php:332
+#: admin/settings.php:374
+#: admin/settings.php:459
+#: admin/settings.php:494
+#: admin/settings.php:755
+msgid "More settings"
+msgstr "Meer instellingen"
+
+#@ nggallery
+#: admin/tags.php:41
+msgid "Most popular"
+msgstr "Meest populair"
+
+#@ nggallery
+#: admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "Verplaats afbeelding naar..."
+
+#@ nggallery
+#: admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "Verplaats de imagerotator naar een nieuwe locatie..."
+
+#@ nggallery
+#: admin/manage-images.php:350
+msgid "Move to..."
+msgstr "Verplaats naar..."
+
+#@ nggallery
+#: admin/functions.php:1232
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr " %1$s afbeelding(en) verplaatst naar gallery : %2$s ."
+
+#@ nggallery
+#: admin/overview.php:691
+#: admin/overview.php:694
+#: admin/overview.php:697
+#: admin/overview.php:700
+#: admin/overview.php:703
+#: admin/overview.php:706
+msgid "N/A"
+msgstr "N/A"
+
+#@ nggallery
+#: admin/album.php:545
+msgid "Name"
+msgstr "Naam"
+
+#@ nggallery
+#: admin/wpmu.php:62
+msgid "Network Options"
+msgstr "Netwerk instellingen"
+
+#@ nggallery
+#: admin/admin.php:60
+msgid "Network settings"
+msgstr "Netwerk instellingen"
+
+#@ nggallery
+#: admin/addgallery.php:401
+#: admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nieuwe galerij"
+
+#@ nggallery
+#: admin/manage.php:439
+msgid "New gallery page ID"
+msgstr "Nieuwe galerij pagina ID"
+
+#@ nggallery
+#: admin/tags.php:201
+msgid "New tag name(s):"
+msgstr "Nieuwe tag na(a)m(en):"
+
+#@ nggallery
+#: admin/overview.php:416
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Nieuwsfeed kan niet geladen worden.  Ga naar de <a href=\"%s\">voorpagina  </a> om te controleren op updates."
+
+#@ nggallery
+#: view/imagebrowser-caption.php:29
+#: view/imagebrowser-exif.php:33
+#: view/imagebrowser.php:29
+msgid "Next"
+msgstr "Volgende"
+
+#@ nggallery
+#: admin/tags.php:172
+msgid "Next tags"
+msgstr "Volgende tags"
+
+#@ nggallery
+#: admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN DEVelopers Team"
+
+#@ nggallery
+#: admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#@ nggallery
+#: admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery: Tabellen kunnen niet gemaakt worden, controleer je databaseinstellingen"
+
+#@ nggallery
+#: admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Gallery overzicht"
+
+#@ nggallery
+#: admin/overview.php:745
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGEN Gallery bevat enkele functies die beschikbaar zijn onder PHP 5.2. Je gebruikt de oude PHP 4 versie, upgrade nu! Het wordt niet langer ondersteund door de PHP groep. Verschillende hosting providers bieden beide PHP 4 en PHP 5, tegelijk. Vraag je provider of ze dit kunnen doen."
+
+#@ nggallery
+#: widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#@ nggallery
+#: widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NexGEN slideshow"
+
+#@ nggallery
+#: widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN Widget"
+
+#@ nggallery
+#: admin/overview.php:664
+#: admin/overview.php:709
+#: admin/overview.php:712
+#: admin/overview.php:715
+msgid "No"
+msgstr "Nee"
+
+#@ nggallery
+#: admin/overview.php:650
+msgid "No GD support"
+msgstr "Geen GD ondersteuning"
+
+#@ nggallery
+#: admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Geen afbeelding"
+
+#@ nggallery
+#: xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Er is geen album ID verstrekt als parameter."
+
+#@ nggallery
+#: admin/album.php:286
+msgid "No album selected"
+msgstr "Geen album geselecteerd"
+
+#@ nggallery
+#: admin/album.php:391
+msgid "No album selected!"
+msgstr "Geen album geselecteerd"
+
+#@ nggallery
+#: admin/overview.php:301
+msgid "No conflict could be detected"
+msgstr "Er kan geen conflict worden gevonden"
+
+#@ nggallery
+#: admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Geen twijfel mogelijk een nuttige en eenvoudige motivatie  :-)"
+
+#@ nggallery
+#: admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "Geen effect"
+
+#@ nggallery
+#: admin/manage-galleries.php:261
+#: admin/manage-images.php:506
+msgid "No entries found"
+msgstr "Geen entries gevonden"
+
+#@ nggallery
+#: admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Geen exif data"
+
+#@ nggallery
+#: admin/functions.php:1446
+msgid "No file was uploaded"
+msgstr "Er is geen bestand geupload"
+
+#@ nggallery
+#: admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Geen float"
+
+#@ nggallery
+#: xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Er zijn nog geen galerijen gemaakt."
+
+#@ nggallery
+#: admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Geen galerij"
+
+#@ nggallery
+#: admin/addgallery.php:90
+#: admin/functions.php:943
+#: admin/functions.php:1043
+msgid "No gallery selected !"
+msgstr "Geen galerij geselecteerd !"
+
+#@ nggallery
+#: admin/manage-galleries.php:69
+#: admin/manage-images.php:171
+msgid "No images selected"
+msgstr "Geen afbeeldingen geselecteerd"
+
+#@ nggallery
+#: admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Geen meta data opgeslagen"
+
+#@ nggallery
+#: lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Geen nieuwe slug(s) opgegeven."
+
+#@ nggallery
+#: lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Geen nieuwe tag gespecificeerd!"
+
+#@ nggallery
+#: lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Geen nieuw/oud geldige tag gegeven!"
+
+#@ nggallery
+#: lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Geen objecten (berichten/pagina&#39;s) gevonden voor de opgegeven oude tags."
+
+#@ nggallery
+#: admin/album.php:427
+#: admin/album.php:430
+msgid "No picture"
+msgstr "Geen afbeelding"
+
+#@ nggallery
+#: admin/setup.php:48
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Geen probleem, voor je deze plugin deactiveert, klik op de de&iuml;nstalleer knop, omdat het deactiveren van NextGEN Gallery niet de data verwijdert die gemaakt is."
+
+#@ nggallery
+#: lib/tags.php:241
+msgid "No slug edited."
+msgstr "Geen slug bewerkt."
+
+#@ nggallery
+#: lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Geen tag verwijderd."
+
+#@ nggallery
+#: lib/tags.php:141
+msgid "No tag merged."
+msgstr "Geen tag samengevoegd"
+
+#@ nggallery
+#: lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Geen tag hernoemd"
+
+#@ nggallery
+#: lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Geen tag gegeven!"
+
+#@ nggallery
+#: admin/functions.php:836
+msgid "No valid URL path "
+msgstr "Geen geldig URL path"
+
+#@ nggallery
+#: admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Geen geldige galerij naam!"
+
+#@ nggallery
+#: lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Geen geldige nieuwe tag."
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:232
+#: admin/publish.php:57
+#: admin/settings.php:480
+msgid "None"
+msgstr "Geen"
+
+#@ nggallery
+#: lib/meta.php:136
+msgid "Not fired"
+msgstr "Niet fired"
+
+#@ nggallery
+#: admin/album.php:443
+#: admin/manage-images.php:260
+msgid "Not linked"
+msgstr "Niet gelinkt"
+
+#@ nggallery
+#: admin/overview.php:682
+msgid "Not set"
+msgstr "Niet ingesteld"
+
+#@ nggallery
+#: admin/overview.php:300
+#: admin/overview.php:306
+#: admin/overview.php:312
+msgid "Not tested"
+msgstr "Niet getest"
+
+#@ nggallery
+#: lib/core.php:407
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Opm.: Gebaseerd op je servers geheugenlimiet, upload geen afbeeldingen groter dan <strong>%d x %d</strong> pixels"
+
+#@ nggallery
+#: admin/addgallery.php:468
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Opmerking: Je kunt het standaard pad wijzigen in de galerij instellingen"
+
+#@ nggallery
+#: admin/addgallery.php:448
+msgid "Note : The upload limit on your server is "
+msgstr "Opmerking: de upload limiet van je server is "
+
+#@ nggallery
+#: admin/settings.php:403
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+#@ nggallery
+#: admin/settings.php:397
+msgid "Number of images per page"
+msgstr "Aantal afbeeldingen per pagina"
+
+#@ nggallery
+#: admin/album.php:456
+#: admin/manage-galleries.php:289
+#: admin/manage-galleries.php:318
+#: admin/manage-galleries.php:348
+#: admin/manage-images.php:533
+#: admin/manage-images.php:569
+#: admin/manage-images.php:598
+#: admin/manage-images.php:628
+msgid "OK"
+msgstr "OK"
+
+#@ nggallery
+#: admin/admin.php:134
+#: admin/wpmu.php:48
+msgid "OK, hide this message now !"
+msgstr "Ok, verberg dit bericht nu !"
+
+#@ nggallery
+#: admin/functions.php:270
+#: admin/functions.php:350
+#: admin/functions.php:405
+#: admin/functions.php:502
+#: admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr "Object bevat onjuiste gegevens"
+
+#@ nggallery
+#: admin/overview.php:685
+#: admin/overview.php:688
+msgid "Off"
+msgstr "Uit"
+
+#@ nggallery
+#: admin/settings.php:544
+msgid "Offset"
+msgstr "Offset"
+
+#@ nggallery
+#: admin/overview.php:684
+#: admin/overview.php:687
+msgid "On"
+msgstr "Aan"
+
+#@ nggallery
+#: admin/setup.php:51
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr " Eenmaal verwijderd, kan dit niet ongedaan gemaakt worden. Je zult een Database Backup plugin van WordPress moeten gebruiken om eerst een backup te maken van alle tabellen. NextGEN Gallery is opgeslagen in de tabellen "
+
+#@ nggallery
+#: admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "Een van de komende functies een automatisch bijgewerkte permalink structuur."
+
+#@ nggallery
+#: widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Alleen welke op de lijst staan"
+
+#@ nggallery
+#: widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Alleen welke niet op de lijst staan"
+
+#@ nggallery
+#: admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Dit bestand bestaat niet. Controleer de naam nogmaals en probeer het opnieuw."
+
+#@ nggallery
+#: admin/settings.php:600
+msgid "Opaque"
+msgstr "Ondoorzichtig"
+
+#@ nggallery
+#: admin/overview.php:718
+msgid "Operating System"
+msgstr "Operating Systeem"
+
+#@ nggallery
+#: admin/manage.php:101
+#: admin/manage.php:110
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Met succes uitgevoerd. Browser cache verversen. (Ctrl en F5 toets)"
+
+#@ nggallery
+#: admin/admin.php:42
+#: admin/admin.php:89
+msgid "Options"
+msgstr "Opties"
+
+#@ nggallery
+#: widgets/widgets.php:213
+msgid "Original images"
+msgstr "Originele afbeeldingen"
+
+#@ nggallery
+#: admin/admin.php:37
+#: admin/admin.php:79
+#: nggallery.php:517
+#: nggfunctions.php:941
+msgid "Overview"
+msgstr "Overzicht"
+
+#@ nggallery
+#: admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "Overschrijven"
+
+#@ nggallery
+#: admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "Tags overschrijven"
+
+#@ nggallery
+#: admin/overview.php:729
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking limiet"
+
+#@ nggallery
+#: admin/overview.php:725
+msgid "PHP Allow URL fopen"
+msgstr "PHP toegestaan URL fopen"
+
+#@ nggallery
+#: admin/overview.php:731
+msgid "PHP Exif support"
+msgstr "PHP Exif ondersteuning"
+
+#@ nggallery
+#: admin/overview.php:732
+msgid "PHP IPTC support"
+msgstr "PHP IPTC ondersteuning"
+
+#@ nggallery
+#: admin/overview.php:728
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post formaat"
+
+#@ nggallery
+#: admin/overview.php:730
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Uitvoering tijd"
+
+#@ nggallery
+#: admin/overview.php:727
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload formaat"
+
+#@ nggallery
+#: admin/overview.php:726
+msgid "PHP Memory Limit"
+msgstr "PHP Geheugen Limiet"
+
+#@ nggallery
+#: admin/overview.php:724
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#@ nggallery
+#: admin/overview.php:723
+msgid "PHP Version"
+msgstr "PHP Versie"
+
+#@ nggallery
+#: admin/overview.php:733
+msgid "PHP XML support"
+msgstr "PHP XML ondersteuning"
+
+#@ nggallery
+#: admin/album.php:547
+#: lib/rewrite.php:229
+msgid "Page"
+msgstr "Pagina"
+
+#@ nggallery
+#: admin/manage-galleries.php:411
+msgid "Page ID"
+msgstr "Pagina ID"
+
+#@ nggallery
+#: admin/album.php:441
+#: admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Pagina Link naar"
+
+#@ nggallery
+#: admin/manage-images.php:293
+msgid "Path"
+msgstr "Path"
+
+#@ nggallery
+#: admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Pad naar de Imagerotator(URL)"
+
+#@ nggallery
+#: view/album-compact.php:32
+#: view/album-extend.php:30
+msgid "Photos"
+msgstr "Afbeeldingen"
+
+#@ nggallery
+#: admin/manage.php:84
+#: admin/tinymce/window.php:44
+#: admin/tinymce/window.php:95
+#: lib/rewrite.php:220
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+msgid "Picture"
+msgstr "Afbeelding"
+
+#@ nggallery
+#: nggallery.php:248
+msgid "Picture tag"
+msgstr "Afbeeldingstag"
+
+#@ nggallery
+#: nggallery.php:249
+#, php-format
+msgid "Picture tag: %2$l."
+msgstr "Afbeeldingstag: %2$l."
+
+#@ nggallery
+#: admin/manage.php:272
+msgid "Pictures deleted successfully "
+msgstr "Afbeeldingen met succes verwijderd"
+
+#@ nggallery
+#: admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Plaats een link naar de plugin in je site/webpagina"
+
+#@ nggallery
+#: admin/settings.php:315
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Opmerking : Als je de instellingen verandert, is het nodig om de thumbnails opnieuw te maken bij  -> Galerij beheren."
+
+#@ nggallery
+#: admin/settings.php:512
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Opmerking: Je kunt alleen een watermerk activeren bij -> Galerij beheren. Deze actie kan niet ongedaan gemaakt worden."
+
+#@ nggallery
+#: nggallery.php:225
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Update de database van NextGEN Gallery !"
+
+#@ nggallery
+#: admin/overview.php:93
+msgid "Plugin Check"
+msgstr "Plugin controle"
+
+#@ nggallery
+#: admin/settings.php:519
+#: admin/settings.php:524
+msgid "Position"
+msgstr "Positie"
+
+#@ nggallery
+#: admin/publish.php:45
+msgid "Post title"
+msgstr "Titel van bericht"
+
+#@ nggallery
+#: admin/manage-sort.php:74
+msgid "Presort"
+msgstr "Vooraf sorteren"
+
+#@ nggallery
+#: admin/settings.php:669
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Klik de knop om automatisch naar de imagerotator te zoeken, als je het hebt geupload naar wp-content/uploads of een submap"
+
+#@ nggallery
+#: admin/settings.php:517
+msgid "Preview"
+msgstr "Vooraf bekijken"
+
+#@ nggallery
+#: admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Afbeelding vooraf bekijken"
+
+#@ nggallery
+#: admin/tags.php:159
+#: admin/tags.php:163
+#: admin/tags.php:176
+msgid "Previous tags"
+msgstr "Vorige tags"
+
+#@ nggallery
+#: admin/settings.php:260
+#: admin/settings.php:371
+msgid "Proceed now"
+msgstr "Nu leegmaken"
+
+#@ nggallery
+#: lib/meta.php:463
+msgid "Program tool"
+msgstr "Programma gereedschap"
+
+#@ nggallery
+#: lib/meta.php:454
+msgid "Province/State"
+msgstr "Provincie"
+
+#@ nggallery
+#: admin/manage-images.php:445
+#: admin/publish.php:68
+msgid "Publish"
+msgstr "Publiceer"
+
+#@ nggallery
+#: admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "Publiceer deze afbeelding"
+
+#@ nggallery
+#: admin/manage.php:475
+msgid "Published a new post"
+msgstr "Nieuw bericht gepubliceerd"
+
+#@ nggallery
+#: admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Opnieuw opgebouwde album structuur:  %s / %s albums"
+
+#@ nggallery
+#: admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Opnieuw opgebouwde gallery structuur:  %s / %s gallerys"
+
+#@ nggallery
+#: admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Opnieuw opgebouwde afbeelding structuur:  %s / %s afbeeldingen"
+
+#@ nggallery
+#: admin/overview.php:91
+msgid "Recent donators"
+msgstr "Recente donateurs"
+
+#@ nggallery
+#: admin/manage-images.php:447
+msgid "Recover"
+msgstr "Herstellen / terugzetten"
+
+#@ nggallery
+#: admin/manage-images.php:447
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr " \"%s\" terugzetten?"
+
+#@ nggallery
+#: admin/manage-galleries.php:151
+#: admin/manage-images.php:344
+#: admin/manage.php:137
+#: admin/manage.php:253
+msgid "Recover from backup"
+msgstr "Herstel van backup"
+
+#@ nggallery
+#: admin/admin.php:388
+msgid "Related images"
+msgstr "Gerelateerde afbeeldingen"
+
+#@ nggallery
+#: nggfunctions.php:906
+msgid "Related images for"
+msgstr "Gerelateerde afbeeldingen voor"
+
+#@ nggallery
+#: admin/overview.php:95
+msgid "Related plugins"
+msgstr "Gerelateerde plugins"
+
+#@ nggallery
+#: admin/overview.php:579
+msgid "Reload page"
+msgstr "Herlaad de pagina"
+
+#@ default
+#: lib/post-thumbnail.php:204
+msgid "Remove featured image"
+msgstr "Verwijder functionele afbeelding"
+
+#@ nggallery
+#: admin/tags.php:204
+msgid "Rename"
+msgstr "Hernoem"
+
+#@ nggallery
+#: admin/tags.php:184
+msgid "Rename Tag"
+msgstr "Hernoem tag"
+
+#@ nggallery
+#: admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Hrnoemen mislukt"
+
+#@ nggallery
+#: lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Hernoemde tag(s) &laquo;%1$s&raquo; naar &laquo;%2$s&raquo;"
+
+#@ nggallery
+#: admin/admin.php:50
+#: admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "Terug zetten / De&#239;nstalleer"
+
+#@ nggallery
+#: admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Alle opties/instellingen terugzetten naar de standaard installatie"
+
+#@ nggallery
+#: admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Alle instellingen terugzetten naar de standaard waarden"
+
+#@ nggallery
+#: admin/setup.php:30
+msgid "Reset options"
+msgstr "Opties terugzetten"
+
+#@ nggallery
+#: admin/setup.php:34
+msgid "Reset settings"
+msgstr "Instellingen terugzetten"
+
+#@ nggallery
+#: admin/settings.php:348
+msgid "Resize Images"
+msgstr "Formaat afbeeldingen aanpassen"
+
+#@ nggallery
+#: admin/manage-galleries.php:309
+#: admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "Formaat afbeeldingen aanpassen naar"
+
+#@ nggallery
+#: admin/manage-galleries.php:77
+#: admin/manage-galleries.php:149
+#: admin/manage-images.php:199
+#: admin/manage-images.php:343
+#: admin/manage.php:214
+#: admin/manage.php:292
+msgid "Resize images"
+msgstr "Formaat afbeeldingen aanpassen"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:238
+#: admin/publish.php:63
+#: admin/tinymce/window.php:122
+msgid "Right"
+msgstr "Rechts"
+
+#@ nggallery
+#: admin/admin.php:46
+msgid "Roles"
+msgstr "Rollen/rechten"
+
+#@ nggallery
+#: admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Instellen Rollen/Rechten voor gebruik NextGEN"
+
+#@ nggallery
+#: admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "Muis over / Actieve kleur"
+
+#@ nggallery
+#: admin/manage-images.php:443
+msgid "Rotate"
+msgstr "Roteer"
+
+#@ nggallery
+#: admin/manage.php:247
+#: admin/manage.php:250
+msgid "Rotate images"
+msgstr "Roteer afbeeldingen"
+
+#@ nggallery
+#: admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "Roteer afbeeldingen met de klok mee"
+
+#@ nggallery
+#: admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "Roteer afbeelding teller met de klok mee."
+
+#@ nggallery
+#: admin/overview.php:252
+msgid "Running..."
+msgstr "Bezig... even wachten"
+
+#@ nggallery
+#: admin/functions.php:1127
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "BEVEILINGS beperking in effect! Het is nodig de map <strong>%s</strong> handmatig te maken"
+
+#@ nggallery
+#: admin/overview.php:722
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#@ nggallery
+#@ default
+#: admin/manage-images.php:326
+#: admin/manage-images.php:361
+#: admin/manage-images.php:513
+#: admin/settings.php:302
+#: admin/settings.php:333
+#: admin/settings.php:375
+#: admin/settings.php:460
+#: admin/settings.php:495
+#: admin/settings.php:605
+#: admin/settings.php:756
+msgid "Save Changes"
+msgstr "Bijwerken"
+
+#@ nggallery
+#: admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Wijzigingen bewaren"
+
+#@ nggallery
+#: admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "Map scannen voor nieuwe afbeeldingen"
+
+#@ nggallery
+#: admin/settings.php:741
+msgid "Screen Color"
+msgstr "Schermkleur"
+
+#@ nggallery
+#: admin/manage-galleries.php:130
+#: admin/manage-galleries.php:133
+#: admin/manage-images.php:225
+#: admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Zoek afbeeldingen"
+
+#@ nggallery
+#: admin/settings.php:668
+msgid "Search now"
+msgstr "Nu zoeken"
+
+#@ nggallery
+#: admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Zoekresultaten op  &#8220;%s&#8221;"
+
+#@ nggallery
+#: admin/tags.php:115
+msgid "Search tags"
+msgstr "Zoek tags"
+
+#@ nggallery
+#: admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "Bezoek meer informatie over de effecten :"
+
+#@ nggallery
+#: admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "Voor meer informatie bezoek de Flash Player op de webpagina"
+
+#@ nggallery
+#: admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Selecteer &#187;"
+
+#@ nggallery
+#: widgets/widgets.php:239
+msgid "Select :"
+msgstr "Selecteer :"
+
+#@ nggallery
+#: widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Selecteer Galerij : "
+
+#@ nggallery
+#: admin/addgallery.php:423
+msgid "Select Zip-File"
+msgstr "Selecteer Zip-bestand"
+
+#@ nggallery
+#: admin/album.php:424
+msgid "Select a preview image:"
+msgstr "Selecteer een afbeelding om vooraf te bekijken:"
+
+#@ nggallery
+#: admin/album.php:284
+#: admin/album.php:333
+msgid "Select album"
+msgstr "Selecteer album"
+
+#@ nggallery
+#: admin/album.php:349
+msgid "Select gallery"
+msgstr "Selecteer galerij"
+
+#@ nggallery
+#: admin/settings.php:263
+msgid "Select graphic library"
+msgstr "Selecteer grafische bibliotheek"
+
+#@ nggallery
+#: admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "Selecteer of geef album"
+
+#@ nggallery
+#: admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "Selecteer of geef galerij"
+
+#@ nggallery
+#: admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "Selecteer of geef afbeedling"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Selecteer het gebied voor de thumbnail van de afbeelding aan de linkerkant"
+
+#@ nggallery
+#: admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "Selecteer een doel galerij:"
+
+#@ nggallery
+#: admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Selecteer de laagste rol die toegang krijgt de volgende toepassingen uit te voeren. Nextgen gebruikt de standaard Wordpress rollen."
+
+#@ nggallery
+#: admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Selecteer met de muis het gebied voor de nieuwe thumbnail"
+
+#@ nggallery
+#: admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Stuur ons bugfixes / code aanpassingen"
+
+#@ nggallery
+#: nggallery.php:250
+msgid "Separate picture tags with commas."
+msgstr "Afbeeldingstags scheiden met komma&#39;s"
+
+#@ nggallery
+#: admin/overview.php:719
+msgid "Server"
+msgstr "Server"
+
+#@ nggallery
+#: admin/overview.php:94
+msgid "Server Settings"
+msgstr "Server Instellingen"
+
+#@ default
+#: lib/post-thumbnail.php:177
+#: lib/post-thumbnail.php:178
+msgid "Set featured image"
+msgstr "Instellen functionele afbeelding"
+
+#@ nggallery
+#: admin/manage-galleries.php:342
+#: admin/manage-images.php:622
+#: admin/settings.php:323
+msgid "Set fix dimension"
+msgstr "Instellen afmetingen thumbnails"
+
+#@ nggallery
+#: admin/manage-galleries.php:147
+#: admin/manage-images.php:341
+#: admin/manage.php:142
+#: admin/manage.php:256
+msgid "Set watermark"
+msgstr "Watermerk instellen"
+
+#@ nggallery
+#: admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "De instellingen voor de JW Image Rotator"
+
+#@ nggallery
+#: admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Zal werken als de gallery zich onder de blog.dir bevindt"
+
+#@ nggallery
+#: admin/media-upload.php:209
+msgid "Show"
+msgstr "Toon"
+
+#@ nggallery
+#: admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "Toon / verberg gebruikte gallerys"
+
+#@ nggallery
+#: widgets/widgets.php:207
+msgid "Show :"
+msgstr "Toon :"
+
+#@ nggallery
+#: admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "Toon Afbeelding Browser"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Toon Media RSS icoon:"
+
+#@ nggallery
+#: admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "Toon meta data"
+
+#@ nggallery
+#: widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Toon een NextGEN Gallery Slideshow"
+
+#@ nggallery
+#: admin/tinymce/window.php:61
+#: admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "Toon als"
+
+#@ nggallery
+#: admin/settings.php:416
+msgid "Show first"
+msgstr "Toon eerst"
+
+#@ nggallery
+#: admin/settings.php:685
+msgid "Show loading icon"
+msgstr "Toon icoon laden"
+
+#@ nggallery
+#: admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "Toon navigatie balk"
+
+#@ nggallery
+#: admin/settings.php:677
+msgid "Show next image on click"
+msgstr "Toon volgende afbeelding door te klikken"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Toon de media RSS link"
+
+#@ nggallery
+#: admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "Wisselende volgorde"
+
+#@ nggallery
+#: admin/settings.php:484
+msgid "Shutter"
+msgstr "Sluiter"
+
+#@ nggallery
+#: lib/meta.php:440
+#: view/imagebrowser-exif.php:54
+msgid "Shutter speed"
+msgstr "Sluiter snelheid"
+
+#@ nggallery
+#: admin/settings.php:367
+msgid "Single picture"
+msgstr "Enkele afbeelding"
+
+#@ nggallery
+#: admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Enkelepic"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:242
+#: admin/settings.php:587
+msgid "Size"
+msgstr "Formaat"
+
+#@ nggallery
+#: admin/publish.php:52
+msgid "Size of the image"
+msgstr "Grootte van de afbeelding"
+
+#@ nggallery
+#: admin/settings.php:223
+#: admin/settings.php:418
+#: admin/settings.php:618
+#: admin/tinymce/window.php:63
+#: lib/rewrite.php:215
+#: widgets/widgets.php:29
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#@ nggallery
+#: admin/tags.php:249
+msgid "Slug(s) to set:"
+msgstr "Slug(s) instellen:"
+
+#@ nggallery
+#: admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Daarom willen we graag de volgende mensen bedanken voor hun pioneerswerk (zonder dit werk zou het onmogelijk zijn geweest een plugin als deze zo snel snel te ontwikkelen)"
+
+#@ nggallery
+#: admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Enkele mappen/bestanden konden niet hernoemd worden, controleer de permissies en herscan de map in de beheer gallery sectie"
+
+#@ nggallery
+#: nggallery.php:205
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "Helaas, NextGEN Gallery werkt alleen met een geheugen limiet van 16MB of hoger"
+
+#@ nggallery
+#: admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Helaas, NextGEN Gallery werkt alleen met de rol genaamd admistrator"
+
+#@ default
+#: lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "Mislukt, het album kon niet gemaakt worden"
+
+#@ default
+#: lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "Mislukt, de gallery kon niet gemaakt worden"
+
+#@ default
+#: lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "Helaas, het album kan niet geupdate worden"
+
+#@ default
+#: lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "Mislukt, de gallery kon niet bijgewerkt worden."
+
+#@ default
+#: lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "Helaas, de afbeelding kon niet bijgewerkt worden."
+
+#@ nggallery
+#: admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Sorry, je hebt hier geen toegang."
+
+#@ nggallery
+#: lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Helaas, je hebt de maximale ruimte gebruikt. Verwijder enkele bestanden om andere bestanden te kunnen uploaden."
+
+#@ default
+#: lib/xmlrpc.php:250
+#: lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "Helaas, je moet toestemming hebben om deze afbeelding te bewerken"
+
+#@ default
+#: lib/xmlrpc.php:442
+#: lib/xmlrpc.php:494
+#: lib/xmlrpc.php:536
+#: lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "Mislukt, je moet toestemming heb om albums te beheren"
+
+#@ default
+#: lib/xmlrpc.php:344
+#: lib/xmlrpc.php:576
+#: lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Mislukt, je moet toestemming hebben om gallerys kunnen beheren."
+
+#@ default
+#: lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "Mislukt, je moet toestemming hebben om deze gallery te beheren."
+
+#@ nggallery
+#: admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Galerij volgorde"
+
+#@ nggallery
+#: admin/tags.php:124
+msgid "Sort Order:"
+msgstr "Volgorde bepalen:"
+
+#@ nggallery
+#: admin/settings.php:453
+msgid "Sort direction"
+msgstr "Volgorde"
+
+#@ nggallery
+#: admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "Galerij volgorde"
+
+#@ nggallery
+#: admin/settings.php:440
+msgid "Sort options"
+msgstr "Opties sorteren"
+
+#@ nggallery
+#: admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Volgorde gewijzigd"
+
+#@ nggallery
+#: admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "Thumbnail volgorde"
+
+#@ nggallery
+#: lib/meta.php:459
+msgid "Source"
+msgstr "Bron"
+
+#@ default
+#: admin/overview.php:540
+msgid "Space Allowed"
+msgstr "Toegestane ruimte"
+
+#@ default
+#: admin/overview.php:548
+msgid "Space Used"
+msgstr "Gebruikte ruimte"
+
+#@ nggallery
+#: admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Upgrade starten"
+
+#@ nggallery
+#: admin/addgallery.php:452
+msgid "Start upload"
+msgstr "Upload starten"
+
+#@ default
+#: admin/overview.php:535
+msgid "Storage Space"
+msgstr "Opslag ruimte"
+
+#@ nggallery
+#: admin/settings.php:694
+msgid "Stretch image"
+msgstr "Afbeelding uitrekken"
+
+#@ nggallery
+#: admin/admin.php:44
+#: admin/admin.php:91
+msgid "Style"
+msgstr "Stijl"
+
+#@ nggallery
+#: admin/style.php:89
+msgid "Style Editor"
+msgstr "Stijl bewerken"
+
+#@ nggallery
+#: lib/meta.php:444
+msgid "Subject"
+msgstr "Onderwerp"
+
+#@ nggallery
+#: admin/showmeta.php:34
+#: admin/showmeta.php:60
+#: admin/showmeta.php:85
+#: admin/showmeta.php:109
+msgid "Tag"
+msgstr "Tag"
+
+#@ nggallery
+#: admin/tags.php:223
+msgid "Tag(s) to delete:"
+msgstr "Tag(s) verwijderen:"
+
+#@ nggallery
+#: admin/tags.php:245
+msgid "Tag(s) to match:"
+msgstr "Tag(s) om te matchen:"
+
+#@ nggallery
+#: admin/tags.php:197
+msgid "Tag(s) to rename:"
+msgstr "Tag(s) om te hernoemen:"
+
+#@ nggallery
+#: admin/admin.php:41
+#: admin/admin.php:87
+#: admin/settings.php:291
+#: lib/meta.php:443
+msgid "Tags"
+msgstr "Tags"
+
+#@ nggallery
+#: admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "Tags (komma gescheiden lijst)"
+
+#@ nggallery
+#: admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "Tags / categorie&#235;n"
+
+#@ nggallery
+#: admin/manage.php:368
+msgid "Tags changed"
+msgstr "Tags aangepast"
+
+#@ nggallery
+#: lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Tags nummers en slug nummers zijn niet hetzelfde!"
+
+#@ nggallery
+#: admin/admin.php:369
+msgid "Templates"
+msgstr "Sjablonen"
+
+#@ nggallery
+#: admin/overview.php:302
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Test mislukt, schakel andere plugins uit en stel het standaard thema in"
+
+#@ nggallery
+#: admin/overview.php:305
+msgid "Test image function"
+msgstr "Test afbeeldingsfunctie"
+
+#@ nggallery
+#: admin/settings.php:596
+msgid "Text"
+msgstr "Tekst"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Tekst voor de media RSS link:"
+
+#@ nggallery
+#: admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "Tekst / Knoppen kleur"
+
+#@ nggallery
+#: admin/admin.php:131
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Bedankt voor het gebruik van deze plugin, de maker hoopt dat je er tevreden mee bent! Als je verdere ontwikkeling van deze plugin wilt ondersteunen, overweeg dan een <strong><a href=\"%s\">donatie</a></strong>! Heb je hulp nodig,  stel dan <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">hier</a> je vragen."
+
+#@ nggallery
+#: admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Bedankt voor het gebruik van deze plugin, Nextgen Gallery is ontwikkeld voor zelf gehosted sites. Een multisite setup is mogelijk, maar kan momenteel nog niet volledig ondersteund worden, zoals de bijzondere voorwaarde (b.v. domain mapping).<br />. Als je verdere ontwikkeling wilt ondersteunen, overweeg een <strong><a href=\"%s\">donatie</a></strong> Heb je hulp nodig,  stel dan <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">hier</a> je vragen."
+
+#@ nggallery
+#: admin/overview.php:368
+msgid "Thanks to all donators..."
+msgstr "Dank aan alle donateurs..."
+
+#@ nggallery
+#: admin/about.php:64
+msgid "Thanks!"
+msgstr "Bedankt!"
+
+#@ nggallery
+#: nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "De <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> en <a href=\"http://www.mozilla.com/firefox/\">en browser met Javascript ondersteuning</a> zijn nodig."
+
+#@ nggallery
+#: admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "De toegang van de URL bestanden zijn uitgeschakeld bij je server (allow_url_fopen)"
+
+#@ nggallery
+#: xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Het album ID=%s bestaat niet."
+
+#@ nggallery
+#: admin/settings.php:393
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Het album zal niet linken naar een galerij subpagina. De galerij wordt getoond op dezelfde pagina."
+
+#@ nggallery
+#: admin/addgallery.php:534
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "De batch upload vereist Adobe Flash 10, uitschakelen als je problemen ondervindt"
+
+#@ nggallery
+#: admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "De standaard instelling zou %s moeten zijn"
+
+#@ nggallery
+#: admin/functions.php:1181
+#: admin/functions.php:1258
+msgid "The destination gallery does not exist"
+msgstr "De doelgalerij bestaat niet"
+
+#@ nggallery
+#: xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Het galerij ID=%s bestaat niet."
+
+#@ nggallery
+#: admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "In plaats van een effect zal de galerij de afbeeldingsbrowser openen"
+
+#@ nggallery
+#: admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Ondersteuning die me het meest motiveren zijn idee&euml;n en denk- en uitdenk- werk"
+
+#@ nggallery
+#: admin/settings.php:653
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Het pad naar  imagerotator.swf is niet opgegeven, de slideshow zal niet werken"
+
+#@ nggallery
+#: admin/overview.php:307
+msgid "The plugin could create images"
+msgstr "De plugin kan geen afbeeldingen maken"
+
+#@ nggallery
+#: admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Het script heeft vastgesteld dat je upgrade van een oudere versie"
+
+#@ nggallery
+#: admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "The server Safe-Mode is aan!"
+
+#@ nggallery
+#: admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "De instellingen worden alleen gebruikt in de JW Image Rotator Version "
+
+#@ nggallery
+#: admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Het upgrade process zal even duren, een beetje geduld asjeblieft"
+
+#@ nggallery
+#: admin/functions.php:1440
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "Het geuploade bestand overschrijdt de MAX_FILE_SIZE richtlijn welke is ingesteld op het HTML formulier"
+
+#@ nggallery
+#: admin/functions.php:1437
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Het geuploade bestand overschrijdt de upload_max_filesize richtlijn in php.ini"
+
+#@ nggallery
+#: admin/functions.php:1443
+msgid "The uploaded file was only partially uploaded"
+msgstr "Het geuploade bestand is slechts voor een deel geupload"
+
+#@ nggallery
+#: admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Er zijn vele andere mensen die hun bijdragen leveren aan dit project:"
+
+#@ nggallery
+#: admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Er bestaan vele manieren om te geven, te helpen of ons te ondersteunen in dit werk. Geen van alle is verplicht."
+
+#@ nggallery
+#: admin/upgrade.php:174
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "Daarom is een uniek identificatienummer nog voor elke afbeelding, galerij en album."
+
+#@ nggallery
+#: admin/manage-galleries.php:339
+#: admin/manage-images.php:619
+#: admin/settings.php:320
+msgid "These values are maximum values "
+msgstr "Dit zijn de maximale waarden"
+
+#@ nggallery
+#: admin/settings.php:481
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#@ nggallery
+#: admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Deze functie zal niet werken, omdat je een Free Type library nodig hebt"
+
+#@ nggallery
+#: lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "Dit is geen geldig afbeeldingsbestand."
+
+#@ nggallery
+#: admin/wpmu.php:70
+#, php-format
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Dit is het standaard path voor alle sites. Met de placeholder %BLOG_ID%  kun je de map beter structureren."
+
+#@ nggallery
+#: admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "Dit is het standaard pad voor alle galerijen"
+
+#@ nggallery
+#: admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "Deze optie zal gerelateerde afbeeldingen toevoegen aan elk bericht"
+
+#@ nggallery
+#: admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Deze plugin wordt met veel liefde en inspanning, voornamelijk ontwikkeld, onderhouden, ondersteund en gedocumenteerd door <a href=\"%s\">Alex Rabe</a>.  Elke vorm van ondersteuning zou zeer gewaardeerd worden. Bedankt!"
+
+#@ nggallery
+#: admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Deze plugin wordt hoofdzakelijk ontwikkeld, bijgehouden, ondersteund, gedocumenteerd door"
+
+#@ default
+#: admin/overview.php:355
+#: admin/overview.php:404
+#: admin/overview.php:591
+#: admin/overview.php:781
+msgid "This widget requires JavaScript."
+msgstr "Deze widget vereist JavaScript."
+
+#@ nggallery
+#@ default
+#: admin/manage-images.php:695
+#: admin/media-upload.php:246
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#@ nggallery
+#: admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "Thumbnail kwaliteit"
+
+#@ nggallery
+#: admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "Thumbnail instellingen"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "Thumbnail bijgewerkt"
+
+#@ nggallery
+#: admin/settings.php:218
+#: admin/settings.php:417
+#: widgets/widgets.php:212
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#@ nggallery
+#: lib/meta.php:450
+msgid "Time Created"
+msgstr "Tijd gemaakt"
+
+#@ nggallery
+#: admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Tip : Kopieer je stylesheet (nggallery.css) naar je themamap, dan blijft het bewaard tijdens een upgrade"
+
+#@ nggallery
+#: admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Tip nr. 2: Gebruik onderstaande kleurenpicker om het goede kleurenschema voor je gallery te vinden !"
+
+#@ nggallery
+#@ default
+#: admin/album.php:546
+#: admin/manage-images.php:255
+#: lib/meta.php:441
+msgid "Title"
+msgstr "Titel"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:79
+#: widgets/widgets.php:201
+msgid "Title :"
+msgstr "Titel :"
+
+#@ default
+#: widgets/widgets.php:121
+msgid "Title:"
+msgstr "Titel : "
+
+#@ nggallery
+#: admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Om de deelnemers te helpen die met deze pluging werken, zou ik het graag in alle beschikbare talen willen aanbieden."
+
+#@ nggallery
+#: widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Teksttip voor de media RSS link:"
+
+#@ nggallery
+#: admin/settings.php:630
+#: admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "Overgang afbeeldingen / Vervaag effect"
+
+#@ nggallery
+#: admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Vertaal de plugin"
+
+#@ nggallery
+#: admin/overview.php:89
+msgid "Translation"
+msgstr "Vertaling"
+
+#@ nggallery
+#: admin/overview.php:584
+msgid "Translation file couldn't be updated"
+msgstr "Vertaal bestand kan niet geupdated worden"
+
+#@ nggallery
+#: admin/overview.php:577
+msgid "Translation file successful updated. Please reload page."
+msgstr "Vertaalbestand met succes aangemaakt. Herlaad de pagina."
+
+#@ nggallery
+#: admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Probeer XHTML validatie (met CDATA)"
+
+#@ nggallery
+#: admin/settings.php:563
+msgid "URL to file"
+msgstr "URL naar bestand"
+
+#@ nggallery
+#: admin/functions.php:76
+#: admin/functions.php:85
+#: admin/functions.php:902
+#: lib/core.php:102
+msgid "Unable to create directory "
+msgstr "Niet mogelijk de directory aan te maken"
+
+#@ nggallery
+#: admin/functions.php:897
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Kan de map %s niet maken. Is de bovenstaande  map beschrijfbaar op de server? "
+
+#@ nggallery
+#: admin/functions.php:989
+#: admin/functions.php:1187
+#: admin/functions.php:1264
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Kan niet schrijven naar de map %s. Is deze map beschrijfbaar op de server?"
+
+#@ nggallery
+#: admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "Onverwachte fout"
+
+#@ nggallery
+#: admin/setup.php:53
+msgid "Uninstall plugin"
+msgstr "De&iuml;nstalleer knop"
+
+#@ nggallery
+#: admin/setup.php:42
+msgid "Uninstall plugin tables"
+msgstr "De&iuml;nstalleer plugin tabellen"
+
+#@ nggallery
+#: admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "De&iuml;nstalleren succesvol! Nu de plugin verwijderen en vrolijk verder leven! Veel plezier!"
+
+#@ nggallery
+#: admin/functions.php:1458
+msgid "Unknown upload error"
+msgstr "Onbekende upload fout"
+
+#@ nggallery
+#: admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Ongesorteerd"
+
+#@ default
+#: admin/overview.php:428
+msgid "Untitled"
+msgstr "Zonder titel"
+
+#@ nggallery
+#@ default
+#: admin/album.php:297
+#: admin/edit-thumbnail.php:155
+#: admin/overview.php:610
+#: admin/rotate.php:90
+#: admin/wpmu.php:126
+msgid "Update"
+msgstr "Bijwerken"
+
+#@ nggallery
+#: admin/style.php:158
+msgid "Update File"
+msgstr "Bestand bijwerken"
+
+#@ nggallery
+#: admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Volgorde bijwerken"
+
+#@ nggallery
+#: admin/album.php:102
+#: admin/album.php:117
+#: admin/album.php:158
+#: admin/settings.php:79
+#: admin/style.php:24
+msgid "Update Successfully"
+msgstr "Met succes bijgewerkt"
+
+#@ nggallery
+#: admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Bijwerken"
+
+#@ nggallery
+#: admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "Bestandsstructuur bijwerken..."
+
+#@ nggallery
+#: admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "Instellingen bijwerken..."
+
+#@ nggallery
+#: admin/manage.php:404
+msgid "Update successful"
+msgstr "Met succes bijgewerkt"
+
+#@ nggallery
+#: admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Met succes bijgewerkt"
+
+#@ nggallery
+#: admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Mogelijkheden bijgewerkt"
+
+#@ nggallery
+#: admin/upgrade.php:165
+#: admin/upgrade.php:187
+msgid "Updated options."
+msgstr "Instellingen bijgewerkt"
+
+#@ nggallery
+#: admin/upgrade.php:157
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Bijgewerkte widget structuur. Als je NextGEN widgets gebruikt, is het nodig ze opnieuw in te stellen..."
+
+#@ nggallery
+#: admin/upgrade.php:356
+#: admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Upgrade NextGEN Gallery"
+
+#@ nggallery
+#: admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Database structuur upgraden..."
+
+#@ nggallery
+#: admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Upgrade afgerond..."
+
+#@ nggallery
+#: admin/addgallery.php:376
+#: admin/addgallery.php:484
+msgid "Upload Images"
+msgstr "Afbeeldingen uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:382
+#: admin/addgallery.php:418
+msgid "Upload a Zip-File"
+msgstr "Zip-bestand uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:425
+msgid "Upload a zip file with images"
+msgstr "Zip-bestand met afbeeldingen uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Upload mislukt!"
+
+#@ nggallery
+#: admin/addgallery.php:490
+msgid "Upload image"
+msgstr "Afbeelding uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:197
+#: admin/addgallery.php:235
+#: admin/addgallery.php:286
+#: admin/addgallery.php:298
+#: admin/addgallery.php:538
+msgid "Upload images"
+msgstr "Afbeeldingen uploaden"
+
+#@ nggallery
+#: admin/addgallery.php:536
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Meerdere bestandenden in 1 keer uploaden met ctrl/shift-knoppen in dialoog"
+
+#@ nggallery
+#: admin/overview.php:504
+msgid "Upload pictures"
+msgstr "Afbeeldingen uploaden"
+
+#@ nggallery
+#: admin/functions.php:869
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "Geuploade bestand is geen geldig of onjuist zip bestand ! De server herkent : "
+
+#@ nggallery
+#: admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Gebruik TinyMCE knop / upload tab"
+
+#@ default
+#: admin/media-upload.php:261
+msgid "Use as featured image"
+msgstr "Gebruik als functionele afbeelding"
+
+#@ nggallery
+#: admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "Gebruik afbeelding als watermerk"
+
+#@ nggallery
+#: admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "Gebruik langzaam zoom effect"
+
+#@ nggallery
+#: admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "Gebruik tekst als watermerk"
+
+#@ nggallery
+#: admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "Gebruik watermerk logo"
+
+#@ nggallery
+#: admin/showmeta.php:35
+#: admin/showmeta.php:61
+#: admin/showmeta.php:86
+#: admin/showmeta.php:110
+msgid "Value"
+msgstr "Waarde"
+
+#@ nggallery
+#: admin/style.php:135
+msgid "Version"
+msgstr "Versie"
+
+#@ nggallery
+#: admin/manage-images.php:440
+msgid "View"
+msgstr "Bekijk"
+
+#@ default
+#: admin/manage-images.php:440
+#, php-format
+msgid "View \"%s\""
+msgstr "Bekijk \"%s\""
+
+#@ nggallery
+#: admin/overview.php:390
+msgid "View all"
+msgstr "Bekijk alle"
+
+#@ nggallery
+#: admin/setup.php:50
+msgid "WARNING:"
+msgstr "WAARSCHUWING:"
+
+#@ nggallery
+#: admin/settings.php:222
+#: admin/settings.php:511
+#: admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "Watermerk"
+
+#@ nggallery
+#: admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "We willen de mensen bedanken die ons ondersteund hebben in het werk : "
+
+#@ nggallery
+#: admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#@ nggallery
+#: admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Welkom bij NextGEN Gallery !"
+
+#@ nggallery
+#: admin/functions.php:1128
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Als safe_mode ingeschakeld is, controleert PHP of de eigenaar (%s) van het huidige script  overeenkomt met de  eigenaar (%s) van het te bewerken bestand (%s) of map."
+
+#@ nggallery
+#: admin/settings.php:277
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Als je deze optie activeert, wordt wat javascript toegevoegd aan je footer. Verzeker je ervan dat wp_footer wordt aangeroepen in je thema"
+
+#@ nggallery
+#: admin/settings.php:254
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Als je deze optie activeert, is het nodig eenmalig je permalink structuur te updaten."
+
+#@ nggallery
+#: widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget die de Media RSS links toont voor NextGEN Gallery."
+
+#@ nggallery
+#: admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "Breedte x Hoogte"
+
+#@ nggallery
+#: widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Breedte x Hoogte :"
+
+#@ nggallery
+#: admin/manage-galleries.php:337
+#: admin/manage-images.php:617
+#: admin/publish.php:50
+#: admin/settings.php:318
+msgid "Width x height (in pixel)"
+msgstr "Breedte x Hoogte (in pixels)"
+
+#@ nggallery
+#: admin/manage-galleries.php:313
+#: admin/manage-images.php:593
+#: admin/settings.php:350
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Breedte x Hoogte (in pixels).  NextGEN Gallery behoudt het ratio formaat"
+
+#@ nggallery
+#: widgets/widgets.php:138
+msgid "Width:"
+msgstr "Breedte : "
+
+#@ nggallery
+#: admin/settings.php:474
+msgid "With the placeholder"
+msgstr "Met de plaatshouder  "
+
+#@ default
+#: lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPC services zijn uitgeschakeld op deze site.  Een Admin kan deze inschakelen op %s"
+
+#@ nggallery
+#: admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP Data"
+
+#@ nggallery
+#: admin/overview.php:662
+#: admin/overview.php:708
+#: admin/overview.php:711
+#: admin/overview.php:714
+msgid "Yes"
+msgstr "Ja"
+
+#@ nggallery
+#: admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Ja, ook sharen(delen) en trackback is een goede ondersteuning voor dit werk."
+
+#@ nggallery
+#: admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Je staat op het punt een bulk bewerking voor %s galerijen uit te voeren\n"
+" \n"
+" 'Annuleren' om te stoppen, 'OK' om door te gaan."
+
+#@ nggallery
+#: admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Je bent bezig meerdere bewerkingen van %s afbeeldingen te starten \n"
+" \n"
+" 'Annuleren' om te stoppen, 'OK' om door te gaan."
+
+#@ default
+#: admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Je hebt geen toestemming je hier te bevinden"
+
+#@ default
+#: lib/xmlrpc.php:140
+#: lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Je hebt onvoldoende rechten om bestanden naar deze gallery te uploaden."
+
+#@ default
+#: lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "Je hebt onvoldoende rechten om bestanden op deze site te uploaden."
+
+#@ nggallery
+#: admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "Je kunt het logo bij de watermerk instellingen wijzigen"
+
+#@ nggallery
+#: admin/tags.php:219
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Je kunt meerdere tags specificeren om te verwijderen door ze te scheiden door komma&#39;s"
+
+#@ nggallery
+#: admin/tags.php:193
+#: admin/tags.php:241
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Je kunt meerdere tags specificeren om te hernoemen door ze met komma&#39;s te scheiden"
+
+#@ nggallery
+#: admin/settings.php:582
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Je kan meer lettertypes uploaden in de map  <strong>nggallery/fonts</strong>"
+
+#@ default
+#: admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Je hebt niet de juiste permissies om sjablonen van deze site te bewerken"
+
+#@ nggallery
+#: admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "Je hebt niet de juiste permissies"
+
+#@ nggallery
+#: admin/setup.php:47
+msgid "You don't like NextGEN Gallery ?"
+msgstr "NextGEN Gallery heeft je niet gegeven wat je ervan verwacht had ?"
+
+#@ nggallery
+#: admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Je database tabellen voor Next-Gen Gallery zijn verouderd en moeten bijgewerkt worden voor je kunt doorgaan."
+
+#@ nggallery
+#: admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Je thema bevat een NextGEN Gallery stylesheet (nggallery.css), dit bestand wordt gebruikt "
+
+#@ nggallery
+#: admin/overview.php:313
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "Je thema zou goed moeten werken met NextGEN Gallery"
+
+#@ nggallery
+#: admin/functions.php:912
+msgid "Zip-File successfully unpacked"
+msgstr "Zip-bestand is met succes uitgepakt"
+
+#@ nggallery
+#: nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[Album niet gevonden]"
+
+#@ nggallery
+#: lib/shortcodes.php:268
+#: nggfunctions.php:164
+#: nggfunctions.php:642
+msgid "[Gallery not found]"
+msgstr "[Galerij niet gevonden]"
+
+#@ nggallery
+#: admin/album.php:320
+msgid "[Maximize]"
+msgstr "[Maximaliseer]"
+
+#@ nggallery
+#: admin/album.php:321
+msgid "[Minimize]"
+msgstr "[Minimaliseer]"
+
+#@ nggallery
+#: lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[Geen afbeeldingen gevonden]"
+
+#@ nggallery
+#: admin/album.php:319
+msgid "[Show all]"
+msgstr "[Toon alle]"
+
+#@ nggallery
+#: admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[Toon als slideshow]"
+
+#@ nggallery
+#: admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[Toon afbeeldingen lijst]"
+
+#@ nggallery
+#: nggfunctions.php:771
+msgid "[SinglePic not found]"
+msgstr "[SinglePic niet gevonden]"
+
+#@ nggallery
+#: view/gallery-caption.php:32
+#: view/gallery.php:32
+#: widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Bekijk met PicLens] "
+
+#@ nggallery
+#: admin/addgallery.php:437
+msgid "a new gallery"
+msgstr "Een nieuwe galerij"
+
+#@ nggallery
+#: admin/setup.php:51
+msgid "and"
+msgstr "en"
+
+#@ nggallery
+#: admin/about.php:166
+msgid "and all donators..."
+msgstr "en alle donateurs..."
+
+#@ nggallery
+#: admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "en de thumbnails map"
+
+#@ nggallery
+#: admin/settings.php:709
+msgid "bgfade"
+msgstr "achtergrond vervagen"
+
+#@ nggallery
+#: admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#@ nggallery
+#: admin/settings.php:713
+msgid "blocks"
+msgstr "blokken"
+
+#@ nggallery
+#: admin/settings.php:712
+msgid "bubbles"
+msgstr "bellen"
+
+#@ nggallery
+#: admin/settings.php:711
+msgid "circles"
+msgstr "cirkels"
+
+#@ nggallery
+#: admin/functions.php:157
+msgid "contains no pictures"
+msgstr "bevat geen afbeeldingen"
+
+#@ nggallery
+#: admin/settings.php:635
+msgid "cover"
+msgstr "cover"
+
+#@ nggallery
+#: admin/manage.php:439
+msgid "created"
+msgstr "gemaakt"
+
+#@ nggallery
+#: admin/manage.php:84
+msgid "deleted successfully"
+msgstr "met succes verwijderd"
+
+#@ nggallery
+#: admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "bestaat niet. Maak eerst de hoofdmap 'gallery' aan"
+
+#@ nggallery
+#: admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "bestaat niet!"
+
+#@ nggallery
+#: admin/manage-images.php:699
+msgid "exclude"
+msgstr "uitsluiten"
+
+#@ nggallery
+#: admin/settings.php:633
+#: admin/settings.php:708
+msgid "fade"
+msgstr "vervagen"
+
+#@ nggallery
+#: admin/settings.php:698
+msgid "false"
+msgstr "niet waar"
+
+#@ nggallery
+#: admin/upgrade.php:108
+#: admin/upgrade.php:119
+#: admin/upgrade.php:126
+#: admin/upgrade.php:137
+#: admin/upgrade.php:151
+msgid "finished"
+msgstr "klaar"
+
+#@ nggallery
+#: admin/settings.php:699
+msgid "fit"
+msgstr "passend"
+
+#@ nggallery
+#: admin/settings.php:715
+msgid "flash"
+msgstr "flash"
+
+#@ nggallery
+#: admin/settings.php:714
+msgid "fluids"
+msgstr "vloeistof"
+
+#@ nggallery
+#: admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "voor Shutter Herladen, een lischtgewicht afbeeldingseffect"
+
+#@ nggallery
+#: admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "voor veel goede en bruikbare plugins en idee&euml;n"
+
+#@ nggallery
+#: admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "voor jQuery, welke het beste Web2.0 framework is"
+
+#@ nggallery
+#: admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "voor het galerij icoon"
+
+#@ nggallery
+#: admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "voor de Watermerk plugin"
+
+#@ nggallery
+#: admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "voor de beste Media Flash Scripts op aarde"
+
+#@ nggallery
+#: admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "voor de fantastische PHP Thumbnail Class"
+
+#@ nggallery
+#: admin/about.php:25
+msgid "for their great documented code"
+msgstr "voor hun geweldige gedocumenteerde code"
+
+#@ nggallery
+#: admin/addgallery.php:435
+#: admin/addgallery.php:513
+msgid "in to"
+msgstr "naar"
+
+#@ nggallery
+#: admin/functions.php:975
+#: admin/functions.php:1062
+msgid "is no valid image file!"
+msgstr "is geen geldig afbeeldingsbestand!"
+
+#@ nggallery
+#: admin/functions.php:55
+#: admin/functions.php:80
+msgid "is not writeable !"
+msgstr "is niet beschrijfbaar!"
+
+#@ nggallery
+#: admin/settings.php:716
+msgid "lines"
+msgstr "lijnen"
+
+#@ nggallery
+#: nggallery.php:379
+msgid "loading"
+msgstr "laden"
+
+#@ nggallery
+#: admin/settings.php:700
+msgid "none"
+msgstr "geen"
+
+#@ nggallery
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+msgid "of"
+msgstr "van"
+
+#@ nggallery
+#: admin/addgallery.php:429
+msgid "or enter a Zip-File URL"
+msgstr "of geef een Zip-bestand URL"
+
+#@ nggallery
+#: admin/manage-images.php:434
+msgid "pixel"
+msgstr "pixel"
+
+#@ nggallery
+#: admin/settings.php:717
+#: widgets/widgets.php:219
+msgid "random"
+msgstr "alle door elkaar gebruiken"
+
+#@ nggallery
+#: widgets/widgets.php:222
+msgid "recent added "
+msgstr "recent toegevoegd"
+
+#@ nggallery
+#: admin/addgallery.php:195
+#: admin/addgallery.php:284
+#: admin/addgallery.php:312
+msgid "remove"
+msgstr "verwijderen"
+
+#@ nggallery
+#: admin/settings.php:637
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#@ nggallery
+#: admin/settings.php:636
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#@ nggallery
+#: admin/settings.php:627
+msgid "sec."
+msgstr "sec."
+
+#@ nggallery
+#: admin/settings.php:638
+msgid "shuffle"
+msgstr "shuffle"
+
+#@ nggallery
+#: admin/settings.php:710
+msgid "slowfade"
+msgstr "langzaam vervagen"
+
+#@ nggallery
+#: admin/functions.php:179
+msgid "successfully created!"
+msgstr "met succes gemaakt!"
+
+#@ nggallery
+#: admin/settings.php:639
+msgid "toss"
+msgstr "weggooien"
+
+#@ nggallery
+#: admin/settings.php:697
+msgid "true"
+msgstr "waar"
+
+#@ nggallery
+#: admin/settings.php:640
+msgid "wipe"
+msgstr "vegen"
+
+#@ nggallery
+#: admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "met permissie 777 handmatig ingesteld !"
+
+#@ nggallery
+#: admin/overview.php:314
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() ontbreekt, neem contact op met de ontwikkelaar van het thema"
+
+#@ nggallery
+#: admin/settings.php:474
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "<br>Er kan navigatie toegevoegd worden aan de afbeeldingen (hangt van het effect af).  Wijzig de code uitsluitend als je voor een afwijkend thumbnail effect gaat of als je weet waar je mee bezig bent!"
+
+#@ nggallery
+#: admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\n"
+msgstr ""
+"Alle opties naar standaardwaarden terugzetten?\n"
+"\n"
+"Kies [Annuleren] om te stoppen, [OK] om verder te gaan.\n"
+
+#@ nggallery
+#: admin/setup.php:53
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\n"
+"This action is not reversible.\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\n"
+msgstr ""
+"Je staat op het punt om deze plugin te verwijderen. \n"
+"Deze actie is onomkeerbaar.\n"
+"\n"
+"Kies [Annuleren] om te stoppen, [OK] om verder te gaan.\n"
+
+#@ nggallery
+#: admin/addgallery.php:93
+msgid "Upload failed! "
+msgstr "Upload mislukt!"
+
+#@ default
+#: admin/addgallery.php:495
+msgid "Choose files to upload"
+msgstr "Kies te uploaden bestanden"
+
+#@ default
+#: admin/addgallery.php:496
+msgid "Select Files"
+msgstr "Selecteer bestanden"
+
+#@ default
+#: admin/addgallery.php:498
+msgid "Or you can drop the files into this window."
+msgstr "Of je kan de bestanden in dit venster droppen"
+
+#@ nggallery
+#: admin/addgallery.php:501
+#, php-format
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "Afbeeldingen schalen naar max. breedte %1$dpx of max. hoogte %2$dpx"
+
+#@ default
+#: admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "Je probeert teveel bestanden ineens in de rij de plaatsen"
+
+#@ default
+#: admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Het bestand overschrijdt de maximale upload grootte voor deze site"
+
+#@ default
+#: admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "Dit bestand is leeg.  Probeer aub een ander."
+
+#@ default
+#: admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "Dit bestandstype is niet toegelaten.  Probeer aub een ander."
+
+#@ default
+#: admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "Dit bestand is geen afbeelding.  Probeer aub een ander."
+
+#@ default
+#: admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Geheugen overschreden.  Probeer aub een kleiner bestand."
+
+#@ default
+#: admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Dit is groter dan de maximum grootte.  Probeer aub een ander."
+
+#@ default
+#: admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Een fout is opgetreden tijdens het uploaden.  Probeer eens opnieuw."
+
+#@ default
+#: admin/admin.php:227
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Er was een configuratiefout.  Contacteer de server administrator."
+
+#@ default
+#: admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "Je mag slechts 1 bestand uploaden."
+
+#@ default
+#: admin/admin.php:229
+msgid "HTTP error."
+msgstr "HTTP fout."
+
+#@ default
+#: admin/admin.php:230
+msgid "Upload failed."
+msgstr "Upload mislukt."
+
+#@ default
+#: admin/admin.php:231
+msgid "IO error."
+msgstr "IO fout."
+
+#@ default
+#: admin/admin.php:232
+msgid "Security error."
+msgstr "Beveiligingsfout"
+
+#@ default
+#: admin/admin.php:233
+msgid "File canceled."
+msgstr "Bestand geannuleerd."
+
+#@ default
+#: admin/admin.php:234
+msgid "Upload stopped."
+msgstr "Upload onderbroken."
+
+#@ default
+#: admin/admin.php:235
+msgid "Dismiss"
+msgstr "Negeren"
+
+#@ default
+#: admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "Bewerken&hellip;"
+
+#@ default
+#: admin/admin.php:237
+msgid "moved to the trash."
+msgstr "verplaatst naar prullenbak."
+
+#@ default
+#: admin/admin.php:238
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "&#8220;%s&#8221; is niet geupload omwille van een fout"
+
+#@ default
+#: admin/manage.php:589
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 item"
+msgstr[1] "%s items"
+
+#@ default
+#: admin/manage.php:605
+msgid "Go to the first page"
+msgstr "Ga naar de eerste pagina"
+
+#@ default
+#: admin/manage.php:612
+msgid "Go to the previous page"
+msgstr "Ga naar de vorige pagina"
+
+#@ default
+#: admin/manage.php:621
+msgid "Current page"
+msgstr "Huidige pagina"
+
+#@ default
+#: admin/manage.php:628
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s van %2$s"
+
+#@ default
+#: admin/manage.php:632
+msgid "Go to the next page"
+msgstr "Ga naar de volgende pagina"
+
+#@ default
+#: admin/manage.php:639
+msgid "Go to the last page"
+msgstr "Ga naar de laatste pagina"
+
+#@ nggallery
+#: admin/pointer.php:22
+msgid "<h3>Client side resize</h3><p>You can now resize the images before you start with the upload.</p>"
+msgstr "<h3>Client side verkleinen</h3><p>Je kan de afbeeldingen nu verkleinen vooraleer je begint te uploaden.</p>"
+
+#@ nggallery
+#: admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "Galerij slug naam:"
+
+#@ nggallery
+#: nggallery.php:101
+msgid "<strong>This translation is not yet updated for Version 1.9.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Deze vertaling is nog niet geupdate voor Versie 1.9.0</strong>.  Als je graag wil helpen met de vertaling, download dan de huidige po uit de plugin map en lees <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">hier</a> hoe je de plugin kan vertalen."
+

@@ -1,0 +1,3836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-17 14:19+0100\n"
+"PO-Revision-Date: 2011-06-13 10:57+0200\n"
+"Last-Translator: Darius Simavičius <darko@ipc.lt>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:97
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Išvertė: </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">Žiūrėti čia</a>"
+
+#: ../nggallery.php:98
+msgid "<strong>This translation is not yet updated for Version 1.8.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Šios kalbos vertimas versijai 1.8.0 dar neatnaujintas</strong>. Jeigu Jūs norėtumėte pagelbėti su vertimais, parsisiųskite dabartinį po failą iš įskiepio katalogo ir perskaitykite instrukciją <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">čia</a> kaip išversti įskiepį."
+
+#: ../nggallery.php:202
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "Atsiprašome, NextGEN galerija veikia tik jei PHP turi 16Mb atminties ar daugiau."
+
+#: ../nggallery.php:222
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Atnaujinkite NextGEN galerijos duomenų bazę"
+
+#: ../nggallery.php:222
+msgid "Click here to proceed."
+msgstr "Spauskite čia, pradėti."
+
+#: ../nggallery.php:245
+msgid "Picture tag"
+msgstr "Nuotraukos žyma"
+
+#: ../nggallery.php:246
+msgid "Picture tag: %2$l."
+msgstr "Nuotraukos žyma: %2$l."
+
+#: ../nggallery.php:247
+msgid "Separate picture tags with commas."
+msgstr "Atskirkite nuotraukų žymas kableliais."
+
+#: ../nggallery.php:347
+msgid "L O A D I N G"
+msgstr "ĮKELIAMA"
+
+#: ../nggallery.php:348
+msgid "Click to Close"
+msgstr "Spauskite uždaryti"
+
+#: ../nggallery.php:369
+msgid "loading"
+msgstr "įkeliama"
+
+#: ../nggallery.php:509
+#: ../nggfunctions.php:940
+#: ../admin/admin.php:35
+msgid "Overview"
+msgstr "Apžvalga"
+
+#: ../nggallery.php:510
+msgid "Get help"
+msgstr "Pagalba"
+
+#: ../nggallery.php:511
+msgid "Contribute"
+msgstr "Prisidėti"
+
+#: ../nggallery.php:512
+msgid "Donate"
+msgstr "Paremti"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "Reikalingas <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player įskiepis</a>  ir <a href=\"http://www.mozilla.com/firefox/\"> naršyklė su Javascript'o palaikymu</a>."
+
+#: ../nggfunctions.php:163
+#: ../nggfunctions.php:641
+msgid "[Gallery not found]"
+msgstr "[Galerija nerasta]"
+
+#: ../nggfunctions.php:448
+msgid "[Album not found]"
+msgstr "[Albumas nerastas]"
+
+#: ../nggfunctions.php:770
+msgid "[SinglePic not found]"
+msgstr "[Žurnalas nerastas]"
+
+#: ../nggfunctions.php:905
+msgid "Related images for"
+msgstr "Susieti nuotraukas "
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Copyright pastabos / Kreditai"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "NextGEN DEV komanda"
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Šis įskiepis pirmiausia vystomas, palaikomas ir dokumentuojamas"
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Taip pat yra daug kitų žmonių, kurie prisideda prie šio projekto:"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Bendradarbiai / Padėka"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Jeigu nagrinėji šio įskiepio kodą, pastebėsi, kad mes nemažai jau esančių gerų kodų ir idėjų suderinome kartu."
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Taigi, mes norėtume padėkoti žmonėms už jų savanorišką darbą (be šio darbo būtų neįmanoma sukurti tokį įskiepį taip greitai)"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "- už jų puikų dokumentuotą kodą"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "- už jQuery, kuri yra geriausia Web2.0 aplikacija"
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "- už fantastišką PHP glaudinimo klasę"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "- už daugybę naudingų įskiepių ir idėjų"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "už Shutter Reloaded, realų lightweight image efektą"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "- už geriausią Media Flash skriptą žemėje"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "Galerijos miniatūrai"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "už vandens ženklo įskiepį"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Jeigu jūs šiame sąraše neradote savo pavardės, bet yra dalis jūsų kodo, kurį aš integravau į įskiepį, nepasididžiuokite pranešti apie tai man el. paštu."
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "Kaip prisidėti prie vystymo?"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Yra keletas būdų prisidėti prie šio projekto vystymo. Nei vienas šių būdų nėra privalomas."
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Siųskite mums klaidų pataisymus / kodo pakeitimus"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Labiausiai motyvuojantis palaikymas šiam įskiepiui yra jūsų idėjos ir protinis darbas"
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Išverskite įskiepį"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Kad palengvinčiau žmonėms darbą su šiuo įskiepiu, labai norėčiau padaryti jį prieinamą visomis kalbomis"
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Paremkite darbą per Paypal"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Neabejotinai labai naudinga ir lengva motyvacija :)"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Įkelkite nuorodą į įskiepį savo blog'e ar tinklalapyje"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Taip, dalijimasis ir grįžtamąsis ryšis taip pat geras palaikymas šiam darbui"
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "Ačiū!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Mes norėtume padėkoti šiems žmonėms, kurie palaikė mus šiame darbe:"
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "ir visiems rėmėjams..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:124
+#: ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "Apgaudinėji, a?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Įkėlimas nepavyko!"
+
+#: ../admin/addgallery.php:85
+msgid "Upload failed! "
+msgstr "Įkėlimas nepavyko!"
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:938
+#: ../admin/functions.php:1038
+msgid "No gallery selected !"
+msgstr "Nepasirinkta galerija!"
+
+#: ../admin/addgallery.php:162
+msgid "Image Files"
+msgstr "Nuotraukos"
+
+#: ../admin/addgallery.php:183
+#: ../admin/addgallery.php:211
+msgid "remove"
+msgstr "ištrinti"
+
+#: ../admin/addgallery.php:184
+#: ../admin/addgallery.php:364
+msgid "Browse..."
+msgstr "Ieškoti..."
+
+#: ../admin/addgallery.php:185
+#: ../admin/addgallery.php:197
+#: ../admin/addgallery.php:414
+msgid "Upload images"
+msgstr "Įkelti nuotraukas"
+
+#: ../admin/addgallery.php:274
+#: ../admin/addgallery.php:380
+msgid "Upload Images"
+msgstr "Įkelti nuotraukas"
+
+#: ../admin/addgallery.php:277
+#: ../admin/addgallery.php:294
+#: ../admin/manage-galleries.php:119
+#: ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Sukurti naują galeriją"
+
+#: ../admin/addgallery.php:280
+#: ../admin/addgallery.php:316
+msgid "Upload a Zip-File"
+msgstr "Įkelti ZIP failą"
+
+#: ../admin/addgallery.php:283
+#: ../admin/addgallery.php:358
+msgid "Import image folder"
+msgstr "Importuoti nuotraukų direktoriją"
+
+#: ../admin/addgallery.php:299
+#: ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nauja galerija"
+
+#: ../admin/addgallery.php:302
+#: ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Sukurti naują, tuščią galeriją kataloge"
+
+#: ../admin/addgallery.php:304
+#: ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "Leistini simboliai failams ir direktorijoms yra"
+
+#: ../admin/addgallery.php:308
+msgid "Add gallery"
+msgstr "Sukurti galeriją"
+
+#: ../admin/addgallery.php:321
+msgid "Select Zip-File"
+msgstr "Pasirinkite ZIP failą"
+
+#: ../admin/addgallery.php:323
+msgid "Upload a zip file with images"
+msgstr "Įkelkite ZIP failą su nuotraukomis"
+
+#: ../admin/addgallery.php:327
+msgid "or enter a Zip-File URL"
+msgstr "arba įveskite ZIP failo URL adresą"
+
+#: ../admin/addgallery.php:329
+msgid "Import a zip file with images from a url"
+msgstr "Importuokite ZIP failą su nuotraukomis iš URL adreso"
+
+#: ../admin/addgallery.php:333
+#: ../admin/addgallery.php:389
+msgid "in to"
+msgstr "į:"
+
+#: ../admin/addgallery.php:335
+msgid "a new gallery"
+msgstr "Nauja galerija"
+
+#: ../admin/addgallery.php:346
+msgid "Note : The upload limit on your server is "
+msgstr "Pastaba: Įkėlimo limitas jūsų serveryje yra"
+
+#: ../admin/addgallery.php:350
+msgid "Start upload"
+msgstr "Pradėti įkėlimą"
+
+#: ../admin/addgallery.php:363
+msgid "Import from Server path:"
+msgstr "Importuoti iš katalogo serveryje:"
+
+#: ../admin/addgallery.php:366
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Pastaba: Keisti standartinį kelią galerijos nustatymuose"
+
+#: ../admin/addgallery.php:368
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Pastaba: Jeigu PHP.ini faile įjungtas saugus rėžimas (safe-mode=ON), jums reikia sukurti subdirektorijų miniatūras patiems"
+
+#: ../admin/addgallery.php:371
+msgid "Import folder"
+msgstr "Importuoti direktoriją"
+
+#: ../admin/addgallery.php:385
+msgid "Upload image"
+msgstr "Įkelti nuotrauką"
+
+#: ../admin/addgallery.php:391
+msgid "Choose gallery"
+msgstr "Pasirinkti galeriją"
+
+#: ../admin/addgallery.php:410
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Grupiniui įkėlimui reikalingas Adobe Flash 10, išjunkite jį jei turite dėl to problemų"
+
+#: ../admin/addgallery.php:410
+msgid "Disable flash upload"
+msgstr "Išjungti grupinį įkėlimą"
+
+#: ../admin/addgallery.php:412
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Įkelkite keletą failų vienų metu įjungtame pasirinkimo lange pasirinkdami norimus failus ctrl/shift mygtukais"
+
+#: ../admin/addgallery.php:412
+msgid "Enable flash based upload"
+msgstr "Aktyvuoti Flash grupinį įkėlimą"
+
+#: ../admin/admin.php:34
+#: ../admin/admin.php:60
+#: ../admin/admin.php:295
+#: ../admin/admin.php:373
+#: ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galerija"
+msgstr[1] "Galerijos"
+
+#: ../admin/admin.php:36
+msgid "Add Gallery / Images"
+msgstr "Sukurti galeriją / Įkelti nuotraukas"
+
+#: ../admin/admin.php:37
+msgid "Manage Gallery"
+msgstr "Tvarkyti galeriją"
+
+#: ../admin/admin.php:38
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Albumas"
+msgstr[1] "Albumai"
+
+#: ../admin/admin.php:39
+msgid "Tags"
+msgstr "Žymos"
+
+#: ../admin/admin.php:40
+msgid "Options"
+msgstr "Ypatybės"
+
+#: ../admin/admin.php:42
+msgid "Style"
+msgstr "Stilius"
+
+#: ../admin/admin.php:44
+msgid "Roles"
+msgstr "Teisės"
+
+#: ../admin/admin.php:45
+msgid "About this Gallery"
+msgstr "Apie šią galeriją"
+
+#: ../admin/admin.php:45
+msgid "About"
+msgstr "Apie"
+
+#: ../admin/admin.php:48
+msgid "NextGEN Gallery"
+msgstr "NextGEN galerija"
+
+#: ../admin/admin.php:51
+#: ../admin/admin.php:62
+msgid "Reset / Uninstall"
+msgstr "Atstatyti / išinstaliuoti"
+
+#: ../admin/admin.php:61
+msgid "Network settings"
+msgstr "Tinklo nustatymai"
+
+#: ../admin/admin.php:101
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Ačiū, kad naudojate šį įskiepį. Aš viliuosi, jūs esate patenkintas! Jeigu jūs norėtumete prisidėti prie tolimesnio vystymo, prašau paremti<strong><a href=\"%s\">mus</a></strong>. Jeigu jums reikia pagalbos, skelbkite klausimus <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">čia</a>."
+
+#: ../admin/admin.php:104
+msgid "OK, hide this message now !"
+msgstr "Puiku,  dabar paslėpkite šią žinutę!"
+
+#: ../admin/admin.php:189
+msgid "You do not have the correct permission"
+msgstr "Jūs neturite teisingų teisių"
+
+#: ../admin/admin.php:190
+msgid "Unexpected Error"
+msgstr "Nenustatyta klaida"
+
+#: ../admin/admin.php:191
+msgid "A failure occurred"
+msgstr "Įvyko klaida"
+
+#: ../admin/admin.php:299
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Įžanga (english)</a>"
+
+#: ../admin/admin.php:302
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction\" target=\"_blank\">Nustatymai (english)</a>"
+
+#: ../admin/admin.php:305
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Kitų kalbų palaikymas (english)</a>"
+
+#: ../admin/admin.php:308
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Teisės / Atsakomybė (english)</a>"
+
+#: ../admin/admin.php:311
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction\" target=\"_blank\">Stiliai (english)</a>"
+
+#: ../admin/admin.php:312
+msgid "Templates"
+msgstr "Šablonai"
+
+#: ../admin/admin.php:315
+#: ../admin/admin.php:321
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerijos valdymas (english)</a>"
+
+#: ../admin/admin.php:316
+msgid "Gallery example"
+msgstr "Galerijos pavyzdis"
+
+#: ../admin/admin.php:322
+#: ../admin/admin.php:332
+msgid "Gallery tags"
+msgstr "Galerijos žymos"
+
+#: ../admin/admin.php:325
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\">Albumo valdymas (english)</a>"
+
+#: ../admin/admin.php:326
+msgid "Album example"
+msgstr "Albumo pavyzdis"
+
+#: ../admin/admin.php:327
+#: ../admin/admin.php:333
+msgid "Album tags"
+msgstr "Albumo žymos"
+
+#: ../admin/admin.php:330
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerijos žymos (english)</a>"
+
+#: ../admin/admin.php:331
+msgid "Related images"
+msgstr "Susijusios nuotraukos"
+
+#: ../admin/admin.php:336
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Nuotraukų valdymas (english)</a>"
+
+#: ../admin/admin.php:337
+msgid "Custom fields"
+msgstr "Pildomi laukai"
+
+#: ../admin/admin.php:342
+msgid "Get help with NextGEN Gallery"
+msgstr "Gaukite pagalbą su NextGEN galerija"
+
+#: ../admin/admin.php:346
+msgid "More Help & Info"
+msgstr "Daugiau pagalbos ir informacijos"
+
+#: ../admin/admin.php:348
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Palaikymo forumas (English)</a>"
+
+#: ../admin/admin.php:349
+msgid "FAQ"
+msgstr "DUK (english)"
+
+#: ../admin/admin.php:350
+msgid "Feature request"
+msgstr "Reikalingas apibūdinimas"
+
+#: ../admin/admin.php:351
+msgid "Get your language pack"
+msgstr "Parsisiųskite savo kalbos paketą"
+
+#: ../admin/admin.php:352
+msgid "Contribute development"
+msgstr "Prisidėkite prie vystymo"
+
+#: ../admin/admin.php:353
+msgid "Download latest version"
+msgstr "Parsisiųskite naujausią versiją"
+
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Jūs neturite teisės būti čia."
+
+#: ../admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "Gali sukurti nuotrauką su %s x %s pikseliais"
+
+#: ../admin/album.php:102
+#: ../admin/album.php:117
+#: ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "Sėkmingai atnaujinta"
+
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "Albumas ištrintas"
+
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "Taisyti albumą"
+
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "Tvarkyti albumus"
+
+#: ../admin/album.php:284
+#: ../admin/album.php:333
+msgid "Select album"
+msgstr "Pasirinkti albumą"
+
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "Nepasirinktas albumas"
+
+#: ../admin/album.php:297
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "Atnaujinti"
+
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "Taisyti albumą"
+
+#: ../admin/album.php:302
+#: ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:440
+msgid "Delete"
+msgstr "Trinti"
+
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "Sukurti naują albumą"
+
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "Sukurti"
+
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "Rodyti / slėpti panaudotas galerijas"
+
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[Rodyti visus]"
+
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "Išplėsti valdiklio turinį"
+
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[Išplėsti]"
+
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "Sutraukti valdiklio turinį"
+
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[Sutraukti]"
+
+#: ../admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Kai sukuriate ir pasirenkate albumą, galite nutempti su pele galeriją ar kitą albumą į jūsų naująjį albumą."
+
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "Pasirinkite galeriją"
+
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "Albumo ID"
+
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "Nepasirinktas albumas!"
+
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "Albumo pavadinimas:"
+
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "Aprašymas:"
+
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "Pasirinkite peržiūros paveiksliuką:"
+
+#: ../admin/album.php:426
+#: ../admin/album.php:429
+msgid "No picture"
+msgstr "Nėra nuotraukos"
+
+#: ../admin/album.php:440
+#: ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Puslapio nuoroda į"
+
+#: ../admin/album.php:442
+#: ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "neturi nuorodos"
+
+#: ../admin/album.php:455
+#: ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317
+#: ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:525
+#: ../admin/manage-images.php:561
+#: ../admin/manage-images.php:590
+#: ../admin/manage-images.php:620
+msgid "OK"
+msgstr "Gerai"
+
+#: ../admin/album.php:457
+#: ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319
+#: ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:527
+#: ../admin/manage-images.php:563
+#: ../admin/manage-images.php:592
+#: ../admin/manage-images.php:622
+msgid "Cancel"
+msgstr "Atmesti"
+
+#: ../admin/album.php:541
+msgid "Name"
+msgstr "Vardas"
+
+#: ../admin/album.php:542
+#: ../admin/manage-images.php:255
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: ../admin/album.php:543
+msgid "Page"
+msgstr "Puslapis"
+
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Pasirinkite su pele plotą naujai miniatūrai"
+
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "Miniatūra atnaujinta"
+
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "Įvyko klaida atnaujinant miniatūrą"
+
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Pasirinkite plotą miniatūrai iš paveikslo kairėje"
+
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Neteisingas galerijos pavadinimas!"
+
+#: ../admin/functions.php:46
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+#: ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "Direktorija"
+
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "Neegzistuoja. Prašome pirmiausia sukurti pagrindinę galerijos direktoriją"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Skaitykite čia, jeigu jūs nežinote kaip nustatyti prieigos teises:"
+
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr "neįrašomas!"
+
+#: ../admin/functions.php:76
+#: ../admin/functions.php:85
+#: ../admin/functions.php:897
+msgid "Unable to create directory "
+msgstr "Neįmanoma sukurti direktorijos"
+
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "Serverio nustatymuose PHP.ini faile įjungtas Safe-Mode režimas!"
+
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "Jeigu iškilo problemų, sukurkite direktoriją"
+
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "ir miniatūrų direktoriją"
+
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "su prieigos teisėmis 777 rankiniu būdu!"
+
+#: ../admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "Galerija %1$s sukurta sėkmingai.<br/>Jūs galite rodyti šią galeriją jūsų įraše ar puslapyje su žyma: %2$s.<br/>"
+
+#: ../admin/functions.php:119
+msgid "Edit gallery"
+msgstr "Taisyti galeriją"
+
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "neegzistuoja!"
+
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "Nuotraukų nėra"
+
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "Klaida duomenų bazėje. Neįmanoma sukurti galerijos!"
+
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "sėkmingai sukurta!"
+
+#: ../admin/functions.php:212
+#: ../admin/functions.php:1014
+#: ../admin/manage-galleries.php:81
+#: ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203
+#: ../admin/manage-images.php:334
+#: ../admin/manage.php:223
+#: ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "Sukurti naujas miniatūras"
+
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " nuotrauka (-os) sėkmingai pridėta (-os). "
+
+#: ../admin/functions.php:265
+#: ../admin/functions.php:345
+#: ../admin/functions.php:400
+#: ../admin/functions.php:497
+#: ../admin/functions.php:551
+msgid "Object didn't contain correct data"
+msgstr "Objektas neturi teisingo įrašo"
+
+#: ../admin/functions.php:273
+msgid " is not writeable "
+msgstr "nėra įrašomas!"
+
+#: ../admin/functions.php:355
+#: ../admin/functions.php:403
+#: ../admin/functions.php:503
+#: ../admin/functions.php:554
+msgid " is not writeable"
+msgstr "nėra įrašomas"
+
+#: ../admin/functions.php:557
+msgid "File do not exists"
+msgstr "Failas neegzistuoja"
+
+#: ../admin/functions.php:561
+msgid "Couldn't restore original image"
+msgstr "Konnte Originalbild nicht wiederherstellen"
+
+#: ../admin/functions.php:677
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Klaida: Neįmanoma atnaujinti duomenų bazės)"
+
+#: ../admin/functions.php:684
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Klaida: Neįmanoma atnaujinti meta duomenų)"
+
+#: ../admin/functions.php:693
+msgid "(Error : Couldn't not find image)"
+msgstr "(Klaida: Neįmanoma rasti nuotraukos)"
+
+#: ../admin/functions.php:831
+msgid "No valid URL path "
+msgstr "Neteisingas URL kelias"
+
+#: ../admin/functions.php:847
+msgid "Import via cURL failed."
+msgstr "Importavimas iš URL nepavyko."
+
+#: ../admin/functions.php:864
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "Įkeltas ne ZIP failas arba jis su defektais! Serveris atpažįsta:"
+
+#: ../admin/functions.php:881
+msgid "Could not get a valid foldername"
+msgstr "Negali gauti teisingo direktorijos pavadinimo"
+
+#: ../admin/functions.php:892
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Neįmanoma sukurti %s direktorijos. Ar turi ši direktorija įrašymo teises į serverį?"
+
+#: ../admin/functions.php:907
+msgid "Zip-File successfully unpacked"
+msgstr "ZIP failas sėkmingai išarchyvuotas"
+
+#: ../admin/functions.php:946
+#: ../admin/functions.php:1063
+msgid "Failure in database, no gallery path set !"
+msgstr "Klaida duomenų bazėje, nenurodytas kelias iki galerijos!"
+
+#: ../admin/functions.php:970
+#: ../admin/functions.php:1057
+msgid "is no valid image file!"
+msgstr "neteisingas nuotraukos plėtinys!"
+
+#: ../admin/functions.php:984
+#: ../admin/functions.php:1183
+#: ../admin/functions.php:1260
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Neįmanoma įrašyti į %s direktoriją. Ar turi ši direktorija įrašymo teises į serverį?"
+
+#: ../admin/functions.php:991
+#: ../admin/functions.php:1080
+msgid "Error, the file could not be moved to : "
+msgstr "Klaida, failas negali būti perkeltas į:"
+
+#: ../admin/functions.php:996
+#: ../admin/functions.php:1084
+msgid "Error, the file permissions could not be set"
+msgstr "Klaida, failo įrašymo teisės nesukonfigūruotos"
+
+#: ../admin/functions.php:1019
+msgid " Image(s) successfully added"
+msgstr "Nuotrauka (-os) sėkmingai prijungta (-os)"
+
+#: ../admin/functions.php:1046
+msgid "Invalid upload. Error Code : "
+msgstr "Įkėlimas nepavyko. Klaidos kodas:"
+
+#: ../admin/functions.php:1123
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "Yra įjungtas safe-mode serverio PHP.ini failo nustatymuose. Jūs turite susikurti direktoriją <strong>%s</strong> rankiniu būdu."
+
+#: ../admin/functions.php:1124
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Kai safe-mode yra įjungtas, PHP naudodama failo funkcijas ar jo direktorijas, patikrina ar esamo skripto (%s) autorius sutampa su vykdomo failo (%s) autoriumi."
+
+#: ../admin/functions.php:1177
+#: ../admin/functions.php:1254
+msgid "The destination gallery does not exist"
+msgstr "Tikslinė galerija neegzistuoja"
+
+#: ../admin/functions.php:1208
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "%1$s nuotraukos perkėlimas į %2$s nepavyko"
+
+#: ../admin/functions.php:1228
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr " %1$s nuotrauka (-os) perkeltos į galeriją %2$s."
+
+#: ../admin/functions.php:1287
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "%1$s nuotraukos kopijavimas į %2$s nepavyko"
+
+#: ../admin/functions.php:1301
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Duomenų bazės eilutės kopijavimas nuotraukai %s nepavyko"
+
+#: ../admin/functions.php:1313
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Nuotrauka %1$s (%2$s) nukopijuota kaip %3$s (%4$s) &raquo; Failas taip pat egzistuoja tikslinėje galerijoje."
+
+#: ../admin/functions.php:1316
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Nuotrauka %1$s (%2$s) nukopijuota kaip %3$s (%4$s)"
+
+#: ../admin/functions.php:1325
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Nukopijuota(-os) %1$s nuotraukos į galeriją: %2$s."
+
+#: ../admin/functions.php:1433
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Įkeltas failas viršijo nustatytą UPLOAD_MAX_FILESIZE dydį php.ini faile"
+
+#: ../admin/functions.php:1436
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "Įkeltas failas viršijo MAX_FILE_SIZE dydį, kuris buvo nurodytas HTML formoje"
+
+#: ../admin/functions.php:1439
+msgid "The uploaded file was only partially uploaded"
+msgstr "Failas įkeltas tik dalinai"
+
+#: ../admin/functions.php:1442
+msgid "No file was uploaded"
+msgstr "Nieko neįkelta"
+
+#: ../admin/functions.php:1445
+msgid "Missing a temporary folder"
+msgstr "Laikinasis katalogas nerastas"
+
+#: ../admin/functions.php:1448
+msgid "Failed to write file to disk"
+msgstr "Nepavyko įrašyti failo į diską"
+
+#: ../admin/functions.php:1451
+msgid "File upload stopped by extension"
+msgstr "Failo įkėlimas sustabdytas dėl plėtinio"
+
+#: ../admin/functions.php:1454
+msgid "Unknown upload error"
+msgstr "Nežinoma įkėlimo klaida"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Atsiprašome, NextGEN Galerija dirba tik su administratoriaus teisėmis."
+
+#: ../admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Galerija: Lentelės nesukurtos, patikrinkite duomenų bazės nustatymus"
+
+#: ../admin/install.php:171
+msgid "[Show as slideshow]"
+msgstr "[Rodyti kaip skaidres]"
+
+#: ../admin/install.php:172
+msgid "[Show picture list]"
+msgstr "[Rodyti nuotraukų sąrašą]"
+
+#: ../admin/manage-galleries.php:69
+#: ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "Nuotraukos nepasirinktos"
+
+#: ../admin/manage-galleries.php:77
+#: ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199
+#: ../admin/manage-images.php:335
+#: ../admin/manage.php:207
+#: ../admin/manage.php:285
+msgid "Resize images"
+msgstr "Keisti nuotraukų dydį"
+
+#: ../admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Planuojate didelį galerijos %s tvarkymą \n"
+" \n"
+" 'Atšaukti' sustabdyti veiksmus, 'Gerai' pradėti."
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225
+#: ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Ieškoti nuotraukų"
+
+#: ../admin/manage-galleries.php:145
+#: ../admin/manage-images.php:332
+msgid "Bulk actions"
+msgstr "Jokio veiksmo"
+
+#: ../admin/manage-galleries.php:147
+#: ../admin/manage-images.php:333
+#: ../admin/manage.php:140
+#: ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "Uždėti vandens ženklą"
+
+#: ../admin/manage-galleries.php:150
+#: ../admin/manage-images.php:338
+#: ../admin/manage.php:145
+#: ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "Importuoti meta duomenis"
+
+#: ../admin/manage-galleries.php:151
+#: ../admin/manage-images.php:336
+#: ../admin/manage.php:135
+#: ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "Atstatyti iš atsarginės kopijos"
+
+#: ../admin/manage-galleries.php:153
+#: ../admin/manage-images.php:347
+msgid "Apply"
+msgstr "Taikyti"
+
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "Taisyti"
+
+#: ../admin/manage-galleries.php:261
+#: ../admin/manage-images.php:498
+msgid "No entries found"
+msgstr "Įrašų nerasta"
+
+#: ../admin/manage-galleries.php:308
+#: ../admin/manage-images.php:581
+msgid "Resize Images to"
+msgstr "Keisti nuotraukų dydį į"
+
+#: ../admin/manage-galleries.php:312
+#: ../admin/manage-images.php:585
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Plotis x Ilgis (Pikseliais). Galerija automatiškai nustatys vieną parametrų."
+
+#: ../admin/manage-galleries.php:336
+#: ../admin/manage-images.php:609
+msgid "Width x height (in pixel)"
+msgstr "Plotis x Ilgis (Pikseliais)"
+
+#: ../admin/manage-galleries.php:338
+#: ../admin/manage-images.php:611
+msgid "These values are maximum values "
+msgstr "Šios reikšmės yra maksimaliai leistinos"
+
+#: ../admin/manage-galleries.php:341
+#: ../admin/manage-images.php:614
+msgid "Set fix dimension"
+msgstr "Nustatykite fiksuotą matmenį"
+
+#: ../admin/manage-galleries.php:343
+#: ../admin/manage-images.php:616
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignoruoti raišką, nereikia miniatūrų"
+
+#: ../admin/manage-galleries.php:406
+#: ../admin/manage-images.php:684
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:408
+#: ../admin/manage-images.php:266
+#: ../admin/manage-images.php:687
+msgid "Description"
+msgstr "Aprašymas"
+
+#: ../admin/manage-galleries.php:409
+#: ../admin/manage-images.php:287
+msgid "Author"
+msgstr "Autorius"
+
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "Puslapio ID"
+
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Bild"
+msgstr[1] "Bilder"
+
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "Galerija nerasta."
+
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Atsiprašome, jūs neturite teisės patekti čia."
+
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "Kopijuoti į..."
+
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "Perkelti į..."
+
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "Sukurti naujas žymas"
+
+#: ../admin/manage-images.php:191
+#: ../admin/manage-images.php:344
+msgid "Delete tags"
+msgstr "Ištrinti žymas"
+
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "Perrašyti"
+
+#: ../admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Jūs pradedate didelį %s nuotraukų tvarkymą \n"
+" \n"
+" 'Atšaukti' tvarkymą sustabdysite, 'Gerai' pradėsite."
+
+#: ../admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Ieškoti rezultatų &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "Galerijos ypatybės"
+
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Daugiau nustatymų rasite čia"
+
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Albumo nuotrauka"
+
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Nėra nuotraukos"
+
+#: ../admin/manage-images.php:285
+msgid "Path"
+msgstr "Kelias"
+
+#: ../admin/manage-images.php:302
+msgid "Create new page"
+msgstr "Sukurti naują puslapį"
+
+#: ../admin/manage-images.php:305
+msgid "Main page (No parent)"
+msgstr "Pagrindinis puslapis (ne tėvinis)"
+
+#: ../admin/manage-images.php:308
+msgid "Add page"
+msgstr "Sukurti puslapį"
+
+#: ../admin/manage-images.php:317
+msgid "Scan Folder for new images"
+msgstr "Ieškoti kataloge ar nėra naujų nuotraukų"
+
+#: ../admin/manage-images.php:318
+#: ../admin/manage-images.php:353
+#: ../admin/manage-images.php:505
+msgid "Save Changes"
+msgstr "Įrašyti pakeitimus"
+
+#: ../admin/manage-images.php:337
+msgid "Delete images"
+msgstr "Ištrinti nuotraukas"
+
+#: ../admin/manage-images.php:339
+msgid "Rotate images clockwise"
+msgstr "Sukti nuotrauką pagal laikrodžio rodyklę"
+
+#: ../admin/manage-images.php:340
+msgid "Rotate images counter-clockwise"
+msgstr "Sukti nuotrauką prieš laikrodžio rodyklę"
+
+#: ../admin/manage-images.php:341
+msgid "Copy to..."
+msgstr "Kopijuoti į..."
+
+#: ../admin/manage-images.php:342
+msgid "Move to..."
+msgstr "Perkelti į..."
+
+#: ../admin/manage-images.php:343
+msgid "Add tags"
+msgstr "Sukurti žymas"
+
+#: ../admin/manage-images.php:345
+msgid "Overwrite tags"
+msgstr "Perrašyti žymas"
+
+#: ../admin/manage-images.php:350
+msgid "Sort gallery"
+msgstr "Rūšiuoti galeriją"
+
+#: ../admin/manage-images.php:426
+msgid "pixel"
+msgstr "pikselių"
+
+#: ../admin/manage-images.php:432
+#, php-format
+msgid "View \"%s\""
+msgstr "Peržiūrėti \"%s\""
+
+#: ../admin/manage-images.php:432
+msgid "View"
+msgstr "Peržiūrėti"
+
+#: ../admin/manage-images.php:433
+msgid "Show Meta data"
+msgstr "Rodyti meta duomenis"
+
+#: ../admin/manage-images.php:433
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:434
+msgid "Customize thumbnail"
+msgstr "Pritaikyti miniatūrą"
+
+#: ../admin/manage-images.php:434
+msgid "Edit thumb"
+msgstr "Taisyti miniatūrą"
+
+#: ../admin/manage-images.php:435
+msgid "Rotate"
+msgstr "Apversti"
+
+#: ../admin/manage-images.php:437
+msgid "Publish this image"
+msgstr "Bild veröffentlichen"
+
+#: ../admin/manage-images.php:437
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: ../admin/manage-images.php:439
+msgid "Recover"
+msgstr "Atstatyti"
+
+#: ../admin/manage-images.php:439
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr " Atstatyti \"%s\"?"
+
+#: ../admin/manage-images.php:440
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Trinti \"%s\""
+
+#: ../admin/manage-images.php:521
+msgid "Enter the tags"
+msgstr "Įvesti žymas"
+
+#: ../admin/manage-images.php:545
+msgid "Select the destination gallery:"
+msgstr "Pasirinkti tikslinę galeriją:"
+
+#: ../admin/manage-images.php:685
+msgid "Thumbnail"
+msgstr "Miniatūra"
+
+#: ../admin/manage-images.php:686
+#: ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Failo pavadinimas"
+
+#: ../admin/manage-images.php:687
+msgid "Alt &amp; Title Text"
+msgstr "Alt + Pavadinimo tekstas"
+
+#: ../admin/manage-images.php:688
+msgid "Tags (comma separated list)"
+msgstr "Žymos (daugiau žymų galite atskirti kableliais)"
+
+#: ../admin/manage-images.php:689
+msgid "exclude"
+msgstr "Išskirti"
+
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Pakeistas rūšiavimas"
+
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Rūšiuoti galeriją"
+
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Atnaujinti rūšiavimą"
+
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Grįžti į galeriją"
+
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "išskirstyti"
+
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Nesurūšiuoti"
+
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "Nuotraukos ID"
+
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "Alt / Pavadinimas"
+
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "Data/Laikas"
+
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "Didėjančia tvarka"
+
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "Mažėjančia tvarka"
+
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "Nuotrauka"
+
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "ištrinta sėkmingai"
+
+#: ../admin/manage.php:99
+#: ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operacija įvykdyta sėkmingai. Išvalykite jūsų naršyklės tarpinę atmintį (Cache)."
+
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "Galerija ištrinta sėkmingai"
+
+#: ../admin/manage.php:240
+#: ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "Sukioti nuotraukas"
+
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "Nuotraukos ištrintos sėkmingai"
+
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "Žymos pakeistos"
+
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "Atnaujinimas sėkmingas"
+
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "Naujas galerijos puslapio ID"
+
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "sukurta"
+
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "Verföffentliche einen neuen Beitrag"
+
+#: ../admin/manage.php:572
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 elementas"
+msgstr[1] "%s elementų(-ai)"
+
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Nėra galerijos"
+
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Pasirinkta &#187;"
+
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "Rodyti"
+
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "Slėpti"
+
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "Nuotraukos ID:"
+
+#: ../admin/media-upload.php:229
+#: ../admin/publish.php:55
+msgid "Alignment"
+msgstr "Reguliavimas"
+
+#: ../admin/media-upload.php:232
+#: ../admin/publish.php:57
+#: ../admin/settings.php:484
+msgid "None"
+msgstr "Joks"
+
+#: ../admin/media-upload.php:234
+#: ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "Kairė"
+
+#: ../admin/media-upload.php:236
+#: ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "Centras"
+
+#: ../admin/media-upload.php:238
+#: ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "Dešinė"
+
+#: ../admin/media-upload.php:242
+#: ../admin/settings.php:591
+msgid "Size"
+msgstr "Dydis"
+
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "Pilnas dydis"
+
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Nuotraukos nustatymai"
+
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Įterpti į įrašą"
+
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Išsaugoti visus pakeitimus"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Galerijos apžvalga"
+
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Sveiki atvykę į NextGEN Galeriją!"
+
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "Ar patinka jums šis įskiepis?"
+
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "Vertimas"
+
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "Paskutinės naujienos"
+
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "Naujausi rėmėjai"
+
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "Įskiepio tikrinimas"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "Serverio nustatymai"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "Susiję įskiepiai"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Šio įskiepį pagrinde tobulina, palaiko  ir dokumentuoja su begaline meile ir didelėmis pastangomis<a href=\"%s\">Alex Rabe</a>. Bent koks jūsų įnašas su didžiuliu dėkingumu laukiamas.Ačiū!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Reitinguokite tai teigiamai WordPress.org tinklalapyje"
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Paremkite darbą per Paypal"
+
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "Padėkite išversti įskiepį. "
+
+#: ../admin/overview.php:253
+msgid "Running..."
+msgstr "Paeiliui..."
+
+#: ../admin/overview.php:300
+msgid "Check plugin/theme conflict"
+msgstr "Tikrinti įskiepio/šablono konfliktą"
+
+#: ../admin/overview.php:301
+#: ../admin/overview.php:307
+#: ../admin/overview.php:313
+msgid "Not tested"
+msgstr "Netestuota"
+
+#: ../admin/overview.php:302
+msgid "No conflict could be detected"
+msgstr "Konfliktas nenustatytas"
+
+#: ../admin/overview.php:303
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Testas nepavyko. Išjunkite kitus įskiepius ir įjunkite standartinį šabloną"
+
+#: ../admin/overview.php:306
+msgid "Test image function"
+msgstr "Testuoti nuotraukos funkciją"
+
+#: ../admin/overview.php:308
+msgid "The plugin could create images"
+msgstr "Įskiepis gali sukurti nuotraukas"
+
+#: ../admin/overview.php:309
+msgid "Couldn't create image, check your memory limit"
+msgstr "Neįmanoma sukurti nuotraukos, patikrinkite jūsų atminties limitą"
+
+#: ../admin/overview.php:312
+msgid "Check theme compatibility"
+msgstr "Testuoti šablono suderinamumą"
+
+#: ../admin/overview.php:314
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "Jūsų šablonas turėtų gerai susisieti su NextGEN galerija."
+
+#: ../admin/overview.php:315
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "Trūksta wp_head()/wp_footer() dalies. Susisiekite su šablono autoriumi"
+
+#: ../admin/overview.php:319
+msgid "Check plugin"
+msgstr "Tikrinti įskiepį"
+
+#: ../admin/overview.php:340
+msgid "Graphic Library"
+msgstr "Grafikos biblioteka"
+
+#: ../admin/overview.php:356
+#: ../admin/overview.php:405
+#: ../admin/overview.php:592
+#: ../admin/overview.php:782
+msgid "Loading&#8230;"
+msgstr "Įkeliama&#8230;"
+
+#: ../admin/overview.php:356
+#: ../admin/overview.php:405
+#: ../admin/overview.php:592
+#: ../admin/overview.php:782
+msgid "This widget requires JavaScript."
+msgstr "Šiam valdikliui reikalinga JavaScript."
+
+#: ../admin/overview.php:369
+msgid "Thanks to all donators..."
+msgstr "Dėkojame visiems rėmėjams..."
+
+#: ../admin/overview.php:391
+msgid "View all"
+msgstr "Peržiūrėti visus"
+
+#: ../admin/overview.php:417
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Neįmanoma įkelti naujienų srauto. Pabandykite <a href=\"%s\">pagrindinį puslapį</a>, kad galėtume patikrinti ar yra atnaujinimų."
+
+#: ../admin/overview.php:429
+msgid "Untitled"
+msgstr "Be pavadinimo"
+
+#: ../admin/overview.php:479
+msgid "At a Glance"
+msgstr "Balansas"
+
+#: ../admin/overview.php:505
+msgid "Upload pictures"
+msgstr "Įkelti nuotraukas"
+
+#: ../admin/overview.php:506
+msgid "Here you can control your images, galleries and albums."
+msgstr "Čia jūs galite kontroliuoti jūsų nuotraukas, galerijas ir albumus."
+
+#: ../admin/overview.php:536
+msgid "Storage Space"
+msgstr "Atminties vieta:"
+
+#: ../admin/overview.php:540
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Tvarkyti įkėlimus\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:541
+msgid "Space Allowed"
+msgstr "Leistinas dydis"
+
+#: ../admin/overview.php:548
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Tvarkyti įkėlimus\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:549
+msgid "Space Used"
+msgstr "Išnaudota vietos:"
+
+#: ../admin/overview.php:578
+msgid "Translation file successful updated. Please reload page."
+msgstr "Vertimo failas sėkmingai įkeltas. Pekraukite puslapį."
+
+#: ../admin/overview.php:580
+msgid "Reload page"
+msgstr "Perkrauti puslapį"
+
+#: ../admin/overview.php:585
+msgid "Translation file couldn't be updated"
+msgstr "Vertimo failas negali būti atnaujintas"
+
+#: ../admin/overview.php:622
+msgid "Download"
+msgstr "Parsisiųskite čia"
+
+#: ../admin/overview.php:651
+msgid "No GD support"
+msgstr "Nėra GD palaikymo"
+
+#: ../admin/overview.php:663
+#: ../admin/overview.php:709
+#: ../admin/overview.php:712
+#: ../admin/overview.php:715
+msgid "Yes"
+msgstr "Taip"
+
+#: ../admin/overview.php:665
+#: ../admin/overview.php:710
+#: ../admin/overview.php:713
+#: ../admin/overview.php:716
+msgid "No"
+msgstr "Ne"
+
+#: ../admin/overview.php:683
+msgid "Not set"
+msgstr "Nenustatyta"
+
+#: ../admin/overview.php:685
+#: ../admin/overview.php:688
+msgid "On"
+msgstr "Įjungta"
+
+#: ../admin/overview.php:686
+#: ../admin/overview.php:689
+msgid "Off"
+msgstr "Išjungta"
+
+#: ../admin/overview.php:692
+#: ../admin/overview.php:695
+#: ../admin/overview.php:698
+#: ../admin/overview.php:701
+#: ../admin/overview.php:704
+#: ../admin/overview.php:707
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:706
+msgid " MByte"
+msgstr "Mb"
+
+#: ../admin/overview.php:719
+msgid "Operating System"
+msgstr "Operacinė sistema"
+
+#: ../admin/overview.php:720
+msgid "Server"
+msgstr "Serveris"
+
+#: ../admin/overview.php:721
+msgid "Memory usage"
+msgstr "Atminties panaudojimas"
+
+#: ../admin/overview.php:722
+msgid "MYSQL Version"
+msgstr "MySQL versija"
+
+#: ../admin/overview.php:723
+msgid "SQL Mode"
+msgstr "SQL režimas"
+
+#: ../admin/overview.php:724
+msgid "PHP Version"
+msgstr "PHP versija"
+
+#: ../admin/overview.php:725
+msgid "PHP Safe Mode"
+msgstr "PHP saugus režimas (Safe mode)"
+
+#: ../admin/overview.php:726
+msgid "PHP Allow URL fopen"
+msgstr "PHP leidžia URL atidarymą (fopen)"
+
+#: ../admin/overview.php:727
+msgid "PHP Memory Limit"
+msgstr "PHP atminties limitas"
+
+#: ../admin/overview.php:728
+msgid "PHP Max Upload Size"
+msgstr "PHP Maks. įkėlimo dydis"
+
+#: ../admin/overview.php:729
+msgid "PHP Max Post Size"
+msgstr "PHP Maks. įrašo dydis"
+
+#: ../admin/overview.php:730
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking Limit"
+
+#: ../admin/overview.php:731
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Maks. skripto vykdymo laikas"
+
+#: ../admin/overview.php:732
+msgid "PHP Exif support"
+msgstr "PHP Exif palaikymas"
+
+#: ../admin/overview.php:733
+msgid "PHP IPTC support"
+msgstr "PHP IPTC palaikymas"
+
+#: ../admin/overview.php:734
+msgid "PHP XML support"
+msgstr "PHP XML palaikymas"
+
+#: ../admin/overview.php:746
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGEN Galerija susideda iš dalies funkcijų, kurios yra leidžiamos tik nuo PHP 5.2 versijos. Jūs naudojate senąją PHP 4 versiją, kurios jau nebepalaiko PHP darbo grupė. Dauguma serverių paslaugų tiekėjų siūlo PHP4 ir PHP5 kartu, kurie veikia tuo pačiu metu. Klauskite savo tiekėjo ar jums gali atnaujinti PHP versiją. "
+
+#: ../admin/overview.php:838
+msgid "Install"
+msgstr "Instaliuoti"
+
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "Beitragstitel"
+
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "Įveskite įrašo pavadinimą"
+
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "Nuotraukos dydis"
+
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "Entwurf"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Atnaujintos galimybės"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Teisės / galimybės"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Pasirinkite žemiausią rolę, su kuria pasieksite sekančias galimybes. NextGEN galerija palaiko standartines Wordpress roles."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Lankstesniui vartotojų valdymui jūs galite naudoti"
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGEN galerijos apžvalga"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "TinyMCE mygtukas / Įkėlimo kortelė"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Sukurti galeriją / Įkelti nuotraukas"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Tvarkyti galeriją"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Tvarkyti kitas galerijas"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "Tvarkyti žymas"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "Keisti stilių"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "Keisti ypatybes"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Atnaujinti galimybes"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Nuotrauka apsukta"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Įvyko klaida bandant apsukti miniatūrą"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90° pagal laikrodžio rodyklę"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90° prieš laikrodžio rodyklę"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Perversti vertikaliai"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Perversti horizontaliai"
+
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "Atsargos atmintis (Cache) išvalyta"
+
+#: ../admin/settings.php:216
+#: ../admin/settings.php:235
+msgid "General Options"
+msgstr "Pagrindiniai nustatymai"
+
+#: ../admin/settings.php:217
+#: ../admin/settings.php:421
+msgid "Thumbnails"
+msgstr "Miniatūros"
+
+#: ../admin/settings.php:218
+msgid "Images"
+msgstr "Nuotraukos"
+
+#: ../admin/settings.php:220
+#: ../admin/settings.php:473
+msgid "Effects"
+msgstr "Efektai"
+
+#: ../admin/settings.php:221
+#: ../admin/settings.php:515
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "Vandens ženklas"
+
+#: ../admin/settings.php:222
+#: ../admin/settings.php:422
+#: ../admin/settings.php:622
+#: ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "Skaidrės"
+
+#: ../admin/settings.php:241
+#: ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "Kelias iki galerijos:"
+
+#: ../admin/settings.php:243
+msgid "This is the default path for all galleries"
+msgstr "Tai standartinis kelias visoms galerijoms"
+
+#: ../admin/settings.php:246
+msgid "Delete image files"
+msgstr "Ištrinti nuotraukų failus"
+
+#: ../admin/settings.php:248
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Ištrinti failus, kai ištrinama galerija iš duomenų bazės"
+
+#: ../admin/settings.php:251
+msgid "Activate permalinks"
+msgstr "Aktyvuoti tiesiogines nuorodas (permalinks)"
+
+#: ../admin/settings.php:253
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Kai jūs aktyvuojate šią nuostatą, jums reikia atnaujinti jūsų tiesioginių nuorodų struktūrą."
+
+#: ../admin/settings.php:254
+msgid "Gallery slug name :"
+msgstr "Galerijos šliūžo pavadinimas:"
+
+#: ../admin/settings.php:258
+msgid "Create new URL friendly image slugs"
+msgstr "Sukurti naują URL šliužą nuotraukos pasiekiamumui"
+
+#: ../admin/settings.php:259
+#: ../admin/settings.php:375
+msgid "Proceed now"
+msgstr "Pradėti dabar"
+
+#: ../admin/settings.php:262
+msgid "Select graphic library"
+msgstr "Pasirinkti grafikos biblioteką"
+
+#: ../admin/settings.php:263
+msgid "GD Library"
+msgstr "GD biblioteka"
+
+#: ../admin/settings.php:264
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Eksperimentinis). Kelias iki bibliotekos:"
+
+#: ../admin/settings.php:269
+msgid "Activate Media RSS feed"
+msgstr "Aktyvuoti Medijos RSS srautą"
+
+#: ../admin/settings.php:271
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSS srautas bus įkeltas į jūsų blogo viršutinę puslapio antraštę. Naudingas CoolIris/PicLens programai"
+
+#: ../admin/settings.php:274
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktyvuoti PicLens/CoolIris programą"
+
+#: ../admin/settings.php:276
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Kai jūs aktyvuosite šį nustatymą, dalis javaskript kodo bus įkelta į jūsų saito apatinę puslapio eilutę. Įsitikinkite, kad jūsų šablone funkcija wp_footer() paminėta."
+
+#: ../admin/settings.php:279
+msgid "Tags / Categories"
+msgstr "Žymos / Kategorijos"
+
+#: ../admin/settings.php:282
+msgid "Activate related images"
+msgstr "Aktyvuoti susijusias nuotraukas"
+
+#: ../admin/settings.php:284
+msgid "This option will append related images to every post"
+msgstr "Šis nustatymas pridės susijusias nuotraukas į kiekvieną įrašą"
+
+#: ../admin/settings.php:288
+msgid "Match with"
+msgstr "Suderinti su"
+
+#: ../admin/settings.php:289
+msgid "Categories"
+msgstr "Kategorijos"
+
+#: ../admin/settings.php:294
+msgid "Max. number of images"
+msgstr "Maks. nuotraukų skaičius"
+
+#: ../admin/settings.php:296
+msgid "0 will show all images"
+msgstr "0 rodys visas nuotraukas"
+
+#: ../admin/settings.php:300
+#: ../admin/settings.php:331
+#: ../admin/settings.php:378
+#: ../admin/settings.php:463
+#: ../admin/settings.php:498
+#: ../admin/settings.php:759
+msgid "More settings"
+msgstr "Daugiau nustatymų"
+
+#: ../admin/settings.php:310
+msgid "Thumbnail settings"
+msgstr "Miniatūrų nustatymai"
+
+#: ../admin/settings.php:314
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "šDėmesio! Jei pakeisite nustatymus, jums reikės atkurti miniatūras per -> Tvarkyti galeriją."
+
+#: ../admin/settings.php:327
+msgid "Thumbnail quality"
+msgstr "Miniatūros kokybė"
+
+#: ../admin/settings.php:341
+msgid "Image settings"
+msgstr "Nuotraukos ypatybės"
+
+#: ../admin/settings.php:347
+msgid "Resize Images"
+msgstr "Keisti nuotraukų dydį"
+
+#: ../admin/settings.php:352
+msgid "Image quality"
+msgstr "Nuotraukos kokybė"
+
+#: ../admin/settings.php:356
+msgid "Backup original images"
+msgstr "Originalių nuotraukų atsarginė kopija"
+
+#: ../admin/settings.php:358
+msgid "Creates a backup for inserted images"
+msgstr "Sukuria įkeltų nuotraukų atsarginę kopiją"
+
+#: ../admin/settings.php:361
+msgid "Automatically resize"
+msgstr "Automatiškai pakeisti dydį"
+
+#: ../admin/settings.php:363
+msgid "Automatically resize images on upload."
+msgstr "Automatiškai pakeisti nuotraukų dydį įkeliant"
+
+#: ../admin/settings.php:366
+msgid "Single picture"
+msgstr "Viena nuotrauka"
+
+#: ../admin/settings.php:369
+msgid "Cache single pictures"
+msgstr "Įkelti į atsargos atmintį (Cache) pavienes nuotraukas"
+
+#: ../admin/settings.php:371
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Sukurti failą kiekvienos nuotraukas nustatymui. Sumažinti CPU apkrovimą"
+
+#: ../admin/settings.php:374
+msgid "Clear cache folder"
+msgstr "Išvalyti atsargos atminties direktoriją (Cache)"
+
+#: ../admin/settings.php:395
+msgid "Deactivate gallery page link"
+msgstr "Išformuoti galerijos puslapio nuorodą"
+
+#: ../admin/settings.php:397
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Albumas negali prisijungti prie galerijos sub-puslapio. Galerija rodoma tame pačiame puslapyje."
+
+#: ../admin/settings.php:401
+msgid "Number of images per page"
+msgstr "Nuotraukų skaičius puslapyje"
+
+#: ../admin/settings.php:403
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 išjungs puslapių numeravimą, visos nuotraukos viename puslapyje"
+
+#: ../admin/settings.php:407
+msgid "Number of columns"
+msgstr "Stulpelių skaičius"
+
+#: ../admin/settings.php:409
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 rodys tokį plotį, kiek yra įmanoma pagal jūsų šabloną. Nustatyti normaliai reikia tik antraštėms po nuotraukomis."
+
+#: ../admin/settings.php:413
+msgid "Integrate slideshow"
+msgstr "Integruoti skaidres"
+
+#: ../admin/settings.php:420
+msgid "Show first"
+msgstr "Rodyti pirmą"
+
+#: ../admin/settings.php:426
+msgid "Show ImageBrowser"
+msgstr "Rodyti Nuotraukų naršyklę"
+
+#: ../admin/settings.php:428
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galerija atidarys Nuotraukų naršyklę vietoj efekto."
+
+#: ../admin/settings.php:432
+msgid "Add hidden images"
+msgstr "Prijungti paslėptas nuotraukas"
+
+#: ../admin/settings.php:434
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "Jei puslapių numeravimas naudojamas, šis nustatymas rodys visas nuotraukas modaliniame lange (Thickbox, Lightbox ir t.t.). Pastaba: Tai padidins puslapio apkrovą. "
+
+#: ../admin/settings.php:438
+msgid "Enable AJAX pagination"
+msgstr "Aktyvuoti AJAX puslapiavimą"
+
+#: ../admin/settings.php:440
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "Ieškoti nuotraukų be puslapio perkrovimo. Pastaba: Dirbs tik kartu su Shutter effect. "
+
+#: ../admin/settings.php:444
+msgid "Sort options"
+msgstr "Rūšiavimo nustatymai"
+
+#: ../admin/settings.php:447
+msgid "Sort thumbnails"
+msgstr "Rūšiuoti miniatūras"
+
+#: ../admin/settings.php:449
+msgid "Custom order"
+msgstr "Privatus pasirinkimas"
+
+#: ../admin/settings.php:451
+msgid "File name"
+msgstr "Pavadinimas"
+
+#: ../admin/settings.php:452
+msgid "Alt / Title text"
+msgstr "Alt / Pavadinimas"
+
+#: ../admin/settings.php:453
+msgid "Date / Time"
+msgstr "Data/Laikas"
+
+#: ../admin/settings.php:457
+msgid "Sort direction"
+msgstr "Rūšiavimo kryptis"
+
+#: ../admin/settings.php:477
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Čia jūs galite pasirinkti miniatūros efektą, NextGEN galerija integruos reikalingą HTML kodą nuotraukose. Įsiminkite, tik Shutter ir Thickbox efektai automatiškai įkeliami į jūsų šabloną."
+
+#: ../admin/settings.php:478
+msgid "With the placeholder"
+msgstr "Su rezerviniu žodžiu"
+
+#: ../admin/settings.php:478
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "jūs galite aktyvuoti navigaciją per nuotraukas (priklauso nuo efekto). Keiskite kodo eilutę tik, kai jūs žinote ką darote ar naudojate skirtingą miniatūrų efektą."
+
+#: ../admin/settings.php:481
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript miniatūros efektas"
+
+#: ../admin/settings.php:485
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:486
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:487
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:488
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:489
+msgid "Custom"
+msgstr "Pasirinktinai"
+
+#: ../admin/settings.php:494
+msgid "Link Code line"
+msgstr "Nuorodos kodo eilutė"
+
+#: ../admin/settings.php:516
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Pastaba: Jūs galite aktyvuoti vandens ženklą per -> Tvarkyti galeriją. Šis veiksmas negrįžtamas."
+
+#: ../admin/settings.php:521
+msgid "Preview"
+msgstr "Žiūrėti"
+
+#: ../admin/settings.php:523
+#: ../admin/settings.php:528
+msgid "Position"
+msgstr "Pozicija"
+
+#: ../admin/settings.php:548
+msgid "Offset"
+msgstr "Ofsetas"
+
+#: ../admin/settings.php:564
+msgid "Use image as watermark"
+msgstr "Naudoti nuotrauką kaip vandens ženklą"
+
+#: ../admin/settings.php:567
+msgid "URL to file"
+msgstr "URL iki failo"
+
+#: ../admin/settings.php:569
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "URL failų pasiekiamumas yra draudžiamas jūsų serveryje (allow_url_fopen)"
+
+#: ../admin/settings.php:572
+msgid "Use text as watermark"
+msgstr "Naudoti tekstą kaip vandens ženklą"
+
+#: ../admin/settings.php:575
+msgid "Font"
+msgstr "Šriftas"
+
+#: ../admin/settings.php:584
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Ši funkcija nedirbs, jums reikia FreeType bibliotekos"
+
+#: ../admin/settings.php:586
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Jūs galite įkelti daugiau šriftų į <strong>nggallery/fonts</strong> katalogą."
+
+#: ../admin/settings.php:595
+msgid "Color"
+msgstr "Spalva"
+
+#: ../admin/settings.php:597
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: ../admin/settings.php:600
+msgid "Text"
+msgstr "Tekstas"
+
+#: ../admin/settings.php:604
+msgid "Opaque"
+msgstr "Nepermatomas"
+
+#: ../admin/settings.php:625
+msgid "Default size (W x H)"
+msgstr "Standartinis dydis (P x I)"
+
+#: ../admin/settings.php:630
+msgid "Duration time"
+msgstr "Trukmė"
+
+#: ../admin/settings.php:631
+msgid "sec."
+msgstr "Sek."
+
+#: ../admin/settings.php:634
+#: ../admin/settings.php:709
+msgid "Transition / Fade effect"
+msgstr "Perėjimas / Blukimo efektas"
+
+#: ../admin/settings.php:637
+#: ../admin/settings.php:712
+msgid "fade"
+msgstr "Blukimas"
+
+#: ../admin/settings.php:638
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:639
+msgid "cover"
+msgstr "viršelis"
+
+#: ../admin/settings.php:640
+msgid "scrollUp"
+msgstr "aukštyn"
+
+#: ../admin/settings.php:641
+msgid "scrollDown"
+msgstr "žemyn"
+
+#: ../admin/settings.php:642
+msgid "shuffle"
+msgstr "sumaišymas"
+
+#: ../admin/settings.php:643
+msgid "toss"
+msgstr "apversti"
+
+#: ../admin/settings.php:644
+msgid "wipe"
+msgstr "valyti"
+
+#: ../admin/settings.php:646
+msgid "See here for more information about the effects :"
+msgstr "Daugiau informacijos apie efektus: "
+
+#: ../admin/settings.php:650
+msgid "Settings for the JW Image Rotator"
+msgstr "Nustatymai naudojami JW Image Rotator versijoje"
+
+#: ../admin/settings.php:651
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Nustatymai naudojami JW Image Rotator versijoje"
+
+#: ../admin/settings.php:652
+msgid "See more information for the Flash Player on the web page"
+msgstr "Daugiau informacijos apie Flash įskiepį interneto svetainėje"
+
+#: ../admin/settings.php:657
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Kelias iki imagerotator.swf neapibrėžtas, Skaidrės nedirbs."
+
+#: ../admin/settings.php:658
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Jeigu jūs norite naudoti JW Image Rotatator (Skaidrės), parsisiųskite įskiepį <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >čia</a> ir įkelkite jį į jūsų parsisiuntimų direktoriją (wp-content/uploads pagal nutylėjimą yra pagrindinis)."
+
+#: ../admin/settings.php:664
+msgid "Enable flash slideshow"
+msgstr "Leisti Flash skaidres"
+
+#: ../admin/settings.php:666
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integruoti flash skaidres į visus flash palaikančius įrenginius "
+
+#: ../admin/settings.php:669
+msgid "Path to the Imagerotator (URL)"
+msgstr "Kelias iki Imagerotator (URL)"
+
+#: ../admin/settings.php:672
+msgid "Search now"
+msgstr "Ieškoti dabar"
+
+#: ../admin/settings.php:673
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Jeigu jūs įkėlėte ImageRotator į wp-content/uploads direktoriją ar subdirektoriją, spauskite mygtuką automatinei paieškai. "
+
+#: ../admin/settings.php:677
+msgid "Shuffle mode"
+msgstr "Keitimosi metodas"
+
+#: ../admin/settings.php:681
+msgid "Show next image on click"
+msgstr "Rodyti kitą nuotrauką paspaudus"
+
+#: ../admin/settings.php:685
+msgid "Show navigation bar"
+msgstr "Rodyti navigacijos juostą"
+
+#: ../admin/settings.php:689
+msgid "Show loading icon"
+msgstr "Rodyti krovimosi juostą"
+
+#: ../admin/settings.php:693
+msgid "Use watermark logo"
+msgstr "Naudoti vandens ženklo logotipą"
+
+#: ../admin/settings.php:695
+msgid "You can change the logo at the watermark settings"
+msgstr "Jūs galite pakeisti logotipą vandens ženklo nustatymuose"
+
+#: ../admin/settings.php:698
+msgid "Stretch image"
+msgstr "Tempti nuotrauką"
+
+#: ../admin/settings.php:701
+msgid "true"
+msgstr "Taip"
+
+#: ../admin/settings.php:702
+msgid "false"
+msgstr "Ne"
+
+#: ../admin/settings.php:703
+msgid "fit"
+msgstr "fiksuoti"
+
+#: ../admin/settings.php:704
+msgid "none"
+msgstr "joks"
+
+#: ../admin/settings.php:713
+msgid "bgfade"
+msgstr "Fono blukimas"
+
+#: ../admin/settings.php:714
+msgid "slowfade"
+msgstr "lėtas blukimas"
+
+#: ../admin/settings.php:715
+msgid "circles"
+msgstr "ratai"
+
+#: ../admin/settings.php:716
+msgid "bubbles"
+msgstr "burbulai"
+
+#: ../admin/settings.php:717
+msgid "blocks"
+msgstr "blokas"
+
+#: ../admin/settings.php:718
+msgid "fluids"
+msgstr "skystis"
+
+#: ../admin/settings.php:719
+msgid "flash"
+msgstr "blyksnis"
+
+#: ../admin/settings.php:720
+msgid "lines"
+msgstr "linijos"
+
+#: ../admin/settings.php:721
+msgid "random"
+msgstr "pasirinktinai"
+
+#: ../admin/settings.php:726
+msgid "Use slow zooming effect"
+msgstr "Naudoti lėtą pritraukimo efektą"
+
+#: ../admin/settings.php:730
+msgid "Background Color"
+msgstr "Fono spalva"
+
+#: ../admin/settings.php:735
+msgid "Texts / Buttons Color"
+msgstr "Teksto / Mygtuko spalva"
+
+#: ../admin/settings.php:740
+msgid "Rollover / Active Color"
+msgstr "Rollover / Aktyvi (nuoroda) spalva"
+
+#: ../admin/settings.php:745
+msgid "Screen Color"
+msgstr "Ekrano spalva"
+
+#: ../admin/settings.php:750
+msgid "Background music (URL)"
+msgstr "Fono muzika (URL)"
+
+#: ../admin/settings.php:754
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Išbandyti XHTML patvirtinimą (su CDATA)"
+
+#: ../admin/settings.php:756
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Svarbu: Gali būti problemų dalyje naršyklių. Patikrinkite jūsų puslapį."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Atstatyti visus nustatymus į standartinius parametrus"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Sėkmingai išinstaliuota! Dabar ištrinkite įskiepį ir džiaukitės gyvenimu! Sėkmės!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Atstatyti ypatybes"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Atstatyti visus nustatymus/ypatybes į standartinį instaliavimą."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Atstatyti nustatymus"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Ar atstatyti visas ypatybes į standartinius nustatymus?\\n"
+"\\n"
+"Pasirinkite [Atšaukti] sustabdyti pasirinkimą, [Gerai] patvirtinti.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Išinstaliuoti įskiepio lenteles"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Jūs nemėgstate NextGen Galerijos?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Ne problema, prieš deaktyvuojant šį įskiepį spauskite išsinstaliavimo mygtuką, nes deaktyvuojant NextGEN galeriją visi duomenys, kurie buvo sukurti neištrinami."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "ĮSPĖJIMAS:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "NextGEN galerija saugoma lentelėse. Todėl išinstaliavus, veiksmas negrįžtamas. Jūs turėsite panaudoti Wordpress duomenų bazės atsarginę kopiją, kad pirma atkurtumėte visas lenteles. "
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "ir"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Išinstaliavimo įskiepis"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Norite išinstaliuoti šį įskiepį iš Wordpress.\\n"
+"Veiksmas negrįžtamas.\\n"
+"\\n"
+"Pasirinkus [Atšaukti] veiksmus sustabdysite, [Gerai] išinstaliuosite.\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Meta duomenys"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "Žyma"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "Reikšmė"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Neišsaugoti meta duomenys"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF duomenys"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Nėra exif duomenų"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC duomenys"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP duomenys"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Iš šablono direktorijos)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Jūs neturite reikiamių teisių taisyti šabloną šiai svetainei"
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS failas sėkmingai atnaujintas"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "CSS editorius"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Aktyvuoti ir naudoti stilių:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Aktyvuoti"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Taisyti <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Ieškoti <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Versija"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Patarimas: Nukopijuokite savo stilių (nggallery.css) į jūsų šablono direktoriją. Taip jo neprarasite atnaujinant sistemą."
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Jūsų šablonas turi NextGEN galerijos stilių (nggallery.css), šis failas bus naudojamas"
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Patarimas nr.2: Naudokite spalvų ratą, taip surasite teisingą spalvų schemą savo galerijai!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Atnaujinti failą"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Jei šis failas yra įrašomas, jūs galite jį taisyti."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Ups, failas neegzistuoja! Dar kartą patikrinkite pavadinimą ir pabandykite iš naujo, ačiū."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Populiariausi"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Mažiausiai naudoti"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Abėcėlinis"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Tvarkyti nuotraukos žymas"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Egzistuojančios žymos"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "Ieškoti žymų"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Pradėti"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Pozicijos keitimas:"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "Senesnės žymos"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "Naujesnės žymos"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Pervadinti žymą"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Įvesti žymą pervadinimui ir jo naujai reikšmei. Jūs taip pat galite naudoti šią ypatybę žymų sujungimui."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Jūs galite pervadinti daugiau žymų atskiriant jas kableliais"
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Žyma (os) pervadinimui:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Naujas žymos (-ų) pavadinimas (-ai):"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "Pervadinti"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Ištrinti žymą"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Įvesti žymos vardą ištrinimui. Ši žyma bus ištrinta iš visų įrašų."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Jūs galite ištrinti daugiau žymų atskiriant juos kableliais"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Žyma (-os) ištrinimui:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Taisyti Žymos URL eilutę"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Įveskite žymos vardą taisymui ir jo URL eilutę <a href=\"http://codex.wordpress.org/Glossary#Slug\">Kas yra URL eilutė?</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Žyma (-os) priskirimui:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "URL eilutė pritaikymui:"
+
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Atnaujinti duomenų bazės struktūrą..."
+
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:122
+#: ../admin/upgrade.php:129
+#: ../admin/upgrade.php:140
+#: ../admin/upgrade.php:154
+msgid "finished"
+msgstr "baigta"
+
+#: ../admin/upgrade.php:120
+msgid "Update file structure..."
+msgstr "Atnaujinti failų struktūrą..."
+
+#: ../admin/upgrade.php:127
+msgid "Import date and time information..."
+msgstr "Importuoti datos ir laiko informaciją..."
+
+#: ../admin/upgrade.php:135
+msgid "Move imagerotator to new location..."
+msgstr "Perkelti ImageRotator į naują vietą..."
+
+#: ../admin/upgrade.php:146
+msgid "Update settings..."
+msgstr "Atnaujinti nustatymus..."
+
+#: ../admin/upgrade.php:160
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Valdiklio struktūra atnaujinta. Jeigu jūs naudojote NextGEN valdiklius, jums reikia juos įkelti iš naujo..."
+
+#: ../admin/upgrade.php:168
+#: ../admin/upgrade.php:190
+msgid "Updated options."
+msgstr "Atnaujinti nustatymai."
+
+#: ../admin/upgrade.php:175
+msgid "Create unique slug"
+msgstr "Sukurti unikalų šliužą "
+
+#: ../admin/upgrade.php:176
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "Die Permalinkstruktur wird in einer kommenden Version überarbeitet."
+
+#: ../admin/upgrade.php:177
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "Deshalb ist es notwendig ein eindeutiges Schlagwort für jedes Bild, Galerie und Album zu erzeugen."
+
+#: ../admin/upgrade.php:178
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "Diese Operation kann je nach Anzahl der Bilder eine Weile daueren, bitte die Seite nicht neu laden."
+
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "Neįmanoma rasti NextGEN galerijos duomenų lentelių, atnaujinimas nepavyko!"
+
+#: ../admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Dalis direktorijų/failų negali būti pervadinimai, patikrinkite prieigos teises ir peržvelkite direktorijas katalogų tvarkymo sekcijoje."
+
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Pervadinimas nepavyko"
+
+#: ../admin/upgrade.php:356
+#: ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Atnaujinti NextGEN galeriją"
+
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skriptas nustatė, kad jūs atsinaujinote versiją."
+
+#: ../admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Jūsų duomenų bazės NextGEN galerijos lentelės pasenusios ir privalo būti atnaujintos jei norite tęsti."
+
+#: ../admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Jeigu jūs norėsite suinstaliuoti ankstesnę versiją vėliau, pirmiausia pasidarykite atsarginę duomenų bazės ir nuotraukų kopiją."
+
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Atnaujinimo procesas užtruks, būkite kantrus."
+
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Pradėti atnaujinimą dabar"
+
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Atnaujinimas baigtas..."
+
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "Tęsti"
+
+#: ../admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Erzeuge Permalinks für Bilder : %s / %s Bilder"
+
+#: ../admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Erzeuge Permalinks für Galerien : %s / %s Galerien"
+
+#: ../admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Erzeuge Permalinks für Alben : %s / %s Alben"
+
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "Padaryta."
+
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Atnaujinimas sėkmingas"
+
+#: ../admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Ačiū, kad naudojate šį įskiepį, NextGEN galerija pirmiausia yra palaikoma asmeninėms svetainėms. Kelių saitų sąranka yra įmanoma, bet šiuo metu negalima jos pilnai palaikyti, kadangi ji turi specialias sąlygas (t.y. domenų laikymą) . Jeigu jūs norėtumete prisidėti prie tolimesnio vystymo, prašau paremti<strong><a href=\"%s\">mus</a></strong>. Jeigu jums reikia pagalbos, skelbkite klausimus <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">čia</a>."
+
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "Tinklo nustatymai"
+
+#: ../admin/wpmu.php:70
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Tai yra standartinis kelias visiems blog'ams. Su rezerviniu žodžiu  %BLOG_ID% jūs galite patobulinti direktorijų struktūrą."
+
+#: ../admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "Grundeinstellung ist %s"
+
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "Įgalinti įkėlimo kvotos patikrinimą"
+
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Galerija dirbs jeigu yra po blog.dir"
+
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "Įgalinti ZIP įkėlimo ypatybes"
+
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "Leisti vartotojams įkelti ZIP katalogus."
+
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "Įgalinti įkėlimo ypatybes"
+
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "Leisti vartotojams įkelti nuotraukų direktorijas iš serverio"
+
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "Leisti CSS stilių pasirinkimą"
+
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "Leisti vartotojams pasirinkti stilių galerijai."
+
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "Įgalinti teises/galimybes"
+
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Leisti vartotojams keisti teises kitiems blogo autoriams."
+
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "Standartinis CSS stilius"
+
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "Pasirinkti standartinį stilių galerijoms."
+
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "Pasirinkite arba įveskite galeriją"
+
+#: ../admin/tinymce/window.php:61
+#: ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "Parodyti kaip"
+
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "Nuotraukų sąrašas"
+
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Nuotraukų naršyklė"
+
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "Pasirinkite arba įveskite albumą"
+
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "Išplėsta versija"
+
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "Glausta versija"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "Pasirinkite arba įveskite nuotrauką"
+
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "Plotis x Ilgis"
+
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "Efektas"
+
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "Nėra efekto"
+
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web2.0"
+
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Float"
+
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Kein Float"
+
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "Įterpti"
+
+#: ../lib/core.php:397
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Pastaba: Pagal standartinį jūsų serverio limitą jūs negalite įkelti nuotraukų didesnių nei <strong>%d x %d</strong> pikselių."
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Neteisingas URL"
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Neįmanoma sukurti laikinojo failo"
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " sek."
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "Išmestas"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "Neišmestas"
+
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "Plyšis"
+
+#: ../lib/meta.php:431
+#: ../lib/meta.php:456
+msgid "Credit"
+msgstr "Kreditai"
+
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "Užrašas"
+
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "Autorystės teisės"
+
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "Centrinis ilgis"
+
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "Langinės (Shutter) greitis"
+
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "Tema"
+
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "Padaryti"
+
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "Tvarkyti būseną"
+
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "Kategorija"
+
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "Raktažodžiai"
+
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "Sukurta (data)"
+
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "Sukurta (laikas)"
+
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "Autoriaus vieta"
+
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "Miestas"
+
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "Vieta"
+
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "Regionas / Valstija"
+
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "Šalies kodas"
+
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "Šalis"
+
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "Antraštė"
+
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "Šaltinis"
+
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "Autorystės teisių pastabos"
+
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "Kontaktuoti"
+
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "Paskutinį kartą modifikuota"
+
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "Programos įrankis"
+
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "Formatuoti"
+
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "Nuotraukos plotis"
+
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "Nuotraukos ilgis"
+
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "Blyksnis"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Atsiprašome, jūs išnaudojote laisvos vietos limitą. Ištrinkite dalį failų, kad galėtume įkelti daugiau medžiagos."
+
+#: ../lib/ngg-db.php:330
+#: ../lib/ngg-db.php:331
+msgid "Album overview"
+msgstr "Albumo apžvalga"
+
+#: ../lib/shortcodes.php:298
+msgid "[Pictures not found]"
+msgstr "[Nuotraukos nerastos]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Neapibrėžtos naujos žymos!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Neapibrėžta sena/nauja žyma!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Nėra pervadintų žymų."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Žyma (-os) &laquo;%1$s&raquo; pervadinta (-os)  į &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Nėra teisingos naujos žymos."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Senoms apibrėžtoms žymoms objektas (įrašas/puslapis) nerastas."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Nėra susietų žymų."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Susieti žymą (-as) &laquo;%1$s&raquo; bis &laquo;%2$s&raquo; zusammengeführt. %3$s Objekte geändert."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Klaida. Nepakankamai žymų pervadinimui. Susiejimui taip pat. Pridėkite daugiau!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Nėra apibrėžtos žymos!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Nėra ištrintos žymos."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s žyma ištrinta."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Nėra naujos apibrėžtos URL eilutės!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Žymų ir URL eilučių numeriai nesutampa!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Nėra taisytų URL eilučių."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s URL eilutės pataisytos."
+
+#: ../lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPC funkcija šiame bloge išjungta. Administratoriaus teises turintis vartotojas gali įjungti ją čia %s"
+
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "Prisijungimo vardas/Slaptažodis neteisingas."
+
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "Jūs neturite teisių įkelti failų į šį saitą."
+
+#: ../lib/xmlrpc.php:135
+#: ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "Negali rasti galerijos"
+
+#: ../lib/xmlrpc.php:140
+#: ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Jūs neturite teisių įkelti failus į šią galeriją."
+
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "Tai neteisingo formato nuotraukos failas!"
+
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "Neįmanoma rasti nuotraukos ID"
+
+#: ../lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Ištrinant nuotrauką %1$s įvyko klaida"
+
+#: ../lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Negali įrašyto failo %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:247
+#: ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "Neteisingas nuotraukos ID!"
+
+#: ../lib/xmlrpc.php:250
+#: ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "Atsiprašome, jūs turite turėti teisę tvarkyt šią nuotrauką"
+
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "Atsiprašome, neįmanoma atnaujinti nuotraukos"
+
+#: ../lib/xmlrpc.php:344
+#: ../lib/xmlrpc.php:576
+#: ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Atsiprašome, jūs turite turėti teisę tvarkyti galerijas"
+
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "Atsiprašome, neįmanoma sukurti galerijos"
+
+#: ../lib/xmlrpc.php:393
+#: ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "Neteisingas galerijos ID!"
+
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "Atsiprašome, jūs turite turėti teisę tvarkyt šią galeriją "
+
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "Atsiprašome, neįmanoma atnaujinti galerijos"
+
+#: ../lib/xmlrpc.php:442
+#: ../lib/xmlrpc.php:494
+#: ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "Atsiprašome, jūs turite turėti teisę tvarkyti albumus"
+
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "Atsiprašome, neįmanoma sukurti albumo"
+
+#: ../lib/xmlrpc.php:491
+#: ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "Ungültige Album ID"
+
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "Atsiprašome, neįmanoma atnaujinti albumo"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "Nuotraukos"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Peržiūrėti su PicLens programa]"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Grįžti"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Kitas"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "iš"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Meta duomenys"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Kamera / Tipas"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Centrinis ilgis"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Valdiklis NextGEN mediaRSS vaizdavimui NextGEN galerijose"
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN MediaRSS"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "MediaRSS"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Nuoroda į pagrindinį nuotraukų srautą"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "Pavadinimas:"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Rodyti MediaRSS ikonėlę"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Rodyti globalią MediaRSS nuorodą"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Globalios MediaRSS nuorodos tekstas:"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Pagalbinis tekstas globaliai Media RSS nuorodai:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Rodyti NextGEN galerijos skaidres"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN skaidrės"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Parsisiųskite Flash įskiepį</a>, kad galėtume matyti skaidres."
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Pavadinimas:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Pasirinkti galeriją:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Visos nuotraukos"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Ilgis:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Plotis:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Prijungti dabartines ar pasirinktines nuotraukas iš galerijos"
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN valdiklis"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "Rodyti:"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "Originalios nuotraukos"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "Neseniai prijungtos"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Įgalinti IE8 įskiepius"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Plotis x Ilgis:"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "Pasirinkti:"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Visos galerijos"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Tik tas, kurios nėra įtrauktos į sąrašą"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Tik tas, kurios įtrauktos į sąrašą"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "Galerijos ID:"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "Galerijų ID, atskirti kableliais"
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Dar nėra sukurtų galerijų."
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Galerijos ID=%s neegzistuoja."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Albumo ID kaip parametras nenustatyas"
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Albumo ID= %s neegzistuoja."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Neteisinga MediaRSS komanda"
+
+#~ msgid "Delete album ?"
+#~ msgstr "Ištrinti albumą?"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "Displaying %s&#8211;%s of %s"
+#~ msgstr "Rodoma %s&#8211;%s iš %s"
+
+#~ msgid "Send a gift to show your appreciation."
+#~ msgstr "Atsiųskite dovaną dėkingumo išreiškimui."
+
+#~ msgid "Currently not used, prepare database for upcoming version"
+#~ msgstr "Derzeit nicht genutzt, Vorbereitung für kommende Versionen"
+
+#~ msgid "A new version of NextGEN Gallery is available !"
+#~ msgstr "Jau galite parsisiųsti naują NextGEN galerijos versiją!"
+
+#~ msgid "Download here"
+#~ msgstr "Parsisiųskite čia"
+
+#~ msgid "already exists"
+#~ msgstr "egzistuoja jau"
+
+#~ msgid "Gallery Overview"
+#~ msgstr "Galerijos apžvalga"
+
+#~ msgid "Quantity"
+#~ msgstr "Kiekis"
+
+#~ msgid "Action"
+#~ msgstr "Veiksmas"
+
+#~ msgid "Delete this gallery ?"
+#~ msgstr "Trinti šią galeriją?"
+
+#~ msgid "General WordPress MU Settings"
+#~ msgstr "Pagrindiniai WordPress MU nustatymai"
+
+#~ msgid "No album"
+#~ msgstr "Nėra albumo"
+
+#~ msgid "for the Fugue Iconset"
+#~ msgstr "- už Fugue Iconset"
+
+#~ msgid "Gallery Administrator"
+#~ msgstr "Galerijos administratorius"
+
+#~ msgid "Gallery Editor"
+#~ msgstr "Galerijos redaktorius"
+
+#~ msgid "You currently have %s rights."
+#~ msgstr "Šiuo metu jūs turite %s teises."
+
+#~ msgid "Upload Space Remaining:"
+#~ msgstr "Liko vietos:"
+
+#~ msgid "View all images tagged with %s"
+#~ msgstr "Žiūrėti visas nuotraukas pažymėtas su %s žyma"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "Atnaujinimas sėkmingas"
+
+#~ msgid ""
+#~ "<strong>Would you like to help to translate this plugin ?</strong> <a "
+#~ "target=\"_blank\" href=\"%s\">Download</a> the current pot file and read "
+#~ "<a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-"
+#~ "plugins/\">here</a> how you can translate the plugin."
+#~ msgstr ""
+#~ "<strong>Norite padėti išversti šį įskiepį?</strong> <a target=\"_blank\" "
+#~ "href=\"%s\">Parsisiųskite</a> dabartinį pot failą ir perskaitykite "
+#~ "instrukciją <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/"
+#~ "translation-of-plugins/\">čia</a>, kaip tai galite padaryti."
+
+#~ msgid ""
+#~ "<strong>Translation by : </strong><a target=\"_blank\" href=\"\">N/A</a>"
+#~ msgstr ""
+#~ "<strong>Išvertė: </strong><a target=\"_blank\" href=\"http://darko.blogas."
+#~ "lt\">Darius Simavičius</a>"
+
+#~ msgid "Setup Gallery"
+#~ msgstr "Galerijos nustatymai"
+
+#~ msgid "Setup"
+#~ msgstr "Nustatymai"
+
+#~ msgid "PHP Output Buffer Size"
+#~ msgstr "PHP Output Buffer dydis"
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "für PclZip, eine ZIP PHP Library"
+
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "Mittige Thumbnails aus Bildern ausschneiden"
+
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr "Erstellt viereckige Thumbnails, nutzt nur den Wert der Breite :"
+
+#, fuzzy
+#~ msgid "Search Media"
+#~ msgstr "Suche nach Stichwörter"
+
+#~ msgid "Select Gallery"
+#~ msgstr "Wähle Galerie"
+
+#~ msgid "Album Page ID"
+#~ msgstr "Album Seiten ID (Page ID)"
+
+#~ msgid "Import a folder with all images."
+#~ msgstr "Importiere ein Verzeichnis mit Bildern."
+
+#~ msgid "Show tags"
+#~ msgstr "Zeige Tags"
+
+#~ msgid "Hide tags"
+#~ msgstr "Verstecke Tags"
+
+#~ msgid "Delete this file ?"
+#~ msgstr "Diese Datei löschen ?"
+
+#~ msgid ""
+#~ "You are about to copy or move %s images \n"
+#~ " \n"
+#~ " 'Cancel' to stop, 'OK' to proceed."
+#~ msgstr ""
+#~ "Willst du wirklich %s Bild(er) verschieben \n"
+#~ " \n"
+#~ " 'Abbrechen' um zu stoppen, 'OK' um die Bearbeitung durchzuführen."
+
+#~ msgid "Show thumbnails "
+#~ msgstr "Thumbnails zeigen"
+
+#~ msgid "Add Gallery"
+#~ msgstr "Bilder/Galerie hinzufügen"
+
+#~ msgid "Manage galleries"
+#~ msgstr "Galerie verwalten"
+
+#~ msgid ""
+#~ "There are totally %1$s pictures in %2$s galleries, which are spread "
+#~ "across %3$s albums."
+#~ msgstr ""
+#~ "Es gibt insgesamt %1$s Bilder in %2$s Galerien - verteilt in %3$s Alben."
+
+#~ msgid "GD support"
+#~ msgstr "GD Unterstützung"
+
+#~ msgid "ImageMagick"
+#~ msgstr "ImageMagick"
+
+#~ msgid "Add Metadata :"
+#~ msgstr "Metadaten hinzufügen :"
+
+#~ msgid "Import EXIF, IPTC or XMP data (if available)"
+#~ msgstr "EXIF, IPTC oder XMP Daten importieren (wenn verfügbar)"
+
+#~ msgid "New Version available"
+#~ msgstr "Neue Version verfügbar !!"
+
+#~ msgid ""
+#~ "The server reports that a new NextGEN Gallery Version is now available. "
+#~ "Please visit the plugin homepage for more information."
+#~ msgstr ""
+#~ "Der Server benachrichtigt Dich über eine neu verfügbare Version der "
+#~ "NextGEN Galerie. Bitte besuche die Plugin Homepage um weitere "
+#~ "Informationen zu erhalten."
+
+#~ msgid "Resample Mode"
+#~ msgstr "Resample Modus"
+
+#~ msgid "Value between 1-5 (higher value, more CPU load)"
+#~ msgstr "Wähle zwischen 1-5 (je höhere desto länger braucht der Server)"
+
+#~ msgid "NextGEN Gallery %d"
+#~ msgstr "NextGEN Gallery %d"
+
+#~ msgid "How many NextGEN Gallery widgets would you like?"
+#~ msgstr "Wie viele NextGEN Gallery Widgets möchtest du haben ?"
+
+#~ msgid "Save"
+#~ msgstr "Speichern"
+
+#~ msgid "for Simple:Press Forum, it saved me a lot of time"
+#~ msgstr "für das  Simple:Press Forum, welches mir viel Zeit sparte"
+
+#~ msgid "Sorry, NextGEN Gallery works only under WordPress 2.5 or higher"
+#~ msgstr ""
+#~ "Tut mir leid aber NextGEN Galerie arbeitet nur ab WordPress 2.5 und "
+#~ "aufwärts"
+
+#~ msgid "Watch gallery"
+#~ msgstr "Galerie ansehen"
+
+#~ msgid "from"
+#~ msgstr "von"
+
+#~ msgid " : Image resized..."
+#~ msgstr " : Bild angepasst..."
+
+#~ msgid "Some pictures are not writeable :"
+#~ msgstr "Einige Bilder sind schreibgeschützt :"
+
+#~ msgid " : Watermark created..."
+#~ msgstr " : Wasserzeichen gesetzt..."
+
+#~ msgid " : Thumbnail created..."
+#~ msgstr ": Thumbnail erstellt..."
+
+#~ msgid "Follow thumbnails could not created."
+#~ msgstr "Folgende Thumbnails konnten nicht erstellt werden  :"
+
+#~ msgid "Some thumbnails are not writeable :"
+#~ msgstr "Einige Thumbnails sind schreibgeschützt :"
+
+#~ msgid "Watermark successfully added"
+#~ msgstr "Wasserzeichen erfolgreich erstellt"
+
+#~ msgid "Images successfully resized"
+#~ msgstr "Bilder erfolgreich verkleinert"
+
+#~ msgid " (require WordPress 2.3 or higher)"
+#~ msgstr " (benötigt WordPress 2.3 oder höher)"
+
+#~ msgid "Show thumbnail description"
+#~ msgstr "Zeige Bildbeschreibung"
+
+#~ msgid "Description text"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Import a folder with images. Please note :"
+#~ msgstr "Importiere ein Verzeichniss mit Bildern. Bitte beachte:"
+
+#~ msgid "For safe-mode = ON you need to add the subfolder thumbs manually"
+#~ msgstr ""
+#~ "Da der Safe-Mode  (PHP.INI) eingeschaltet ist, mußt Du das "
+#~ "Unterverzeichnis für die Vorschaubilder (\"thumbs\") manuell (per FTP) "
+#~ "anlegen"
+
+#~ msgid "The Zip-file is too large. Exceed Memory limit !"
+#~ msgstr "Das Zip-File ist zu groß. Speicherlimit überschritten !"
+
+#~ msgid "Summary"
+#~ msgstr "Zusammenfassung"
+
+#~ msgid "Welcome"
+#~ msgstr "Willkommen"
+
+#~ msgid ""
+#~ "Welcome to NextGEN Gallery. Here you can control your images, galleries "
+#~ "and albums. You currently have %s rights."
+#~ msgstr ""
+#~ "Willkommen zur NextGEN Galerie. Hier kannst Du Deine Bilder, Galerien und "
+#~ "Alben verwalten. Du hast im Moment %s Rechte."
+
+#~ msgid "Add a new gallery or import pictures"
+#~ msgstr "Neue Galerie erstellen oder Bilder importieren"
+
+#~ msgid "Manage galleries and images"
+#~ msgstr "Verwalte Galerien und Bilder"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Delete File"
+#~ msgstr "Datei löschen"
+
+#~ msgid "Delete image ?"
+#~ msgstr "Bilder löschen ?"
+
+#~ msgid "Browse your files"
+#~ msgstr "Durchsuche deine Dateien"
+
+#~ msgid "Direct link to file"
+#~ msgstr "Link zur Datei"
+
+#~ msgid "Show:"
+#~ msgstr "Zeige als:"
+
+#~ msgid "Link to:"
+#~ msgstr "Link zu:"
+
+#~ msgid "Send to editor &raquo;"
+#~ msgstr "Zum  Editor schicken &raquo;"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the file '%s'?\n"
+#~ "Click ok to delete or cancel to go back."
+#~ msgstr "Bist du sicher das Du diese Datei '%s' löschen willst ?"
+
+#~ msgid "Alt/Titel text"
+#~ msgstr "Alt / Titel Text"

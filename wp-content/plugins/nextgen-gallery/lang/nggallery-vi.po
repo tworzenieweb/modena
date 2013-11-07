@@ -1,0 +1,3360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-18 13:20+0100\n"
+"PO-Revision-Date: 2010-10-17 13:08+0700\n"
+"Last-Translator: Nguyen Xuan Hoang <xhoang78@gmail.com>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _n:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:95
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong> Được dịch bởi : </strong><a target=\"_blank\" href=\"http://hoangngoc.net/\">Xem ở đây</a>"
+
+#: ../nggallery.php:96
+msgid "<strong>This translation is not yet updated for Version 1.6.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Bản dịch này mới cập nhật cho phiên bản 1.6.2</strong>. Nếu bạn muốn dịch, tải file po hiện tại từ thư mục plugin và đọc<a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\"> ở đây </a> để biết bạn có thể dịch bằng cách nào"
+
+#: ../nggallery.php:195
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "Xin lỗi, NextGEN Gallery chỉ làm việc khi bộ nhớ tối thiểu là 16 Mb"
+
+#: ../nggallery.php:213
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Yêu cầu cập nhật cơ sở dữ liệu cho NextGEN Gallery"
+
+#: ../nggallery.php:213
+msgid "Click here to proceed."
+msgstr "Bấm chuột vào đây tiếp tục"
+
+#: ../nggallery.php:236
+msgid "Picture tag"
+msgstr "Thẻ ảnh"
+
+#: ../nggallery.php:237
+msgid "Picture tag: %2$l."
+msgstr "Thẻ ảnh: %2$l."
+
+#: ../nggallery.php:238
+msgid "Separate picture tags with commas."
+msgstr "Sắp xếp ảnh riêng rẽ với dấu ngoặc kép."
+
+#: ../nggallery.php:338
+msgid "L O A D I N G"
+msgstr "Đ A N G T Ả I"
+
+#: ../nggallery.php:339
+msgid "Click to Close"
+msgstr "Bấm chuột để tắt ảnh này"
+
+#: ../nggallery.php:360
+msgid "loading"
+msgstr "đang tải"
+
+#: ../nggallery.php:500
+#: ../nggfunctions.php:916
+#: ../admin/admin.php:31
+msgid "Overview"
+msgstr "Giới thiệu"
+
+#: ../nggallery.php:501
+msgid "Get help"
+msgstr "Hỗ trợ"
+
+#: ../nggallery.php:502
+msgid "Contribute"
+msgstr "Cộng tác"
+
+#: ../nggallery.php:503
+msgid "Donate"
+msgstr "Ủng hộ"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "Công cụ <a href=\"http://www.macromedia.com/go/getflashplayer\">Flashr</a> và <a href=\"http://www.mozilla.com/firefox/\">trình duyệt với hỗ trợ mã Java</a> cần có.."
+
+#: ../nggfunctions.php:161
+#: ../nggfunctions.php:626
+msgid "[Gallery not found]"
+msgstr "[Gallery không tìm thấy]"
+
+#: ../nggfunctions.php:433
+msgid "[Album not found]"
+msgstr "[Album không tìm thấy]"
+
+#: ../nggfunctions.php:743
+msgid "[SinglePic not found]"
+msgstr "[SinglePic không tìm thấy]"
+
+#: ../nggfunctions.php:881
+msgid "Related images for"
+msgstr "Hình ảnh liên quan cho"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Thông báo bản quyền/ Uy tín"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "Đội ngũ phát triển NextGEN DEV "
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Plugin này chủ yếu được phát triển, sửa chữa, hỗ trợ và hướng dẫn bởi"
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Danh sách những người khác đã đóng góp cho plugin này :"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Người đóng góp / ủng hộ đến"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Nếu bạn nghiên cứu code của plugin này, bạn sẽ thấy chúng tôi đã tích hợp những code và ý kiến tốt nhất"
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Do vậy chúng tôi muốn gửi lời cảm ơn tới những người đã giúp đỡ trong suốt thời gian qua"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "cho bản code tuyệt vời của chúng tôi"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "Với jQuery, là nền tảng cho Web 2.0"
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "Cho nhóm PHP đại diện"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "cho rất nhiều ý kiến và plugin có ích"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "với Shutter Reloaded, ảnh hưởng tới dung lượng của ảnh"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "cho mã Media Flash tốt nhất trên thế giới"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "Cho các biểu tượng của Gallery"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "cho plugin tạo ảnh mờ"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Nếu bạn không tìm thấy tên bạn trong danh sách các lập trình viên hỗ trợ cho plugin này, hảy gửi mail cho tôi"
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "Hỗ trợ thế nào?"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Có một vài phương án hỗ trợ và giúp đỡ chúng tôi làm việc. Điều này không bắt buộc"
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Gửi chúng tôi lỗi đã sửa hoặc code đã sửa"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Có rất nhiều sự hỗ trợ nhiệt tình cho plugin này như là ý kiến và trí tuệ của bạn "
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Dịch plugin này"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Để giúp mọi người sử dụng plugin này, tôi hy vọng sẽ có nhiều bản dịch với các ngôn ngữ khác nhau"
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Hỗ trợ thông qua paypal"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Không phiền mà rất có giá trị"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Đặt link cho plugin này trên blog hoặc website của bạn"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Vâng, chia sẻ và dùng trackback cũng là sự hỗ trợ rất tốt"
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "Cảm ơn!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Chúng tôi gửi lời cảm ơn đến tất cả những người đã giúp đỡ trong suốt thời gian qua ;"
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "và tất cả những người đã ủng hộ tiền ..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:125
+#: ../admin/album.php:140
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:178
+msgid "Cheatin&#8217; uh?"
+msgstr "Lừa đảo&#8217; uh?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Tải lên thất bại"
+
+#: ../admin/addgallery.php:85
+msgid "Upload failed! "
+msgstr "Tải lên thất bại!"
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:928
+#: ../admin/functions.php:1028
+msgid "No gallery selected !"
+msgstr "Không gallery nào được chọn !"
+
+#: ../admin/addgallery.php:162
+msgid "Image Files"
+msgstr "Những file Hình ảnh"
+
+#: ../admin/addgallery.php:181
+#: ../admin/addgallery.php:212
+msgid "remove"
+msgstr "gỡ bỏ"
+
+#: ../admin/addgallery.php:182
+#: ../admin/addgallery.php:364
+msgid "Browse..."
+msgstr "Duyệt ..."
+
+#: ../admin/addgallery.php:183
+#: ../admin/addgallery.php:414
+msgid "Upload images"
+msgstr "Tải hình ảnh"
+
+#: ../admin/addgallery.php:274
+#: ../admin/addgallery.php:380
+msgid "Upload Images"
+msgstr "Tải nhiều hình ảnh"
+
+#: ../admin/addgallery.php:277
+#: ../admin/addgallery.php:294
+#: ../admin/manage-galleries.php:136
+msgid "Add new gallery"
+msgstr "Thêm gallery mới"
+
+#: ../admin/addgallery.php:280
+#: ../admin/addgallery.php:316
+msgid "Upload a Zip-File"
+msgstr "Tải file nén"
+
+#: ../admin/addgallery.php:283
+#: ../admin/addgallery.php:358
+msgid "Import image folder"
+msgstr "Nhập hình ảnh từ thư mục"
+
+#: ../admin/addgallery.php:299
+#: ../admin/manage-galleries.php:243
+msgid "New Gallery"
+msgstr "Gallery mới"
+
+#: ../admin/addgallery.php:302
+#: ../admin/manage-galleries.php:245
+msgid "Create a new , empty gallery below the folder"
+msgstr "Thêm mới, xóa ảnh trong gallery dưới thư mục"
+
+#: ../admin/addgallery.php:304
+#: ../admin/manage-galleries.php:247
+msgid "Allowed characters for file and folder names are"
+msgstr "Cho phép dùng nhiều ký tự để đặt tên cho file và thư mục "
+
+#: ../admin/addgallery.php:308
+msgid "Add gallery"
+msgstr "Thêm gallery"
+
+#: ../admin/addgallery.php:321
+msgid "Select Zip-File"
+msgstr "Chọn file nén"
+
+#: ../admin/addgallery.php:323
+msgid "Upload a zip file with images"
+msgstr "Tải file nén với hình ảnh lên"
+
+#: ../admin/addgallery.php:327
+msgid "or enter a Zip-File URL"
+msgstr "hoặc gõ địa chỉ URL của file nén"
+
+#: ../admin/addgallery.php:329
+msgid "Import a zip file with images from a url"
+msgstr "Nhập file nén chứa hình ảnh từ địa chỉ URL"
+
+#: ../admin/addgallery.php:333
+#: ../admin/addgallery.php:389
+msgid "in to"
+msgstr "vào trong"
+
+#: ../admin/addgallery.php:335
+msgid "a new gallery"
+msgstr "một gallery mới"
+
+#: ../admin/addgallery.php:346
+msgid "Note : The upload limit on your server is "
+msgstr "Chú ý: Giới hạn tải lên trên server của bạn là "
+
+#: ../admin/addgallery.php:350
+msgid "Start upload"
+msgstr "Bắt đầu tải lên"
+
+#: ../admin/addgallery.php:363
+msgid "Import from Server path:"
+msgstr "Nhập vào từ đường dẫn của server"
+
+#: ../admin/addgallery.php:366
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Chú ý: Đổi đường dẫn mặc định trong thiết lập của gallery"
+
+#: ../admin/addgallery.php:368
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Chú ý quan trọng : Với safe-mode = ON bạn cần thêm thư mục phụ cho ảnh đại diện"
+
+#: ../admin/addgallery.php:371
+msgid "Import folder"
+msgstr "Nhập thư mục"
+
+#: ../admin/addgallery.php:385
+msgid "Upload image"
+msgstr "Tải ảnh lên"
+
+#: ../admin/addgallery.php:391
+msgid "Choose gallery"
+msgstr "Chọn gallery"
+
+#: ../admin/addgallery.php:410
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Tải lên cùng lúc yêu cầu Adobe Flash 10, vô hiệu hóa nếu gặp vấn đề xấu"
+
+#: ../admin/addgallery.php:410
+msgid "Disable flash upload"
+msgstr "Tắt chức năng tải lên bằng flash"
+
+#: ../admin/addgallery.php:412
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Tải lên nhiều file cùng một lúc bằng cách bấm phím tổ hợp ctrl/shift-đã được chọn trong hộp thoại"
+
+#: ../admin/addgallery.php:412
+msgid "Enable flash based upload"
+msgstr "Kích hoạt chức năng tải lên bằng flash"
+
+#: ../admin/admin.php:30
+#: ../admin/admin.php:271
+#: ../admin/admin.php:339
+#: ../admin/functions.php:99
+#: ../admin/functions.php:176
+#: ../admin/manage-images.php:201
+#: ../admin/manage.php:86
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Gallery"
+msgstr[1] "Galleries"
+
+#: ../admin/admin.php:32
+msgid "Add Gallery / Images"
+msgstr "Thêm Gallery/ Hình ảnh"
+
+#: ../admin/admin.php:33
+msgid "Manage Gallery"
+msgstr "Quản lý Gallery"
+
+#: ../admin/admin.php:34
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Albums"
+
+#: ../admin/admin.php:35
+msgid "Tags"
+msgstr "Thẻ"
+
+#: ../admin/admin.php:36
+msgid "Options"
+msgstr "Tùy chọn"
+
+#: ../admin/admin.php:38
+msgid "Style"
+msgstr "Kiểu dáng"
+
+#: ../admin/admin.php:40
+msgid "Roles"
+msgstr "Quyền hạn"
+
+#: ../admin/admin.php:41
+msgid "About this Gallery"
+msgstr "Thông tin về Gallery này"
+
+#: ../admin/admin.php:41
+msgid "About"
+msgstr "Thông tin"
+
+#: ../admin/admin.php:44
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/admin.php:46
+msgid "Reset / Uninstall"
+msgstr "Thiết lập/ Gỡ bỏ"
+
+#: ../admin/admin.php:74
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "Phiên bản mới của plugin này đã có"
+
+#: ../admin/admin.php:74
+msgid "Download here"
+msgstr "Tải về ở đây"
+
+#: ../admin/admin.php:93
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Cảm ơn bạn đã sử dụng plugin, Hy vọng bạn sẽ thấy thích ! Nếu bạn muốn hỗ trợ chúng tôi vui lòng  <strong><a href=\"%s\">chuyển tiền cho chúng tôi</a></strong>! Nếu bạn cần giúp đỡ hãy gửi câu hỏi của bạn <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">tại đây</a> ."
+
+#: ../admin/admin.php:96
+msgid "OK, hide this message now !"
+msgstr "OK, Ẩn tin nhắn ngay"
+
+#: ../admin/admin.php:180
+msgid "You do not have the correct permission"
+msgstr "Bạn không có quyền"
+
+#: ../admin/admin.php:181
+msgid "Unexpected Error"
+msgstr "Lỗi không mong muốn"
+
+#: ../admin/admin.php:182
+msgid "A failure occurred"
+msgstr "Một lỗi hỏng đã có"
+
+#: ../admin/admin.php:275
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Giới thiệu</a>"
+
+#: ../admin/admin.php:278
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Cài đặt</a>"
+
+#: ../admin/admin.php:281
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://hoangngoc.net/\" target=\"_blank\">Được dịch bởi Xuân Hoàng</a>"
+
+#: ../admin/admin.php:284
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Quyền hạn</a>"
+
+#: ../admin/admin.php:287
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Kiểu dáng</a>"
+
+#: ../admin/admin.php:288
+msgid "Templates"
+msgstr "Mẫu"
+
+#: ../admin/admin.php:291
+#: ../admin/admin.php:297
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Quản lý Gallery</a>"
+
+#: ../admin/admin.php:292
+msgid "Gallery example"
+msgstr "Gallery dùng làm mấu"
+
+#: ../admin/admin.php:298
+#: ../admin/admin.php:308
+msgid "Gallery tags"
+msgstr "Thẻ Gallery"
+
+#: ../admin/admin.php:301
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Quản lý Album</a>"
+
+#: ../admin/admin.php:302
+msgid "Album example"
+msgstr "Album dùng làm mẫu"
+
+#: ../admin/admin.php:303
+#: ../admin/admin.php:309
+msgid "Album tags"
+msgstr "Thẻ Album"
+
+#: ../admin/admin.php:306
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Thẻ Gallery</a>"
+
+#: ../admin/admin.php:307
+msgid "Related images"
+msgstr "Hình ảnh liên quan"
+
+#: ../admin/admin.php:312
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Quản lý Hình ảnh</a>"
+
+#: ../admin/admin.php:313
+msgid "Custom fields"
+msgstr "Miền quy định "
+
+#: ../admin/admin.php:318
+msgid "Get help with NextGEN Gallery"
+msgstr "Yêu cầu hỗ trợ từ NextGEN Gallery"
+
+#: ../admin/admin.php:322
+msgid "More Help & Info"
+msgstr "Thêm Thông tin & Giúp đỡ"
+
+#: ../admin/admin.php:324
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Diễn đàn hỗ trợ</a>"
+
+#: ../admin/admin.php:325
+msgid "FAQ"
+msgstr "Câu hỏi thường gặp"
+
+#: ../admin/admin.php:326
+msgid "Feature request"
+msgstr "Yêu cầu thêm"
+
+#: ../admin/admin.php:327
+msgid "Get your language pack"
+msgstr "Lấy gói ngôn ngữ của bạn"
+
+#: ../admin/admin.php:328
+msgid "Contribute development"
+msgstr "Góp phần phát triển"
+
+#: ../admin/admin.php:329
+msgid "Download latest version"
+msgstr "Tải về phiên bản mới nhất"
+
+#: ../admin/album.php:103
+#: ../admin/album.php:118
+#: ../admin/album.php:153
+msgid "Update Successfully"
+msgstr "Cập nhật thành công"
+
+#: ../admin/album.php:129
+msgid "Album deleted"
+msgstr "Album đã xóa"
+
+#: ../admin/album.php:264
+msgid "Manage Albums"
+msgstr "Quản lý Album"
+
+#: ../admin/album.php:270
+#: ../admin/album.php:319
+msgid "Select album"
+msgstr "Chọn album"
+
+#: ../admin/album.php:272
+msgid "No album selected"
+msgstr "Không album được chọn"
+
+#: ../admin/album.php:283
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "Cập nhật"
+
+#: ../admin/album.php:285
+msgid "Edit album"
+msgstr "Sửa album"
+
+#: ../admin/album.php:288
+#: ../admin/manage-galleries.php:211
+#: ../admin/manage-images.php:406
+msgid "Delete"
+msgstr "Xóa"
+
+#: ../admin/album.php:288
+msgid "Delete album ?"
+msgstr "Xóa album ?"
+
+#: ../admin/album.php:292
+msgid "Add new album"
+msgstr "Thêm album mới"
+
+#: ../admin/album.php:294
+msgid "Add"
+msgstr "Thêm"
+
+#: ../admin/album.php:305
+msgid "Show / hide used galleries"
+msgstr "Hiện/ Ẩn album đã sử dụng"
+
+#: ../admin/album.php:305
+msgid "[Show all]"
+msgstr "[Xem tất cảl]"
+
+#: ../admin/album.php:306
+msgid "Maximize the widget content"
+msgstr "Nội dung lớn nhất cho widget"
+
+#: ../admin/album.php:306
+msgid "[Maximize]"
+msgstr "[Lớn nhất]"
+
+#: ../admin/album.php:307
+msgid "Minimize the widget content"
+msgstr "Nội dung nhỏ nhất cho widgett"
+
+#: ../admin/album.php:307
+msgid "[Minimize]"
+msgstr "[Nhỏ nhất]"
+
+#: ../admin/album.php:309
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Sau khi bạn tạo hoặc chọn một album, bạn có thể kéo và thả một gallery hoặc một album khác vào trong album mới bên dưới"
+
+#: ../admin/album.php:335
+msgid "Select gallery"
+msgstr "Chọn gallery"
+
+#: ../admin/album.php:364
+msgid "Album ID"
+msgstr "Album ID"
+
+#: ../admin/album.php:377
+msgid "No album selected!"
+msgstr "Không album được chọn"
+
+#: ../admin/album.php:397
+msgid "Album name:"
+msgstr "Tên Album:"
+
+#: ../admin/album.php:403
+msgid "Album description:"
+msgstr "Miêu tả Album:"
+
+#: ../admin/album.php:409
+msgid "Select a preview image:"
+msgstr "Chọn một ảnh xem trước"
+
+#: ../admin/album.php:411
+msgid "No picture"
+msgstr "Không ảnh"
+
+#: ../admin/album.php:425
+#: ../admin/manage-images.php:219
+msgid "Page Link to"
+msgstr "Trang liên kết tới"
+
+#: ../admin/album.php:427
+#: ../admin/manage-images.php:222
+msgid "Not linked"
+msgstr "Không liên kết"
+
+#: ../admin/album.php:440
+#: ../admin/manage-galleries.php:252
+#: ../admin/manage-galleries.php:281
+#: ../admin/manage-galleries.php:311
+#: ../admin/manage-images.php:500
+#: ../admin/manage-images.php:536
+#: ../admin/manage-images.php:565
+#: ../admin/manage-images.php:595
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/album.php:442
+#: ../admin/manage-galleries.php:254
+#: ../admin/manage-galleries.php:283
+#: ../admin/manage-galleries.php:313
+#: ../admin/manage-images.php:502
+#: ../admin/manage-images.php:538
+#: ../admin/manage-images.php:567
+#: ../admin/manage-images.php:597
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: ../admin/album.php:526
+msgid "Name"
+msgstr "Tên"
+
+#: ../admin/album.php:527
+#: ../admin/manage-galleries.php:157
+#: ../admin/manage-galleries.php:171
+#: ../admin/manage-images.php:217
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: ../admin/album.php:528
+msgid "Page"
+msgstr "Trang"
+
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Di chuyển chuột để chọn ảnh hiện thị mới"
+
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "Ảnh hiển thị đã cập nhật"
+
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "Có lỗi trong quá trình cập nhật ảnh thu nhỏ"
+
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Chọn vùng để hiển thị ảnh thu nhỏ từ ảnh bên trái"
+
+#: ../admin/functions.php:40
+msgid "No valid gallery name!"
+msgstr "Tên gallery không giá trị"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+#: ../admin/functions.php:147
+#: ../admin/functions.php:155
+msgid "Directory"
+msgstr "Danh mục"
+
+#: ../admin/functions.php:47
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "Không tồn tại. Vui lòng khởi tạo từ trang chính của gallery"
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:57
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Kiểm tra link nếu bạn không biết cách cấp quyền hạn"
+
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+msgid "is not writeable !"
+msgstr "Không thể ghi đè"
+
+#: ../admin/functions.php:65
+#: ../admin/functions.php:75
+#: ../admin/functions.php:887
+msgid "Unable to create directory "
+msgstr "Không thể tạo danh mục"
+
+#: ../admin/functions.php:79
+msgid "The server setting Safe-Mode is on !"
+msgstr "Server đang được đặt ở chế độ Saie Mode on !"
+
+#: ../admin/functions.php:80
+msgid "If you have problems, please create directory"
+msgstr "Nếu bạn gặp vấn đề hãy tạo danh mục"
+
+#: ../admin/functions.php:81
+msgid "and the thumbnails directory"
+msgstr "và ảnh thu nhỏ danh mục"
+
+#: ../admin/functions.php:81
+msgid "with permission 777 manually !"
+msgstr "với quyền hạn đã chọn 777"
+
+#: ../admin/functions.php:99
+msgid "already exists"
+msgstr "Đã tồn tại"
+
+#: ../admin/functions.php:113
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "Gallery %1$s đã tạo thành công.<br/>Bạn có thể cho hiển thị gallery với thẻ %2$s.<br/>"
+
+#: ../admin/functions.php:116
+msgid "Edit gallery"
+msgstr "Sửa gallery"
+
+#: ../admin/functions.php:147
+msgid "doesn&#96;t exist!"
+msgstr "đã&#96;t tồn tại!"
+
+#: ../admin/functions.php:155
+msgid "contains no pictures"
+msgstr "Không chứa ảnh"
+
+#: ../admin/functions.php:173
+msgid "Database error. Could not add gallery!"
+msgstr "Lỗi cơ sở dữ liệu. Không thể thêm gallery"
+
+#: ../admin/functions.php:176
+msgid "successfully created!"
+msgstr "Tạo thành công"
+
+#: ../admin/functions.php:205
+#: ../admin/functions.php:1004
+#: ../admin/manage-galleries.php:128
+#: ../admin/manage-images.php:302
+#: ../admin/manage.php:215
+#: ../admin/manage.php:291
+msgid "Create new thumbnails"
+msgstr "Tạo ảnh thu nhỏ mới"
+
+#: ../admin/functions.php:208
+msgid " picture(s) successfully added"
+msgstr "Hình ảnh được thêm thành công"
+
+#: ../admin/functions.php:258
+#: ../admin/functions.php:338
+#: ../admin/functions.php:393
+#: ../admin/functions.php:490
+#: ../admin/functions.php:544
+msgid "Object didn't contain correct data"
+msgstr "Đối tượng không chứa dữ liệu chính xác"
+
+#: ../admin/functions.php:266
+msgid " is not writeable "
+msgstr "không ghi đè"
+
+#: ../admin/functions.php:348
+#: ../admin/functions.php:396
+#: ../admin/functions.php:496
+#: ../admin/functions.php:547
+msgid " is not writeable"
+msgstr "không ghi đè"
+
+#: ../admin/functions.php:550
+msgid "File do not exists"
+msgstr "File không tồn tại"
+
+#: ../admin/functions.php:554
+msgid "Couldn't restore original image"
+msgstr "Không thể khôi phục ảnh gốc"
+
+#: ../admin/functions.php:669
+msgid "(Error : Couldn't not update data base)"
+msgstr "( Lỗi\" không thể cập nhật cơ sở dữ liệu)"
+
+#: ../admin/functions.php:676
+msgid "(Error : Couldn't not update meta data)"
+msgstr "( Lỗi: Không thể cập nhật thẻ)"
+
+#: ../admin/functions.php:685
+msgid "(Error : Couldn't not find image)"
+msgstr "( Lỗi: Không thể tìm thấy hình ảnh)"
+
+#: ../admin/functions.php:821
+msgid "No valid URL path "
+msgstr "Đường dẫn không chính xác"
+
+#: ../admin/functions.php:837
+msgid "Import via cURL failed."
+msgstr "Nhập vào qua đường dẫn đã thất bại"
+
+#: ../admin/functions.php:854
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "File tải lên không xác nhận hoặc là file nén lỗi. Server không chấp nhận"
+
+#: ../admin/functions.php:871
+msgid "Could not get a valid foldername"
+msgstr "Không thể tạo tên thư mục có giá trị"
+
+#: ../admin/functions.php:882
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Không thể tạo danh mục %s. Có thể danh mục gốc đã được ghi đè bởi server?"
+
+#: ../admin/functions.php:897
+msgid "Zip-File successfully unpacked"
+msgstr "File nén đã được giải nén thành công"
+
+#: ../admin/functions.php:936
+#: ../admin/functions.php:1053
+msgid "Failure in database, no gallery path set !"
+msgstr "Lỗi cơ sở dữ liệu, không có đường dẫn cho gallery được xác nhận"
+
+#: ../admin/functions.php:960
+#: ../admin/functions.php:1047
+msgid "is no valid image file!"
+msgstr "là hình ảnh không giá trị"
+
+#: ../admin/functions.php:974
+#: ../admin/functions.php:1173
+#: ../admin/functions.php:1248
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Không thể ghi lên danh mục %s. Danh mục này có thể ghi đè bởi server?"
+
+#: ../admin/functions.php:981
+#: ../admin/functions.php:1070
+msgid "Error, the file could not moved to : "
+msgstr "Lỗi. file không thể di chuyển đến"
+
+#: ../admin/functions.php:986
+#: ../admin/functions.php:1074
+msgid "Error, the file permissions could not set"
+msgstr "Lỗi, quyền hạn của file không thể xác nhận"
+
+#: ../admin/functions.php:1009
+msgid " Image(s) successfully added"
+msgstr "Hình ảnh đã được thêm thành công"
+
+#: ../admin/functions.php:1036
+msgid "Invalid upload. Error Code : "
+msgstr "Tải lên không được, lỗi code:"
+
+#: ../admin/functions.php:1113
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "SAFE MODE đã hạn chế ! Bạn cần tạo một thư mụcr <strong>%s</strong> như bình thường"
+
+#: ../admin/functions.php:1114
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Khi safe_mode được bật, PHP sẽ kiểm tra nếu tác giả (%s) của mã script (%s) của tập tin được vận hành bởi một chức năng tập tin hoặc thư mục của nó"
+
+#: ../admin/functions.php:1167
+#: ../admin/functions.php:1242
+msgid "The destination gallery does not exist"
+msgstr "Điểm đến của gallery không tồn tại"
+
+#: ../admin/functions.php:1198
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Thất bại khi di chuyển ảnh %1$s đến %2$s"
+
+#: ../admin/functions.php:1218
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Đã di chuyển %1$s ảnh đến gallery : %2$s ."
+
+#: ../admin/functions.php:1275
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Thất bại khi sao chép hình ảnh %1$s đến %2$s"
+
+#: ../admin/functions.php:1289
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Thất bại khi sao chép cơ sở dữ liệu cho ảnh %s"
+
+#: ../admin/functions.php:1297
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Ảnh %1$s (%2$s) đã sao chép như ảnh %3$s (%4$s) &raquo; File này đã tồn tại trong gallery đến."
+
+#: ../admin/functions.php:1300
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Hình ảnh %1$s (%2$s) đã sao chép như ảnh %3$s (%4$s)"
+
+#: ../admin/functions.php:1309
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Đã sao chép %1$s ảnh đến gallery: %2$s ."
+
+#: ../admin/functions.php:1419
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "File cần tải lên vượt quá dung lượng cho phép đã xác định trong php.ini"
+
+#: ../admin/functions.php:1422
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "File cần tải lên vượt quá dung lượng cho phép theo mẫu HTML xác định"
+
+#: ../admin/functions.php:1425
+msgid "The uploaded file was only partially uploaded"
+msgstr "File đã tải lên chỉ tải lên một phần"
+
+#: ../admin/functions.php:1428
+msgid "No file was uploaded"
+msgstr "Không có file nào được tải lên"
+
+#: ../admin/functions.php:1431
+msgid "Missing a temporary folder"
+msgstr "Thiếu một thư mục tạm thời"
+
+#: ../admin/functions.php:1434
+msgid "Failed to write file to disk"
+msgstr "Thất bại khi ghi file lên đĩa"
+
+#: ../admin/functions.php:1437
+msgid "File upload stopped by extension"
+msgstr "File tải lên bị dừng lại bởi chức năng mở rộng"
+
+#: ../admin/functions.php:1440
+msgid "Unknown upload error"
+msgstr "Lỗi tải lên chưa được xác nhận"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Xin lỗi, NextGen Gallery chỉ hoạt động khi bạn có quyền hạn là quản trị viên"
+
+#: ../admin/install.php:108
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery : Bảng không thể hình thành, kiểm tra cơ sở dữ liệu của bạn"
+
+#: ../admin/install.php:166
+msgid "[Show as slideshow]"
+msgstr "Xem ở dạng trình chiếu"
+
+#: ../admin/install.php:167
+msgid "[Show picture list]"
+msgstr "Xem ở dạng danh sách ảnh"
+
+#: ../admin/manage-galleries.php:20
+#: ../admin/manage-images.php:55
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:21
+#: ../admin/manage-images.php:56
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:62
+#: ../admin/manage-images.php:140
+msgid "No images selected"
+msgstr "Không ảnh nào được chọn"
+
+#: ../admin/manage-galleries.php:79
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Bạn đang bắt đầu chỉnh sửa ảnh hàng loạt %s galleries \n"
+" \n"
+" 'Hủy bỏ\" để dừng lại, 'OK' để tiếp tục."
+
+#: ../admin/manage-galleries.php:108
+msgid "Gallery Overview"
+msgstr "Quản lý Gallery"
+
+#: ../admin/manage-galleries.php:111
+#: ../admin/manage-galleries.php:114
+#: ../admin/manage-images.php:187
+#: ../admin/manage-images.php:190
+msgid "Search Images"
+msgstr "Tìm ảnh"
+
+#: ../admin/manage-galleries.php:126
+#: ../admin/manage-images.php:300
+msgid "No action"
+msgstr "Không thực hiện"
+
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-images.php:301
+#: ../admin/manage.php:163
+#: ../admin/manage.php:241
+msgid "Set watermark"
+msgstr "Cài đặt ảnh mờ"
+
+#: ../admin/manage-galleries.php:129
+#: ../admin/manage-images.php:303
+#: ../admin/manage.php:199
+#: ../admin/manage.php:277
+msgid "Resize images"
+msgstr "Thay đổi kích thước ảnh"
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-images.php:306
+#: ../admin/manage.php:168
+#: ../admin/manage.php:261
+msgid "Import metadata"
+msgstr "Nhập thẻ vào"
+
+#: ../admin/manage-galleries.php:131
+#: ../admin/manage-images.php:304
+#: ../admin/manage.php:158
+#: ../admin/manage.php:238
+msgid "Recover from backup"
+msgstr "Khôi phục từ bản lưu"
+
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:315
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: ../admin/manage-galleries.php:141
+#: ../admin/manage-galleries.php:225
+#: ../admin/manage-images.php:291
+#: ../admin/manage-images.php:475
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Đang hiển thị %s&#8211;%s của %s"
+
+#: ../admin/manage-galleries.php:156
+#: ../admin/manage-galleries.php:170
+#: ../admin/manage-images.php:619
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:158
+#: ../admin/manage-galleries.php:172
+#: ../admin/manage-images.php:228
+#: ../admin/manage-images.php:624
+msgid "Description"
+msgstr "Miêu tả"
+
+#: ../admin/manage-galleries.php:159
+#: ../admin/manage-galleries.php:173
+#: ../admin/manage-images.php:248
+msgid "Author"
+msgstr "Tác giả"
+
+#: ../admin/manage-galleries.php:160
+#: ../admin/manage-galleries.php:174
+msgid "Page ID"
+msgstr "ID của trang"
+
+#: ../admin/manage-galleries.php:161
+#: ../admin/manage-galleries.php:175
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: ../admin/manage-galleries.php:162
+#: ../admin/manage-galleries.php:176
+msgid "Action"
+msgstr "Thực hiện"
+
+#: ../admin/manage-galleries.php:198
+msgid "Edit"
+msgstr "Sửa"
+
+#: ../admin/manage-galleries.php:211
+msgid "Delete this gallery ?"
+msgstr "Xóa Gallery này?"
+
+#: ../admin/manage-galleries.php:218
+#: ../admin/manage-images.php:466
+msgid "No entries found"
+msgstr "Không tìm thấy mục nào"
+
+#: ../admin/manage-galleries.php:272
+#: ../admin/manage-images.php:556
+msgid "Resize Images to"
+msgstr "Sửa kích thước ảnh đến"
+
+#: ../admin/manage-galleries.php:276
+#: ../admin/manage-images.php:560
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Rộng x cao (đơn vị pixel). NextGEN Gallery sẽ giữ tỷ lệ giữa các kích thước"
+
+#: ../admin/manage-galleries.php:300
+#: ../admin/manage-images.php:584
+msgid "Width x height (in pixel)"
+msgstr "Rộng x cao (đơn vị pixel)"
+
+#: ../admin/manage-galleries.php:302
+#: ../admin/manage-images.php:586
+msgid "These values are maximum values "
+msgstr "Những giá trị này là giá trị lớn nhất"
+
+#: ../admin/manage-galleries.php:305
+#: ../admin/manage-images.php:589
+msgid "Set fix dimension"
+msgstr "Xác định kích thước cố định"
+
+#: ../admin/manage-galleries.php:307
+#: ../admin/manage-images.php:591
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Bỏ qua yếu tố tỷ lệ, không có ảnh thu nhỏ"
+
+#: ../admin/manage-images.php:32
+msgid "Gallery not found."
+msgstr "Không tìm thấy Gallery"
+
+#: ../admin/manage-images.php:38
+msgid "Sorry, you have no access here"
+msgstr "Xin lỗi, bạn không được phép truy cập vào đây"
+
+#: ../admin/manage-images.php:168
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Bạn đang bắt đầu chỉnh sửa ảnh hàng loạt %s ảnhs \n"
+" \n"
+" 'Hủy bỏ\" để dừng lại, 'OK' để tiếp tục."
+
+#: ../admin/manage-images.php:184
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Kết quả tìm kiếm &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:213
+msgid "Gallery settings"
+msgstr "Cài đặt Gallery"
+
+#: ../admin/manage-images.php:213
+msgid "Click here for more settings"
+msgstr "Bấm chuột vào đây để thêm lựa chọn"
+
+#: ../admin/manage-images.php:230
+msgid "Preview image"
+msgstr "Xem trước ảnh"
+
+#: ../admin/manage-images.php:233
+msgid "No Picture"
+msgstr "Không ảnh"
+
+#: ../admin/manage-images.php:246
+msgid "Path"
+msgstr "Đường dẫn"
+
+#: ../admin/manage-images.php:263
+msgid "Create new page"
+msgstr "Tạo ảnh mới"
+
+#: ../admin/manage-images.php:266
+msgid "Main page (No parent)"
+msgstr "Trang chính (không phải là trang gốc)"
+
+#: ../admin/manage-images.php:269
+msgid "Add page"
+msgstr "Thêm trang"
+
+#: ../admin/manage-images.php:278
+msgid "Scan Folder for new images"
+msgstr "Quét thư mục để tìm ảnh mới"
+
+#: ../admin/manage-images.php:279
+#: ../admin/manage-images.php:321
+#: ../admin/manage-images.php:473
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: ../admin/manage-images.php:305
+msgid "Delete images"
+msgstr "Xóa ảnh"
+
+#: ../admin/manage-images.php:307
+msgid "Rotate images clockwise"
+msgstr "Xoay ảnh theo chiều kim đồng hồ"
+
+#: ../admin/manage-images.php:308
+msgid "Rotate images counter-clockwise"
+msgstr "Xoay ảnh ngược chiều kim đồng hồ"
+
+#: ../admin/manage-images.php:309
+msgid "Copy to..."
+msgstr "Sao chép tới..."
+
+#: ../admin/manage-images.php:310
+msgid "Move to..."
+msgstr "Di chuyển tới..."
+
+#: ../admin/manage-images.php:311
+msgid "Add tags"
+msgstr "Thêm nhiều thẻ"
+
+#: ../admin/manage-images.php:312
+msgid "Delete tags"
+msgstr "Xóa nhiều thẻ"
+
+#: ../admin/manage-images.php:313
+msgid "Overwrite tags"
+msgstr "Ghi đè thẻ"
+
+#: ../admin/manage-images.php:318
+msgid "Sort gallery"
+msgstr "Sắp xếp gallery"
+
+#: ../admin/manage-images.php:392
+msgid "pixel"
+msgstr "pixel"
+
+#: ../admin/manage-images.php:400
+#, php-format
+msgid "View \"%s\""
+msgstr "Xem \"%s\""
+
+#: ../admin/manage-images.php:400
+msgid "View"
+msgstr "Xem"
+
+#: ../admin/manage-images.php:401
+msgid "Show Meta data"
+msgstr "Hiển thị dữ liệu tiền tố"
+
+#: ../admin/manage-images.php:401
+msgid "Meta"
+msgstr "Tiền tố"
+
+#: ../admin/manage-images.php:402
+msgid "Customize thumbnail"
+msgstr "Tùy chọn ảnh thu nhỏ"
+
+#: ../admin/manage-images.php:402
+msgid "Edit thumb"
+msgstr "Sửa ảnh thu nhỏ"
+
+#: ../admin/manage-images.php:403
+msgid "Rotate"
+msgstr "Xoay"
+
+#: ../admin/manage-images.php:405
+msgid "Recover"
+msgstr "Khôi phục"
+
+#: ../admin/manage-images.php:405
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "Khôi phục \"%s\" ?"
+
+#: ../admin/manage-images.php:406
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Xóa \"%s\" ?"
+
+#: ../admin/manage-images.php:496
+msgid "Enter the tags"
+msgstr "Điền thẻ "
+
+#: ../admin/manage-images.php:520
+msgid "Select the destination gallery:"
+msgstr "Chọn điểm đến cho gallery:"
+
+#: ../admin/manage-images.php:620
+msgid "Thumbnail"
+msgstr "Ảnh thu nhỏ"
+
+#: ../admin/manage-images.php:622
+#: ../admin/manage-sort.php:74
+msgid "Filename"
+msgstr "Tên file"
+
+#: ../admin/manage-images.php:624
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Tiêu đề"
+
+#: ../admin/manage-images.php:625
+msgid "Tags (comma separated list)"
+msgstr "thẻ (cách bằng dấu phảy)"
+
+#: ../admin/manage-images.php:627
+msgid "exclude"
+msgstr "Loại trừ"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "Sắp xếp cũ đã thay đổi"
+
+#: ../admin/manage-sort.php:59
+msgid "Sort Gallery"
+msgstr "Sắp xếp Gallery"
+
+#: ../admin/manage-sort.php:63
+msgid "Update Sort Order"
+msgstr "Cập nhật kiểu sắp xếp"
+
+#: ../admin/manage-sort.php:66
+msgid "Back to gallery"
+msgstr "Quay lại Gallery"
+
+#: ../admin/manage-sort.php:71
+msgid "Presort"
+msgstr "Trước"
+
+#: ../admin/manage-sort.php:72
+msgid "Unsorted"
+msgstr "Đã không sắp xếp"
+
+#: ../admin/manage-sort.php:73
+msgid "Image ID"
+msgstr "ID của ảnh"
+
+#: ../admin/manage-sort.php:75
+msgid "Alt/Title text"
+msgstr "Alt/Tiêu đề"
+
+#: ../admin/manage-sort.php:76
+msgid "Date/Time"
+msgstr "Ngày/Thời gian"
+
+#: ../admin/manage-sort.php:77
+msgid "Ascending"
+msgstr "Tăng dần"
+
+#: ../admin/manage-sort.php:78
+msgid "Descending"
+msgstr "Giảm dần"
+
+#: ../admin/manage.php:86
+#: ../admin/manage.php:107
+msgid "deleted successfully"
+msgstr "đã xóa thành công"
+
+#: ../admin/manage.php:107
+msgid "Picture"
+msgstr "Ảnh"
+
+#: ../admin/manage.php:122
+#: ../admin/manage.php:131
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Thực hiện thành công. Vui lòng xóa bộ nhớ đệm của trình duyệt"
+
+#: ../admin/manage.php:232
+#: ../admin/manage.php:235
+msgid "Rotate images"
+msgstr "Xoay ảnh"
+
+#: ../admin/manage.php:257
+msgid "Pictures deleted successfully "
+msgstr "Đã xóa thành công ảnh"
+
+#: ../admin/manage.php:353
+msgid "Tags changed"
+msgstr "Thẻ đã thay đổi"
+
+#: ../admin/manage.php:386
+msgid "Update successful"
+msgstr "Cập nhật thành công"
+
+#: ../admin/manage.php:421
+msgid "New gallery page ID"
+msgstr "ID của trang galler mới"
+
+#: ../admin/manage.php:421
+msgid "created"
+msgstr "Đã tạo "
+
+#: ../admin/media-upload.php:168
+#: ../admin/tinymce/window.php:43
+msgid "No gallery"
+msgstr "Không gallery"
+
+#: ../admin/media-upload.php:180
+msgid "Select &#187;"
+msgstr "Chọn &#187;"
+
+#: ../admin/media-upload.php:211
+msgid "Show"
+msgstr "Hiển thị"
+
+#: ../admin/media-upload.php:212
+msgid "Hide"
+msgstr "Ẩn"
+
+#: ../admin/media-upload.php:217
+msgid "Image ID:"
+msgstr "ID của ảnh"
+
+#: ../admin/media-upload.php:276
+msgid "Save all changes"
+msgstr "Lưu mọi thay đổi"
+
+#: ../admin/overview.php:15
+msgid "NextGEN Gallery Overview"
+msgstr "Giới thiệu chung về NextGEN Gallery "
+
+#: ../admin/overview.php:87
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Chào đón bạn đến với NextGEN Gallery "
+
+#: ../admin/overview.php:88
+msgid "Do you like this Plugin?"
+msgstr "Bạn có thích Plugin này"
+
+#: ../admin/overview.php:90
+msgid "Translation"
+msgstr "Dịch sang ngôn ngữ Tiếng Việt"
+
+#: ../admin/overview.php:91
+msgid "Latest News"
+msgstr "Tin mới nhất"
+
+#: ../admin/overview.php:92
+msgid "Recent donators"
+msgstr "Những người đã ủng hộ tiền cho tác giả  gần đây"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "Thông tin về Server"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "Plugins liên quan"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Pluign này được phát triển, sửa chữa và hỗ trợ bởi <a href=\"%s\">Alex Rabe</a>. Xin cảm ơn tất cả!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Hãy bầu chọn cho plugin này tại WordPress.org"
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Gửi tiền thông qua paypal"
+
+#: ../admin/overview.php:116
+msgid "Send a gift to show your appreciation."
+msgstr "Hãy gửi cho chúng tôi sự đánh giá của bạn"
+
+#: ../admin/overview.php:121
+msgid "Help to translating it."
+msgstr "Hỗ trợ để dịch plugin này"
+
+#: ../admin/overview.php:140
+msgid "Graphic Library"
+msgstr "Thư viện đồ họa "
+
+#: ../admin/overview.php:156
+#: ../admin/overview.php:205
+#: ../admin/overview.php:392
+#: ../admin/overview.php:582
+msgid "Loading&#8230;"
+msgstr "Đang tải&#8230;"
+
+#: ../admin/overview.php:156
+#: ../admin/overview.php:205
+#: ../admin/overview.php:392
+#: ../admin/overview.php:582
+msgid "This widget requires JavaScript."
+msgstr "Widget cần mã Java."
+
+#: ../admin/overview.php:169
+msgid "Thanks to all donators..."
+msgstr "Cảm ơn tất cả những người đã ủng hộ tiền"
+
+#: ../admin/overview.php:191
+msgid "View all"
+msgstr "Xem tất cả"
+
+#: ../admin/overview.php:217
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Feed mới không thể tải.  Kiểm tra <a href=\"%s\">trang trước</a> để cập nhật."
+
+#: ../admin/overview.php:229
+msgid "Untitled"
+msgstr "Chưa có tiêu đề"
+
+#: ../admin/overview.php:279
+msgid "At a Glance"
+msgstr "Hiện tại có"
+
+#: ../admin/overview.php:284
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Image"
+msgstr[1] "Images"
+
+#: ../admin/overview.php:305
+msgid "Upload pictures"
+msgstr "Tải nhiều ảnh"
+
+#: ../admin/overview.php:306
+msgid "Here you can control your images, galleries and albums."
+msgstr "Tại đây bạn có thể chỉnh sửa ảnh, gallery và album."
+
+#: ../admin/overview.php:336
+msgid "Storage Space"
+msgstr "Khả năng lưu trữ"
+
+#: ../admin/overview.php:340
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Quản lý tải lên\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:341
+msgid "Space Allowed"
+msgstr "Dung lượng cho phép"
+
+#: ../admin/overview.php:348
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Quản lý tải lên\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:349
+msgid "Space Used"
+msgstr "Dung lượng lưu trữ đã dùng."
+
+#: ../admin/overview.php:378
+msgid "Translation file successful updated. Please reload page."
+msgstr "Quá trình dịch file đã cập nhật thành công. Vui lòng tải lại trang"
+
+#: ../admin/overview.php:380
+msgid "Reload page"
+msgstr "Tải lại trang"
+
+#: ../admin/overview.php:385
+msgid "Translation file couldn't be updated"
+msgstr "File dịch không thể cập nhật"
+
+#: ../admin/overview.php:422
+msgid "Download"
+msgstr "Tải xuống"
+
+#: ../admin/overview.php:451
+msgid "No GD support"
+msgstr "Không hỗ trợ GD"
+
+#: ../admin/overview.php:463
+#: ../admin/overview.php:509
+#: ../admin/overview.php:512
+#: ../admin/overview.php:515
+msgid "Yes"
+msgstr "Có"
+
+#: ../admin/overview.php:465
+#: ../admin/overview.php:510
+#: ../admin/overview.php:513
+#: ../admin/overview.php:516
+msgid "No"
+msgstr "Không"
+
+#: ../admin/overview.php:483
+msgid "Not set"
+msgstr "Không thiết lập"
+
+#: ../admin/overview.php:485
+#: ../admin/overview.php:488
+msgid "On"
+msgstr "Bật"
+
+#: ../admin/overview.php:486
+#: ../admin/overview.php:489
+msgid "Off"
+msgstr "Tắt"
+
+#: ../admin/overview.php:492
+#: ../admin/overview.php:495
+#: ../admin/overview.php:498
+#: ../admin/overview.php:501
+#: ../admin/overview.php:504
+#: ../admin/overview.php:507
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:506
+msgid " MByte"
+msgstr " MByte"
+
+#: ../admin/overview.php:519
+msgid "Operating System"
+msgstr "Hệ điều hành"
+
+#: ../admin/overview.php:520
+msgid "Server"
+msgstr "Server"
+
+#: ../admin/overview.php:521
+msgid "Memory usage"
+msgstr "Bộ nhớ sử dụng"
+
+#: ../admin/overview.php:522
+msgid "MYSQL Version"
+msgstr "Phiên bản cơ sở dữ liệu"
+
+#: ../admin/overview.php:523
+msgid "SQL Mode"
+msgstr "Chế độ SQL"
+
+#: ../admin/overview.php:524
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: ../admin/overview.php:525
+msgid "PHP Safe Mode"
+msgstr "Chề độ PHP Safe"
+
+#: ../admin/overview.php:526
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: ../admin/overview.php:527
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: ../admin/overview.php:528
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: ../admin/overview.php:529
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: ../admin/overview.php:530
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking Limit"
+
+#: ../admin/overview.php:531
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#: ../admin/overview.php:532
+msgid "PHP Exif support"
+msgstr "PHP Exif support"
+
+#: ../admin/overview.php:533
+msgid "PHP IPTC support"
+msgstr "PHP IPTC support"
+
+#: ../admin/overview.php:534
+msgid "PHP XML support"
+msgstr "PHP XML support"
+
+#: ../admin/overview.php:546
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGen Gallery có chứa một số chức năng mà chỉ có sẵn trong PHP 5.2. Bạn đang sử dụng phiên bản PHP cũ 4, nên nâng cấp ngay bây giờ! Phiên bản cũ không còn được hỗ trợ bởi các nhóm PHP. Nhiều nhà cung cấp chia sẻ lưu trữ cung cấp cả PHP 4 và PHP 5, chạy đồng thời. Hãy hỏi nhà cung cấp của bạn nếu họ có thể làm điều đó."
+
+#: ../admin/overview.php:638
+msgid "Install"
+msgstr "Cài đặt"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Lưu lại"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Quyền hạn"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Chọn quyền hạn thấp nhất mà thành viên có thể sử dụng được plugin này. NextGen Gallery hỗ trợ các quyền hạn theo tiêu chuẩn của WordPress."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Bạn có thể quản lý linh hoạt hơn khi sử dụng"
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "Thông tin chung về NextGEN Gallery"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Dùng nút TinyMCE  / Tab tải lên"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Thêm gallery / Tải ảnh"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Quản lý Gallery"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Quản lý gallery khác"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "Quản lý thẻ"
+
+#: ../admin/roles.php:59
+msgid "Edit Album"
+msgstr "Sửa Album"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "Đổi kiểu dáng"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "Đổi lựa chọn"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Lưu lại"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Ảnh đã xoay"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Lỗi xoay ảnh thu nhỏ"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&độ; theo chiều kim đồng hồ"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&độ; ngược chiều kim đồng hồ"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Trượt nhẹ theo chiều dọc"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Trượt nhẹ theo chiều ngang"
+
+#: ../admin/settings.php:91
+msgid "Cache cleared"
+msgstr "Đã xóa bộ nhớ đệm"
+
+#: ../admin/settings.php:201
+#: ../admin/settings.php:220
+msgid "General Options"
+msgstr "Tùy chọn chung"
+
+#: ../admin/settings.php:202
+#: ../admin/settings.php:400
+msgid "Thumbnails"
+msgstr "Ảnh thu nhỏ"
+
+#: ../admin/settings.php:203
+msgid "Images"
+msgstr "Ảnh"
+
+#: ../admin/settings.php:205
+#: ../admin/settings.php:452
+msgid "Effects"
+msgstr "Ảnh hưởng"
+
+#: ../admin/settings.php:206
+#: ../admin/settings.php:494
+#: ../admin/tinymce/window.php:119
+msgid "Watermark"
+msgstr "Ảnh mờ"
+
+#: ../admin/settings.php:207
+#: ../admin/settings.php:401
+#: ../admin/settings.php:601
+#: ../admin/tinymce/window.php:58
+msgid "Slideshow"
+msgstr "Trình chiếu slide"
+
+#: ../admin/settings.php:226
+#: ../admin/wpmu.php:46
+msgid "Gallery path"
+msgstr "Đường dẫn của gallery"
+
+#: ../admin/settings.php:228
+msgid "This is the default path for all galleries"
+msgstr "Đây là đường dẫn mặc định cho mọi gallery"
+
+#: ../admin/settings.php:231
+msgid "Delete image files"
+msgstr "Xóa file ảnh"
+
+#: ../admin/settings.php:233
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Xóa file khi gỡ bỏ một gallery trong cơ sở dữ liệu"
+
+#: ../admin/settings.php:236
+msgid "Activate permalinks"
+msgstr "Kích hoạt link tĩnh"
+
+#: ../admin/settings.php:238
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Khi bạn kích hoạt lựa chọn này, bạn cần cập nhật một lần cấu trúc link tĩnh"
+
+#: ../admin/settings.php:241
+msgid "Select graphic library"
+msgstr "Chọn thư viện đồ họa "
+
+#: ../admin/settings.php:242
+msgid "GD Library"
+msgstr "Thư viện GD"
+
+#: ../admin/settings.php:243
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (thử nghiệm). Đường dẫn đến thư viện :"
+
+#: ../admin/settings.php:248
+msgid "Activate Media RSS feed"
+msgstr "Kích hoạt Media RSS feed"
+
+#: ../admin/settings.php:250
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "A RSS feed sẽ được thêm trên blog của bạn. Rất có ích cho việc dùng CoolIris/PicLens"
+
+#: ../admin/settings.php:253
+msgid "Activate PicLens/CoolIris support"
+msgstr "Kích hoạt PicLens/Hỗ trợ CoolIris "
+
+#: ../admin/settings.php:255
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Khi bạn kích hoạt chọn lựa này một vài mã Java sẽ ảnh hưởng lên website. Cần chắc chắn wp_footer vẫn hoạt động trên giao diện trang web của bạn."
+
+#: ../admin/settings.php:258
+msgid "Tags / Categories"
+msgstr "Thẻ / Chuyên mục"
+
+#: ../admin/settings.php:261
+msgid "Activate related images"
+msgstr "Kích hoạt ảnh liên quan"
+
+#: ../admin/settings.php:263
+msgid "This option will append related images to every post"
+msgstr "Lựa chọn sẽ thêm những ảnh liên quan trong mọi bài viết"
+
+#: ../admin/settings.php:267
+msgid "Match with"
+msgstr "Phù hợp với"
+
+#: ../admin/settings.php:268
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: ../admin/settings.php:273
+msgid "Max. number of images"
+msgstr "Số lượng ảnh tối đa"
+
+#: ../admin/settings.php:275
+msgid "0 will show all images"
+msgstr "0 sẽ hiển thị mọi ảnh"
+
+#: ../admin/settings.php:279
+#: ../admin/settings.php:310
+#: ../admin/settings.php:357
+#: ../admin/settings.php:442
+#: ../admin/settings.php:477
+#: ../admin/settings.php:738
+msgid "More settings"
+msgstr "Thêm thiết lập"
+
+#: ../admin/settings.php:289
+msgid "Thumbnail settings"
+msgstr "Thiết lập ảnh thu nhỏ"
+
+#: ../admin/settings.php:293
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Chú ý\" Nếu bạn thay đổi thiết lập, bạn cần tạo lại ảnh thu nhỏ ở dưới -> Quản lý Gallery"
+
+#: ../admin/settings.php:306
+msgid "Thumbnail quality"
+msgstr "Chất lượng ảnh thu nhỏ"
+
+#: ../admin/settings.php:320
+msgid "Image settings"
+msgstr "Thiết lập ảnh"
+
+#: ../admin/settings.php:326
+msgid "Resize Images"
+msgstr "Sửa kích thước ảnh"
+
+#: ../admin/settings.php:331
+msgid "Image quality"
+msgstr "Chất lượng ảnh"
+
+#: ../admin/settings.php:335
+msgid "Backup original images"
+msgstr "Lưu ảnh gốc"
+
+#: ../admin/settings.php:337
+msgid "Creates a backup for inserted images"
+msgstr "Tạo bản lưu cho ảnh đã chèn vào"
+
+#: ../admin/settings.php:340
+msgid "Automatically resize"
+msgstr "Tự động sửa kích thước"
+
+#: ../admin/settings.php:342
+msgid "Automatically resize images on upload."
+msgstr "Tự động sửa kích thước ảnh khi tải lên"
+
+#: ../admin/settings.php:345
+msgid "Single picture"
+msgstr "Ảnh đơn"
+
+#: ../admin/settings.php:348
+msgid "Cache single pictures"
+msgstr "Bộ nhớ đệm cho ảnh đơn"
+
+#: ../admin/settings.php:350
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Tạo một file cho mỗi thiết lập ảnh đơn. Giảm tải cho CPU"
+
+#: ../admin/settings.php:353
+msgid "Clear cache folder"
+msgstr "Xóa bộ nhớ đệm của thư mục"
+
+#: ../admin/settings.php:354
+msgid "Proceed now"
+msgstr "Thực hiện ngay"
+
+#: ../admin/settings.php:374
+msgid "Deactivate gallery page link"
+msgstr "Vô hiệu hóa liên kết trang gallery"
+
+#: ../admin/settings.php:376
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Album này sẽ không liên kết với gallery phụ. Galley này sẽ hiển thị ở trang khác"
+
+#: ../admin/settings.php:380
+msgid "Number of images per page"
+msgstr "Số lượng ảnh trên mỗi trang"
+
+#: ../admin/settings.php:382
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 sẽ vô hiệu hóa phân trang, tất cả hình ảnh trên một trang"
+
+#: ../admin/settings.php:386
+msgid "Number of columns"
+msgstr "Số lượng cột"
+
+#: ../admin/settings.php:388
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 sẽ hiển thị nhiều nhất có thể dựa vào độ rộng của chủ đề của bạn. Thiết lập thông thường chỉ yêu cầu cho các chú thích bên dưới những hình ảnh"
+
+#: ../admin/settings.php:392
+msgid "Integrate slideshow"
+msgstr "Tích hợp xem hình tự động"
+
+#: ../admin/settings.php:399
+msgid "Show first"
+msgstr "Xem đầu tiên"
+
+#: ../admin/settings.php:405
+msgid "Show ImageBrowser"
+msgstr "Xem qua trình duyệt"
+
+#: ../admin/settings.php:407
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Gallery sẽ mở ImageBrowser thay vì hiệu ứng"
+
+#: ../admin/settings.php:411
+msgid "Add hidden images"
+msgstr "Thêm ảnh ẩn"
+
+#: ../admin/settings.php:413
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increase the page load"
+msgstr "Nếu phân trang được sử dụng, tùy chọn này vẫn sẽ hiển thị tất cả hình ảnh trong cửa sổ phương thức (Thickbox, Lightbox, vv.) Lưu ý: Điều này làm trang web chạy chậm đi"
+
+#: ../admin/settings.php:417
+msgid "Enable AJAX pagination"
+msgstr "Cho phép phân trang kiểu Ajax"
+
+#: ../admin/settings.php:419
+msgid "Browse images without reload the page. Note : Work only in combination with Shutter effect"
+msgstr "Duyệt ảnh không cần tải lại trang. Chú ý: chỉ có thể thực hiện khi kết hợp với hiệu ứng của Shutter"
+
+#: ../admin/settings.php:423
+msgid "Sort options"
+msgstr "Tùy chọn sắp xếp"
+
+#: ../admin/settings.php:426
+msgid "Sort thumbnails"
+msgstr "Sắp xếp ảnh thu nhỏ"
+
+#: ../admin/settings.php:428
+msgid "Custom order"
+msgstr "Vị trí"
+
+#: ../admin/settings.php:430
+msgid "File name"
+msgstr "Tên file"
+
+#: ../admin/settings.php:431
+msgid "Alt / Title text"
+msgstr "Alt / Tiêu đề"
+
+#: ../admin/settings.php:432
+msgid "Date / Time"
+msgstr "Ngày/ Thời gian"
+
+#: ../admin/settings.php:436
+msgid "Sort direction"
+msgstr "Sắp xếp kích thước"
+
+#: ../admin/settings.php:456
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Tại đây bạn có thể chọn hiệu ứng cho hình ảnh thu nhỏ, NextGEN Gallery sẽ tích hợp mã HTML cho ảnh. Lưu ý chỉ Shutter and Thickbox sẽ tự động gắn vào chủ đề giao diện của bạn."
+
+#: ../admin/settings.php:457
+msgid "With the placeholder"
+msgstr "Giữ chỗ"
+
+#: ../admin/settings.php:457
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "bạn có thể kích hoạt một chuyển hướng thông qua các hình ảnh (tùy thuộc vào hiệu lực). Thay đổi dòng mã duy nhất, khi bạn sử dụng một hiệu ứng hình thu nhỏ khác nhau hoặc bạn biết những gì bạn làm."
+
+#: ../admin/settings.php:460
+msgid "JavaScript Thumbnail effect"
+msgstr "Mã Jave cho ảnh thu nhỏ"
+
+#: ../admin/settings.php:463
+msgid "None"
+msgstr "Không"
+
+#: ../admin/settings.php:464
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:465
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:466
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:467
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:468
+msgid "Custom"
+msgstr "Luật pháp"
+
+#: ../admin/settings.php:473
+msgid "Link Code line"
+msgstr "Kết nối mã code"
+
+#: ../admin/settings.php:495
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Chú ý: Bạn chỉ có thể kích hoạt chức năng tạo ảnh mở ở dưới -> Quản lý Gallery . Lưu ý bạn không thể hủy hiệu ứng này với ảnh sau khi thực hiện."
+
+#: ../admin/settings.php:500
+msgid "Preview"
+msgstr "Xem trước"
+
+#: ../admin/settings.php:502
+#: ../admin/settings.php:507
+msgid "Position"
+msgstr "Vị trí"
+
+#: ../admin/settings.php:527
+msgid "Offset"
+msgstr "Tạo ảnh song song"
+
+#: ../admin/settings.php:543
+msgid "Use image as watermark"
+msgstr "Dùng ảnh này như dạng ảnh mờ"
+
+#: ../admin/settings.php:546
+msgid "URL to file"
+msgstr "Đường dẫn URL đến file"
+
+#: ../admin/settings.php:548
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Chức năng truy cập vào địa chỉ URL của file đã bị chặn tại server của bạn (allow_url_fopen)"
+
+#: ../admin/settings.php:551
+msgid "Use text as watermark"
+msgstr "Dùng chữ như là ảnh mờ"
+
+#: ../admin/settings.php:554
+msgid "Font"
+msgstr "Font"
+
+#: ../admin/settings.php:563
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Chức năng sẽ không hoạt động do bạn cần thêm thư viện FreeType"
+
+#: ../admin/settings.php:565
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Bạn có thể tải thêm nhiều font lên vào thư mụcr <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:570
+msgid "Size"
+msgstr "Cỡ"
+
+#: ../admin/settings.php:574
+msgid "Color"
+msgstr "Màu sắc"
+
+#: ../admin/settings.php:576
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: ../admin/settings.php:579
+msgid "Text"
+msgstr "Ký tự"
+
+#: ../admin/settings.php:583
+msgid "Opaque"
+msgstr "Opaque"
+
+#: ../admin/settings.php:604
+msgid "Default size (W x H)"
+msgstr "Kích thước mặc định ( rộng x cao )"
+
+#: ../admin/settings.php:609
+msgid "Duration time"
+msgstr "Thời lượng thời gian"
+
+#: ../admin/settings.php:610
+msgid "sec."
+msgstr "giây"
+
+#: ../admin/settings.php:613
+#: ../admin/settings.php:688
+msgid "Transition / Fade effect"
+msgstr "Chuyển tiếp / Hiệu ứng Phai màu"
+
+#: ../admin/settings.php:616
+#: ../admin/settings.php:691
+msgid "fade"
+msgstr "Phai màu"
+
+#: ../admin/settings.php:617
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:618
+msgid "cover"
+msgstr "bao gồm"
+
+#: ../admin/settings.php:619
+msgid "scrollUp"
+msgstr "Chuyển lên"
+
+#: ../admin/settings.php:620
+msgid "scrollDown"
+msgstr "Chuyển xuống"
+
+#: ../admin/settings.php:621
+msgid "shuffle"
+msgstr "Kiểu Shuffle."
+
+#: ../admin/settings.php:622
+msgid "toss"
+msgstr "giải quyết"
+
+#: ../admin/settings.php:623
+msgid "wipe"
+msgstr "Xóa hết"
+
+#: ../admin/settings.php:625
+msgid "See here for more information about the effects :"
+msgstr "Vào đây đê xem sẽ ảnh hưởng thế nào:"
+
+#: ../admin/settings.php:629
+msgid "Settings for the JW Image Rotator"
+msgstr "Thiết lập này được dùng cho JW Image Rotator"
+
+#: ../admin/settings.php:630
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Thiết lập này được dùng cho phiên bản JW Image Rotator."
+
+#: ../admin/settings.php:631
+msgid "See more information for the Flash Player on the web page"
+msgstr "Xem thông tin về chức năng chạy Flash trên trang web"
+
+#: ../admin/settings.php:636
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Đường dẫn đến fie imagerotator.swf đã không xác định, không thể hiển thị ảnh ở dạng trình chiếu."
+
+#: ../admin/settings.php:637
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Nếu bạn muốn dùng JW Image Rotatator,vui lòng tải về từ <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >ĐÂY</a> và tải lên thư mục Upload (Mặc định là wp-content/uploads)."
+
+#: ../admin/settings.php:643
+msgid "Enable flash slideshow"
+msgstr "Kích hoạt chức năng tải lên bằng flash"
+
+#: ../admin/settings.php:645
+msgid "Integrate the flash based sildeshow for all flash supported devices"
+msgstr "Đã tích hợp flash cho mọi công cụ có hỗ trợ flash"
+
+#: ../admin/settings.php:648
+msgid "Path to the Imagerotator (URL)"
+msgstr "Đường dẫn URL tới Imagerotator "
+
+#: ../admin/settings.php:651
+msgid "Search now"
+msgstr "Tìm kiếm"
+
+#: ../admin/settings.php:652
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Ấn nút tìm kiếm tự động imagerotator, nếu bạn tải nó lên wp-content/uploads hoặc thư mục phụ"
+
+#: ../admin/settings.php:656
+msgid "Shuffle mode"
+msgstr "Kiểu Shuffle"
+
+#: ../admin/settings.php:660
+msgid "Show next image on click"
+msgstr "Xem ảnh kế bằng bấm chuột"
+
+#: ../admin/settings.php:664
+msgid "Show navigation bar"
+msgstr "Xem thanh điều hướng"
+
+#: ../admin/settings.php:668
+msgid "Show loading icon"
+msgstr "Hiện biểu tượng tải trang"
+
+#: ../admin/settings.php:672
+msgid "Use watermark logo"
+msgstr "Dùng logo ảnh mờ"
+
+#: ../admin/settings.php:674
+msgid "You can change the logo at the watermark settings"
+msgstr "Bạn có thể đổi logo tại thiết lập ảnh mờ"
+
+#: ../admin/settings.php:677
+msgid "Stretch image"
+msgstr "Kéo dài ảnh"
+
+#: ../admin/settings.php:680
+msgid "true"
+msgstr "đúng"
+
+#: ../admin/settings.php:681
+msgid "false"
+msgstr "sai"
+
+#: ../admin/settings.php:682
+msgid "fit"
+msgstr "phù hợp"
+
+#: ../admin/settings.php:683
+msgid "none"
+msgstr "không"
+
+#: ../admin/settings.php:692
+msgid "bgfade"
+msgstr "bgfade"
+
+#: ../admin/settings.php:693
+msgid "slowfade"
+msgstr "slowfade"
+
+#: ../admin/settings.php:694
+msgid "circles"
+msgstr "Vòng tròn"
+
+#: ../admin/settings.php:695
+msgid "bubbles"
+msgstr "bong bóng"
+
+#: ../admin/settings.php:696
+msgid "blocks"
+msgstr "khối"
+
+#: ../admin/settings.php:697
+msgid "fluids"
+msgstr "chất lỏng"
+
+#: ../admin/settings.php:698
+msgid "flash"
+msgstr "flash"
+
+#: ../admin/settings.php:699
+msgid "lines"
+msgstr "đường thẳng"
+
+#: ../admin/settings.php:700
+msgid "random"
+msgstr "ngẫu nhiên"
+
+#: ../admin/settings.php:705
+msgid "Use slow zooming effect"
+msgstr "Sử dụng chức năng phóng to, thu nhỏ"
+
+#: ../admin/settings.php:709
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: ../admin/settings.php:714
+msgid "Texts / Buttons Color"
+msgstr "Ký tự/ Nút màu"
+
+#: ../admin/settings.php:719
+msgid "Rollover / Active Color"
+msgstr "Di chuột / Kích hoạt màu"
+
+#: ../admin/settings.php:724
+msgid "Screen Color"
+msgstr "Màu màn hình"
+
+#: ../admin/settings.php:729
+msgid "Background music (URL)"
+msgstr "Đường dẫn nhạc nền "
+
+#: ../admin/settings.php:733
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Dùng xác nhận XHTML ( với CDATA)"
+
+#: ../admin/settings.php:735
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Quan trọng: Không thể đổ lỗi nguyên nhân tại trình duyệt. Kiểm tra trang web của bạn"
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Thiết lập lại thông số mặc định"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Gỡ bỏ chương trình không thành công. Hãy xóa plugin"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Thiết lập lại tùy chọn"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Thiết lập lại mọi tùy chọn để cài đặt theo mặc định"
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Thiết lập lại"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Thiết lập lại về chế độ mặc định ?\\n"
+"\\n"
+"Chọn Hủy bỏ để dừng lại,  [OK] để tiếp tục.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Gỡ bỏ plugin:"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Bạn không thích plugin này?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Không sao, trước khi bạn vô hiệu hóa plugin này, hãy ấn nút gỡ bỏ, bởi vì vô hiệu hóa plugin này sẽ không xóa bỏ dữ liệu đã có"
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "CẢNH BÁO:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Sau khi gỡ bỏ, không thể khôi phục dữ liệu trước đó. Bạn nên sao lưu dữ liệu của blog trước. Lưu ý:"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "và"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Gỡ bỏ plugin"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Bạn đang gỡ bỏ plugin từ Wordpress.\\n"
+"Hành động này không thể đảo ngược.\\n"
+"\\n"
+"Chọn Hủy bỏ để dừng lại, [OK] để gỡ bỏ.\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Thẻ tiền tố"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "Thẻ"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "Giá trị"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Không thẻ tiền tố nào đã lưu"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "Dữ liệu EXIF"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Không có dữ liệu exif"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "Dữ liệu IPTC"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "Dữ liệu XMP"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "( Từ thư mục của chủ đề )"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Bạn không đủ quyền hạn để chỉnh sửa giao diện cho blog này"
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "Đã cập nhật thành công cho file CSS"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "Chỉnh sửa kiểu dáng"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Kích hoạt và sử dụng kiểu bảng"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Đang sửa <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Đang duyệt <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Phiên bản"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Thủ thuật : Sao chép bảng mẫu của bạn (nggallery.css) đến thư mục chủ đề,vì thế bạn sẽ không bị mất trong quá trình nâng cấp"
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Chủ đề của bạn có chưa bảng NextGEN Gallery  (nggallery.css),file này sẽ được sử dụng"
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Thủ thuật 2: Sử dụng hộp thoại dưới đây sẽ giúp bạn tìm được màu phù hợp cho gallery của bạn!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Cập nhật file"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Nếu file có thể ghi đè thì bạn có thể chỉnh sửa nó"
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Rất tiếc, không có tập tin như vậy tồn tại! Kiểm tra tên và thử lại"
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Hay dùng "
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Ít dùng"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Ký tự theo bảng chữ cái"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Quản lý thẻ của ảnh"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Thẻ đã tồn tại"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "Tìm thẻ"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Tìm "
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Vị trí sắp xếp"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "Thẻ trước"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "Thẻ sau"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Đổi tên thẻ"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Tạo thẻ mới khi đổi tên.  Bạn có thể kết hợp nhiều thẻ với nhau. Click \"Đổi tên\" và mọi bài viết sẽ cập nhật ngay thẻ mới."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Bạn có thể đổi tên nhiều thể bằng cách dùng dấu phảy ngăn cách các thẻ"
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Đổi tên thẻ:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Tên thẻ mới:"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Xóa thẻ"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Gõ tên của thẻ để xóa. Thẻ này sẽ được loại bỏ khỏi mọi bài viết"
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Bạn có thể sắp xếp nhiều thẻ, ngăn cách chúng bằng dấu phảy"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Thẻ đã xóa"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Sửa Slug của thẻ"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Gõ tên của thẻ và sửa nó với slug mới. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Định nghĩa Slug</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Kết hợp nhiều thẻ:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "Thiết lập slug:"
+
+#: ../admin/upgrade.php:23
+msgid "Upgrade database structure..."
+msgstr "Nâng cấp cơ sở dữ liệu"
+
+#: ../admin/upgrade.php:101
+#: ../admin/upgrade.php:115
+#: ../admin/upgrade.php:122
+#: ../admin/upgrade.php:133
+#: ../admin/upgrade.php:147
+msgid "finished"
+msgstr "Kết thúc"
+
+#: ../admin/upgrade.php:113
+msgid "Update file structure..."
+msgstr "Cập nhật cấu trúc file"
+
+#: ../admin/upgrade.php:120
+msgid "Import date and time information..."
+msgstr "Nhập vào thời gian và thông tin ngày tháng"
+
+#: ../admin/upgrade.php:128
+msgid "Move imagerotator to new location..."
+msgstr "Di chuyển imagerotator tới vị trí mới..."
+
+#: ../admin/upgrade.php:139
+msgid "Update settings..."
+msgstr "Cập nhật thiết lập..."
+
+#: ../admin/upgrade.php:153
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Cập nhật cấu trúc widget. Nếu bạn dùng NextGEN Widgets, bạn cần thiết lập lại lần nữa..."
+
+#: ../admin/upgrade.php:161
+msgid "Updated options."
+msgstr "Cập nhật thiết lập..."
+
+#: ../admin/upgrade.php:167
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "Không thể tìm thấy cơ sỡ dữ liệu của NextGEN Gallery. Nâng cấp đã thất bại !"
+
+#: ../admin/upgrade.php:230
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Một vài thư mục/files không thể đổi tên. vui lòng kiểm tra lại quyền hạn và quét lại thư mục trong phần quản lý gallery."
+
+#: ../admin/upgrade.php:232
+msgid "Rename failed"
+msgstr "Đổi tên thất bại"
+
+#: ../admin/upgrade.php:328
+#: ../admin/upgrade.php:347
+msgid "Upgrade NextGEN Gallery"
+msgstr "Nâng cấp NextGEN Gallery"
+
+#: ../admin/upgrade.php:329
+msgid "The script detect that you upgrade from a older version."
+msgstr "Bạn đã nâng cấp từ một phiên bản cũ."
+
+#: ../admin/upgrade.php:330
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Bảng cơ sở dữ liệu của NextGEN Gallery đã quá hạn, và phải nâng cấp trước khi có thể tiếp tục sử dụng."
+
+#: ../admin/upgrade.php:331
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Nếu bạn muốn dùng phiên bản trước, hãy sao lưu toàn bộ cơ sở dữ liệu và hình ảnh"
+
+#: ../admin/upgrade.php:332
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Quá trình nâng cấp sẽ diễn ra trong một khoảng thời gian nhất định, hãy kiên nhẫn chờ đợi"
+
+#: ../admin/upgrade.php:333
+msgid "Start upgrade now"
+msgstr "Bắt đầu nâng cấp"
+
+#: ../admin/upgrade.php:349
+msgid "Upgrade finished..."
+msgstr "Nâng cấp đã kết thúc"
+
+#: ../admin/upgrade.php:350
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: ../admin/wpmu.php:31
+msgid "Update successfully"
+msgstr "Cập nhật thành công"
+
+#: ../admin/wpmu.php:40
+msgid "General WordPress MU Settings"
+msgstr "Thiết lập chung cho WordPress MU "
+
+#: ../admin/wpmu.php:48
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "Đây là đường dẫn mặc định cho mọi blog. Với việc sắp đặtr %BLOG_ID% bạn có thể tổ chức các cấu trúc thư mục tốt hơn. Đường dẫn phải kết thúc với a /."
+
+#: ../admin/wpmu.php:51
+msgid "Enable upload quota check"
+msgstr "Kích hoạt tính năng tải lên kiểm tra hạn ngạch"
+
+#: ../admin/wpmu.php:53
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Có thể làm việc nếu gallery đặt dưới  blog.dir"
+
+#: ../admin/wpmu.php:57
+msgid "Enable zip upload option"
+msgstr "Kích hoạt tùy chọn tải file nén"
+
+#: ../admin/wpmu.php:59
+msgid "Allow users to upload zip folders."
+msgstr "Cho mọi thành viên tải lên thư mục nén"
+
+#: ../admin/wpmu.php:63
+msgid "Enable style selection"
+msgstr "Kích hoạt chọn lựa kiểu"
+
+#: ../admin/wpmu.php:65
+msgid "Allow users to choose a style for the gallery."
+msgstr "Cho phép thành viên chọn kiểu cho gallery"
+
+#: ../admin/wpmu.php:69
+msgid "Enable roles/capabilities"
+msgstr "Kích hoạt quyền hạn"
+
+#: ../admin/wpmu.php:71
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Cho phép thành viên đổi quyền hạn với tác giả viết bài"
+
+#: ../admin/wpmu.php:75
+msgid "Default style"
+msgstr "Kiểu mặc định"
+
+#: ../admin/wpmu.php:92
+msgid "Choose the default style for the galleries."
+msgstr "Chọn kiểu mặc định cho gallery"
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "Bạn không được phép ở đây"
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "Hiển thị như"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "Danh sách ảnh"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "Trình duyệt ảnh"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "Không album"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "Phiên bản mở rộng"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "Phiên bản rút gọn"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "Chọn ảnh"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "Rộng x Cao"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "Hiệu ứng"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "Không hiệu ứng"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "Trôi"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "Không trôi"
+
+#: ../admin/tinymce/window.php:129
+msgid "Left"
+msgstr "Trái"
+
+#: ../admin/tinymce/window.php:130
+msgid "Center"
+msgstr "Giữa"
+
+#: ../admin/tinymce/window.php:131
+msgid "Right"
+msgstr "Phải"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "Chèn"
+
+#: ../lib/core.php:379
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Chú ý : Căn cứ vào giới hạn bộ nhớ máy chủ của bạn, bạn không nên tải lên hình ảnh lớn hơn <strong>%d x %d</strong> pixel"
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Cung cấp địa chỉ URL sai"
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Không thể tạo file tạm thời."
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr "phút"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr "giây"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "Loại bỏ"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "Không loại bỏ"
+
+#: ../lib/meta.php:423
+msgid "Aperture"
+msgstr "Kẽ hở"
+
+#: ../lib/meta.php:424
+#: ../lib/meta.php:449
+msgid "Credit"
+msgstr "Tín nhiệm"
+
+#: ../lib/meta.php:425
+msgid "Camera"
+msgstr "Camera"
+
+#: ../lib/meta.php:426
+msgid "Caption"
+msgstr "Chú thích"
+
+#: ../lib/meta.php:428
+msgid "Copyright"
+msgstr "Bản quyền"
+
+#: ../lib/meta.php:429
+msgid "Focal length"
+msgstr "Tiêu cự"
+
+#: ../lib/meta.php:430
+msgid "ISO"
+msgstr "Tiêu chuẩn ISO"
+
+#: ../lib/meta.php:431
+msgid "Shutter speed"
+msgstr "Tốc độ Shutter"
+
+#: ../lib/meta.php:435
+msgid "Subject"
+msgstr "Đối tượng"
+
+#: ../lib/meta.php:436
+msgid "Make"
+msgstr "Làm"
+
+#: ../lib/meta.php:437
+msgid "Edit Status"
+msgstr "Sửa trạng thái"
+
+#: ../lib/meta.php:438
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: ../lib/meta.php:439
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: ../lib/meta.php:440
+msgid "Date Created"
+msgstr "Ngày được tạo"
+
+#: ../lib/meta.php:441
+msgid "Time Created"
+msgstr "Thời gian được tạo"
+
+#: ../lib/meta.php:442
+msgid "Author Position"
+msgstr "Vị trí tác giả"
+
+#: ../lib/meta.php:443
+msgid "City"
+msgstr "Thành phố"
+
+#: ../lib/meta.php:444
+msgid "Location"
+msgstr "Vị trí"
+
+#: ../lib/meta.php:445
+msgid "Province/State"
+msgstr "Tỉnh/Nước"
+
+#: ../lib/meta.php:446
+msgid "Country code"
+msgstr "Mã Quốc gia"
+
+#: ../lib/meta.php:447
+msgid "Country"
+msgstr "Quốc gia"
+
+#: ../lib/meta.php:448
+msgid "Headline"
+msgstr "Tiêu đề"
+
+#: ../lib/meta.php:450
+msgid "Source"
+msgstr "Nguồn"
+
+#: ../lib/meta.php:451
+msgid "Copyright Notice"
+msgstr "Thông báo bản quyền"
+
+#: ../lib/meta.php:452
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: ../lib/meta.php:453
+msgid "Last modified"
+msgstr "Lần sửa cuối"
+
+#: ../lib/meta.php:454
+msgid "Program tool"
+msgstr "Công cụ"
+
+#: ../lib/meta.php:455
+msgid "Format"
+msgstr "Định dạng"
+
+#: ../lib/meta.php:456
+msgid "Image Width"
+msgstr "Chiều rộng ảnh"
+
+#: ../lib/meta.php:457
+msgid "Image Height"
+msgstr "Chiều cao ảnh"
+
+#: ../lib/meta.php:458
+msgid "Flash"
+msgstr "Flash"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Xin lỗi, bạn đã dùng hết giới hạn lưu trữ. Bạn phải xóa bớt một vài file cũ trước khi tải lên file khác"
+
+#: ../lib/ngg-db.php:321
+#: ../lib/ngg-db.php:322
+msgid "Album overview"
+msgstr "Thông tin chung về album"
+
+#: ../lib/shortcodes.php:298
+msgid "[Pictures not found]"
+msgstr "Không tìm thấy ảnh"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Không có thẻ mới được xác định"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Không có thẻ cũ/mới được xác định"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Không có thẻ đã đổi tên"
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Đã đổi tên thẻ &laquo;%1$s&raquo; đến &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Không có thẻ mới có giá trị"
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Không có đối tượng (bài viết/trang) được tìm thấy với thẻ đã xác định"
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Không có thẻ được kết hợp"
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Kết hợp nhiều thẻ &laquo;%1$s&raquo; đến &laquo;%2$s&raquo;. %3$s đối tượng đã sửa."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Lỗi. Không đủ thẻ để đổi tên. Nên kết hợp các thẻ!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Không có thẻ được xác định"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Không có thẻ đã xóa"
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s thẻ đã xóa."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Không có slug mới được xác định!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Số lượng thẻ và số lượng slug không giống nhau!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Không slug đã sửa."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s slug đã sửa."
+
+#: ../lib/xmlrpc.php:55
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "Dịch vụ XML-RPC đã bị vô hiệu hóa tại blog này.  Chỉ có quản trị viên mới có thể kích hoạt tại %s"
+
+#: ../lib/xmlrpc.php:62
+msgid "Bad login/pass combination."
+msgstr "Lỗi đăng nhập/kết hợp"
+
+#: ../lib/xmlrpc.php:118
+msgid "You are not allowed to upload files to this site."
+msgstr "Bạn không được phép tải file lên trang web này."
+
+#: ../lib/xmlrpc.php:124
+#: ../lib/xmlrpc.php:309
+msgid "Could not find gallery "
+msgstr "Không thể tìm thấy gallery"
+
+#: ../lib/xmlrpc.php:129
+#: ../lib/xmlrpc.php:314
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Bạn không được phép tải file lên gallery này."
+
+#: ../lib/xmlrpc.php:141
+msgid "This is no valid image file."
+msgstr "Đây là ảnh không tồn tại."
+
+#: ../lib/xmlrpc.php:153
+msgid "Could not find image id "
+msgstr "Không thể tìm thấy id của ảnh"
+
+#: ../lib/xmlrpc.php:160
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Thất bại khi xóa ảnh %1$s "
+
+#: ../lib/xmlrpc.php:169
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Không thể ghi đè lên file %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:236
+#: ../lib/xmlrpc.php:272
+msgid "Sorry, you must be able to manage galleries to view the list of galleries"
+msgstr "Xin lỗi, bạn phải kích hoạt quản lý gallery để xem danh sách galley"
+
+#: ../lib/xmlrpc.php:242
+msgid "Sorry, could not create the gallery"
+msgstr "Xin lỗi, không thể tạo được gallery"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "Ảnh"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery-fuchs.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "Xem ở dạng trình chiếu"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser-fuchs.php:26
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Quay lại"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser-fuchs.php:29
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser-fuchs.php:31
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "của"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Dữ liệu tiền tố"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Camera / Kiểu"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Chiều dài tiêu cự"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget sẽ hiển thị Media RSS kết nối tới  NextGEN Gallery."
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Liên kế tới feed chính của hình ảnh"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "Tiêu đề:"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Hiển thị Media RSS biểu tượng"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Hiển thị Media RSS kết nối chung"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Ký tự cho liên kết chung Media RSS"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Thủ thuật liên kết chung RSS Media:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Hiển thị trình chiếu một NextGEN Gallery "
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "Trình chiếu NextGEN"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Tải về Flash Player</a> để xem trình chiếu ảnh."
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Chọn Gallery:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Mọi hình ảnh"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Cao:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Rộng:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Thêm hình ảnh ngẫu nhiên từ gallery."
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN Widget"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "Hiển thị:"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "Ảnh gốc"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "Mới thêm vào"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Kích hoạt với trình duyệt IE8"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Rộng x Cao:"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "Chọn :"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Mọi gallery"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Không được liệt kê"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Được liệt kê"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "ID của Gallery:"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "Những ID của gallery ngăn cách nhau bằng dấu phảy"
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Chưa có gallery nào được tạo"
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Gallery có ID=%s không tồn tại."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Không có ID của album nào được cung cấp"
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Album có ID=%s không tồn tại."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Lệnh không xác định MediaRSS (%s)"
+
+#~ msgid "for the Fugue Iconset"
+#~ msgstr "cho biểu tượng Fuga"
+
+#~ msgid "Gallery Administrator"
+#~ msgstr "Quản trị Gallery"
+
+#~ msgid "Gallery Editor"
+#~ msgstr "Thư viện chỉnh sửa"
+
+#~ msgid "You currently have %s rights."
+#~ msgstr "Bạn đang có quyền %s ."
+
+#~ msgid "Upload Space Remaining:"
+#~ msgstr "Dung lượng tải lên còn lại"
+
+#~ msgid "View all images tagged with %s"
+#~ msgstr "Xem mọi ảnh đã gắn thẻ %s"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "Nâng cấp thành công"

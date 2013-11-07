@@ -1,0 +1,2807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-21 13:53+0100\n"
+"PO-Revision-Date: 2009-04-22 06:50+0200\n"
+"Last-Translator: Māris <maris.svirksts@gmail.com>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:156
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "Atvainojiet, NextGEN Galerija darbojas tikai tad, ja atmiņas limits ir 16 MB vai augstāks"
+
+#: ../nggallery.php:181
+msgid "Picture tag"
+msgstr "Attēla birka"
+
+#: ../nggallery.php:182
+msgid "Picture tag: %2$l."
+msgstr "Attēla birka: %2$l."
+
+#: ../nggallery.php:183
+msgid "Separate picture tags with commas."
+msgstr "Atdaliet attēla birkas ar komatiem."
+
+#: ../nggallery.php:276
+msgid "L O A D I N G"
+msgstr "L Ā D Ē"
+
+#: ../nggallery.php:277
+msgid "Click to Close"
+msgstr "Uzklikšķiniet lai aizvērtu"
+
+#: ../nggfunctions.php:37
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash spēlētājs</a> un <a href=\"http://www.mozilla.com/firefox/\">tīkla pārlūks ar Javascript atbalstu</a> nepieciešams.."
+
+#: ../nggfunctions.php:101
+#: ../nggfunctions.php:437
+msgid "[Gallery not found]"
+msgstr "[Galerija netika atrasta]"
+
+#: ../nggfunctions.php:292
+msgid "[Album not found]"
+msgstr "[Albūms netika atrasts]"
+
+#: ../nggfunctions.php:540
+msgid "[SinglePic not found]"
+msgstr "[Attēls netika atrasts]"
+
+#: ../nggfunctions.php:665
+msgid "Related images for"
+msgstr "Saistītie attēli priekš"
+
+#: ../nggfunctions.php:700
+#: ../admin/admin.php:32
+msgid "Overview"
+msgstr "Pārskats"
+
+#: ../admin/about.php:9
+msgid "Copyright notes / Credits"
+msgstr "Autortiesību raksts / Veidotāji"
+
+#: ../admin/about.php:10
+msgid "NextGEN DEV Team"
+msgstr "NextGen veidotāju grupa"
+
+#: ../admin/about.php:11
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Šī spraudņa lielāko daļu veidošanas, uzturēšanas, dokumentācijas darbu veic "
+
+#: ../admin/about.php:11
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Ir vēl daudzi citi cilvēki, kuri palīdzējuši šī projekta tapšanā:"
+
+#: ../admin/about.php:13
+msgid "Contributors / Tribute to"
+msgstr "Palīgi / pateicamies"
+
+#: ../admin/about.php:14
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Ja jūs pētīsit kodu, jūs redzēsiet, mēs esam apvienojuši arī daudz jau eksistējoša koda un ideju."
+
+#: ../admin/about.php:15
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Tādēļ mēs vēlamies pateikties sekojošiem cilvēkiem par viņu celmlauža darbu (bez šāda darba būtu neiespējams tik ātri izveidot šādu spraudni)"
+
+#: ../admin/about.php:17
+msgid "for their great documented code"
+msgstr "par viņu lieliski dokumentēto kodu"
+
+#: ../admin/about.php:18
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "par jQuery, kas ir labākais Tīmeklis 2.0 karkass"
+
+#: ../admin/about.php:19
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "par fantastisko PHP sīktēlu klasi"
+
+#: ../admin/about.php:20
+msgid "for PclZip , a PHP library that manage ZIP archives"
+msgstr "Par PclZip, PHP bibliotēku, kura pārvalda ZIP arhīvus"
+
+#: ../admin/about.php:21
+msgid "for a lot of very useful plugins and ideas"
+msgstr "par daudziem derīgiem spraudņiem un idejām"
+
+#: ../admin/about.php:22
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "par Shutter Reloaded, ārkārtīgi mazresursprasīgu attēlu efektu veidotāju"
+
+#: ../admin/about.php:23
+msgid "for the best Media Flash Scripts on earth"
+msgstr "par labākajiem Media Flash skriptiem pasaulē"
+
+#: ../admin/about.php:24
+msgid "for the Fugue Iconset"
+msgstr "par Fugue ikonu grupu"
+
+#: ../admin/about.php:25
+msgid "for the Watermark plugin"
+msgstr "par ūdenszīmju spraudni"
+
+#: ../admin/about.php:27
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Ja Jūs neredzat savu vārdu šajā sarakstā, un kādu Jūsu veidotu kodu esmu ievietojis savā spraudnī, nevilcinieties un dodiet man ziņu."
+
+#: ../admin/about.php:28
+msgid "How to support ?"
+msgstr "Kā atbalstīt?"
+
+#: ../admin/about.php:29
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Eksistē vairāki veidi kā piedalīties, palīdzēt vai atbalstīt mūs šajā darbā. Neviens no tiem nav obligāts."
+
+#: ../admin/about.php:31
+msgid "Send us bugfixes / code changes"
+msgstr "Sūtiet mums kļūdu labojumus / izmaiņas kodā"
+
+#: ../admin/about.php:31
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Vis virzošākais atbalsts šim spraudnim ir jūsu idejas un smadzeņu darbs"
+
+#: ../admin/about.php:32
+msgid "Translate the plugin"
+msgstr "Tulkojiet šo spraudni"
+
+#: ../admin/about.php:32
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Lai palīdzētu cilvēkiem strādāt ar šo spraudni, es vēlētos lai tas būtu visās pieejamajās valodās"
+
+#: ../admin/about.php:33
+msgid "Donate the work via paypal"
+msgstr "Ziedojiet naudu darbam caur paypal"
+
+#: ../admin/about.php:44
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Bez šaubām ļoti derīga un viegla motivācija :-)"
+
+#: ../admin/about.php:46
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Izvietojiet saiti uz šo spraudni jūsu tīmekļa žurnālā / tīkla vietnē"
+
+#: ../admin/about.php:46
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Jā, dalīšanās un pieminējumi (trackback) ir laba palīdzība šim darbam"
+
+#: ../admin/about.php:48
+msgid "Thanks!"
+msgstr "Paldies!"
+
+#: ../admin/about.php:49
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Mēs vēlētos pateikties šiem cilvēkiem, kuri atbalsta mūs darbā :"
+
+#: ../admin/about.php:143
+msgid "and all donators..."
+msgstr "un visiem ziedotājiem..."
+
+#: ../admin/addgallery.php:37
+#: ../admin/addgallery.php:53
+msgid "Upload failed!"
+msgstr "Augšuplāde nav izdevusies!"
+
+#: ../admin/addgallery.php:58
+#: ../admin/functions.php:568
+#: ../admin/functions.php:658
+msgid "No gallery selected !"
+msgstr "Neviena galerija netika izvēlēta !"
+
+#: ../admin/addgallery.php:105
+msgid "Image Files"
+msgstr "Attēlu faili"
+
+#: ../admin/addgallery.php:124
+#: ../admin/addgallery.php:155
+msgid "remove"
+msgstr "izmest"
+
+#: ../admin/addgallery.php:125
+msgid "Browse..."
+msgstr "Pārlūkot..."
+
+#: ../admin/addgallery.php:126
+#: ../admin/addgallery.php:282
+msgid "Upload images"
+msgstr "Augšuplādēt attēlus"
+
+#: ../admin/addgallery.php:174
+#: ../admin/addgallery.php:186
+msgid "Add new gallery"
+msgstr "Pievienot jaunu galeriju"
+
+#: ../admin/addgallery.php:176
+#: ../admin/addgallery.php:205
+msgid "Upload a Zip-File"
+msgstr "Augšuplādēt Zip-failu"
+
+#: ../admin/addgallery.php:179
+#: ../admin/addgallery.php:237
+msgid "Import image folder"
+msgstr "Importēt attēlu mapi"
+
+#: ../admin/addgallery.php:181
+#: ../admin/addgallery.php:254
+msgid "Upload Images"
+msgstr "Augšuplādēt Attēlus"
+
+#: ../admin/addgallery.php:191
+msgid "New Gallery"
+msgstr "Jauna galerija"
+
+#: ../admin/addgallery.php:194
+msgid "Create a new , empty gallery below the folder"
+msgstr "Izveidot jaunu, tukšu galeriju mapē"
+
+#: ../admin/addgallery.php:196
+msgid "Allowed characters for file and folder names are"
+msgstr "Atļautie simboli failu un mapju nosaukumos ir"
+
+#: ../admin/addgallery.php:199
+msgid "Add gallery"
+msgstr "Pievienot galeriju"
+
+#: ../admin/addgallery.php:210
+msgid "Select Zip-File"
+msgstr "Izvēlēties Zip-failu"
+
+#: ../admin/addgallery.php:212
+msgid "Upload a zip file with images"
+msgstr "Augšuplādēt zip failu ar attēliem"
+
+#: ../admin/addgallery.php:215
+#: ../admin/addgallery.php:263
+msgid "in to"
+msgstr "ievietot"
+
+#: ../admin/addgallery.php:217
+msgid "a new gallery"
+msgstr "jauna galerija"
+
+#: ../admin/addgallery.php:226
+msgid "Note : The upload limit on your server is "
+msgstr "Atgādne : augšuplādes limits jūsu serverī ir "
+
+#: ../admin/addgallery.php:230
+msgid "Start upload"
+msgstr "Sākt augšuplādi"
+
+#: ../admin/addgallery.php:242
+msgid "Import from Server path:"
+msgstr "Importēt no servera ceļa:"
+
+#: ../admin/addgallery.php:245
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Lūdzu atcerieties : Ja Drošais režīms = Ieslēgts apakšmape \"thumbs\" jāpievieno manuāli"
+
+#: ../admin/addgallery.php:248
+msgid "Import folder"
+msgstr "Importēt mapi"
+
+#: ../admin/addgallery.php:259
+msgid "Upload image"
+msgstr "Augšuplādēt attēlu"
+
+#: ../admin/addgallery.php:265
+msgid "Choose gallery"
+msgstr "Izvēlēties galeriju"
+
+#: ../admin/addgallery.php:278
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "masveida augšuplādei nepieciešams Adobe Flash10, atslēdziet to, ja jums ir problēmas"
+
+#: ../admin/addgallery.php:278
+msgid "Disable flash upload"
+msgstr "Atslēgt flash augšuplādi"
+
+#: ../admin/addgallery.php:280
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Veic augšuplādi vairākiem failiem vienlaicīgi izmantojot ctrl/shift attēlu iezīmēšanu dialoga laikā"
+
+#: ../admin/addgallery.php:280
+msgid "Enable flash based upload"
+msgstr "Pieslēgt uz flash balstītu augšuplādi"
+
+#: ../admin/admin.php:31
+#: ../admin/admin.php:204
+#: ../admin/admin.php:272
+#: ../admin/functions.php:82
+#: ../admin/functions.php:145
+#: ../admin/manage-images.php:151
+#: ../admin/manage.php:78
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galerija"
+msgstr[1] "Galerijas"
+
+#: ../admin/admin.php:33
+msgid "Add Gallery / Images"
+msgstr "Pievienot Galeriju / Attēlus"
+
+#: ../admin/admin.php:34
+msgid "Manage Gallery"
+msgstr "Pārvaldīt Galerijas"
+
+#: ../admin/admin.php:35
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Albums"
+msgstr[1] "Albumi"
+
+#: ../admin/admin.php:36
+msgid "Tags"
+msgstr "Birkas"
+
+#: ../admin/admin.php:37
+msgid "Options"
+msgstr "Opcijas"
+
+#: ../admin/admin.php:39
+msgid "Style"
+msgstr "Kažociņi"
+
+#: ../admin/admin.php:40
+msgid "Setup Gallery"
+msgstr "Iestatīt galeriju"
+
+#: ../admin/admin.php:40
+msgid "Setup"
+msgstr "Iestatīšana"
+
+#: ../admin/admin.php:42
+msgid "Roles"
+msgstr "Lomas"
+
+#: ../admin/admin.php:43
+msgid "About this Gallery"
+msgstr "Par šo galeriju"
+
+#: ../admin/admin.php:43
+msgid "About"
+msgstr "Par"
+
+#: ../admin/admin.php:45
+msgid "NextGEN Gallery"
+msgstr "NextGEN Galerija"
+
+#: ../admin/admin.php:70
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "Jauna NextGEN Galerijas versija pieejama !"
+
+#: ../admin/admin.php:70
+msgid "Download here"
+msgstr "Lejuplādēt šeit"
+
+#: ../admin/admin.php:141
+msgid "You do not have the correct permission"
+msgstr "Jums nav nepieciešamo atļāuju"
+
+#: ../admin/admin.php:142
+msgid "Unexpected Error"
+msgstr "Negaidīta kļūda"
+
+#: ../admin/admin.php:143
+msgid "A failure occurred"
+msgstr "Notika neveiksme"
+
+#: ../admin/admin.php:208
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Ievads</a>"
+
+#: ../admin/admin.php:211
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Iestatīšana</a>"
+
+#: ../admin/admin.php:214
+msgid "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Tulkojis alex rabe</a>"
+
+#: ../admin/admin.php:217
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Lomas / Iespējas</a>"
+
+#: ../admin/admin.php:220
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Stili</a>"
+
+#: ../admin/admin.php:221
+msgid "Templates"
+msgstr "Sagataves"
+
+#: ../admin/admin.php:224
+#: ../admin/admin.php:230
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerijas pārvaldība</a>"
+
+#: ../admin/admin.php:225
+msgid "Gallery example"
+msgstr "Galerija piemērs"
+
+#: ../admin/admin.php:231
+#: ../admin/admin.php:241
+msgid "Gallery tags"
+msgstr "Galerijas birkas"
+
+#: ../admin/admin.php:234
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Albumu pārvaldība</a>"
+
+#: ../admin/admin.php:235
+msgid "Album example"
+msgstr "Albuma piemērs"
+
+#: ../admin/admin.php:236
+#: ../admin/admin.php:242
+msgid "Album tags"
+msgstr "Albuma birkas"
+
+#: ../admin/admin.php:239
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerijas birkas</a>"
+
+#: ../admin/admin.php:240
+msgid "Related images"
+msgstr "Saistītie attēli"
+
+#: ../admin/admin.php:245
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Attēlu pārvaldība</a>"
+
+#: ../admin/admin.php:246
+msgid "Custom fields"
+msgstr "Lietotāja lauki"
+
+#: ../admin/admin.php:251
+msgid "Get help with NextGEN Gallery"
+msgstr "Saņem palīdzību darbā ar NextGEN Galeriju"
+
+#: ../admin/admin.php:255
+msgid "More Help & Info"
+msgstr "Vairāk palīdzības un informācijas"
+
+#: ../admin/admin.php:257
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">Atbalsta forumi</a>"
+
+#: ../admin/admin.php:258
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/admin.php:259
+msgid "Feature request"
+msgstr "Funkcionalitātes pieprasījums"
+
+#: ../admin/admin.php:260
+msgid "Get your language pack"
+msgstr "saņem savas valodas paku"
+
+#: ../admin/admin.php:261
+msgid "Contribute development"
+msgstr "Veicini izstrādi"
+
+#: ../admin/admin.php:262
+msgid "Download latest version"
+msgstr "Lejuplādē jaunāko versiju"
+
+#: ../admin/album.php:19
+#: ../admin/album.php:31
+msgid "Update Successfully"
+msgstr "Atjaunināšana veiksmīga"
+
+#: ../admin/album.php:40
+msgid "Album deleted"
+msgstr "Albums dzēsts"
+
+#: ../admin/album.php:125
+msgid "Manage Albums"
+msgstr "Pārvaldīt albumus"
+
+#: ../admin/album.php:131
+msgid "Select album"
+msgstr "Izvēlēties albumu"
+
+#: ../admin/album.php:133
+msgid "No album selected"
+msgstr "Neviens albums netika izvēlēts"
+
+#: ../admin/album.php:146
+msgid "Update"
+msgstr "Atjaunini"
+
+#: ../admin/album.php:147
+#: ../admin/manage-galleries.php:78
+#: ../admin/manage-images.php:336
+msgid "Delete"
+msgstr "Dzēs"
+
+#: ../admin/album.php:147
+msgid "Delete album ?"
+msgstr "Dzēst albumu ?"
+
+#: ../admin/album.php:149
+msgid "Add new album"
+msgstr "Pievieno jaunu albumu"
+
+#: ../admin/album.php:150
+msgid "Add"
+msgstr "Pievieno"
+
+#: ../admin/album.php:158
+msgid "[Show all]"
+msgstr "[Rādīt visu]"
+
+#: ../admin/album.php:159
+msgid "[Maximize]"
+msgstr "[Maksimizē]"
+
+#: ../admin/album.php:160
+msgid "[Minimize]"
+msgstr "[Minimizē]"
+
+#: ../admin/album.php:162
+msgid "After you create and select a album, you can drag and drop a gallery into your album below"
+msgstr "Pēc albuma izveides un izvēles, jūs varat vilkt un nomest galerijas jūsu albumā"
+
+#: ../admin/album.php:169
+msgid "Select Gallery"
+msgstr "Izvēlēties galeriju"
+
+#: ../admin/album.php:208
+msgid "Album Page ID"
+msgstr "Albuma lapas ID"
+
+#: ../admin/album.php:220
+msgid "No album selected!"
+msgstr "Neviens albums netika izvēlēts!"
+
+#: ../admin/album.php:254
+#: ../admin/manage-galleries.php:42
+#: ../admin/manage-images.php:473
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/album.php:255
+msgid "Name"
+msgstr "Nosaukums"
+
+#: ../admin/album.php:256
+#: ../admin/manage-galleries.php:43
+#: ../admin/manage-images.php:165
+msgid "Title"
+msgstr "Virsraksts"
+
+#: ../admin/album.php:257
+msgid "Page"
+msgstr "Lapa"
+
+#: ../admin/functions.php:23
+msgid "No valid gallery name!"
+msgstr "Nederīgs galerijas vārds!"
+
+#: ../admin/functions.php:30
+#: ../admin/functions.php:39
+#: ../admin/functions.php:53
+#: ../admin/functions.php:117
+#: ../admin/functions.php:124
+msgid "Directory"
+msgstr "Mape"
+
+#: ../admin/functions.php:30
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "neeksistēja. Lūdzu, vispirms izveidojiet galveno galerijas mapi"
+
+#: ../admin/functions.php:31
+#: ../admin/functions.php:40
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Skatiet šo saiti, ja nezinājāt kā uzstādīt atļaujas :"
+
+#: ../admin/functions.php:39
+#: ../admin/functions.php:53
+msgid "is not writeable !"
+msgstr "nav rakstāms !"
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:58
+#: ../admin/functions.php:531
+msgid "Unable to create directory "
+msgstr "Nebija iespējams izveidot mapi"
+
+#: ../admin/functions.php:62
+msgid "The server setting Safe-Mode is on !"
+msgstr "Servera iestatījums \"Drošais režīms\" ir ieslēgts !"
+
+#: ../admin/functions.php:63
+msgid "If you have problems, please create directory"
+msgstr "Ja jums ir problēmas, lūdzu izveidojiet mapi"
+
+#: ../admin/functions.php:64
+msgid "and the thumbnails directory"
+msgstr "un sīktēlu mapi"
+
+#: ../admin/functions.php:64
+msgid "with permission 777 manually !"
+msgstr "ar atļauju 777 manuāli !"
+
+#: ../admin/functions.php:82
+msgid "already exists"
+msgstr "jau eksistē"
+
+#: ../admin/functions.php:87
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "Galerija %1$s veiksmīgi izveidota.<br/>Šo galeriju iespējams parādīt, izmantojot birku %2$s.<br/>"
+
+#: ../admin/functions.php:90
+msgid "Edit gallery"
+msgstr "Rediģēt galeriju"
+
+#: ../admin/functions.php:117
+msgid "doesn&#96;t exist!"
+msgstr "neeksistē!"
+
+#: ../admin/functions.php:124
+msgid "contains no pictures"
+msgstr "Nesatur nevienu attēlu"
+
+#: ../admin/functions.php:142
+msgid "Database error. Could not add gallery!"
+msgstr "Datubāzes kļūda. Nebija iespējams pievienot galeriju!"
+
+#: ../admin/functions.php:145
+msgid "successfully created!"
+msgstr "Veiksmīgi izveidota!"
+
+#: ../admin/functions.php:174
+#: ../admin/functions.php:640
+#: ../admin/manage-images.php:243
+#: ../admin/manage.php:130
+msgid "Create new thumbnails"
+msgstr "Veidot jaunus sīktēlus"
+
+#: ../admin/functions.php:177
+msgid " picture(s) successfully added"
+msgstr "attēls(-i) veiksmīgi pievienoti"
+
+#: ../admin/functions.php:216
+#: ../admin/functions.php:295
+#: ../admin/functions.php:336
+msgid "Object didn't contain correct data"
+msgstr "Objekts sevīnesaturēja korektus datus"
+
+#: ../admin/functions.php:221
+msgid " is not writeable "
+msgstr "nav rakstāms"
+
+#: ../admin/functions.php:302
+#: ../admin/functions.php:339
+msgid " is not writeable"
+msgstr "nav rakstāms"
+
+#: ../admin/functions.php:500
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "Augšuplādētais fails nebija vai bija kļūdains zip fails ! Serveris atpazīst :"
+
+#: ../admin/functions.php:515
+msgid "Could not get a valid foldername"
+msgstr "Nebija iespējams iegūt derīgu mapas nosaukumu"
+
+#: ../admin/functions.php:526
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Nebija iespējams izveidot mapi: %s. Vai serverim ir tiesības rakstīt vecākdirektorijā?"
+
+#: ../admin/functions.php:541
+msgid "Zip-File successfully unpacked"
+msgstr "Zip fails veiksmīgi izpakots"
+
+#: ../admin/functions.php:576
+#: ../admin/functions.php:685
+msgid "Failure in database, no gallery path set !"
+msgstr "Darbības traucējums datubāzē, galerijas ceļš netik izveidots !"
+
+#: ../admin/functions.php:597
+#: ../admin/functions.php:679
+msgid "is no valid image file!"
+msgstr "nav derīgs attēla fails!"
+
+#: ../admin/functions.php:611
+#: ../admin/functions.php:787
+#: ../admin/functions.php:855
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Nebija iespējams rakstīt mapā %s. Vai serverim ir tiesības rakstīt šajā mapē?"
+
+#: ../admin/functions.php:618
+#: ../admin/functions.php:702
+msgid "Error, the file could not moved to : "
+msgstr "Kļūda, nebija iespējams pārvietot failu uz: "
+
+#: ../admin/functions.php:623
+#: ../admin/functions.php:706
+msgid "Error, the file permissions could not set"
+msgstr "Kļūda, nebija iespējams uzstādīt faila atļaujas"
+
+#: ../admin/functions.php:644
+msgid " Image(s) successfully added"
+msgstr "Attēls(-i) veiksmīgi pievienoti"
+
+#: ../admin/functions.php:667
+msgid "Invalid upload. Error Code : "
+msgstr "Nederīga augšuplāde. Kļūdas kods :"
+
+#: ../admin/functions.php:716
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Atvainojiet, jūs esat izlietojuši jums pieejamo vietu uz servera. Lūdzu izdzēsiet dažus failus lai būtu iespējams augšuplādēt jaunus failus."
+
+#: ../admin/functions.php:743
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "Drošā režīma ierobežojums spēkā! Mapi <strong>%s</strong> jums jāizveido manuāli"
+
+#: ../admin/functions.php:744
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Kad drošais režīms ir ieslēgts, PHP pārbauda vai pašreizējā skripta īpašnieks (%s) ir arī īpašnieks (%s) failam vai tā mapei, kurš tiks apstrādāts"
+
+#: ../admin/functions.php:781
+#: ../admin/functions.php:849
+msgid "The destination gallery does not exist"
+msgstr "Mērķa galerija neeksisē"
+
+#: ../admin/functions.php:812
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Neizdevās pārvietot attēlu %1$s uz %2$s"
+
+#: ../admin/functions.php:830
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Pārvietota(-i) %1$s attēls(-i) uz galeriju : %2$s ."
+
+#: ../admin/functions.php:882
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Neizdevās kopēt attēlu %1$s uz %2$s"
+
+#: ../admin/functions.php:894
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Neizdevās nokopēt datubāzes rindu priekš attēla %s"
+
+#: ../admin/functions.php:902
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Attēls %1$s (%2$s) tika kopēts kā attēls %3$s (%4$s) &raquo; Fails ar tādu nosaukumu jau eksistēja mērķa galerijā."
+
+#: ../admin/functions.php:905
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Attēls %1$s (%2$s) nokopēts kā attēls %3$s (%4$s)"
+
+#: ../admin/functions.php:914
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Nokopēts(-i) %1$s attēls(-i) uz galeriju: %2$s . "
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Atvainojiet, NextGEN Galerija darbojas tikai ja eksistē loma \"administrators\""
+
+#: ../admin/install.php:102
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Galerija: Nebija iespējams izveidot tabulas, lūdzu pāŗbaudiet jūsu datubāzes iestatījumus"
+
+#: ../admin/install.php:160
+msgid "[Show as slideshow]"
+msgstr "[Rādīt kā slīdrādi]"
+
+#: ../admin/install.php:161
+msgid "[Show picture list]"
+msgstr "[Rādīt attēlu sarakstu]"
+
+#: ../admin/manage-galleries.php:19
+#: ../admin/manage-images.php:39
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:20
+#: ../admin/manage-images.php:40
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:27
+msgid "Gallery Overview"
+msgstr "Galerijas pārskats"
+
+#: ../admin/manage-galleries.php:30
+#: ../admin/manage-images.php:232
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Rāda %s&#8211;%s no %s"
+
+#: ../admin/manage-galleries.php:44
+#: ../admin/manage-images.php:176
+#: ../admin/manage-images.php:478
+msgid "Description"
+msgstr "Apraksts"
+
+#: ../admin/manage-galleries.php:45
+#: ../admin/manage-images.php:196
+msgid "Author"
+msgstr "Autors"
+
+#: ../admin/manage-galleries.php:46
+msgid "Page ID"
+msgstr "Lapas ID"
+
+#: ../admin/manage-galleries.php:47
+msgid "Quantity"
+msgstr "Daudzums"
+
+#: ../admin/manage-galleries.php:48
+msgid "Action"
+msgstr "Darbība"
+
+#: ../admin/manage-galleries.php:65
+msgid "Edit"
+msgstr "Labot"
+
+#: ../admin/manage-galleries.php:78
+msgid "Delete this gallery ?"
+msgstr "Dzēst šo galeriju ?"
+
+#: ../admin/manage-galleries.php:85
+#: ../admin/manage-images.php:390
+msgid "No entries found"
+msgstr "Netika atrasts neviens ieraksts"
+
+#: ../admin/manage-images.php:16
+msgid "Gallery not found."
+msgstr "Galerija netika atrasta"
+
+#: ../admin/manage-images.php:22
+msgid "Sorry, you have no access here"
+msgstr "Atvainojiet, jums nav piekļuves tiesības"
+
+#: ../admin/manage-images.php:112
+msgid "No images selected"
+msgstr "Neviens attēls netika izvēlēts"
+
+#: ../admin/manage-images.php:132
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Jūs taisāties sākt %s attēlu labošanu \n"
+" \n"
+" 'Cancel' lai pārtrauktu, 'OK' lai veiktu."
+
+#: ../admin/manage-images.php:161
+msgid "Gallery settings"
+msgstr "Galerijas iestatījumi"
+
+#: ../admin/manage-images.php:161
+msgid "Click here for more settings"
+msgstr "Klikšķiniet šeit lai iegūtu piekļuvi papildus iestatījumiem"
+
+#: ../admin/manage-images.php:167
+msgid "Page Link to"
+msgstr "Lapas saite uz"
+
+#: ../admin/manage-images.php:170
+msgid "Not linked"
+msgstr "Nav saistīts"
+
+#: ../admin/manage-images.php:178
+msgid "Preview image"
+msgstr "Priekšstatīt attēlu"
+
+#: ../admin/manage-images.php:181
+msgid "No Picture"
+msgstr "Nav attēla"
+
+#: ../admin/manage-images.php:194
+msgid "Path"
+msgstr "Ceļš"
+
+#: ../admin/manage-images.php:210
+msgid "Create new page"
+msgstr "Veido jaunu lapu"
+
+#: ../admin/manage-images.php:213
+msgid "Main page (No parent)"
+msgstr "Pamatlapa (Bez vecāka)"
+
+#: ../admin/manage-images.php:216
+msgid "Add page"
+msgstr "Pievienot lapu"
+
+#: ../admin/manage-images.php:222
+msgid "Scan Folder for new images"
+msgstr "Meklēt mapē jaunus attēlus"
+
+#: ../admin/manage-images.php:223
+#: ../admin/manage-images.php:259
+#: ../admin/manage-images.php:396
+msgid "Save Changes"
+msgstr "Saglabāt izmaiņas"
+
+#: ../admin/manage-images.php:241
+msgid "No action"
+msgstr "Neveikt nekādas darbības"
+
+#: ../admin/manage-images.php:242
+#: ../admin/manage.php:126
+msgid "Set watermark"
+msgstr "Ievietot ūdenszīmi"
+
+#: ../admin/manage-images.php:244
+#: ../admin/manage.php:134
+msgid "Resize images"
+msgstr "Mainīt izmērus attēliem"
+
+#: ../admin/manage-images.php:245
+msgid "Delete images"
+msgstr "Dzēst attēlus"
+
+#: ../admin/manage-images.php:246
+msgid "Import metadata"
+msgstr "Importēt metadatus"
+
+#: ../admin/manage-images.php:247
+msgid "Copy to..."
+msgstr "Kopēt uz..."
+
+#: ../admin/manage-images.php:248
+msgid "Move to..."
+msgstr "Pārvietot uz..."
+
+#: ../admin/manage-images.php:249
+msgid "Add tags"
+msgstr "Pievienot birkas"
+
+#: ../admin/manage-images.php:250
+msgid "Delete tags"
+msgstr "Dzēst birkas"
+
+#: ../admin/manage-images.php:251
+msgid "Overwrite tags"
+msgstr "Pārrakstīt birkas"
+
+#: ../admin/manage-images.php:253
+#: ../admin/manage-images.php:413
+#: ../admin/manage-images.php:448
+msgid "OK"
+msgstr "Labi"
+
+#: ../admin/manage-images.php:256
+msgid "Sort gallery"
+msgstr "Kārtot galeriju"
+
+#: ../admin/manage-images.php:333
+#, php-format
+msgid "View \"%s\""
+msgstr "Skatīt \"%s\""
+
+#: ../admin/manage-images.php:333
+msgid "View"
+msgstr "Skatīt"
+
+#: ../admin/manage-images.php:334
+msgid "Show Meta data"
+msgstr "Rādīt Meta datus"
+
+#: ../admin/manage-images.php:334
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:335
+msgid "Customize thumbnail"
+msgstr "Pielāgot sīktēlu"
+
+#: ../admin/manage-images.php:335
+msgid "Edit thumb"
+msgstr "Labot sīktēlu"
+
+#: ../admin/manage-images.php:336
+#, php-format
+msgid "Delete \"%s\""
+msgstr "Dzēst \"%s\""
+
+#: ../admin/manage-images.php:409
+msgid "Enter the tags"
+msgstr "Ievadi birkas"
+
+#: ../admin/manage-images.php:415
+#: ../admin/manage-images.php:450
+msgid "Cancel"
+msgstr "Pārtraukt"
+
+#: ../admin/manage-images.php:432
+msgid "Select the destination gallery:"
+msgstr "Izvēlēties mērķa galeriju:"
+
+#: ../admin/manage-images.php:474
+msgid "Thumbnail"
+msgstr "Sīktēls"
+
+#: ../admin/manage-images.php:476
+#: ../admin/manage-sort.php:80
+msgid "Filename"
+msgstr "Faila vārds"
+
+#: ../admin/manage-images.php:478
+msgid "Alt &amp; Title Text"
+msgstr "Alternatīvais &amp; Virsraksta teksts"
+
+#: ../admin/manage-images.php:479
+msgid "Tags (comma separated list)"
+msgstr "Birkas (ar komatiem atdalīts saraksts)"
+
+#: ../admin/manage-images.php:481
+msgid "exclude"
+msgstr "izlaist"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "Izkārtojuma kārtība mainīta"
+
+#: ../admin/manage-sort.php:65
+msgid "Sort Gallery"
+msgstr "Kārtot galeriju"
+
+#: ../admin/manage-sort.php:69
+msgid "Update Sort Order"
+msgstr "Atjaunināt izkārtojuma kārtību"
+
+#: ../admin/manage-sort.php:72
+msgid "Back to gallery"
+msgstr "Atpakaļ uz galeriju"
+
+#: ../admin/manage-sort.php:77
+msgid "Presort"
+msgstr "Priekškārtot"
+
+#: ../admin/manage-sort.php:78
+msgid "Unsorted"
+msgstr "Nekārtots"
+
+#: ../admin/manage-sort.php:79
+msgid "Image ID"
+msgstr "Attēla ID"
+
+#: ../admin/manage-sort.php:81
+msgid "Alt/Title text"
+msgstr "Alternatīvais / Virsraksta teksts"
+
+#: ../admin/manage-sort.php:82
+msgid "Date/Time"
+msgstr "Datums/Laiks"
+
+#: ../admin/manage-sort.php:83
+msgid "Ascending"
+msgstr "Augoši"
+
+#: ../admin/manage-sort.php:84
+msgid "Descending"
+msgstr "Dilstoši"
+
+#: ../admin/manage.php:78
+#: ../admin/manage.php:100
+msgid "deleted successfully"
+msgstr "Veiksmīgi dzēsts"
+
+#: ../admin/manage.php:100
+msgid "Picture"
+msgstr "Attēls"
+
+#: ../admin/manage.php:151
+msgid "Pictures deleted successfully "
+msgstr "Attēli veiksmīgi dzēsti"
+
+#: ../admin/manage.php:157
+msgid "Import metadata finished"
+msgstr "Meta datu importēšana pabeigta"
+
+#: ../admin/manage.php:165
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operācija veiksmīga. Lūdzu iztīriet jūsu tīkla pārlūka kešatmiņu."
+
+#: ../admin/manage.php:228
+msgid "Tags changed"
+msgstr "Birkas mainītas"
+
+#: ../admin/manage.php:255
+msgid "Update successful"
+msgstr "Atjaunināšana veiksmīga"
+
+#: ../admin/manage.php:289
+msgid "New gallery page ID"
+msgstr "Jauns galerijas lapas ID"
+
+#: ../admin/manage.php:289
+msgid "created"
+msgstr "izveidots"
+
+#: ../admin/manage_thumbnail.php:19
+#: ../admin/manage_thumbnail.php:22
+#: ../admin/showmeta.php:10
+#: ../admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Krāpjamies, he?"
+
+#: ../admin/manage_thumbnail.php:116
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr "Ar peles palīdzību izvēlaties laukumu jaunam sīktēlam."
+
+#: ../admin/manage_thumbnail.php:130
+msgid "Thumbnail updated"
+msgstr "Sīktēls atjaunināts"
+
+#: ../admin/manage_thumbnail.php:135
+msgid "Error updating thumbnail."
+msgstr "Kļūda atjauninot sīktēlu."
+
+#: ../admin/manage_thumbnail.php:152
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Izvēlaties laukumu sīktēlam no attēla pa kreisi."
+
+#: ../admin/media-upload.php:132
+#: ../admin/tinymce/window.php:43
+msgid "No gallery"
+msgstr "Nav galerija"
+
+#: ../admin/media-upload.php:144
+msgid "Select &#187;"
+msgstr "Izvēlieties &#187;"
+
+#: ../admin/media-upload.php:175
+msgid "Show"
+msgstr "Rādīt"
+
+#: ../admin/media-upload.php:176
+msgid "Hide"
+msgstr "Slēpt"
+
+#: ../admin/media-upload.php:181
+msgid "Image ID:"
+msgstr "Attēla ID:"
+
+#: ../admin/media-upload.php:195
+msgid "Alignment"
+msgstr "Līdzināšana"
+
+#: ../admin/media-upload.php:198
+#: ../admin/settings.php:339
+msgid "None"
+msgstr "Nekāds"
+
+#: ../admin/media-upload.php:200
+#: ../admin/tinymce/window.php:129
+msgid "Left"
+msgstr "Pa kreisi"
+
+#: ../admin/media-upload.php:202
+#: ../admin/tinymce/window.php:130
+msgid "Center"
+msgstr "Centrā"
+
+#: ../admin/media-upload.php:204
+#: ../admin/tinymce/window.php:131
+msgid "Right"
+msgstr "Pa labi"
+
+#: ../admin/media-upload.php:208
+#: ../admin/settings.php:442
+msgid "Size"
+msgstr "Izmērs"
+
+#: ../admin/media-upload.php:214
+msgid "Full size"
+msgstr "Pilns izmērs"
+
+#: ../admin/media-upload.php:216
+msgid "Singlepic"
+msgstr "Viens attēls"
+
+#: ../admin/media-upload.php:224
+msgid "Insert into Post"
+msgstr "Ievietot rakstā"
+
+#: ../admin/media-upload.php:234
+msgid "Save all changes"
+msgstr "Saglabāt visas izmaiņas"
+
+#: ../admin/overview.php:13
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Galerijas pārskats"
+
+#: ../admin/overview.php:108
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Jaunumu barotni nebija iespējams ielādēt. Skatiet <a href=\"%s\">tīkla vietni</a> lai redzētu atjauninājumus."
+
+#: ../admin/overview.php:128
+msgid "At a Glance"
+msgstr "Pirmajā skatījumā"
+
+#: ../admin/overview.php:134
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Attēls"
+msgstr[1] "Attēli"
+
+#: ../admin/overview.php:155
+msgid "Upload pictures"
+msgstr "Augšuplādēt attēlus"
+
+#: ../admin/overview.php:156
+msgid "Here you can control your images, galleries and albums."
+msgstr "Šeit jūs varat pārvaldīt jūsu attēlus, galerijas un albumus."
+
+#: ../admin/overview.php:160
+msgid "Gallery Administrator"
+msgstr "Galerijas administrators"
+
+#: ../admin/overview.php:160
+msgid "Gallery Editor"
+msgstr "Galerijas redaktors"
+
+#: ../admin/overview.php:161
+#, php-format
+msgid "You currently have %s rights."
+msgstr "Dotajā brīdī jums ir %s tiesības."
+
+#: ../admin/overview.php:168
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Esiet sveicienāts NextGEN Galerijā !"
+
+#: ../admin/overview.php:169
+msgid "Latest News"
+msgstr "Jaunākās ziņas"
+
+#: ../admin/overview.php:170
+msgid "Server Settings"
+msgstr "Servera iestatījumi"
+
+#: ../admin/overview.php:171
+msgid "Graphic Library"
+msgstr "Grafiskā bibliotēka"
+
+#: ../admin/overview.php:187
+msgid "No GD support"
+msgstr "Nav GD atbalstA"
+
+#: ../admin/overview.php:194
+#: ../admin/overview.php:233
+#: ../admin/overview.php:236
+#: ../admin/overview.php:239
+msgid "Yes"
+msgstr "Jā"
+
+#: ../admin/overview.php:196
+#: ../admin/overview.php:234
+#: ../admin/overview.php:237
+#: ../admin/overview.php:240
+msgid "No"
+msgstr "Nē"
+
+#: ../admin/overview.php:210
+msgid "Not set"
+msgstr "Nav iestatīts"
+
+#: ../admin/overview.php:212
+#: ../admin/overview.php:215
+msgid "On"
+msgstr "Ieslēgts"
+
+#: ../admin/overview.php:213
+#: ../admin/overview.php:216
+msgid "Off"
+msgstr "Izslēgts"
+
+#: ../admin/overview.php:219
+#: ../admin/overview.php:222
+#: ../admin/overview.php:225
+#: ../admin/overview.php:228
+#: ../admin/overview.php:231
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:230
+msgid " MByte"
+msgstr "Megabaiti"
+
+#: ../admin/overview.php:243
+msgid "Operating System"
+msgstr "Operētājsistēma"
+
+#: ../admin/overview.php:244
+msgid "Server"
+msgstr "Serveris"
+
+#: ../admin/overview.php:245
+msgid "Memory usage"
+msgstr "Atmiņas lietojums"
+
+#: ../admin/overview.php:246
+msgid "MYSQL Version"
+msgstr "MYSQL versija"
+
+#: ../admin/overview.php:247
+msgid "SQL Mode"
+msgstr "SQL režīms"
+
+#: ../admin/overview.php:248
+msgid "PHP Version"
+msgstr "PHP versija"
+
+#: ../admin/overview.php:249
+msgid "PHP Safe Mode"
+msgstr "PHP Drošais režīms"
+
+#: ../admin/overview.php:250
+msgid "PHP Allow URL fopen"
+msgstr "PHP atļāuj URL fopen"
+
+#: ../admin/overview.php:251
+msgid "PHP Memory Limit"
+msgstr "PHP atmiņas limits"
+
+#: ../admin/overview.php:252
+msgid "PHP Max Upload Size"
+msgstr "PHP maksimālais augšuplādes lielums"
+
+#: ../admin/overview.php:253
+msgid "PHP Max Post Size"
+msgstr "PHP maksimālais raksta lielums"
+
+#: ../admin/overview.php:254
+msgid "PHP Max Script Execute Time"
+msgstr "PHP maksimālais skripta izpildes laiks"
+
+#: ../admin/overview.php:255
+msgid "PHP Exif support"
+msgstr "PHP Exif atbalsts"
+
+#: ../admin/overview.php:256
+msgid "PHP IPTC support"
+msgstr "PHP IPTC atbalsts"
+
+#: ../admin/overview.php:257
+msgid "PHP XML support"
+msgstr "PHP XML atbalsts"
+
+#: ../admin/overview.php:315
+msgid "Storage Space"
+msgstr "Glabāšanas atmiņas ietilpība"
+
+#: ../admin/overview.php:318
+msgid "Upload Space Used:"
+msgstr "Augšuplādes vieta izlietota:"
+
+#: ../admin/overview.php:324
+msgid "Upload Space Remaining:"
+msgstr "Augšuplādes vieta atlikusi:"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Atjauninātas funkcionalitāte"
+
+#: ../admin/roles.php:27
+msgid "Roles / capabilities"
+msgstr "Lomas / spējas"
+
+#: ../admin/roles.php:28
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Izvēlaties zemāko lomu, kurai vajadzētu būt spējīgai piekļūt sekojošai funkcionalitātei. NextGEN Galerija atbalsta standarta WordPress lomas."
+
+#: ../admin/roles.php:29
+msgid "For a more flexible user management you can use the"
+msgstr "Lai iegūtu vēl elastīgāku lietotāju pārvaldības iespēju jūs varat izmantot"
+
+#: ../admin/roles.php:34
+msgid "Main NextGEN Gallery overview"
+msgstr "Galvenais NextGEN Galerijas pārskats"
+
+#: ../admin/roles.php:38
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Lietojiet TinyMCE pogu / augšuplādes cilni"
+
+#: ../admin/roles.php:42
+msgid "Add gallery / Upload images"
+msgstr "Pievienot galeriju / augšuplādēt attēlus"
+
+#: ../admin/roles.php:46
+msgid "Manage gallery"
+msgstr "Pārvaldīt galeriju"
+
+#: ../admin/roles.php:50
+msgid "Manage others gallery"
+msgstr "Pārbaudīt citam piederošu galeriju"
+
+#: ../admin/roles.php:54
+msgid "Manage tags"
+msgstr "Pārvaldīt birkas"
+
+#: ../admin/roles.php:58
+msgid "Edit Album"
+msgstr "Labot albumu"
+
+#: ../admin/roles.php:62
+msgid "Change style"
+msgstr "Mainīt stilu"
+
+#: ../admin/roles.php:66
+msgid "Change options"
+msgstr "Mainīt opcijas"
+
+#: ../admin/roles.php:70
+msgid "Update capabilities"
+msgstr "Atjaunot funkcionalitāti"
+
+#: ../admin/settings.php:61
+msgid "Cache cleared"
+msgstr "Kešatmiņa iztīrīta"
+
+#: ../admin/settings.php:109
+#: ../admin/settings.php:121
+msgid "General Options"
+msgstr "Galvenās opcijas"
+
+#: ../admin/settings.php:110
+#: ../admin/settings.php:291
+msgid "Thumbnails"
+msgstr "Sīktēli"
+
+#: ../admin/settings.php:111
+msgid "Images"
+msgstr "Attēli"
+
+#: ../admin/settings.php:113
+#: ../admin/settings.php:328
+msgid "Effects"
+msgstr "Efekti"
+
+#: ../admin/settings.php:114
+#: ../admin/settings.php:366
+#: ../admin/tinymce/window.php:119
+msgid "Watermark"
+msgstr "Ūdenszīmes"
+
+#: ../admin/settings.php:115
+#: ../admin/settings.php:292
+#: ../admin/settings.php:470
+#: ../admin/tinymce/window.php:58
+msgid "Slideshow"
+msgstr "Slīdrāde"
+
+#: ../admin/settings.php:127
+#: ../admin/wpmu.php:48
+msgid "Gallery path"
+msgstr "Galerijas ceļš"
+
+#: ../admin/settings.php:129
+msgid "This is the default path for all galleries"
+msgstr "Šis ir standarta ceļš visām galerijām"
+
+#: ../admin/settings.php:132
+msgid "Delete image files"
+msgstr "Dzēst attēlu failus"
+
+#: ../admin/settings.php:134
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Dzēst failus, kad izņemam galeriju no datubāzes"
+
+#: ../admin/settings.php:137
+msgid "Activate permalinks"
+msgstr "Aktivizēt patstāvīgās saites"
+
+#: ../admin/settings.php:139
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Kad jūs aktivizējat šo opciju, jums nepieciešams atjaunināt jūsu patstāvīgo saišu struktūru."
+
+#: ../admin/settings.php:142
+msgid "Select graphic library"
+msgstr "Izvēlēties grafisko bibliotēku"
+
+#: ../admin/settings.php:143
+msgid "GD Library"
+msgstr "GD bibliotēka"
+
+#: ../admin/settings.php:144
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Eksperimentāla). Ceļš uz bibliotēku :"
+
+#: ../admin/settings.php:149
+msgid "Activate Media RSS feed"
+msgstr "Aktivizēt datu RSS barotni"
+
+#: ../admin/settings.php:151
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSS barotne tiks pievienota jūsu tīkla žurnāla galvenei. Derīga priekš CoolIris/PicLens"
+
+#: ../admin/settings.php:154
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktivizēt PicLens/CoolIris atbalstu"
+
+#: ../admin/settings.php:156
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Kad jūs aktivizējiet šo opciju, noteikts javascript skripts tiek pievienots jūsu lapas kājenei. Pārliecinieties vai jūsu kažociņš izsauc wp_footer."
+
+#: ../admin/settings.php:159
+msgid "Tags / Categories"
+msgstr "Birkas / Kategorijas"
+
+#: ../admin/settings.php:162
+msgid "Activate related images"
+msgstr "Aktivizēt saistītos attēlus"
+
+#: ../admin/settings.php:164
+msgid "This option will append related images to every post"
+msgstr "Šī opcija pievienos saistītos attēlus katram rakstam"
+
+#: ../admin/settings.php:168
+msgid "Match with"
+msgstr "Saskan ar"
+
+#: ../admin/settings.php:169
+msgid "Categories"
+msgstr "Kategorijas"
+
+#: ../admin/settings.php:174
+msgid "Max. number of images"
+msgstr "Lielākais attēlu skaits"
+
+#: ../admin/settings.php:176
+msgid "0 will show all images"
+msgstr "0 rādīs visus attēlus"
+
+#: ../admin/settings.php:187
+msgid "Thumbnail settings"
+msgstr "Sīktēlu iestatījumi"
+
+#: ../admin/settings.php:191
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Lūdzu ievērojiet : Ja jūs mainīsiet šos iestatījumus, jums būs nepieciešams izveidot sīktēlus par jaunu, to veic sadaļā -> Pārvaldīt galerijas ."
+
+#: ../admin/settings.php:194
+msgid "Width x height (in pixel)"
+msgstr "Platums un augstums (pikseļos)"
+
+#: ../admin/settings.php:196
+msgid "These values are maximum values "
+msgstr "Šīs ir lielākās vērtības"
+
+#: ../admin/settings.php:199
+msgid "Set fix dimension"
+msgstr "Uzstādīt fiksētu izmēru"
+
+#: ../admin/settings.php:201
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorēt samērus, neveidot portretu sīktēlus"
+
+#: ../admin/settings.php:204
+msgid "Crop square thumbnail from image"
+msgstr "Izcirst kvadrātainu sīktēlu no attēla"
+
+#: ../admin/settings.php:206
+msgid "Create square thumbnails, use only the width setting :"
+msgstr "Veidot kvadrātainus sīktēlus, lietot vienīgi platuma iestatījumu :"
+
+#: ../admin/settings.php:209
+msgid "Thumbnail quality"
+msgstr "Sīktēlu kvalitāte"
+
+#: ../admin/settings.php:220
+msgid "Image settings"
+msgstr "Attēla iestatījumi"
+
+#: ../admin/settings.php:226
+msgid "Resize Images"
+msgstr "Mainīt izmēru attēliem"
+
+#: ../admin/settings.php:230
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Platums x augstums (pikseļos). NextGEN galerija paturēs samērīgumu"
+
+#: ../admin/settings.php:233
+msgid "Image quality"
+msgstr "Attēla kvalitāte"
+
+#: ../admin/settings.php:238
+msgid "Single picture"
+msgstr "Atsevišķs attēls"
+
+#: ../admin/settings.php:241
+msgid "Cache single pictures"
+msgstr "Ievietot kešatmiņā atsevišķus attēlus"
+
+#: ../admin/settings.php:244
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Izveido failu katram vienas bildes iestatījumam. Samazina CPU noslodzi"
+
+#: ../admin/settings.php:247
+msgid "Clear cache folder"
+msgstr "Iztīrīt kešatmiņas mapi"
+
+#: ../admin/settings.php:249
+msgid "Proceed now"
+msgstr "Veikt tagad"
+
+#: ../admin/settings.php:265
+msgid "Deactivate gallery page link"
+msgstr "Deaktivizēt galerijas lapas saiti"
+
+#: ../admin/settings.php:267
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Albums neveidos saiti uz galerijas apakšlapu. Galerija tiks rādīta tajā pašā lapā."
+
+#: ../admin/settings.php:271
+msgid "Number of images per page"
+msgstr "Attēlu skaits lapā"
+
+#: ../admin/settings.php:273
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 atslēgs dalīšanu lapās, visi attēli būs vienā lapā"
+
+#: ../admin/settings.php:277
+msgid "Number of columns"
+msgstr "Kolonnu skaits"
+
+#: ../admin/settings.php:279
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 rādīs visus iespējamos, balstoties uz jūsu kažociņa platumu. Iestatījums parasti nepieciešams vienīgi ja zem attēliem ir paraksti"
+
+#: ../admin/settings.php:283
+msgid "Integrate slideshow"
+msgstr "Ievietot slīdrādi"
+
+#: ../admin/settings.php:290
+msgid "Show first"
+msgstr "Rādīt pirmo"
+
+#: ../admin/settings.php:296
+msgid "Show ImageBrowser"
+msgstr "Rādīt ImageBrowser"
+
+#: ../admin/settings.php:298
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galerija atvērs ImageBrowser efekta vietā."
+
+#: ../admin/settings.php:302
+msgid "Sort options"
+msgstr "Kārtot opcijas"
+
+#: ../admin/settings.php:305
+msgid "Sort thumbnails"
+msgstr "Kārtot sīktēlus"
+
+#: ../admin/settings.php:307
+msgid "Custom order"
+msgstr "pašu veidota kārtība"
+
+#: ../admin/settings.php:309
+msgid "File name"
+msgstr "Faila vārds"
+
+#: ../admin/settings.php:310
+msgid "Alt / Title text"
+msgstr "Alternatīvais / virsraksta teksts"
+
+#: ../admin/settings.php:311
+msgid "Date / Time"
+msgstr "Datums / Laiks"
+
+#: ../admin/settings.php:315
+msgid "Sort direction"
+msgstr "Kārtošanas secība"
+
+#: ../admin/settings.php:332
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Thickbox effect will automatic added to your theme."
+msgstr "Šeit jūs varat izvēlēties sīktēlu efektus, NextGEN Galerija ievietos nepieciešamo HTML kodu attēlos. Lūdzu ievērojiet, tikai Thickbox efekts tiks automātiski pievienots jūsu kažociņam."
+
+#: ../admin/settings.php:333
+msgid "With the placeholder"
+msgstr "Ar vietasturētāju"
+
+#: ../admin/settings.php:333
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "Jūs varat aktivizēt navigāciju caur attēliem (atkarīgs no izmantotā efekta). Izmainiet koda rindu tikai ja izmantojiet citu sīktēlu efektu vai zināt ko darāt."
+
+#: ../admin/settings.php:336
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript sīktēlu efekts"
+
+#: ../admin/settings.php:340
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:341
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:342
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:343
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:344
+msgid "Custom"
+msgstr "Pielāgots"
+
+#: ../admin/settings.php:349
+msgid "Link Code line"
+msgstr "Saites koda rinda"
+
+#: ../admin/settings.php:367
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Lūdzu ievērojiet : ūdenszīmi jūs varat aktivizēt tikai iekš -> Pārvaldīt galerijas . Šī darbība nav atsaucama."
+
+#: ../admin/settings.php:372
+msgid "Preview"
+msgstr "Priekšstatījums"
+
+#: ../admin/settings.php:374
+#: ../admin/settings.php:379
+msgid "Position"
+msgstr "Pozīcija"
+
+#: ../admin/settings.php:399
+msgid "Offset"
+msgstr "Nobīde"
+
+#: ../admin/settings.php:415
+msgid "Use image as watermark"
+msgstr "Lietot attēlu kā ūdenszīmi"
+
+#: ../admin/settings.php:418
+msgid "URL to file"
+msgstr "URL uz failu"
+
+#: ../admin/settings.php:420
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Pieeja URL failiem ir aizliegta uz jūsu servera (allow_url_fopen)"
+
+#: ../admin/settings.php:423
+msgid "Use text as watermark"
+msgstr "Lietot tekstu kā ūdenszīmi"
+
+#: ../admin/settings.php:426
+msgid "Font"
+msgstr "Fonts"
+
+#: ../admin/settings.php:435
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Šī funkcionalitāte nestrādās, jo jums nepieciešama FreeType bibliotēka"
+
+#: ../admin/settings.php:437
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Jūs varat augšuplādēt citus fontus uz mapi <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:446
+msgid "Color"
+msgstr "Krāsa"
+
+#: ../admin/settings.php:448
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: ../admin/settings.php:451
+msgid "Text"
+msgstr "Teksts"
+
+#: ../admin/settings.php:455
+msgid "Opaque"
+msgstr "Caurspīdīgums"
+
+#: ../admin/settings.php:475
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Ceļš uz imagerotator.swf nav definēts, slīdrāde nestrādās."
+
+#: ../admin/settings.php:476
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Ja jūs vēlētos izmantot JW Attēlu Rotatoru, lūdzu lejuplādējiet spēlētāju <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >šeit</a> un augšuplādējiet to uz jūsu augšuplāžu mapi (Standartā: wp-content/uploads)."
+
+#: ../admin/settings.php:481
+msgid "The settings are used in the JW Image Rotator Version"
+msgstr "Iestatījumi lietoti JW Attēlu Rotatora versijā"
+
+#: ../admin/settings.php:482
+msgid "See more information for the Flash Player on the web page"
+msgstr "Skatīt vairāk informācijas par Flash spēlētāja tīkla vietnē"
+
+#: ../admin/settings.php:486
+msgid "Path to the Imagerotator (URL)"
+msgstr "Ceļš uz Attēlu Rotatoru (URL)"
+
+#: ../admin/settings.php:489
+msgid "Search now"
+msgstr "Meklēt tagad"
+
+#: ../admin/settings.php:490
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Spiediet pogu lai automātiski meklētu Attēlu Rotatoru, ja jūs to augšuplādējāt wp-content/uploads vai apakšmapē"
+
+#: ../admin/settings.php:494
+msgid "Default size (W x H)"
+msgstr "Standarta izmērs (P x A)"
+
+#: ../admin/settings.php:499
+msgid "Shuffle mode"
+msgstr "Jaukšanas režīms"
+
+#: ../admin/settings.php:503
+msgid "Show next image on click"
+msgstr "Rādīt nākošo attēlu pēc peles klikšķa"
+
+#: ../admin/settings.php:507
+msgid "Show navigation bar"
+msgstr "Rādīt navigācijas ridu"
+
+#: ../admin/settings.php:511
+msgid "Show loading icon"
+msgstr "Rādīt lādēšanas ikonu"
+
+#: ../admin/settings.php:515
+msgid "Use watermark logo"
+msgstr "Lietot ūdenszīmi"
+
+#: ../admin/settings.php:517
+msgid "You can change the logo at the watermark settings"
+msgstr "Jums jāmaina ūdenszīmes to iestatījumos"
+
+#: ../admin/settings.php:520
+msgid "Stretch image"
+msgstr "Izstiept attēlu"
+
+#: ../admin/settings.php:523
+msgid "true"
+msgstr "patiess"
+
+#: ../admin/settings.php:524
+msgid "false"
+msgstr "nepatiess"
+
+#: ../admin/settings.php:525
+msgid "fit"
+msgstr "iekļauties"
+
+#: ../admin/settings.php:526
+msgid "none"
+msgstr "neviens"
+
+#: ../admin/settings.php:531
+msgid "Duration time"
+msgstr "Darbības laiks"
+
+#: ../admin/settings.php:532
+msgid "sec."
+msgstr "sek."
+
+#: ../admin/settings.php:535
+msgid "Transition / Fade effect"
+msgstr "Pārejas / Vājināšanās (Fade) laiks"
+
+#: ../admin/settings.php:538
+msgid "fade"
+msgstr "vājināšanās (fade)"
+
+#: ../admin/settings.php:539
+msgid "bgfade"
+msgstr "bg vājināšanās (bgfade)"
+
+#: ../admin/settings.php:540
+msgid "slowfade"
+msgstr "lēna vājināšanās (slowfade)"
+
+#: ../admin/settings.php:541
+msgid "circles"
+msgstr "apļi"
+
+#: ../admin/settings.php:542
+msgid "bubbles"
+msgstr "burbuļi"
+
+#: ../admin/settings.php:543
+msgid "blocks"
+msgstr "bloki"
+
+#: ../admin/settings.php:544
+msgid "fluids"
+msgstr "škidrumi"
+
+#: ../admin/settings.php:545
+msgid "flash"
+msgstr "zipšņi"
+
+#: ../admin/settings.php:546
+msgid "lines"
+msgstr "līnijas"
+
+#: ../admin/settings.php:547
+msgid "random"
+msgstr "nejaušs"
+
+#: ../admin/settings.php:551
+msgid "Use slow zooming effect"
+msgstr "Lietot lēnu mērogošanas efektu"
+
+#: ../admin/settings.php:555
+msgid "Background Color"
+msgstr "Fona krāsa"
+
+#: ../admin/settings.php:560
+msgid "Texts / Buttons Color"
+msgstr "Tekstu / Pogu krāsa"
+
+#: ../admin/settings.php:565
+msgid "Rollover / Active Color"
+msgstr "Aktivizētā / aktīvā krāsa"
+
+#: ../admin/settings.php:570
+msgid "Screen Color"
+msgstr "Ekrāna krāsa"
+
+#: ../admin/settings.php:575
+msgid "Background music (URL)"
+msgstr "Fona mūzika (URL)"
+
+#: ../admin/settings.php:579
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Izmēģini XHTML validēšanu (ar CDATA)"
+
+#: ../admin/settings.php:581
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Svarīgi: Var radīt problēmas dažos tīkla pārlūkos. Lūdzu pārbaudiet savu lapu."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Atstatīt visus iestatījumus uz noklusētajām vērtībām"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Atinstalēšana izdevusies ! Tagad izdzēsiet spraudni un izbaudiet dzīvi ! Veiksmi !"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Atstatīt opcijas"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Atstatīt visas opcijas / iestatījumus uz noklusētajām vērtībām."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Atstatīt iestatījumus"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Atstatīt visas opcijas uz nokklusētajām vērtībām?\\n"
+"\\n"
+"Izvēlieties [Cancel] lai apstātos, [OK] lai turpinātu.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Atinstalēt spraudņa tabulas"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Jums nepatīk NextGEN Galerija ?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Nav problēmu, pirms atslēdziet spraudni nospiediet atinstalēšanas pogu, jo NextGEN Galerijas atslēgšana neizmet datus, kurus esat ievadījuši."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "BRĪDINĀJUMS:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Atinstalāciju nav iespējams atsaukt. Jums būtu ieteicams lietot datubāzes dublēšanas spraudni priekš Wordpress un izveidot tabulām rezerves kopijas. NextGEN Galerija tiek glabāta tabulās"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "un"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Atinstalēt spraudni"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Jūs taisāties atinstaēt šo spraudni no Wordpress.\\n"
+"Šī darbība nav atsaucama.\\n"
+"\\n"
+"Izvēlieties [Cancel] lai pārtrauktu, [OK] lai atinstalētu.\\n"
+
+#: ../admin/showmeta.php:46
+msgid "EXIF Data"
+msgstr "EXIF dati"
+
+#: ../admin/showmeta.php:51
+#: ../admin/showmeta.php:75
+#: ../admin/showmeta.php:99
+msgid "Tag"
+msgstr "Birka"
+
+#: ../admin/showmeta.php:52
+#: ../admin/showmeta.php:76
+#: ../admin/showmeta.php:100
+msgid "Value"
+msgstr "Vērtība"
+
+#: ../admin/showmeta.php:65
+msgid "No exif data"
+msgstr "Nac exif datu"
+
+#: ../admin/showmeta.php:71
+msgid "IPTC Data"
+msgstr "IPTC dati"
+
+#: ../admin/showmeta.php:95
+msgid "XMP Data"
+msgstr "XMP dati"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(ko kažociņa mapes)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Jums nav attiecīgās atļāujas, lai labotu sagataves šajā tīkla žurnālā."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS fails veiksmīgi atjaunināts"
+
+#: ../admin/style.php:71
+msgid "Style Editor"
+msgstr "Kažociņa editors"
+
+#: ../admin/style.php:75
+msgid "Activate and use style sheet:"
+msgstr "Aktivizēt un lietot kažociņu:"
+
+#: ../admin/style.php:95
+msgid "Activate"
+msgstr "Aktivizēt"
+
+#: ../admin/style.php:105
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Labot <strong>%s</strong>"
+
+#: ../admin/style.php:107
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Pārskata <strong>%s</strong>"
+
+#: ../admin/style.php:117
+msgid "Version"
+msgstr "Versija"
+
+#: ../admin/style.php:120
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Padoms: pārkopējiet jūsu kažociņa lapu (nggallery.css) uz jūsu kažociņa mapi, tad tā nepazudīs veicot atjaunināšanu"
+
+#: ../admin/style.php:122
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Jūsu kažociņš satur NextGEN Galerijas kažociņu (nggallery.css) tiks lietots šis fails"
+
+#: ../admin/style.php:136
+msgid "Update File"
+msgstr "Atjaunināt failu"
+
+#: ../admin/style.php:139
+msgid "If this file were writable you could edit it."
+msgstr "Ja šis fails būtu rakstāms, jūs varētu to editēt."
+
+#: ../admin/style.php:144
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Oops, tāds vails neeksistē! Pārbaudiet vēlreiz tā nosaukumu un mēģiniet vēlreiz, paldies."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Populārākie"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Vismazāk lietotie"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Alfabētiski"
+
+#: ../admin/tags.php:95
+msgid "Manage image tags"
+msgstr "Pārvaldīt attēlu birkas"
+
+#: ../admin/tags.php:107
+msgid "Existing Tags"
+msgstr "Eksistējošās birkas"
+
+#: ../admin/tags.php:111
+msgid "Search tags"
+msgstr "Meklēt birkās"
+
+#: ../admin/tags.php:115
+msgid "Go"
+msgstr "Meklē"
+
+#: ../admin/tags.php:120
+msgid "Sort Order:"
+msgstr "Izkārtošanas kārtība:"
+
+#: ../admin/tags.php:137
+#, php-format
+msgid "View all images tagged with %s"
+msgstr "Skatīt visus attēlus ar birku %s"
+
+#: ../admin/tags.php:152
+#: ../admin/tags.php:156
+#: ../admin/tags.php:169
+msgid "Previous tags"
+msgstr "Iepriekšējās birkas"
+
+#: ../admin/tags.php:165
+msgid "Next tags"
+msgstr "Nākošās birkas"
+
+#: ../admin/tags.php:177
+msgid "Rename Tag"
+msgstr "Pārsaukt birku"
+
+#: ../admin/tags.php:185
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Ievadiet birku, kuru pārsaukt un tās jauno vērtību. Jūs varat lietot šo funkcionalitāti arī parastajām birkām. Klikšķiniet \"Pārsaukt\" un visi raksti, kuri to izmanto, tiks atjaunināti."
+
+#: ../admin/tags.php:186
+#: ../admin/tags.php:234
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Jūs varat pārsaukt vairāk kā vienu birku atdalot tās ar komatiem."
+
+#: ../admin/tags.php:190
+msgid "Tag(s) to rename:"
+msgstr "Birka(-s) uz pārsaukšanu:"
+
+#: ../admin/tags.php:194
+msgid "New tag name(s):"
+msgstr "Jaunais Birkas(-u) vārds(-i):"
+
+#: ../admin/tags.php:197
+msgid "Rename"
+msgstr "Pārsaukt"
+
+#: ../admin/tags.php:203
+msgid "Delete Tag"
+msgstr "Dzēst birku"
+
+#: ../admin/tags.php:211
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Ievadiet vārdu birkai, kuru vēlaties dzēst. Šī birka tiks izņemta no visiem rakstiem."
+
+#: ../admin/tags.php:212
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Jūs varat vienlaicīgi dzēst vairākas birkas, atdalot tās ar komatiem"
+
+#: ../admin/tags.php:216
+msgid "Tag(s) to delete:"
+msgstr "Birka(-s) dzēšanai:"
+
+#: ../admin/tags.php:225
+msgid "Edit Tag Slug"
+msgstr "Labot Birkas īsvārdu"
+
+#: ../admin/tags.php:233
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Ievadiet birkas nosaukumu, kuru vēlaties editēt un tās jauno īsvārdu. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Īsvārda definīcija</a>"
+
+#: ../admin/tags.php:238
+msgid "Tag(s) to match:"
+msgstr "Birka(-s), kuras saskaņot:"
+
+#: ../admin/tags.php:242
+msgid "Slug(s) to set:"
+msgstr "Īsvārds(-i), kurus uzstādīt:"
+
+#: ../admin/upgrade.php:20
+msgid "Upgrade database structure..."
+msgstr "Atjaunina datubāzes struktūru..."
+
+#: ../admin/upgrade.php:78
+#: ../admin/upgrade.php:88
+#: ../admin/upgrade.php:95
+#: ../admin/upgrade.php:106
+msgid "finished"
+msgstr "pabeigts"
+
+#: ../admin/upgrade.php:86
+msgid "Update file structure..."
+msgstr "Atjaunina failu struktūru..."
+
+#: ../admin/upgrade.php:93
+msgid "Import date and time information..."
+msgstr "Importēt datuma un laika informāciju..."
+
+#: ../admin/upgrade.php:101
+msgid "Move imagerotator to new location..."
+msgstr "Pārvieto attēlu rotatoru uz citu vietu..."
+
+#: ../admin/upgrade.php:170
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Dažas mapes / failus nebija iespējams pārdēvēt, lūdzu pārbaudiet atļaujas un un ēlreiz pārlūkojiet mapi iekš galerijas pārvaldības sadaļas."
+
+#: ../admin/upgrade.php:172
+msgid "Rename failed"
+msgstr "Pārsaukšana nav izdevusies"
+
+#: ../admin/upgrade.php:267
+#: ../admin/upgrade.php:287
+msgid "Upgrade NextGEN Gallery"
+msgstr "Atjaunināt NextGEN Galeriju"
+
+#: ../admin/upgrade.php:268
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skripts piefiksēja, ka jūs atjaunināt no vecākas versijas."
+
+#: ../admin/upgrade.php:269
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Jūsu NextGEN Galerijas datubāzes tabulas ir novecojušas un tām nepieciešama atjaunināšana."
+
+#: ../admin/upgrade.php:270
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Ja vēlaties vēlāk pāriet uz vecāku versiju, lūdzu pirms atjaunināšanas izveidojiet pilnīgu datubāzes un attēlu rezerves kopiju."
+
+#: ../admin/upgrade.php:271
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Atjaunināšanas darbības var prasīt kādu laiku, lūdzu, esiet pacietīgi."
+
+#: ../admin/upgrade.php:272
+msgid "Start upgrade now"
+msgstr "Sākt atjaunināšanu"
+
+#: ../admin/upgrade.php:289
+msgid "Upgrade sucessful"
+msgstr "Jauninājums veiksmīgs"
+
+#: ../admin/upgrade.php:290
+msgid "Continue"
+msgstr "Turpināt"
+
+#: ../admin/wpmu.php:32
+msgid "Update successfully"
+msgstr "Atjauninājums veiksmīgs"
+
+#: ../admin/wpmu.php:41
+msgid "General WordPress MU Settings"
+msgstr "Galvenie Wordpress MU iestatījumi"
+
+#: ../admin/wpmu.php:50
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "Šis ir standarta ceļš visiem tīkla žurnāliem. Izmantojot vietas turētāju %BLOG_ID% ir iespējams labāk organizēt mapju struktūru. Ievērojiet, ceļam jābeidzas ar /."
+
+#: ../admin/wpmu.php:53
+msgid "Enable upload quota check"
+msgstr "Pieslēgt augšuplādes kvotas pārbaudi"
+
+#: ../admin/wpmu.php:55
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Vajadzētu strādāt, ja galerija atrodas zem tīkla žurnāla mapes"
+
+#: ../admin/wpmu.php:59
+msgid "Enable zip upload option"
+msgstr "Pieslēgt zip augšuplādes iestatījumu"
+
+#: ../admin/wpmu.php:61
+msgid "Allow users to upload zip folders."
+msgstr "Atļāuj lietotājiem augšuplādēt zip mapes."
+
+#: ../admin/wpmu.php:65
+msgid "Enable style selection"
+msgstr "Pieslēgt kažociņu izvēli"
+
+#: ../admin/wpmu.php:67
+msgid "Allow users to choose a style for the gallery."
+msgstr "Atļaut lietotājiem izvēlēties kažociņu galerijām."
+
+#: ../admin/wpmu.php:71
+msgid "Enable roles/capabilities"
+msgstr "Pieslēgt lomas / iespējas"
+
+#: ../admin/wpmu.php:73
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Atļāut lietotājiem mainīt lomas citu tīkla žurnālu autoriem."
+
+#: ../admin/wpmu.php:77
+msgid "Default style"
+msgstr "Standarta kažociņš"
+
+#: ../admin/wpmu.php:94
+msgid "Choose the default style for the galleries."
+msgstr "Izvēlēties standarta kažociņu galerijām."
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "Jums nav atļauts šeit atrasties"
+
+#: ../admin/tinymce/window.php:41
+msgid "Select gallery"
+msgstr "Izvēlēties galeriju"
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "Rādīt kā"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "Attēlu saraksts"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "Attēlu pārlūks"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "Nav albūmu"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "Paplašinātā versija"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "Sablīvētā versija"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "Izvēlēties attēlu"
+
+#: ../admin/tinymce/window.php:99
+msgid "No picture"
+msgstr "Nav attēlu"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "Platums x Augstums"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "Efekts"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "Nav efektu"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "Tīmeklis 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "Peldošs"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "Nepeldošs"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "Ievietot"
+
+#: ../lib/core.php:419
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Atgādne : Balstoties uz jūsu servera atmiņas limitu, jums nebūtu ieteicams augšuplādēt attēlus lielākus par <strong>%d x %d</strong> pikseļiem"
+
+#: ../lib/meta.php:87
+msgid " mm"
+msgstr "mm"
+
+#: ../lib/meta.php:93
+msgid " sec"
+msgstr "sek"
+
+#: ../lib/meta.php:371
+#: ../view/imagebrowser-exif.php:42
+msgid "Aperture"
+msgstr "Aile"
+
+#: ../lib/meta.php:372
+#: ../lib/meta.php:397
+msgid "Credit"
+msgstr "Veidotāji"
+
+#: ../lib/meta.php:373
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../lib/meta.php:374
+msgid "Caption"
+msgstr "Paraksts"
+
+#: ../lib/meta.php:376
+msgid "Copyright"
+msgstr "Autortiesības"
+
+#: ../lib/meta.php:377
+msgid "Focal length"
+msgstr "Fokusa attālums"
+
+#: ../lib/meta.php:378
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:379
+#: ../view/imagebrowser-exif.php:50
+msgid "Shutter speed"
+msgstr "Shutter ātrums"
+
+#: ../lib/meta.php:383
+msgid "Subject"
+msgstr "Temats"
+
+#: ../lib/meta.php:384
+msgid "Make"
+msgstr "Veids"
+
+#: ../lib/meta.php:385
+msgid "Edit Status"
+msgstr "Mainīt statusu"
+
+#: ../lib/meta.php:386
+msgid "Category"
+msgstr "Kategorija"
+
+#: ../lib/meta.php:387
+msgid "Keywords"
+msgstr "Atslēgvārdi"
+
+#: ../lib/meta.php:388
+msgid "Date Created"
+msgstr "Izveidošanas datums"
+
+#: ../lib/meta.php:389
+msgid "Time Created"
+msgstr "Izveidošanas laiks"
+
+#: ../lib/meta.php:390
+msgid "Author Position"
+msgstr "Autora lokalizācija"
+
+#: ../lib/meta.php:391
+msgid "City"
+msgstr "Pilsēta"
+
+#: ../lib/meta.php:392
+msgid "Location"
+msgstr "Atrasšanās vieta"
+
+#: ../lib/meta.php:393
+msgid "Province/State"
+msgstr "Province / štats"
+
+#: ../lib/meta.php:394
+msgid "Country code"
+msgstr "Valsts kods"
+
+#: ../lib/meta.php:395
+msgid "Country"
+msgstr "Valsts"
+
+#: ../lib/meta.php:396
+msgid "Headline"
+msgstr "Virsraksts"
+
+#: ../lib/meta.php:398
+msgid "Source"
+msgstr "Avots"
+
+#: ../lib/meta.php:399
+msgid "Copyright Notice"
+msgstr "Autortiesību informācija"
+
+#: ../lib/meta.php:400
+msgid "Contact"
+msgstr "Kontakti"
+
+#: ../lib/meta.php:401
+msgid "Last modified"
+msgstr "Pēdējoreiz modificēts"
+
+#: ../lib/meta.php:402
+msgid "Program tool"
+msgstr "Programmas darbarīks"
+
+#: ../lib/meta.php:403
+msgid "Format"
+msgstr "Formāts"
+
+#: ../lib/ngg-db.php:243
+msgid "Album overview"
+msgstr "Albuma pārskats"
+
+#: ../lib/shortcodes.php:275
+msgid "[Pictures not found]"
+msgstr "[Attēli netika atrasti]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Neviena jauna birka netika norādīta!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Neviena jauna / eksistējoša birka netika norādīta!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Neviena birka netika pārsaukta."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Pārsauktā birka(-s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Nav derīgu, jaunu birku."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Minētajām, esošajām birkām nav atbilstošu objektu (rakstu, lapu)."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Birkas netika apvienotas."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Apvienot birkas &laquo;%1$s&raquo; uz &laquo;%2$s&raquo;. %3$s objekts(-s) pārveidots(-i)."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Kļūda. Pārāk maz birku lai pārsauktu. Pārāk daudz lai apvienotu. Izvēlieties !"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Nav izvēlētu birku!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Neviena birka netika dzēsta."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s birka(-s) dzēstas."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Jauns(-i) īsvārds(-i) netika norādīti!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Birkas nummurs un īsvārda nummurs nav vienāds!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Īsvārds netika labots."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s īsvārds(-i) laboti."
+
+#: ../view/album-compact.php:31
+#: ../view/album-extend.php:29
+msgid "Photos"
+msgstr "Foto"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+msgid "[View with PicLens]"
+msgstr "[Skatīt ar PicLens]"
+
+#: ../view/imagebrowser-exif.php:26
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: ../view/imagebrowser-exif.php:29
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Uz priekšu"
+
+#: ../view/imagebrowser-exif.php:31
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "no"
+
+#: ../view/imagebrowser-exif.php:34
+msgid "Meta data"
+msgstr "Meta dati"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Camera / Type"
+msgstr "Kamera / Tips"
+
+#: ../view/imagebrowser-exif.php:46
+msgid "Focal Length"
+msgstr "Fokusa attālums"
+
+#: ../widgets/media-rss-widget.php:31
+msgid "NextGEN Media RSS"
+msgstr "NextGEN datu RSS"
+
+#: ../widgets/media-rss-widget.php:37
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Logdaļa, kura rāda datu RSS saites priekš NextGEN Galerijas."
+
+#: ../widgets/media-rss-widget.php:135
+#: ../widgets/media-rss-widget.php:203
+#: ../widgets/media-rss-widget.php:260
+msgid "Media RSS"
+msgstr "Datu RSS"
+
+#: ../widgets/media-rss-widget.php:136
+#: ../widgets/media-rss-widget.php:261
+msgid "Link to the main image feed"
+msgstr "Saite uz galveno attēlu barotni"
+
+#: ../widgets/media-rss-widget.php:153
+#: ../widgets/widgets.php:133
+msgid "Title:"
+msgstr "Virsraksts:"
+
+#: ../widgets/media-rss-widget.php:160
+msgid "Media RSS icon:"
+msgstr "Datu RSS ikona:"
+
+#: ../widgets/media-rss-widget.php:168
+msgid "Show the global Media RSS link:"
+msgstr "Rādīt globālo datu RSS saiti:"
+
+#: ../widgets/media-rss-widget.php:172
+msgid "Text for the global Media RSS link:"
+msgstr "Teksts priekš globālās datu RSS saites:"
+
+#: ../widgets/media-rss-widget.php:178
+msgid "Tooltip text for the global Media RSS link:"
+msgstr "Paskaidrojuma teksts priekš globālās datu RSS saites:"
+
+#: ../widgets/widgets.php:28
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Tādīt NextGEN galerijas slīdrādi"
+
+#: ../widgets/widgets.php:29
+#: ../widgets/widgets.php:30
+msgid "NextGEN Slideshow"
+msgstr "NextGEN slīdrāde"
+
+#: ../widgets/widgets.php:54
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Lejuplādējiet Flash spēlētāju</a> lai redzētu slīdrādi."
+
+#: ../widgets/widgets.php:135
+msgid "Select Gallery:"
+msgstr "Izvēlēties galeriju:"
+
+#: ../widgets/widgets.php:137
+msgid "All images"
+msgstr "Visi attēli"
+
+#: ../widgets/widgets.php:150
+msgid "Height:"
+msgstr "Augstums:"
+
+#: ../widgets/widgets.php:151
+msgid "Width:"
+msgstr "Platums:"
+
+#: ../widgets/widgets.php:184
+msgid "Add recent or random images from the galleries"
+msgstr "Pievienot jaunākos vai nejaušus attēlus no galerijām"
+
+#: ../widgets/widgets.php:186
+msgid "NextGEN Widget"
+msgstr "NextGEN logdaļa"
+
+#: ../widgets/widgets.php:286
+msgid "Title :"
+msgstr "Virsraksts :"
+
+#: ../widgets/widgets.php:292
+msgid "Show :"
+msgstr "Skate :"
+
+#: ../widgets/widgets.php:298
+msgid "Original images"
+msgstr "Oriģinālie attēli"
+
+#: ../widgets/widgets.php:306
+msgid "recent added "
+msgstr "jaunākie pievienotie"
+
+#: ../widgets/widgets.php:312
+msgid "Enable IE8 Web Slices"
+msgstr "Pieslēgt IE8 tīmekļa šķēles"
+
+#: ../widgets/widgets.php:317
+msgid "Width x Height :"
+msgstr "Platums x Augstums :"
+
+#: ../widgets/widgets.php:324
+msgid "Select :"
+msgstr "Izvēlēties :"
+
+#: ../widgets/widgets.php:326
+msgid "All galleries"
+msgstr "Visas galerijas"
+
+#: ../widgets/widgets.php:327
+msgid "Only which are not listed"
+msgstr "Tikai sarakstā neminētās"
+
+#: ../widgets/widgets.php:328
+msgid "Only which are listed"
+msgstr "Tikai sarakstā minētās"
+
+#: ../widgets/widgets.php:334
+msgid "Gallery ID :"
+msgstr "Galerijas ID :"
+
+#: ../widgets/widgets.php:336
+msgid "Gallery IDs, separated by commas."
+msgstr "Galeriju ID, atdalīti ar komatiem."
+
+#: ../xml/media-rss.php:58
+msgid "No galleries have been yet created."
+msgstr "Vēl neviena galerija nav izveidota."
+
+#: ../xml/media-rss.php:77
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Galerijas ID=%s neeksistē."
+
+#: ../xml/media-rss.php:108
+msgid "No album ID has been provided as parameter"
+msgstr "Neviens albuma ID netika pievienots kā parametrs"
+
+#: ../xml/media-rss.php:116
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Albuma ID=%s neeksistē."
+
+#: ../xml/media-rss.php:123
+#, php-format
+msgid "Invalid MediaRSS command (%s)."
+msgstr "Kļūdaina datu RSS komanda (%s)."
+

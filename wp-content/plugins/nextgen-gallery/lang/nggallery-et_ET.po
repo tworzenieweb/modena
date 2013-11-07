@@ -1,0 +1,3242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-05 14:18+0200\n"
+"PO-Revision-Date: 2009-12-05 23:47+0200\n"
+"Last-Translator: Riivo Lepp <riivo.lepp@skinnymob.com>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:181
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "NextGEN Gallery vajab töötamiseks üle 16MB mälu piirangut"
+
+#: ../nggallery.php:206
+msgid "Picture tag"
+msgstr "Pildi silt"
+
+#: ../nggallery.php:207
+msgid "Picture tag: %2$l."
+msgstr "Pildi silt: %2$l."
+
+#: ../nggallery.php:208
+msgid "Separate picture tags with commas."
+msgstr "Eralda pildi sildid komadega."
+
+#: ../nggallery.php:304
+msgid "L O A D I N G"
+msgstr "L A E N"
+
+#: ../nggallery.php:305
+msgid "Click to Close"
+msgstr "Sulge"
+
+#: ../nggallery.php:320
+msgid "loading"
+msgstr "laen"
+
+#: ../nggallery.php:418
+#: ../nggfunctions.php:850
+#: ../admin/admin.php:32
+msgid "Overview"
+msgstr "Ülevaade"
+
+#: ../nggallery.php:419
+msgid "Get help"
+msgstr "Otsi abi"
+
+#: ../nggallery.php:420
+msgid "Contribute"
+msgstr "Löö kaasa"
+
+#: ../nggallery.php:421
+msgid "Donate"
+msgstr "Toeta"
+
+#: ../nggfunctions.php:37
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "Vaja on <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Playerit</a> ja <a href=\"http://www.mozilla.com/firefox/\">Javascripti toega brauserit</a>."
+
+#: ../nggfunctions.php:103
+#: ../nggfunctions.php:560
+msgid "[Gallery not found]"
+msgstr "[Galeriid ei leitud]"
+
+#: ../nggfunctions.php:365
+msgid "[Album not found]"
+msgstr "[Albumit ei leitud]"
+
+#: ../nggfunctions.php:677
+msgid "[SinglePic not found]"
+msgstr "[Pilti ei leitud]"
+
+#: ../nggfunctions.php:815
+msgid "Related images for"
+msgstr "Seotud pildid"
+
+#: ../admin/about.php:9
+msgid "Copyright notes / Credits"
+msgstr "Autoriõigused"
+
+#: ../admin/about.php:12
+msgid "NextGEN DEV Team"
+msgstr "NextGEN meeskond"
+
+#: ../admin/about.php:14
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Seda pluginat arendab, haldab, toetab ja dokumenteerib"
+
+#: ../admin/about.php:14
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Paljud teised, kes on seda projekti toetanud :"
+
+#: ../admin/about.php:19
+msgid "Contributors / Tribute to"
+msgstr "Toetajad / Tänuavaldused"
+
+#: ../admin/about.php:21
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Kui sa uurid selle plugina lähtekoodi, siis sa leiad, et me oleme kasutanud palju olemasolevat koodi ja ideid."
+
+#: ../admin/about.php:22
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Me soovime tänada järgnevaid inimesi nende töö eest (ilma selleta ei oleks olnud võimalik seda pluginat nii kiirelt teha)"
+
+#: ../admin/about.php:24
+msgid "for their great documented code"
+msgstr "suurepärase dokumenteeritud lähtekoodi eest"
+
+#: ../admin/about.php:25
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "jQuery eest, mis on parim Web2.0 framework"
+
+#: ../admin/about.php:26
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "fantastilise PHP Thumbnail Class eest"
+
+#: ../admin/about.php:27
+msgid "for a lot of very useful plugins and ideas"
+msgstr "paljude kasulike pluginate ja ideede eest"
+
+#: ../admin/about.php:28
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "tõeliselt lihtsa pilidi efekti Shutter Reloaded eest"
+
+#: ../admin/about.php:29
+msgid "for the best Media Flash Scripts on earth"
+msgstr "maailma parimate Media Flash Scriptide eest"
+
+#: ../admin/about.php:30
+msgid "for the Fugue Iconset"
+msgstr "Fugue Iconseti eest"
+
+#: ../admin/about.php:31
+msgid "for the Watermark plugin"
+msgstr "Watermark plugina eest"
+
+#: ../admin/about.php:33
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Kui sa ei leidnud oma nime sellest nimekirjast ja sa oled kirjutanud osa koodi, mida ma olen kasutanud, siis saada mulle email."
+
+#: ../admin/about.php:37
+msgid "How to support ?"
+msgstr "Kuidas toetada?"
+
+#: ../admin/about.php:39
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Kaasalöömiseks on mitmeid erinevaid võimalusi, aidata ja toetada meid selles töös. Ükski neist ei ole kohustuslik."
+
+#: ../admin/about.php:41
+msgid "Send us bugfixes / code changes"
+msgstr "Saada meile veaparandusi / koodimuudatusi"
+
+#: ../admin/about.php:41
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Kõige motiveerivam tugi sellele pluginale on sinu ideed ja mõtted"
+
+#: ../admin/about.php:42
+msgid "Translate the plugin"
+msgstr "Tõlgi plugin"
+
+#: ../admin/about.php:42
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Minu sooviks on see plugin tõlkida võimalikult paljudesse keeltesse, et kõik saaksid seda kasutada"
+
+#: ../admin/about.php:43
+msgid "Donate the work via paypal"
+msgstr "Tee oma annetus paypal kaudu"
+
+#: ../admin/about.php:56
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Kahtlemata väga kasulik ja väga motiveeriv :-)"
+
+#: ../admin/about.php:58
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Pane plugina link oma blogi/kodulehele"
+
+#: ../admin/about.php:58
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Jah, levitamine ja tagasiside on samuti head variandid toetamiseks"
+
+#: ../admin/about.php:63
+msgid "Thanks!"
+msgstr "Aitähh!"
+
+#: ../admin/about.php:65
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Me soovime tänada neid inimesi meie toetamise eest :"
+
+#: ../admin/about.php:164
+msgid "and all donators..."
+msgstr "ja kõiki toetajaid..."
+
+#: ../admin/addgallery.php:37
+#: ../admin/addgallery.php:52
+msgid "Upload failed!"
+msgstr "Üleslaadimine ebaõnnestus!"
+
+#: ../admin/addgallery.php:57
+#: ../admin/functions.php:836
+#: ../admin/functions.php:936
+msgid "No gallery selected !"
+msgstr "Galerii ei ole valitud !"
+
+#: ../admin/addgallery.php:104
+msgid "Image Files"
+msgstr "Pildifailid"
+
+#: ../admin/addgallery.php:123
+#: ../admin/addgallery.php:154
+msgid "remove"
+msgstr "kustuta"
+
+#: ../admin/addgallery.php:124
+msgid "Browse..."
+msgstr "Vali..."
+
+#: ../admin/addgallery.php:125
+#: ../admin/addgallery.php:293
+msgid "Upload images"
+msgstr "Laadi pildid"
+
+#: ../admin/addgallery.php:173
+#: ../admin/addgallery.php:185
+#: ../admin/manage-galleries.php:134
+msgid "Add new gallery"
+msgstr "Lisa uus galerii"
+
+#: ../admin/addgallery.php:175
+#: ../admin/addgallery.php:205
+msgid "Upload a Zip-File"
+msgstr "Laadi Zip fail"
+
+#: ../admin/addgallery.php:178
+#: ../admin/addgallery.php:246
+msgid "Import image folder"
+msgstr "Impordi pildi kataloog"
+
+#: ../admin/addgallery.php:180
+#: ../admin/addgallery.php:263
+msgid "Upload Images"
+msgstr "Laadi pildid"
+
+#: ../admin/addgallery.php:190
+#: ../admin/manage-galleries.php:217
+msgid "New Gallery"
+msgstr "Uus galerii"
+
+#: ../admin/addgallery.php:193
+#: ../admin/manage-galleries.php:219
+msgid "Create a new , empty gallery below the folder"
+msgstr "Lisa uus, tühi galerii kataloogi"
+
+#: ../admin/addgallery.php:195
+#: ../admin/manage-galleries.php:221
+msgid "Allowed characters for file and folder names are"
+msgstr "Lubatud märgid faili- ja katalooginimedes on"
+
+#: ../admin/addgallery.php:199
+msgid "Add gallery"
+msgstr "Lisa galerii"
+
+#: ../admin/addgallery.php:210
+msgid "Select Zip-File"
+msgstr "Vali Zip fail"
+
+#: ../admin/addgallery.php:212
+msgid "Upload a zip file with images"
+msgstr "Laadi piltidega Zip faili "
+
+#: ../admin/addgallery.php:216
+msgid "or enter a Zip-File URL"
+msgstr "või sisesta Zip faili URL"
+
+#: ../admin/addgallery.php:218
+msgid "Import a zip file with images from a url"
+msgstr "Laadi piltidega Zip fail URLilt"
+
+#: ../admin/addgallery.php:222
+#: ../admin/addgallery.php:272
+msgid "in to"
+msgstr "galeriisse"
+
+#: ../admin/addgallery.php:224
+msgid "a new gallery"
+msgstr "uus galerii"
+
+#: ../admin/addgallery.php:235
+msgid "Note : The upload limit on your server is "
+msgstr "Märkus :  Üleslaadimise limiit sinu serveris on "
+
+#: ../admin/addgallery.php:239
+msgid "Start upload"
+msgstr "Alusta üleslaadimist"
+
+#: ../admin/addgallery.php:251
+msgid "Import from Server path:"
+msgstr "Impordi serveri kataloogist"
+
+#: ../admin/addgallery.php:254
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Märkus : Kui safe-mode = ON siis tuleb thubms alamkataloogid käsitsi teha"
+
+#: ../admin/addgallery.php:257
+msgid "Import folder"
+msgstr "Impordi kataloog"
+
+#: ../admin/addgallery.php:268
+msgid "Upload image"
+msgstr "Lae pilt"
+
+#: ../admin/addgallery.php:274
+msgid "Choose gallery"
+msgstr "Vali galerii"
+
+#: ../admin/addgallery.php:289
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Paki üleslaadimine vajab Adobe Flash 10. Kui on probleeme, siis keela see ära"
+
+#: ../admin/addgallery.php:289
+msgid "Disable flash upload"
+msgstr "Keela flash üleslaadimine"
+
+#: ../admin/addgallery.php:291
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Mitme faili korraga üleslaadimiseks hoia valimisel all ctrl ja shift klahve"
+
+#: ../admin/addgallery.php:291
+msgid "Enable flash based upload"
+msgstr "Luba flashi üleslaadimine"
+
+#: ../admin/admin.php:33
+msgid "Add Gallery / Images"
+msgstr "Lisa galerii / Laadi pilte"
+
+#: ../admin/admin.php:34
+msgid "Manage Gallery"
+msgstr "Halda galeriisid"
+
+#: ../admin/admin.php:36
+msgid "Tags"
+msgstr "Sildid"
+
+#: ../admin/admin.php:37
+msgid "Options"
+msgstr "Seaded"
+
+#: ../admin/admin.php:39
+msgid "Style"
+msgstr "Kujundus"
+
+#: ../admin/admin.php:40
+msgid "Setup Gallery"
+msgstr "Seadista galeriid"
+
+#: ../admin/admin.php:40
+msgid "Setup"
+msgstr "Paigaldus"
+
+#: ../admin/admin.php:42
+msgid "Roles"
+msgstr "Rollid"
+
+#: ../admin/admin.php:43
+msgid "About this Gallery"
+msgstr "Info selle galerii kohta"
+
+#: ../admin/admin.php:43
+msgid "About"
+msgstr "Info"
+
+#: ../admin/admin.php:45
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/admin.php:74
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "NextGEN Gallery uus versioon on saadaval !"
+
+#: ../admin/admin.php:74
+msgid "Download here"
+msgstr "Laadi alla siit"
+
+#: ../admin/admin.php:93
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Tänan, et kasutad seda pluginat. Loodan, et oled rahul ! Kui sa soovid toetada plugina arendamist, siis palun <strong><a href=\"%s\">toeta</a></strong>! Kui sa vajad plugina kasutamisel abi, siis saada oma küsimused <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">siia</a>."
+
+#: ../admin/admin.php:96
+msgid "OK, hide this message now !"
+msgstr "OK, peida see teada !"
+
+#: ../admin/admin.php:178
+msgid "You do not have the correct permission"
+msgstr "Sul ei ole piisavalt õiguseid"
+
+#: ../admin/admin.php:179
+msgid "Unexpected Error"
+msgstr "Ootamatu viga"
+
+#: ../admin/admin.php:180
+msgid "A failure occurred"
+msgstr "Viga"
+
+#: ../admin/admin.php:265
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Tutvustus</a>"
+
+#: ../admin/admin.php:268
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Seadistus</a>"
+
+#: ../admin/admin.php:271
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Tõlge</a>"
+
+#: ../admin/admin.php:274
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Rollid / Õigused</a>"
+
+#: ../admin/admin.php:277
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Stiilid</a>"
+
+#: ../admin/admin.php:278
+msgid "Templates"
+msgstr "Mallid"
+
+#: ../admin/admin.php:281
+#: ../admin/admin.php:287
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerii haldus</a>"
+
+#: ../admin/admin.php:282
+msgid "Gallery example"
+msgstr "Galerii näidis"
+
+#: ../admin/admin.php:288
+#: ../admin/admin.php:298
+msgid "Gallery tags"
+msgstr "Galerii sildid"
+
+#: ../admin/admin.php:291
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Albumi haldus</a>"
+
+#: ../admin/admin.php:292
+msgid "Album example"
+msgstr "Albumi näidis"
+
+#: ../admin/admin.php:293
+#: ../admin/admin.php:299
+msgid "Album tags"
+msgstr "Albumi sildid"
+
+#: ../admin/admin.php:296
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Galerii sildid</a>"
+
+#: ../admin/admin.php:297
+msgid "Related images"
+msgstr "Seotud pildid"
+
+#: ../admin/admin.php:302
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Pildi haldus</a>"
+
+#: ../admin/admin.php:303
+msgid "Custom fields"
+msgstr "Omatehtud väljad"
+
+#: ../admin/admin.php:308
+msgid "Get help with NextGEN Gallery"
+msgstr "Abi NextGEN Gallery kohta"
+
+#: ../admin/admin.php:312
+msgid "More Help & Info"
+msgstr "Abi ja lisainfo"
+
+#: ../admin/admin.php:314
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">Tugifoorumid</a>"
+
+#: ../admin/admin.php:315
+msgid "FAQ"
+msgstr "KKK"
+
+#: ../admin/admin.php:316
+msgid "Feature request"
+msgstr "Täiendusettepanekud"
+
+#: ../admin/admin.php:317
+msgid "Get your language pack"
+msgstr "Tõmba sobiv keelepakk"
+
+#: ../admin/admin.php:318
+msgid "Contribute development"
+msgstr "Aita arendada"
+
+#: ../admin/admin.php:319
+msgid "Download latest version"
+msgstr "Tõmba viimane versioon"
+
+#: ../admin/album.php:99
+#: ../admin/album.php:112
+#: ../admin/album.php:138
+msgid "Update Successfully"
+msgstr "Uuendamine õnnestus"
+
+#: ../admin/album.php:120
+msgid "Album deleted"
+msgstr "Album on kustutatud"
+
+#: ../admin/album.php:248
+msgid "Manage Albums"
+msgstr "Halda albumeid"
+
+#: ../admin/album.php:254
+#: ../admin/album.php:297
+msgid "Select album"
+msgstr "Vali album"
+
+#: ../admin/album.php:256
+msgid "No album selected"
+msgstr "Album ei ole valitud"
+
+#: ../admin/album.php:267
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "Uuenda"
+
+#: ../admin/album.php:268
+msgid "Edit album"
+msgstr "Muuda albumit"
+
+#: ../admin/album.php:269
+#: ../admin/manage-galleries.php:195
+#: ../admin/manage-images.php:395
+msgid "Delete"
+msgstr "Kustuta"
+
+#: ../admin/album.php:269
+msgid "Delete album ?"
+msgstr "Kustuta album ?"
+
+#: ../admin/album.php:271
+msgid "Add new album"
+msgstr "Lisa uus album"
+
+#: ../admin/album.php:273
+msgid "Add"
+msgstr "Lisa"
+
+#: ../admin/album.php:283
+msgid "Show / hide used galleries"
+msgstr "Näita / peida kasutatud galeriisid"
+
+#: ../admin/album.php:283
+msgid "[Show all]"
+msgstr "[Näita kõiki]"
+
+#: ../admin/album.php:284
+msgid "Maximize the widget content"
+msgstr "Maksimeeri mooduli sisu"
+
+#: ../admin/album.php:284
+msgid "[Maximize]"
+msgstr "[Maksimeeri]"
+
+#: ../admin/album.php:285
+msgid "Minimize the widget content"
+msgstr "Minimeeri mooduli sisu"
+
+#: ../admin/album.php:285
+msgid "[Minimize]"
+msgstr "[Minimeeri]"
+
+#: ../admin/album.php:287
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Peale albumi loomist ja valimist saab galerii lohistada allolevasse albumisse"
+
+#: ../admin/album.php:313
+msgid "Select gallery"
+msgstr "Vali galerii"
+
+#: ../admin/album.php:342
+msgid "Album ID"
+msgstr "Albumi ID"
+
+#: ../admin/album.php:355
+msgid "No album selected!"
+msgstr "Album ei ole valitud!"
+
+#: ../admin/album.php:375
+msgid "Album name:"
+msgstr "Albumi nimi:"
+
+#: ../admin/album.php:381
+msgid "Album description:"
+msgstr "Kirjeldus:"
+
+#: ../admin/album.php:387
+msgid "Select a preview image:"
+msgstr "Vali eelvaate pilt:"
+
+#: ../admin/album.php:389
+msgid "No picture"
+msgstr "Ei midagi"
+
+#: ../admin/album.php:403
+#: ../admin/manage-images.php:215
+msgid "Page Link to"
+msgstr "Lingitud leht"
+
+#: ../admin/album.php:405
+#: ../admin/manage-images.php:218
+msgid "Not linked"
+msgstr "Ei ole lingitud"
+
+#: ../admin/album.php:415
+#: ../admin/manage-galleries.php:226
+#: ../admin/manage-galleries.php:255
+#: ../admin/manage-galleries.php:285
+#: ../admin/manage-images.php:479
+#: ../admin/manage-images.php:515
+#: ../admin/manage-images.php:544
+#: ../admin/manage-images.php:574
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/album.php:417
+#: ../admin/manage-galleries.php:228
+#: ../admin/manage-galleries.php:257
+#: ../admin/manage-galleries.php:287
+#: ../admin/manage-images.php:481
+#: ../admin/manage-images.php:517
+#: ../admin/manage-images.php:546
+#: ../admin/manage-images.php:576
+msgid "Cancel"
+msgstr "Katkesta"
+
+#: ../admin/album.php:500
+msgid "Name"
+msgstr "Nimi"
+
+#: ../admin/album.php:501
+#: ../admin/manage-galleries.php:155
+#: ../admin/manage-images.php:213
+msgid "Title"
+msgstr "Pealkiri"
+
+#: ../admin/album.php:502
+msgid "Page"
+msgstr "Leht"
+
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+msgid "Cheatin&#8217; uh?"
+msgstr "Petad või?"
+
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Märgi hiirega uue pisipildi piirkond"
+
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "Pisipilt uuendatud"
+
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "Viga pisipildi uuendamisel"
+
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Märgi pisipildi piirkond vasakul oleval pildil."
+
+#: ../admin/functions.php:40
+msgid "No valid gallery name!"
+msgstr "Ei ole sobiv galerii nimi!"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+#: ../admin/functions.php:147
+#: ../admin/functions.php:154
+msgid "Directory"
+msgstr "Kataloog"
+
+#: ../admin/functions.php:47
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "ei eksisteeri. Tee esmalt galerii kataloog"
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:57
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Vaata seda linki kui sa ei tea, kuidas õiguseid sättida :"
+
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+msgid "is not writeable !"
+msgstr "ei ole kirjutatav !"
+
+#: ../admin/functions.php:65
+#: ../admin/functions.php:75
+#: ../admin/functions.php:795
+msgid "Unable to create directory "
+msgstr "Ei saa luua kataloogi"
+
+#: ../admin/functions.php:79
+msgid "The server setting Safe-Mode is on !"
+msgstr "Serveri seadistus Safe-Mode on lubatud !"
+
+#: ../admin/functions.php:80
+msgid "If you have problems, please create directory"
+msgstr "Kui on probleeme, tee kataloog"
+
+#: ../admin/functions.php:81
+msgid "and the thumbnails directory"
+msgstr "ja pisipiltide kataloog"
+
+#: ../admin/functions.php:81
+msgid "with permission 777 manually !"
+msgstr "õigustega 777 käsitsi !"
+
+#: ../admin/functions.php:99
+msgid "already exists"
+msgstr "on juba olemas"
+
+#: ../admin/functions.php:113
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "Galerii %1$s loomine õnnestus.<br/>Selle galerii näitamiseks kasuta märgendit %2$s.<br/>"
+
+#: ../admin/functions.php:116
+msgid "Edit gallery"
+msgstr "Muuda galeriid"
+
+#: ../admin/functions.php:147
+msgid "doesn&#96;t exist!"
+msgstr "ei ole olemas!"
+
+#: ../admin/functions.php:154
+msgid "contains no pictures"
+msgstr "ei sisalda pilte"
+
+#: ../admin/functions.php:172
+msgid "Database error. Could not add gallery!"
+msgstr "Andmebaasi viga. Ei saa lisada galeriid!"
+
+#: ../admin/functions.php:175
+msgid "successfully created!"
+msgstr "tehti edukalt!"
+
+#: ../admin/functions.php:204
+#: ../admin/functions.php:912
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-images.php:294
+msgid "Create new thumbnails"
+msgstr "Loo uued pisipildid"
+
+#: ../admin/functions.php:207
+msgid " picture(s) successfully added"
+msgstr "piltide lisamine õnnestus"
+
+#: ../admin/functions.php:254
+#: ../admin/functions.php:327
+#: ../admin/functions.php:377
+#: ../admin/functions.php:470
+msgid "Object didn't contain correct data"
+msgstr "Objekt ei sisalda korrektseid andmeid"
+
+#: ../admin/functions.php:259
+msgid " is not writeable "
+msgstr "ei ole kirjutatav !"
+
+#: ../admin/functions.php:337
+#: ../admin/functions.php:380
+#: ../admin/functions.php:476
+msgid " is not writeable"
+msgstr "ei ole kirjutatav !"
+
+#: ../admin/functions.php:586
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Viga : Ei saa uuendada andmebaasi)"
+
+#: ../admin/functions.php:593
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Viga : Ei saa uuendada metaandmeid)"
+
+#: ../admin/functions.php:602
+msgid "(Error : Couldn't not find image)"
+msgstr "(Viga : Ei leia pilti)"
+
+#: ../admin/functions.php:732
+msgid "No valid URL path "
+msgstr "Ei ole sobiv URL"
+
+#: ../admin/functions.php:748
+msgid "Import via cURL failed."
+msgstr "Import cURL kaudu ebaõnnestus."
+
+#: ../admin/functions.php:763
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "Laetud fail on vigane või ei ole zip fail ! Server tuvastas :"
+
+#: ../admin/functions.php:779
+msgid "Could not get a valid foldername"
+msgstr "Kausta nimi ei ole korrektne"
+
+#: ../admin/functions.php:790
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Ei õnnestu luua kataloogi %s. Kas ülemkataloogi kirjutamine on lubatud?"
+
+#: ../admin/functions.php:805
+msgid "Zip-File successfully unpacked"
+msgstr "Zip faili lahti pakkimine õnnestus"
+
+#: ../admin/functions.php:844
+#: ../admin/functions.php:962
+msgid "Failure in database, no gallery path set !"
+msgstr "Viga andmebaasis, galerii rada ei ole seatud !"
+
+#: ../admin/functions.php:868
+#: ../admin/functions.php:956
+msgid "is no valid image file!"
+msgstr "ei ole sobiv pildifail!"
+
+#: ../admin/functions.php:882
+#: ../admin/functions.php:1098
+#: ../admin/functions.php:1171
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Ei õnnestu kirjutada kataloogi %s. Kas kataloogi kirjutamine on lubatud?"
+
+#: ../admin/functions.php:889
+#: ../admin/functions.php:979
+msgid "Error, the file could not moved to : "
+msgstr "Viga, ei õnnestunud tõsta pilti kataloogi :"
+
+#: ../admin/functions.php:894
+#: ../admin/functions.php:983
+msgid "Error, the file permissions could not set"
+msgstr "Viga, ei õnnestu sättida faili õiguseid"
+
+#: ../admin/functions.php:916
+msgid " Image(s) successfully added"
+msgstr "Piltide lisamine õnnestus"
+
+#: ../admin/functions.php:945
+msgid "Invalid upload. Error Code : "
+msgstr "Üleslaadimine ebaõnnestus. Veakood :"
+
+#: ../admin/functions.php:998
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Kogu kettaruum on ära kasutatud. Kustuta enne üleslaadimist mõned failid."
+
+#: ../admin/functions.php:1038
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "SAFE MODE piirangud on peal! Kataloog <strong>%s</strong> tuleb luua käsitsi"
+
+#: ../admin/functions.php:1039
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Kui safe_mode on sisse lülitatud, kontrollib PHP kas jooksva skripti omanik (%s) on sama kui kataloogil või failil, mida kasutab file funktsioon (%s)"
+
+#: ../admin/functions.php:1092
+#: ../admin/functions.php:1165
+msgid "The destination gallery does not exist"
+msgstr "Sihtgaleriid ei ole"
+
+#: ../admin/functions.php:1123
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Pildi %1$s tõstmine %2$s ebaõnnestus"
+
+#: ../admin/functions.php:1141
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "%1$s pilti tõsteti galeriisse: %2$s ."
+
+#: ../admin/functions.php:1198
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Pildi %1$s kopeerimine %2$s ebaõnnestus"
+
+#: ../admin/functions.php:1210
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Pildi %s andmebaasi rea kopeerimine ebaõnnestus"
+
+#: ../admin/functions.php:1218
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Pilt %1$s (%2$s) kopeeriti kui %3$s (%4$s) &raquo; Fail oli sihtgaleriis juba olemas."
+
+#: ../admin/functions.php:1221
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Pilt %1$s (%2$s) kopeeriti kui %3$s (%4$s)"
+
+#: ../admin/functions.php:1230
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "%1$s pilti kopeeriti galeriiisse: %2$s ."
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "NextGEN Gallery töötab ainult administraatori rollis"
+
+#: ../admin/install.php:108
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery : Ei suutnud teha tabeleid, kontrolli andmebaasi seadistusi"
+
+#: ../admin/install.php:165
+msgid "[Show as slideshow]"
+msgstr "[Näita slaidishowna]"
+
+#: ../admin/install.php:166
+msgid "[Show picture list]"
+msgstr "[Näita piltide listi]"
+
+#: ../admin/manage-galleries.php:20
+#: ../admin/manage-images.php:54
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:21
+#: ../admin/manage-images.php:55
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:62
+#: ../admin/manage-images.php:137
+msgid "No images selected"
+msgstr "Ükski pilt ei ole valitud"
+
+#: ../admin/manage-galleries.php:79
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Alustada masstöötlust %s galeriidele \n"
+" \n"
+" 'Cancel' katkestuseks, 'OK' jätkamiseks."
+
+#: ../admin/manage-galleries.php:107
+msgid "Gallery Overview"
+msgstr "Galerii ülevaade"
+
+#: ../admin/manage-galleries.php:110
+#: ../admin/manage-galleries.php:113
+#: ../admin/manage-images.php:184
+#: ../admin/manage-images.php:187
+msgid "Search Images"
+msgstr "Otsi pilte"
+
+#: ../admin/manage-galleries.php:125
+#: ../admin/manage-images.php:292
+msgid "No action"
+msgstr "Ei tee midagi"
+
+#: ../admin/manage-galleries.php:126
+#: ../admin/manage-images.php:293
+msgid "Set watermark"
+msgstr "Lisa vesimärk"
+
+#: ../admin/manage-galleries.php:128
+#: ../admin/manage-images.php:295
+msgid "Resize images"
+msgstr "Muuda piltide suurust"
+
+#: ../admin/manage-galleries.php:129
+#: ../admin/manage-images.php:297
+msgid "Import metadata"
+msgstr "Impordi metaandmed"
+
+#: ../admin/manage-galleries.php:131
+#: ../admin/manage-images.php:306
+msgid "Apply"
+msgstr "Uuenda"
+
+#: ../admin/manage-galleries.php:139
+#: ../admin/manage-images.php:283
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Näitan %s&#8211;%s / %s"
+
+#: ../admin/manage-galleries.php:154
+#: ../admin/manage-images.php:599
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:156
+#: ../admin/manage-images.php:224
+#: ../admin/manage-images.php:604
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: ../admin/manage-galleries.php:157
+#: ../admin/manage-images.php:244
+msgid "Author"
+msgstr "Autor"
+
+#: ../admin/manage-galleries.php:158
+msgid "Page ID"
+msgstr "Lehe ID"
+
+#: ../admin/manage-galleries.php:159
+msgid "Quantity"
+msgstr "Kogus"
+
+#: ../admin/manage-galleries.php:160
+msgid "Action"
+msgstr "Toiming"
+
+#: ../admin/manage-galleries.php:182
+msgid "Edit"
+msgstr "Muuda"
+
+#: ../admin/manage-galleries.php:195
+msgid "Delete this gallery ?"
+msgstr "Kustuta see galerii ?"
+
+#: ../admin/manage-galleries.php:202
+#: ../admin/manage-images.php:455
+msgid "No entries found"
+msgstr "Sissekandeid ei leitud"
+
+#: ../admin/manage-galleries.php:246
+#: ../admin/manage-images.php:535
+msgid "Resize Images to"
+msgstr "Muuda piltide suurus"
+
+#: ../admin/manage-galleries.php:250
+#: ../admin/manage-images.php:539
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Laius x kõrgus (punktides). NextGEN Gallery säilitab külgede suhted"
+
+#: ../admin/manage-galleries.php:274
+#: ../admin/manage-images.php:563
+msgid "Width x height (in pixel)"
+msgstr "Laius x kõrgus (punktides)"
+
+#: ../admin/manage-galleries.php:276
+#: ../admin/manage-images.php:565
+msgid "These values are maximum values "
+msgstr "Need väärtused on maksimaalsed väärtused"
+
+#: ../admin/manage-galleries.php:279
+#: ../admin/manage-images.php:568
+msgid "Set fix dimension"
+msgstr "Fikseeritud mõõt"
+
+#: ../admin/manage-galleries.php:281
+#: ../admin/manage-images.php:570
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignoreeri külgede suhteid pisipildi tegemisel"
+
+#: ../admin/manage-images.php:31
+msgid "Gallery not found."
+msgstr "Galeriid ei leitud"
+
+#: ../admin/manage-images.php:37
+msgid "Sorry, you have no access here"
+msgstr "Sul ei ole siia ligipääsu"
+
+#: ../admin/manage-images.php:165
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Alustada masstöötlust %s pildile \n"
+" \n"
+" 'Cancel' katkestuseks, 'OK' jätkamiseks."
+
+#: ../admin/manage-images.php:181
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Otsingu tulemused &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:209
+msgid "Gallery settings"
+msgstr "Galerii seaded"
+
+#: ../admin/manage-images.php:209
+msgid "Click here for more settings"
+msgstr "Vajuta siia lisaseadistusteks"
+
+#: ../admin/manage-images.php:226
+msgid "Preview image"
+msgstr "Eelvaate pilt"
+
+#: ../admin/manage-images.php:229
+msgid "No Picture"
+msgstr "Ei ole pilti"
+
+#: ../admin/manage-images.php:242
+msgid "Path"
+msgstr "Rada"
+
+#: ../admin/manage-images.php:259
+msgid "Create new page"
+msgstr "Tee uus leht"
+
+#: ../admin/manage-images.php:262
+msgid "Main page (No parent)"
+msgstr "Pealeht (ülemlehte pole)"
+
+#: ../admin/manage-images.php:265
+msgid "Add page"
+msgstr "Lisa leht"
+
+#: ../admin/manage-images.php:272
+msgid "Scan Folder for new images"
+msgstr "Otsi kataloogist uusi pilte"
+
+#: ../admin/manage-images.php:273
+#: ../admin/manage-images.php:312
+#: ../admin/manage-images.php:461
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+
+#: ../admin/manage-images.php:296
+msgid "Delete images"
+msgstr "Kustuta pildid"
+
+#: ../admin/manage-images.php:298
+msgid "Rotate images clockwise"
+msgstr "Pööra pilte päripäeva"
+
+#: ../admin/manage-images.php:299
+msgid "Rotate images counter-clockwise"
+msgstr "Pööra pilte vastupäeva"
+
+#: ../admin/manage-images.php:300
+msgid "Copy to..."
+msgstr "Kopeeri..."
+
+#: ../admin/manage-images.php:301
+msgid "Move to..."
+msgstr "Tõsta..."
+
+#: ../admin/manage-images.php:302
+msgid "Add tags"
+msgstr "Lisa sildid"
+
+#: ../admin/manage-images.php:303
+msgid "Delete tags"
+msgstr "Kustuta sildid"
+
+#: ../admin/manage-images.php:304
+msgid "Overwrite tags"
+msgstr "Kirjuta sildid üle"
+
+#: ../admin/manage-images.php:309
+msgid "Sort gallery"
+msgstr "Galerii sorteerimine"
+
+#: ../admin/manage-images.php:384
+msgid "pixel"
+msgstr "piksel"
+
+#: ../admin/manage-images.php:391
+#, php-format
+msgid "View \"%s\""
+msgstr "Vaade \"%s\""
+
+#: ../admin/manage-images.php:391
+msgid "View"
+msgstr "Vaade"
+
+#: ../admin/manage-images.php:392
+msgid "Show Meta data"
+msgstr "Näita metaandmeid"
+
+#: ../admin/manage-images.php:392
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:393
+msgid "Customize thumbnail"
+msgstr "Kohanda pisipilt"
+
+#: ../admin/manage-images.php:393
+msgid "Edit thumb"
+msgstr "Muuda pisipilt"
+
+#: ../admin/manage-images.php:394
+msgid "Rotate"
+msgstr "Pööra"
+
+#: ../admin/manage-images.php:395
+#, php-format
+msgid "Delete \"%s\""
+msgstr "Kustuta \"%s\""
+
+#: ../admin/manage-images.php:475
+msgid "Enter the tags"
+msgstr "Sisesta sildid"
+
+#: ../admin/manage-images.php:499
+msgid "Select the destination gallery:"
+msgstr "Vali sihtgalerii"
+
+#: ../admin/manage-images.php:600
+msgid "Thumbnail"
+msgstr "Pisipilt"
+
+#: ../admin/manage-images.php:602
+msgid "Filename"
+msgstr "Failinimi"
+
+#: ../admin/manage-images.php:604
+msgid "Alt &amp; Title Text"
+msgstr "Alt tekst ja pealkiri"
+
+#: ../admin/manage-images.php:605
+msgid "Tags (comma separated list)"
+msgstr "Sildid (komadega eraldatult)"
+
+#: ../admin/manage-images.php:607
+msgid "exclude"
+msgstr "väljaarvatud"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "Sorteerimise järjekord muudetud"
+
+#: ../admin/manage-sort.php:59
+msgid "Sort Gallery"
+msgstr "Sorteeri galeriid"
+
+#: ../admin/manage-sort.php:63
+msgid "Update Sort Order"
+msgstr "Muuda sorteerimise järjekorda"
+
+#: ../admin/manage-sort.php:66
+msgid "Back to gallery"
+msgstr "Tagasi galeriisse"
+
+#: ../admin/manage-sort.php:71
+msgid "Presort"
+msgstr "Eelsorteerimine"
+
+#: ../admin/manage-sort.php:72
+msgid "Unsorted"
+msgstr "Sorteerimata"
+
+#: ../admin/manage-sort.php:73
+#: ../admin/settings.php:338
+msgid "Image ID"
+msgstr "Pildi ID"
+
+#: ../admin/manage-sort.php:75
+#: ../admin/media-upload.php:187
+msgid "Alt/Title text"
+msgstr "Alt tekst, pealkiri"
+
+#: ../admin/manage-sort.php:76
+msgid "Date/Time"
+msgstr "Kuupäev/kellaaeg"
+
+#: ../admin/manage-sort.php:77
+#: ../admin/settings.php:346
+msgid "Ascending"
+msgstr "Kasvav"
+
+#: ../admin/manage-sort.php:78
+#: ../admin/settings.php:347
+msgid "Descending"
+msgstr "Kahanev"
+
+#: ../admin/manage.php:87
+#: ../admin/manage.php:105
+msgid "deleted successfully"
+msgstr "kustutamine õnnestus"
+
+#: ../admin/manage.php:105
+#: ../admin/tinymce/window.php:31
+msgid "Picture"
+msgstr "Pilt"
+
+#: ../admin/manage.php:114
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Toiming õnnestus. Uuenda oma brauseri vahemälu."
+
+#: ../admin/manage.php:207
+#: ../admin/manage.php:210
+msgid "Rotate images"
+msgstr "Pööra pildid"
+
+#: ../admin/manage.php:228
+msgid "Pictures deleted successfully "
+msgstr "Piltide kustutamine õnnestus"
+
+#: ../admin/manage.php:324
+msgid "Tags changed"
+msgstr "Sildid muudetud"
+
+#: ../admin/manage.php:351
+msgid "Update successful"
+msgstr "Uuendamine õnnestus"
+
+#: ../admin/manage.php:385
+msgid "New gallery page ID"
+msgstr "Uue galerii lehe ID"
+
+#: ../admin/manage.php:385
+msgid "created"
+msgstr "tehtud"
+
+#: ../admin/media-upload.php:132
+#: ../admin/tinymce/window.php:43
+msgid "No gallery"
+msgstr "Ei midagi"
+
+#: ../admin/media-upload.php:144
+msgid "Select &#187;"
+msgstr "Vali &#187;"
+
+#: ../admin/media-upload.php:175
+msgid "Show"
+msgstr "Näita"
+
+#: ../admin/media-upload.php:176
+msgid "Hide"
+msgstr "Peida"
+
+#: ../admin/media-upload.php:181
+msgid "Image ID:"
+msgstr "Pildi ID:"
+
+#: ../admin/media-upload.php:195
+msgid "Alignment"
+msgstr "Joondamine"
+
+#: ../admin/media-upload.php:198
+#: ../admin/settings.php:370
+msgid "None"
+msgstr "Mitte midagi"
+
+#: ../admin/media-upload.php:200
+#: ../admin/tinymce/window.php:129
+msgid "Left"
+msgstr "Vasakule"
+
+#: ../admin/media-upload.php:202
+#: ../admin/tinymce/window.php:130
+msgid "Center"
+msgstr "Keskele"
+
+#: ../admin/media-upload.php:204
+#: ../admin/tinymce/window.php:131
+msgid "Right"
+msgstr "Paremale"
+
+#: ../admin/media-upload.php:208
+#: ../admin/settings.php:474
+msgid "Size"
+msgstr "Suurus"
+
+#: ../admin/media-upload.php:214
+msgid "Full size"
+msgstr "Täismõõdus"
+
+#: ../admin/media-upload.php:216
+msgid "Singlepic"
+msgstr "Üksikpilt"
+
+#: ../admin/media-upload.php:224
+msgid "Insert into Post"
+msgstr "Lisa postitusele"
+
+#: ../admin/media-upload.php:234
+msgid "Save all changes"
+msgstr "Salvesta kõik muudatused"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "NextGEN Gallery ülevaade"
+
+#: ../admin/overview.php:104
+msgid "Thanks to all donators..."
+msgstr "Tänud kõikidele toetajatele..."
+
+#: ../admin/overview.php:126
+msgid "View all"
+msgstr "Näita kõiki"
+
+#: ../admin/overview.php:164
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Uudisvoo laadimine ebaõnnestus. Kontrolli <a href=\"%s\">avalehte</a> uuenduste leidmiseks."
+
+#: ../admin/overview.php:184
+msgid "At a Glance"
+msgstr "Ülevaade"
+
+#: ../admin/overview.php:211
+msgid "Upload pictures"
+msgstr "Lae pildid üles"
+
+#: ../admin/overview.php:212
+msgid "Here you can control your images, galleries and albums."
+msgstr "Siin saad hallata oma pilte, galeriisid ja albumeid."
+
+#: ../admin/overview.php:216
+msgid "Gallery Administrator"
+msgstr "galerii administraatori"
+
+#: ../admin/overview.php:216
+msgid "Gallery Editor"
+msgstr "galerii muutja"
+
+#: ../admin/overview.php:217
+#, php-format
+msgid "You currently have %s rights."
+msgstr "Sul on praegu %s õigused."
+
+#: ../admin/overview.php:224
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Tere tulemast NextGEN Gallery'sse !"
+
+#: ../admin/overview.php:225
+msgid "Latest News"
+msgstr "Viimased uudised"
+
+#: ../admin/overview.php:226
+msgid "Recent donators"
+msgstr "Viimased toetajad"
+
+#: ../admin/overview.php:227
+msgid "Server Settings"
+msgstr "Serveri seadistused"
+
+#: ../admin/overview.php:228
+msgid "Related plugins"
+msgstr "Seotud pluginad"
+
+#: ../admin/overview.php:229
+msgid "Graphic Library"
+msgstr "Graafikateek"
+
+#: ../admin/overview.php:249
+msgid "No GD support"
+msgstr "Ei ole GD tuge"
+
+#: ../admin/overview.php:261
+#: ../admin/overview.php:307
+#: ../admin/overview.php:310
+#: ../admin/overview.php:313
+msgid "Yes"
+msgstr "Jah"
+
+#: ../admin/overview.php:263
+#: ../admin/overview.php:308
+#: ../admin/overview.php:311
+#: ../admin/overview.php:314
+msgid "No"
+msgstr "Ei"
+
+#: ../admin/overview.php:281
+msgid "Not set"
+msgstr "Ei ole seatud"
+
+#: ../admin/overview.php:283
+#: ../admin/overview.php:286
+msgid "On"
+msgstr "Sees"
+
+#: ../admin/overview.php:284
+#: ../admin/overview.php:287
+msgid "Off"
+msgstr "Väljas"
+
+#: ../admin/overview.php:290
+#: ../admin/overview.php:293
+#: ../admin/overview.php:296
+#: ../admin/overview.php:299
+#: ../admin/overview.php:302
+#: ../admin/overview.php:305
+msgid "N/A"
+msgstr "N/A"
+
+#: ../admin/overview.php:304
+msgid " MByte"
+msgstr "MBaiti"
+
+#: ../admin/overview.php:317
+msgid "Operating System"
+msgstr "Operatsioonisüsteem"
+
+#: ../admin/overview.php:318
+msgid "Server"
+msgstr "Server"
+
+#: ../admin/overview.php:319
+msgid "Memory usage"
+msgstr "Mälukasutus"
+
+#: ../admin/overview.php:320
+msgid "MYSQL Version"
+msgstr "MySQL versioon"
+
+#: ../admin/overview.php:321
+msgid "SQL Mode"
+msgstr "SQL režiim"
+
+#: ../admin/overview.php:322
+msgid "PHP Version"
+msgstr "PHP versioon"
+
+#: ../admin/overview.php:323
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: ../admin/overview.php:324
+msgid "PHP Allow URL fopen"
+msgstr "PHP URL fopen lubatud"
+
+#: ../admin/overview.php:325
+msgid "PHP Memory Limit"
+msgstr "PHP mälulimiit"
+
+#: ../admin/overview.php:326
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: ../admin/overview.php:327
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: ../admin/overview.php:328
+msgid "PHP Output Buffer Size"
+msgstr "PHP väljundupuhvri suurus"
+
+#: ../admin/overview.php:329
+msgid "PHP Max Script Execute Time"
+msgstr "PHP maksimaalne skripti käivitusaeg"
+
+#: ../admin/overview.php:330
+msgid "PHP Exif support"
+msgstr "PHP Exif tugi"
+
+#: ../admin/overview.php:331
+msgid "PHP IPTC support"
+msgstr "PHP IPTC tugi"
+
+#: ../admin/overview.php:332
+msgid "PHP XML support"
+msgstr "PHP XML tugi"
+
+#: ../admin/overview.php:344
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "NextGEN Galerii mõned funktsioonid on kasutatavad ainult PHP 5.2. Sa kasutad vana PHP 4 versiooni, mis ei ole enam PHP gupi poolt toetatud. Uuenda seda! Paljud veebimajutused pakuvad nii PHP 4 ja PHP 5 paralleelselt. Uuri oma teensuepakkuja käest, kas nemad pakuvad seda."
+
+#: ../admin/overview.php:403
+msgid "Storage Space"
+msgstr "Kettaruum"
+
+#: ../admin/overview.php:406
+msgid "Upload Space Used:"
+msgstr "Kettaruum kasutusel:"
+
+#: ../admin/overview.php:412
+msgid "Upload Space Remaining:"
+msgstr "Vaba kettaruum:"
+
+#: ../admin/overview.php:554
+msgid "Install"
+msgstr "Paigalda"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Õigused muudetud"
+
+#: ../admin/roles.php:27
+msgid "Roles / capabilities"
+msgstr "Rollid ja õigused"
+
+#: ../admin/roles.php:28
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Vali madalaim roll, kellel on õigus teostada järgnevaid toiminguid. NextGEN Gallery toetab WordPressi standardseid rolle."
+
+#: ../admin/roles.php:29
+msgid "For a more flexible user management you can use the"
+msgstr "Paindlikumaks kasutajate halduseks kasuta"
+
+#: ../admin/roles.php:34
+msgid "Main NextGEN Gallery overview"
+msgstr "NextGEN Gallery ülevaade"
+
+#: ../admin/roles.php:38
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "TinyMCE nupp / Laadimise tab"
+
+#: ../admin/roles.php:42
+msgid "Add gallery / Upload images"
+msgstr "Lisa galerii / Laadi pilte"
+
+#: ../admin/roles.php:46
+msgid "Manage gallery"
+msgstr "Halda galeriid"
+
+#: ../admin/roles.php:50
+msgid "Manage others gallery"
+msgstr "Halda teiste galeriid"
+
+#: ../admin/roles.php:54
+msgid "Manage tags"
+msgstr "Halda silte"
+
+#: ../admin/roles.php:58
+msgid "Edit Album"
+msgstr "Muuda albumit"
+
+#: ../admin/roles.php:62
+msgid "Change style"
+msgstr "Muuda stiili"
+
+#: ../admin/roles.php:66
+msgid "Change options"
+msgstr "Muuda seadeid"
+
+#: ../admin/roles.php:70
+msgid "Update capabilities"
+msgstr "Uuenda õiguseid"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Pilt pööratud"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Viga pisipildi pööramisel"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; päripäeva"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; vastupäeva"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Peegelda vertikaalselt"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Peegelda horisontaalselt"
+
+#: ../admin/settings.php:61
+msgid "Cache cleared"
+msgstr "Vahemälu tühjendatud"
+
+#: ../admin/settings.php:129
+#: ../admin/settings.php:141
+msgid "General Options"
+msgstr "Üldised seaded"
+
+#: ../admin/settings.php:130
+#: ../admin/settings.php:309
+msgid "Thumbnails"
+msgstr "Pisipildid"
+
+#: ../admin/settings.php:131
+msgid "Images"
+msgstr "Pildid"
+
+#: ../admin/settings.php:133
+#: ../admin/settings.php:359
+msgid "Effects"
+msgstr "Efektid"
+
+#: ../admin/settings.php:134
+#: ../admin/settings.php:398
+#: ../admin/tinymce/window.php:119
+msgid "Watermark"
+msgstr "Vesipilt"
+
+#: ../admin/settings.php:135
+#: ../admin/settings.php:310
+#: ../admin/settings.php:502
+#: ../admin/tinymce/window.php:58
+msgid "Slideshow"
+msgstr "Slaidishow"
+
+#: ../admin/settings.php:147
+#: ../admin/wpmu.php:47
+msgid "Gallery path"
+msgstr "Galerii rada"
+
+#: ../admin/settings.php:149
+msgid "This is the default path for all galleries"
+msgstr "See on vaikimisi rada galeriidele"
+
+#: ../admin/settings.php:152
+msgid "Delete image files"
+msgstr "Kustuta pildifailid"
+
+#: ../admin/settings.php:154
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Kustuta failid koos galerii kustutamisega andmebaasist"
+
+#: ../admin/settings.php:157
+msgid "Activate permalinks"
+msgstr "Aktiveeri püsiviited"
+
+#: ../admin/settings.php:159
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Aktiveerides selle seade tuleb ühe korra uuendada püsiviidete struktuur. "
+
+#: ../admin/settings.php:162
+msgid "Select graphic library"
+msgstr "Vali graafikateek"
+
+#: ../admin/settings.php:163
+msgid "GD Library"
+msgstr "GD teek"
+
+#: ../admin/settings.php:164
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (eksperimentaalne). Teegi kataloogitee :"
+
+#: ../admin/settings.php:169
+msgid "Activate Media RSS feed"
+msgstr "Aktiveeri Media RSS voog"
+
+#: ../admin/settings.php:171
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "Sinu blogipäisele lisatakse RSS voog. Kasulik Cooliris/PicLens jaoks"
+
+#: ../admin/settings.php:174
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktiveeri PicLens/CoolIris tugi"
+
+#: ../admin/settings.php:176
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Kui sa aktiveerid selle omaduse, siis lisatakse lehe päisesse natuke javascripti. Veendu, et sinu teema kutsub välja wp_footer funktsiooni."
+
+#: ../admin/settings.php:179
+msgid "Tags / Categories"
+msgstr "Sildid / Kategooriad"
+
+#: ../admin/settings.php:182
+msgid "Activate related images"
+msgstr "Aktiveeri seotud pildid"
+
+#: ../admin/settings.php:184
+msgid "This option will append related images to every post"
+msgstr "See seade lisab seotud pildid igale postitusele"
+
+#: ../admin/settings.php:188
+msgid "Match with"
+msgstr "Sobita"
+
+#: ../admin/settings.php:189
+msgid "Categories"
+msgstr "Kategooriatega"
+
+#: ../admin/settings.php:194
+msgid "Max. number of images"
+msgstr "Maksimaalne piltide arv"
+
+#: ../admin/settings.php:196
+msgid "0 will show all images"
+msgstr "0 näitab kõiki pilte"
+
+#: ../admin/settings.php:200
+#: ../admin/settings.php:229
+#: ../admin/settings.php:269
+#: ../admin/settings.php:351
+#: ../admin/settings.php:384
+#: ../admin/settings.php:616
+msgid "More settings"
+msgstr "Veel seadistusi"
+
+#: ../admin/settings.php:208
+msgid "Thumbnail settings"
+msgstr "Pisipildi seaded"
+
+#: ../admin/settings.php:212
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Märkus : Kui muuta seadistusi, tuleb pisipildid uuesti luua Halda galeriisid alt ."
+
+#: ../admin/settings.php:225
+msgid "Thumbnail quality"
+msgstr "Pisipildi kvaliteet"
+
+#: ../admin/settings.php:237
+msgid "Image settings"
+msgstr "Pildi seaded"
+
+#: ../admin/settings.php:243
+msgid "Resize Images"
+msgstr "Muuda piltide suurus"
+
+#: ../admin/settings.php:250
+msgid "Image quality"
+msgstr "Pildi kvaliteet"
+
+#: ../admin/settings.php:255
+msgid "Single picture"
+msgstr "Üksikpilt"
+
+#: ../admin/settings.php:258
+msgid "Cache single pictures"
+msgstr "Hoia üksikpilte vahemälus"
+
+#: ../admin/settings.php:261
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Loob iga singlepic jaoks faili. Vähendab protsessori koormust."
+
+#: ../admin/settings.php:264
+msgid "Clear cache folder"
+msgstr "Tühjenda vahemälu kataloog"
+
+#: ../admin/settings.php:266
+msgid "Proceed now"
+msgstr "Tühjenda nüüd"
+
+#: ../admin/settings.php:283
+msgid "Deactivate gallery page link"
+msgstr "Ära aktiveeri galerii lehe linki"
+
+#: ../admin/settings.php:285
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Album ei lingi galerii alamlehele. Galeriid näidatakse samal lehel."
+
+#: ../admin/settings.php:289
+msgid "Number of images per page"
+msgstr "Piltide arv lehel"
+
+#: ../admin/settings.php:291
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 keelab lehed, kõik pildid on ühel lehel"
+
+#: ../admin/settings.php:295
+msgid "Number of columns"
+msgstr "Tulpade arv"
+
+#: ../admin/settings.php:297
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 näitab niipalju kui võimalik. Seadistamine on tavaliselt vajalik ainult piltide all olevate pealkirjade jaoks."
+
+#: ../admin/settings.php:301
+msgid "Integrate slideshow"
+msgstr "Integreeri slaidishow"
+
+#: ../admin/settings.php:308
+msgid "Show first"
+msgstr "Näita kõigepealt"
+
+#: ../admin/settings.php:314
+msgid "Show ImageBrowser"
+msgstr "Näita ImageBrowser'it"
+
+#: ../admin/settings.php:316
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galerii avab ImageBrowser'i efekti asemel."
+
+#: ../admin/settings.php:320
+msgid "Add hidden images"
+msgstr "Lisa peidetud pildid"
+
+#: ../admin/settings.php:322
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increase the page load"
+msgstr "Kui kasutad lehti, siis see seadistus näitab ikkagi pilte modaalses aknas (Thickbox, Lightbox jne.). Märkus : See aeglustab lehe laadimist"
+
+#: ../admin/settings.php:326
+msgid "Enable AJAX pagination"
+msgstr "Luba AJAX lehed"
+
+#: ../admin/settings.php:328
+msgid "Browse images without reload the page. Note : Work only in combination with Shutter effect"
+msgstr "Sirvi pilte ilma lehte uuesti laadimata. Märkus : Töötab ainult koos Shutter efektiga"
+
+#: ../admin/settings.php:332
+msgid "Sort options"
+msgstr "Sorteerimise seaded"
+
+#: ../admin/settings.php:335
+msgid "Sort thumbnails"
+msgstr "Sorteeri pisipildid"
+
+#: ../admin/settings.php:337
+msgid "Custom order"
+msgstr "Käsitsi järjekord"
+
+#: ../admin/settings.php:339
+msgid "File name"
+msgstr "Failinimi"
+
+#: ../admin/settings.php:340
+msgid "Alt / Title text"
+msgstr "Alt teksti ja pealkirja"
+
+#: ../admin/settings.php:341
+msgid "Date / Time"
+msgstr "Kuupäev / kellaaeg"
+
+#: ../admin/settings.php:345
+msgid "Sort direction"
+msgstr "Sorteerimise järjekord"
+
+#: ../admin/settings.php:363
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Siin saab muuta pisipildi efekti. NextGEN Gallery integreerib piltidele vajaliku HTML koodi. Ainult Thickbox efekt lisatakse kujundusele automaatselt."
+
+#: ../admin/settings.php:364
+msgid "With the placeholder"
+msgstr "Märgendiga"
+
+#: ../admin/settings.php:364
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "saab aktiveerida piltide navigeerimise (sõltub efektist). Muuda koodirida ainult siis kui kasutad mõnda teist pisipildi efekti või kui sa tead, mida teed."
+
+#: ../admin/settings.php:367
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript pisipildi efekt"
+
+#: ../admin/settings.php:371
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:372
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:373
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:374
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:375
+msgid "Custom"
+msgstr "Omatehtud"
+
+#: ../admin/settings.php:380
+msgid "Link Code line"
+msgstr "Lingi koodirida"
+
+#: ../admin/settings.php:399
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Märkus : Vesipildi aktiveerimine käib Halda galeriisid alt. Vesipildi lisamist ei saa tühistada."
+
+#: ../admin/settings.php:404
+msgid "Preview"
+msgstr "Eelvaade"
+
+#: ../admin/settings.php:406
+#: ../admin/settings.php:411
+msgid "Position"
+msgstr "Asukoht"
+
+#: ../admin/settings.php:431
+msgid "Offset"
+msgstr "Nihe"
+
+#: ../admin/settings.php:447
+msgid "Use image as watermark"
+msgstr "Kasuta pilti vesipildina"
+
+#: ../admin/settings.php:450
+msgid "URL to file"
+msgstr "Pildi URL"
+
+#: ../admin/settings.php:452
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Ligipääs URL failidele on serverist keelatud (allow_url_fopen)"
+
+#: ../admin/settings.php:455
+msgid "Use text as watermark"
+msgstr "Kasuta teksti vesipildina"
+
+#: ../admin/settings.php:458
+msgid "Font"
+msgstr "Font"
+
+#: ../admin/settings.php:467
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "See funktsioon ei tööta, sest selle jaoks on vaja FreeType teeki"
+
+#: ../admin/settings.php:469
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Fonte saab lisada <strong>nggallery/fonts</strong> kataloogi"
+
+#: ../admin/settings.php:478
+msgid "Color"
+msgstr "Värv"
+
+#: ../admin/settings.php:480
+msgid "(hex w/o #)"
+msgstr "(hex ilma #, näiteks FFFFFF)"
+
+#: ../admin/settings.php:483
+msgid "Text"
+msgstr "Tekst"
+
+#: ../admin/settings.php:487
+msgid "Opaque"
+msgstr "Läbipaistmatus"
+
+#: ../admin/settings.php:507
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "imagerotator.swf asukoht ei ole määratud. Slaidishow ei tööta."
+
+#: ../admin/settings.php:508
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Kui sa soovid kasutada JW Image Rotatorit, siis laadi see alla <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >siit</a> ja pane see oma üleslaadimise kataloogi (vaikimisi wp-content/uploads)."
+
+#: ../admin/settings.php:513
+msgid "The settings are used in the JW Image Rotator Version"
+msgstr "Neid seadistusi kasutatakse JW Image Rotator versiooniga"
+
+#: ../admin/settings.php:514
+msgid "See more information for the Flash Player on the web page"
+msgstr "Vaata lisainfot Flash Playeri kohta lehelt"
+
+#: ../admin/settings.php:518
+msgid "Path to the Imagerotator (URL)"
+msgstr "Imagerotatori asukoht (URL)"
+
+#: ../admin/settings.php:521
+msgid "Search now"
+msgstr "Otsi"
+
+#: ../admin/settings.php:522
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Nupule vajutamisel otsitakse imagerotatorit automaatselt kui sa oled selle paigaldanud wp-content/uploads või selle alamkataloogidesse"
+
+#: ../admin/settings.php:526
+msgid "Default size (W x H)"
+msgstr "Vaikimis suurus (L x K)"
+
+#: ../admin/settings.php:531
+msgid "Shuffle mode"
+msgstr "Juhuslikus järjekorras"
+
+#: ../admin/settings.php:535
+msgid "Show next image on click"
+msgstr "Näita järgmist pilti klikkides"
+
+#: ../admin/settings.php:539
+msgid "Show navigation bar"
+msgstr "Näita navigatsiooniriba"
+
+#: ../admin/settings.php:543
+msgid "Show loading icon"
+msgstr "Näita laadimise ikooni"
+
+#: ../admin/settings.php:547
+msgid "Use watermark logo"
+msgstr "Kasuta vesipildi logo"
+
+#: ../admin/settings.php:549
+msgid "You can change the logo at the watermark settings"
+msgstr "Logo saad muuta vesipildi seadistuse alt"
+
+#: ../admin/settings.php:552
+msgid "Stretch image"
+msgstr "Venita pilti"
+
+#: ../admin/settings.php:555
+msgid "true"
+msgstr "Jah"
+
+#: ../admin/settings.php:556
+msgid "false"
+msgstr "Ei"
+
+#: ../admin/settings.php:557
+msgid "fit"
+msgstr "sobita"
+
+#: ../admin/settings.php:558
+msgid "none"
+msgstr "välja lülitatud"
+
+#: ../admin/settings.php:563
+msgid "Duration time"
+msgstr "Kestvus"
+
+#: ../admin/settings.php:564
+msgid "sec."
+msgstr "sekundit"
+
+#: ../admin/settings.php:567
+msgid "Transition / Fade effect"
+msgstr "Ülemineku efekt"
+
+#: ../admin/settings.php:570
+msgid "fade"
+msgstr "hajuta"
+
+#: ../admin/settings.php:571
+msgid "bgfade"
+msgstr "hajuta taust"
+
+#: ../admin/settings.php:572
+msgid "slowfade"
+msgstr "aeglane hajutus"
+
+#: ../admin/settings.php:573
+msgid "circles"
+msgstr "ringid"
+
+#: ../admin/settings.php:574
+msgid "bubbles"
+msgstr "mullid"
+
+#: ../admin/settings.php:575
+msgid "blocks"
+msgstr "blokid"
+
+#: ../admin/settings.php:576
+msgid "fluids"
+msgstr "vedelikud"
+
+#: ../admin/settings.php:577
+msgid "flash"
+msgstr "välk"
+
+#: ../admin/settings.php:578
+msgid "lines"
+msgstr "jooned"
+
+#: ../admin/settings.php:579
+msgid "random"
+msgstr "juhuslik"
+
+#: ../admin/settings.php:583
+msgid "Use slow zooming effect"
+msgstr "Kasuta aeglast zoom efekti"
+
+#: ../admin/settings.php:587
+msgid "Background Color"
+msgstr "Tausta värv"
+
+#: ../admin/settings.php:592
+msgid "Texts / Buttons Color"
+msgstr "Teksti / nuppude värv"
+
+#: ../admin/settings.php:597
+msgid "Rollover / Active Color"
+msgstr "Üleliikumise / aktiivne värv"
+
+#: ../admin/settings.php:602
+msgid "Screen Color"
+msgstr "Ekraani värv"
+
+#: ../admin/settings.php:607
+msgid "Background music (URL)"
+msgstr "Taustamuusika (URL)"
+
+#: ../admin/settings.php:611
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Ürita XHTML kontrolli (koos CDATAga)"
+
+#: ../admin/settings.php:613
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Oluline : Võib põhjustada probleeme mõningate brauseritega. Kontrolli oma lehte."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Sea kõikidele parameetritele vaikimis väärtus"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Maha installeerimine õnnestus ! Kustuta plugin ja naudi elu ! Edu !"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Taasta seaded"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Taasta kõik seaded vaikimisi väärtustele"
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Taasta seaded"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Taastada kõik seaded vaikeväärtustele ?\\n"
+"\\n"
+"Vali [Cancel] tühistamiseks, [OK] kinnitamiseks.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Deinstalleeri plugini tabel"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Kas sulle ei meeldi NextGEN Gallery ?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Ei ole probleemi. Enne plugini välja lülitamist vajuta Deinstalleeri nupule, sest NextGEN Gallery välja lülitamine ei eemalda kõiki tehtud andmeid."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "HOIATUS:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Deinstallerimist ei ole võimalik tühistada. Kasuta Database Backup pluginat WordPressi tabelitest varukoopia tegemiseks. NextGEN Gallery hoitakse tablites"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "ja"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Deinstalleeri plugin"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Sa oled seda pluginat deinstalleerimas.\\n"
+"See toiming ei ole pööratav.\\n"
+"\\n"
+"Vali [Cancel] katkestamiseks, [OK] jätkamiseks.\\n"
+
+#: ../admin/showmeta.php:28
+msgid "Meta Data"
+msgstr "Metaandmed"
+
+#: ../admin/showmeta.php:33
+#: ../admin/showmeta.php:59
+#: ../admin/showmeta.php:84
+#: ../admin/showmeta.php:108
+msgid "Tag"
+msgstr "Silt"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Value"
+msgstr "Väärtus"
+
+#: ../admin/showmeta.php:48
+msgid "No meta data saved"
+msgstr "Metaandmeid ei ole"
+
+#: ../admin/showmeta.php:54
+msgid "EXIF Data"
+msgstr "EXIF andmed"
+
+#: ../admin/showmeta.php:73
+msgid "No exif data"
+msgstr "Ei ole exif andmeid"
+
+#: ../admin/showmeta.php:80
+msgid "IPTC Data"
+msgstr "IPTC andmed"
+
+#: ../admin/showmeta.php:104
+msgid "XMP Data"
+msgstr "XMP andmed"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Teema kataloogist)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Mallide muutmiseks ei ole piisavalt õiguseid."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS faili muutmine õnnestus"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "Stiili redaktor"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Aktiveeri ja kasuta kujundust:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Aktiveeri"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Muudan <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Näitan <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Versioon"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Märkus : Kopeeri oma stiil (nggallery.css) teema kataloogi, siis ei lähe see uuendamisel kaotsi."
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Sinu teema sisaldab NextGEN Gallery stiili (nggallery.css). Kasutame seda faili."
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Vihje nr 2: Galeriile sobiva värviskeemi leidmiseks kasuta all olevat värvivalijat!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Uuenda fail"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Kui see fail oleks kirjutatav, saaks seda muuta."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Oih, sellist faili ei ole! Kontrolli failinime ja proovi uuesti."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Kõige populaarsem"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Viimati kasutatud"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Tähestikuline"
+
+#: ../admin/tags.php:95
+msgid "Manage image tags"
+msgstr "Halda pildi silte"
+
+#: ../admin/tags.php:107
+msgid "Existing Tags"
+msgstr "Olemasolevad sildid"
+
+#: ../admin/tags.php:111
+msgid "Search tags"
+msgstr "Otsi silte"
+
+#: ../admin/tags.php:115
+msgid "Go"
+msgstr "Otsi"
+
+#: ../admin/tags.php:120
+msgid "Sort Order:"
+msgstr "Sorteerimise järjekord:"
+
+#: ../admin/tags.php:137
+#, php-format
+msgid "View all images tagged with %s"
+msgstr "Näita kõik pildid sildiga %s"
+
+#: ../admin/tags.php:152
+#: ../admin/tags.php:156
+#: ../admin/tags.php:169
+msgid "Previous tags"
+msgstr "Eelmised sildid"
+
+#: ../admin/tags.php:165
+msgid "Next tags"
+msgstr "Järgmised sildid"
+
+#: ../admin/tags.php:177
+msgid "Rename Tag"
+msgstr "Muuda silti"
+
+#: ../admin/tags.php:185
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Sisesta silt, mida soovid muuta ja selle uus väärtus. Seda funktsiooni saab kasutada ka siltide liitmiseks. Vajuta \"Muuda\" ja kõik postitused, kus seda silti kasutatakse, uuendatakse."
+
+#: ../admin/tags.php:186
+#: ../admin/tags.php:234
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Mitme sildi määramisel eralda need komadega"
+
+#: ../admin/tags.php:190
+msgid "Tag(s) to rename:"
+msgstr "Muudetavad sildid:"
+
+#: ../admin/tags.php:194
+msgid "New tag name(s):"
+msgstr "Siltide uued nimed:"
+
+#: ../admin/tags.php:197
+msgid "Rename"
+msgstr "Muuda"
+
+#: ../admin/tags.php:203
+msgid "Delete Tag"
+msgstr "Kustuta silt"
+
+#: ../admin/tags.php:211
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Sisesta silt, mida soovid kustutada. See silt kustutatakse kõikidest postitustest."
+
+#: ../admin/tags.php:212
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Mitme sildi kustutamisel eralda need komadega."
+
+#: ../admin/tags.php:216
+msgid "Tag(s) to delete:"
+msgstr "Kustutatavad sildid:"
+
+#: ../admin/tags.php:225
+msgid "Edit Tag Slug"
+msgstr "Muuda sildi lühikirjeldus"
+
+#: ../admin/tags.php:233
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Sisesta sildi nimi ja selle lühikirjeldus. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Lühikirjelduse (slug) definitsioon</a>"
+
+#: ../admin/tags.php:238
+msgid "Tag(s) to match:"
+msgstr "Otsitavad sildid:"
+
+#: ../admin/tags.php:242
+msgid "Slug(s) to set:"
+msgstr "Määratavad lühikirjeldused:"
+
+#: ../admin/upgrade.php:20
+msgid "Upgrade database structure..."
+msgstr "Uuenda andmebaasi struktuuri..."
+
+#: ../admin/upgrade.php:101
+#: ../admin/upgrade.php:111
+#: ../admin/upgrade.php:118
+#: ../admin/upgrade.php:129
+#: ../admin/upgrade.php:143
+msgid "finished"
+msgstr "valmis"
+
+#: ../admin/upgrade.php:109
+msgid "Update file structure..."
+msgstr "Uuenda faili struktuuri..."
+
+#: ../admin/upgrade.php:116
+msgid "Import date and time information..."
+msgstr "Impordi kuupäeva- ja kellaajainfo..."
+
+#: ../admin/upgrade.php:124
+msgid "Move imagerotator to new location..."
+msgstr "Tõsta imagerotator uude kohta..."
+
+#: ../admin/upgrade.php:135
+msgid "Update settings..."
+msgstr "Uuenda seadeid..."
+
+#: ../admin/upgrade.php:208
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Mõne kataloogi/faili ümbernimetamine ebaõnnestus, kontrolli failisüsteemi õiguseid ja skaneeri kataloog uuesti halda galeriid alt."
+
+#: ../admin/upgrade.php:210
+msgid "Rename failed"
+msgstr "Muutmine ebaõnnestus."
+
+#: ../admin/upgrade.php:305
+#: ../admin/upgrade.php:324
+msgid "Upgrade NextGEN Gallery"
+msgstr "Uuenda NextGEN Gallery"
+
+#: ../admin/upgrade.php:306
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skript leidis, et sa uuendad vanemast versioonist."
+
+#: ../admin/upgrade.php:307
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Sinu NextGEN Gallery andmebaasitabelid on aegunud. Neid tuleb enne jätkamist uuendada."
+
+#: ../admin/upgrade.php:308
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Kui sa soovid hiljem kasutada eelmist versiooni, siis tee andmebaasist ja piltidest täielik varukoopia."
+
+#: ../admin/upgrade.php:309
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Uuendusprotsess võib võtta aega, ole kannatlik."
+
+#: ../admin/upgrade.php:310
+msgid "Start upgrade now"
+msgstr "Alusta uuendust nüüd"
+
+#: ../admin/upgrade.php:326
+msgid "Upgrade sucessful"
+msgstr "Uuendamine õnnestus"
+
+#: ../admin/upgrade.php:327
+msgid "Continue"
+msgstr "Jätka"
+
+#: ../admin/wpmu.php:32
+msgid "Update successfully"
+msgstr "Uuendamine õnnestus"
+
+#: ../admin/wpmu.php:41
+msgid "General WordPress MU Settings"
+msgstr "Üldised WordPress MU seaded"
+
+#: ../admin/wpmu.php:49
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "See on vaikimisi rada kõikidele blogidele. Märgendiga %BLOG_ID% saab kataloogistruktuuri paremini organiseerida. Rada peab lõppema /"
+
+#: ../admin/wpmu.php:52
+msgid "Enable upload quota check"
+msgstr "Luba üleslaadimise mahu kontroll"
+
+#: ../admin/wpmu.php:54
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Peaks töötama kui galerii on blogi kataloogis"
+
+#: ../admin/wpmu.php:58
+msgid "Enable zip upload option"
+msgstr "Luba zipi üleslaadmine"
+
+#: ../admin/wpmu.php:60
+msgid "Allow users to upload zip folders."
+msgstr "Luba kasutajatel zip kataloogide üleslaadimine."
+
+#: ../admin/wpmu.php:64
+msgid "Enable style selection"
+msgstr "Luba stiili valimine"
+
+#: ../admin/wpmu.php:66
+msgid "Allow users to choose a style for the gallery."
+msgstr "Luba kasutajatel valida galerii stiili."
+
+#: ../admin/wpmu.php:70
+msgid "Enable roles/capabilities"
+msgstr "Luba rollid / õigused"
+
+#: ../admin/wpmu.php:72
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Luba kasutajatel muuta rolle teiste blogide autoriteks."
+
+#: ../admin/wpmu.php:76
+msgid "Default style"
+msgstr "Vaikimisi stiil"
+
+#: ../admin/wpmu.php:93
+msgid "Choose the default style for the galleries."
+msgstr "Vali vaikimisi stiil galeriidele"
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "Sa ei tohi siin olla"
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "Näita kui"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "Pildi loend"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "ImageBrowser"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "Ei midagi"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "Laiendatud versioon"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "Kompaktne versioon"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "Vali pilt"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "Laius x kõrgus"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "Efekt"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "Ei ole efekti"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "Kandu"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "Ära kandu"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "Lisa"
+
+#: ../lib/core.php:368
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Märkus : Serveri mälupiirangu tõttu ei tohiks sa üles laadida suuremaid pilte kui <strong>%d x %d</strong> pikslit"
+
+#: ../lib/meta.php:123
+msgid " mm"
+msgstr " mm"
+
+#: ../lib/meta.php:129
+msgid " sec"
+msgstr " sec"
+
+#: ../lib/meta.php:133
+msgid "Fired"
+msgstr "On kasutatud"
+
+#: ../lib/meta.php:133
+msgid "Not fired"
+msgstr "Ei ole kasutatud"
+
+#: ../lib/meta.php:414
+msgid "Aperture"
+msgstr ""
+
+#: ../lib/meta.php:415
+#: ../lib/meta.php:440
+msgid "Credit"
+msgstr ""
+
+#: ../lib/meta.php:416
+msgid "Camera"
+msgstr "Kaamera"
+
+#: ../lib/meta.php:417
+msgid "Caption"
+msgstr "Kirjeldus"
+
+#: ../lib/meta.php:419
+msgid "Copyright"
+msgstr "Autoriõigused"
+
+#: ../lib/meta.php:420
+msgid "Focal length"
+msgstr "fookuskaugus"
+
+#: ../lib/meta.php:421
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:422
+msgid "Shutter speed"
+msgstr "katiku kiirus"
+
+#: ../lib/meta.php:426
+msgid "Subject"
+msgstr "Pealkiri"
+
+#: ../lib/meta.php:427
+msgid "Make"
+msgstr ""
+
+#: ../lib/meta.php:428
+msgid "Edit Status"
+msgstr "Muutmisstaatus"
+
+#: ../lib/meta.php:429
+msgid "Category"
+msgstr "Kategooria"
+
+#: ../lib/meta.php:430
+msgid "Keywords"
+msgstr "Märksõnad"
+
+#: ../lib/meta.php:431
+msgid "Date Created"
+msgstr "Loomiskuupäev"
+
+#: ../lib/meta.php:432
+msgid "Time Created"
+msgstr "Loomisaeg"
+
+#: ../lib/meta.php:433
+msgid "Author Position"
+msgstr ""
+
+#: ../lib/meta.php:434
+msgid "City"
+msgstr "Linn"
+
+#: ../lib/meta.php:435
+msgid "Location"
+msgstr "Asukoht"
+
+#: ../lib/meta.php:436
+msgid "Province/State"
+msgstr "Maakond"
+
+#: ../lib/meta.php:437
+msgid "Country code"
+msgstr "Riigi kood"
+
+#: ../lib/meta.php:438
+msgid "Country"
+msgstr "Riik"
+
+#: ../lib/meta.php:439
+msgid "Headline"
+msgstr "Juhtkiri"
+
+#: ../lib/meta.php:441
+msgid "Source"
+msgstr "Allikas"
+
+#: ../lib/meta.php:442
+msgid "Copyright Notice"
+msgstr "Autorikaitse märkus"
+
+#: ../lib/meta.php:443
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../lib/meta.php:444
+msgid "Last modified"
+msgstr "Viimati muudetud"
+
+#: ../lib/meta.php:445
+msgid "Program tool"
+msgstr "Programm"
+
+#: ../lib/meta.php:446
+msgid "Format"
+msgstr "Formaat"
+
+#: ../lib/meta.php:447
+msgid "Image Width"
+msgstr "Pildi laius"
+
+#: ../lib/meta.php:448
+msgid "Image Height"
+msgstr "Pildi kõrgus"
+
+#: ../lib/meta.php:449
+msgid "Flash"
+msgstr "välk"
+
+#: ../lib/ngg-db.php:314
+#: ../lib/ngg-db.php:315
+msgid "Album overview"
+msgstr "Albumi ülevaade"
+
+#: ../lib/rewrite.php:185
+#: ../lib/rewrite.php:194
+msgid "Gallery"
+msgstr "Galerii"
+
+#: ../lib/rewrite.php:191
+msgid "Album"
+msgstr "Album"
+
+#: ../lib/shortcodes.php:289
+msgid "[Pictures not found]"
+msgstr "[Pilte ei leitud]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Ühtegi uut silti ei ole määratud!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Ühtegi uut/vana korrektset silti ei ole määratud!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Ühtegi silti ei muudetud."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Sildid &laquo;%1$s&raquo; muudetud &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Ei ole sobiv uus silt."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Määratud vana sildiga ei leitud ühtegi objekti (postitust/lehte)"
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Ühtegi silti ei liidetud."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Sildid &laquo;%1$s&raquo; liideti &laquo;%2$s&raquo;. %3$s objekti muudeti."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Viga. Muutmiseks pole piisavalt silte. Vali !"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Ühtegi silti ei ole määratud!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Ühtegi silti ei kustutatud."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s silti kustutatud."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Ühtegi uut lühikirjeldust ei ole!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Siltide arv ja lühikirjelduste arv ei klapi!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Ühtegi lühikirjeldust ei muudetud."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s lühikirjeldust muudetud."
+
+#: ../lib/xmlrpc.php:55
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "Selles blogis on XML-RPS teenused keelatud. Administraator saab need lubada %s"
+
+#: ../lib/xmlrpc.php:62
+msgid "Bad login/pass combination."
+msgstr "Vale kasutajanime/parooli kombinatsioon."
+
+#: ../lib/xmlrpc.php:118
+msgid "You are not allowed to upload files to this site."
+msgstr "Sul ei ole lubatud siia lehele faile laadida."
+
+#: ../lib/xmlrpc.php:124
+#: ../lib/xmlrpc.php:309
+msgid "Could not find gallery "
+msgstr "Ei leia galeriid"
+
+#: ../lib/xmlrpc.php:129
+#: ../lib/xmlrpc.php:314
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Sul ei ole lubatud galeriisse faile laadida."
+
+#: ../lib/xmlrpc.php:141
+msgid "This is no valid image file."
+msgstr "See ei ole sobiv pildifail!"
+
+#: ../lib/xmlrpc.php:153
+msgid "Could not find image id "
+msgstr "Ei leia pilti id-ga "
+
+#: ../lib/xmlrpc.php:160
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Pildi %1$s kustutamine ebaõnnestus"
+
+#: ../lib/xmlrpc.php:169
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Ei saa kirjutada faili %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:236
+#: ../lib/xmlrpc.php:272
+msgid "Sorry, you must be able to manage galleries to view the list of galleries"
+msgstr "Galeriide nimekirja vaatamiseks peab galeriide haldus lubatud olema"
+
+#: ../lib/xmlrpc.php:242
+msgid "Sorry, could not create the gallery"
+msgstr "Galerii lisamine ebaõnnestus"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "fotot"
+
+#: ../view/gallery-caption.php:32
+msgid "[View with PicLens]"
+msgstr "[Vaata PicLensiga]"
+
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Tagasi"
+
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Järgmine"
+
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "/"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metaandmed"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Kaamera / tüüp"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Fookuskaugus"
+
+#: ../widgets/media-rss-widget.php:31
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: ../widgets/media-rss-widget.php:37
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Moodul, mis näitab Media RSS viitedi NextGEN Gallery jaoks."
+
+#: ../widgets/media-rss-widget.php:135
+#: ../widgets/media-rss-widget.php:200
+#: ../widgets/media-rss-widget.php:260
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: ../widgets/media-rss-widget.php:136
+#: ../widgets/media-rss-widget.php:261
+msgid "Link to the main image feed"
+msgstr "Viide peamisele pildi voole"
+
+#: ../widgets/media-rss-widget.php:151
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Pealkiri:"
+
+#: ../widgets/media-rss-widget.php:159
+msgid "Show Media RSS icon"
+msgstr "Näita Media RSS ikooni"
+
+#: ../widgets/media-rss-widget.php:165
+msgid "Show the global Media RSS link"
+msgstr "Näita globaalset Media RSS viidet"
+
+#: ../widgets/media-rss-widget.php:170
+msgid "Text for the global Media RSS link:"
+msgstr "Tekst globaalsele Media RSS viitele:"
+
+#: ../widgets/media-rss-widget.php:176
+msgid "Tooltip text for the global Media RSS link:"
+msgstr "Märkus globaalsele Media RSS viitele:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Näita NextGEN Gallery slaidishowd"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN slaidishow"
+
+#: ../widgets/widgets.php:66
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Tõmba Flash Player</a> slaidishow vaatamiseks."
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Vali galerii:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Kõik pildid"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Kõrgus:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Laius:"
+
+#: ../widgets/widgets.php:171
+msgid "Add recent or random images from the galleries"
+msgstr "Lisa galeriidest hiljutised või juhuslikud pildid"
+
+#: ../widgets/widgets.php:173
+msgid "NextGEN Widget"
+msgstr "NextGEN moodul"
+
+#: ../widgets/widgets.php:273
+msgid "Title :"
+msgstr "Pealkiri :"
+
+#: ../widgets/widgets.php:279
+msgid "Show :"
+msgstr "Näita :"
+
+#: ../widgets/widgets.php:285
+msgid "Original images"
+msgstr "Originaalpildid"
+
+#: ../widgets/widgets.php:293
+msgid "recent added "
+msgstr "viimati lisatud"
+
+#: ../widgets/widgets.php:299
+msgid "Enable IE8 Web Slices"
+msgstr "Luba IE8 Web Slices"
+
+#: ../widgets/widgets.php:304
+msgid "Width x Height :"
+msgstr "Laius x kõrgus :"
+
+#: ../widgets/widgets.php:311
+msgid "Select :"
+msgstr "Vali :"
+
+#: ../widgets/widgets.php:313
+msgid "All galleries"
+msgstr "Kõik galeriid"
+
+#: ../widgets/widgets.php:314
+msgid "Only which are not listed"
+msgstr "Ainult need, mis pole nimekirjas"
+
+#: ../widgets/widgets.php:315
+msgid "Only which are listed"
+msgstr "Ainult need, mis on nimekirjas"
+
+#: ../widgets/widgets.php:321
+msgid "Gallery ID :"
+msgstr "Galerii ID :"
+
+#: ../widgets/widgets.php:323
+msgid "Gallery IDs, separated by commas."
+msgstr "Galerii ID'd komadega eraldatult."
+
+#: ../xml/media-rss.php:58
+msgid "No galleries have been yet created."
+msgstr "Ühtegi galeriid ei ole veel tehtud."
+
+#: ../xml/media-rss.php:77
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Galeriid ID=%s ei ole."
+
+#: ../xml/media-rss.php:108
+msgid "No album ID has been provided as parameter"
+msgstr "Album ID ei ole parameetriga ette antud"
+
+#: ../xml/media-rss.php:116
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Albumit ID=%s ei ole."
+
+#: ../xml/media-rss.php:123
+#, php-format
+msgid "Invalid MediaRSS command (%s)."
+msgstr "Vale MediaRSS käsk (%s)."
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "PclZip eest, mis on  PHP library ZIP failide haldamiseks"
+#~ msgid "Import a folder with all images."
+#~ msgstr "Impordi kataloog koos kõigi piltidega."
+#~ msgid "Select Gallery"
+#~ msgstr "Vali galerii"
+#~ msgid "Album Page ID"
+#~ msgstr "Albumi lehe ID"
+#~ msgid "Show thumbnails "
+#~ msgstr "Näita pisipilte"
+#~ msgid "Show tags"
+#~ msgstr "Näita silte"
+#~ msgid "Hide tags"
+#~ msgstr "Peida sildid"
+#~ msgid "Delete this file ?"
+#~ msgstr "Kustuta see fail ?"
+#~ msgid ""
+#~ "You are about to copy or move %s images \n"
+#~ " \n"
+#~ " 'Cancel' to stop, 'OK' to proceed."
+#~ msgstr ""
+#~ "Alustada masstöötlust %s pildile \n"
+#~ " \n"
+#~ " 'Cancel' katkestuseks, 'OK' jätkamiseks."
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "Lõika ruudukujuline pisipilt"
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr "Ruudukujuline pisipilt kasutab ainult laiuse mõõtu :"
+#~ msgid "Sorry, NextGEN Gallery works only under WordPress 2.1 or higher"
+#~ msgstr "NextGEN Gallery töötab ainult WordPress 2.1 või uuemaga"
+#~ msgid "Watch gallery"
+#~ msgstr "Vaata galeriid"
+#~ msgid "from"
+#~ msgstr "/"
+#~ msgid "NextGEN Gallery %d"
+#~ msgstr "NextGEN Gallery %d"
+#~ msgid "How many NextGEN Gallery widgets would you like?"
+#~ msgstr "Mitu NextGEN Gallery widgetit sa soovid?"
+#~ msgid "Save"
+#~ msgstr "Salvesta"
+#~ msgid "for Simple:Press Forum, it saved me a lot of time"
+#~ msgstr "Simple:Press Forumi eest, mis säästis mulle palju aega"
+#~ msgid ""
+#~ "To help people to work with this plugin, I would like to have it in all "
+#~ "avaivable languages"
+#~ msgstr ""
+#~ "Minu sooviks on see plugin tõlkida võimalikult paljudesse keeltesse, et "
+#~ "kõik saaksid seda kasutada"
+#~ msgid "No doubt a very usefull and easy motivation :-)"
+#~ msgstr "Kahtlemata väga kasulik ja väga motiveeriv :-)"
+#~ msgid "Add Metadata :"
+#~ msgstr "Lisa metaandmed :"
+#~ msgid "Import EXIF, IPTC or XMP data (if available)"
+#~ msgstr "Impordi EXIF, IPTC või XMP andmed (kui võimalik)"
+#~ msgid "Import a folder with images. Please note :"
+#~ msgstr "Impordi piltidega kataloog. Märkus :"
+#~ msgid "For safe-mode = ON you need to add the subfolder thumbs manually"
+#~ msgstr "Kui safe-mode = ON siis tuleb thubms alamkataloogid käsitsi teha"
+#~ msgid "Add Gallery"
+#~ msgstr "Lisa galerii"
+#~ msgid "Running... Please wait"
+#~ msgstr "Töötan... Oota"
+#~ msgid " : Image resized..."
+#~ msgstr ": Pildi suurus muudetud..."
+#~ msgid "Some pictures are not writeable :"
+#~ msgstr "Mõned pildid ei ole üle kirjutatavad :"
+#~ msgid " : Watermark created..."
+#~ msgstr ": Vesimärk loodud.."
+#~ msgid " : Thumbnail created..."
+#~ msgstr ": Pisipildid loodud..."
+#~ msgid "Follow thumbnails could not created."
+#~ msgstr "Järgnevaid pisipilte ei õnnestunud teha."
+#~ msgid "Some thumbnails are not writeable :"
+#~ msgstr "Mõned pisipildid ei ole üle kirjutatavad :"
+#~ msgid "The Zip-file is too large. Exceed Memory limit !"
+#~ msgstr "Zip fail on liiga suur. Ületab mälu limiiti !"
+#~ msgid "Watermark successfully added"
+#~ msgstr "Vesimärgi lisamine õnnestus"
+#~ msgid "Images successfully resized"
+#~ msgstr "Piltide suuruse muutmine õnnestus"
+#~ msgid "Summary"
+#~ msgstr "Kokkuvõte"
+#~ msgid ""
+#~ "There are totally %1$s pictures in %2$s galleries, which are spread "
+#~ "across %3$s albums."
+#~ msgstr "Kokku %1$s pilti %2$s galeriis, mis on jagatud %3$s albumisse."
+#~ msgid "New Version available"
+#~ msgstr "Uus versioon on saadaval"
+#~ msgid ""
+#~ "The server reports that a new NextGEN Gallery Version is now available. "
+#~ "Please visit the plugin homepage for more information."
+#~ msgstr ""
+#~ "Server teatab, et NextGEN Gallery uus versioon on saadaval. Lisainfo "
+#~ "saamiseks külasta plugina kodulehte."
+#~ msgid "Welcome"
+#~ msgstr "Tere tulemast"
+#~ msgid ""
+#~ "Welcome to NextGEN Gallery. Here you can control your images, galleries "
+#~ "and albums. You currently have %s rights."
+#~ msgstr ""
+#~ "Tere tulemast NextGEN Gallery'sse. Siin saa hallata oma pilte, galeriisid "
+#~ "ja albumeid. Sul on praegu %s õigused."
+#~ msgid "Add a new gallery or import pictures"
+#~ msgstr "Lisa uus galerii või impordi pilte"
+#~ msgid "Manage galleries and images"
+#~ msgstr "Halda galeriisid ja pilte"
+#~ msgid "Create and manage albums"
+#~ msgstr "Loo ja halda albumeid"
+#~ msgid "GD support"
+#~ msgstr "GD tugi"
+#~ msgid " (require WordPress 2.3 or higher)"
+#~ msgstr "(nõutav on WordPress 2.3 või uuem)"
+#~ msgid "Value between 1-5 (higher value, more CPU load)"
+#~ msgstr ""
+#~ "Väärtus vahemikus 1-5 (suurem number vajab rohkem protsessori ressurssi)"
+#~ msgid "Show thumbnail description"
+#~ msgstr "Näita pisipiltide kirjeldusena"
+#~ msgid "Description text"
+#~ msgstr "Kirjelduse teksti"
+#~ msgid "Delete File"
+#~ msgstr "Kustuta fail"
+#~ msgid "Delete image ?"
+#~ msgstr "Kustuta pilt ?"
+#~ msgid "Browse your files"
+#~ msgstr "Vaata oma faile"
+#~ msgid "Direct link to file"
+#~ msgstr "Otseviide failile"
+#~ msgid "Show:"
+#~ msgstr "Näita:"
+#~ msgid "Link to:"
+#~ msgstr "Viita:"
+#~ msgid "Send to editor &raquo;"
+#~ msgstr "Saada redaktorisse &raquo;"
+#~ msgid ""
+#~ "Are you sure you want to delete the file '%s'?\n"
+#~ "Click ok to delete or cancel to go back."
+#~ msgstr ""
+#~ "Kas oled kindel, et soovid kustutada faili '%s'?\n"
+#~ "Kustutamiseks vajuta OK, katkestamiseks Cancel."
+

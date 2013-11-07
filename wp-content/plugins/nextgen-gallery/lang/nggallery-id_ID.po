@@ -1,0 +1,2807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-21 13:53+0100\n"
+"PO-Revision-Date: 2009-04-19 23:12+0700\n"
+"Last-Translator: Hendry Lee <hendry.lee@gmail.com>\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../nggallery.php:156
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "Maaf, NextGEN Gallery hanya bekerja dengan Batasan Memori 16 MB atau lebih"
+
+#: ../nggallery.php:181
+msgid "Picture tag"
+msgstr "Tag gambar"
+
+#: ../nggallery.php:182
+msgid "Picture tag: %2$l."
+msgstr "Tag gambar: %2$L"
+
+#: ../nggallery.php:183
+msgid "Separate picture tags with commas."
+msgstr "Pisahkan tag gambar dengan koma."
+
+#: ../nggallery.php:276
+msgid "L O A D I N G"
+msgstr "D I M U A T"
+
+#: ../nggallery.php:277
+msgid "Click to Close"
+msgstr "Klik untuk Menutup"
+
+#: ../nggfunctions.php:37
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Pemain Flash</a> dan <a href=\"http://www.mozilla.com/firefox/\">perambah dengan dukungan Javascript</a> dibuuthkan.."
+
+#: ../nggfunctions.php:101
+#: ../nggfunctions.php:437
+msgid "[Gallery not found]"
+msgstr "[Galeri tidak ditemukan]"
+
+#: ../nggfunctions.php:292
+msgid "[Album not found]"
+msgstr "[Album tidak ditemukan]"
+
+#: ../nggfunctions.php:540
+msgid "[SinglePic not found]"
+msgstr "[SinglePic tidak ditemukan]"
+
+#: ../nggfunctions.php:665
+msgid "Related images for"
+msgstr "Gambar yang relevan untuk"
+
+#: ../nggfunctions.php:700
+#: ../admin/admin.php:32
+msgid "Overview"
+msgstr "Rangkuman"
+
+#: ../admin/about.php:9
+msgid "Copyright notes / Credits"
+msgstr "Catatan hak cipta / Kredit"
+
+#: ../admin/about.php:10
+msgid "NextGEN DEV Team"
+msgstr "Tim Pengembangan NextGEN"
+
+#: ../admin/about.php:11
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Plugin ini utamanya dikembangkan, dijaga, didukung, dan didokumentasikan oleh"
+
+#: ../admin/about.php:11
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Banyak orang yang telah berkontribusi untuk projek ini:"
+
+#: ../admin/about.php:13
+msgid "Contributors / Tribute to"
+msgstr "Kontributor / Penghormatan kepada"
+
+#: ../admin/about.php:14
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Jika Anda mempelajari kode dari plugin ini, Anda akan mendapatkan bahwa kami mencampur banyak kode dan ide yang baik dan yang telah ada."
+
+#: ../admin/about.php:15
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Jadi, kami hendak berterima kasih kepada orang-orang atas kerja mereka yang hebat (tanpa mereka tidak mungkin membuat plugin ini begitu cepat)"
+
+#: ../admin/about.php:17
+msgid "for their great documented code"
+msgstr "untuk kode terdokumentasi mereka yang hebat"
+
+#: ../admin/about.php:18
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "untuk jQuery, yang mana merupakan kerangka Web 2.0 terbaik"
+
+#: ../admin/about.php:19
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "untuk Kelas PHP Thumbnail yang fantastik"
+
+#: ../admin/about.php:20
+msgid "for PclZip , a PHP library that manage ZIP archives"
+msgstr "untuk PclZip, sebuah perpustakaan PHP yang mengatur arsip ZIP"
+
+#: ../admin/about.php:21
+msgid "for a lot of very useful plugins and ideas"
+msgstr "untuk banyak plugin bermanfaat dan ide"
+
+#: ../admin/about.php:22
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "untuk Shutter Reloaded, efek gambar yang benar-benar ringan"
+
+#: ../admin/about.php:23
+msgid "for the best Media Flash Scripts on earth"
+msgstr "untuk Skrsip Media Flash terbaik di dunia"
+
+#: ../admin/about.php:24
+msgid "for the Fugue Iconset"
+msgstr "untuk Iconset Fugue"
+
+#: ../admin/about.php:25
+msgid "for the Watermark plugin"
+msgstr "untuk plugin Watermark"
+
+#: ../admin/about.php:27
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Jika Anda tidak menmukan nama Anda di dalam daftar dan ada kode yang saya integrasikan di dalam plugin saya, jangan ragu untuk mengirim email ke saya."
+
+#: ../admin/about.php:28
+msgid "How to support ?"
+msgstr "Bagaimana mendukung?"
+
+#: ../admin/about.php:29
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Ada beberapa cara berkontribusi, membantu atau mendukung pekerjaan ini. Tidak ada yang diharuskan."
+
+#: ../admin/about.php:31
+msgid "Send us bugfixes / code changes"
+msgstr "Kirimkan kami perbaikan / perubahan kode"
+
+#: ../admin/about.php:31
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Dukungan paling memotivasikan untuk plugin ini adalah ide dan pikiran"
+
+#: ../admin/about.php:32
+msgid "Translate the plugin"
+msgstr "Terjemahkan plugin ini"
+
+#: ../admin/about.php:32
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Untuk membantu orang mengerjakan plugin ini, saya ingin membuatnya tersedia dalam semua bahasa"
+
+#: ../admin/about.php:33
+msgid "Donate the work via paypal"
+msgstr "Donasi melalui paypal"
+
+#: ../admin/about.php:44
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Tidak diragukan sebuah motivasi yang bermanfaat dan mudah :-)"
+
+#: ../admin/about.php:46
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Tempatkan taut ke plugin ini dalam blog/halaman web Anda"
+
+#: ../admin/about.php:46
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Ya, sebar dan trackback adalah cara yang baik mendukung proyek ini"
+
+#: ../admin/about.php:48
+msgid "Thanks!"
+msgstr "Terima kasih!"
+
+#: ../admin/about.php:49
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Kami ingin berterimakasih kepada orang-orang yang telah mendukung kami dalam proyek ini:"
+
+#: ../admin/about.php:143
+msgid "and all donators..."
+msgstr "dan semua donatur..."
+
+#: ../admin/addgallery.php:37
+#: ../admin/addgallery.php:53
+msgid "Upload failed!"
+msgstr "Unggahan gagal!"
+
+#: ../admin/addgallery.php:58
+#: ../admin/functions.php:568
+#: ../admin/functions.php:658
+msgid "No gallery selected !"
+msgstr "Tidak ada galeri terpilih!"
+
+#: ../admin/addgallery.php:105
+msgid "Image Files"
+msgstr "Berkas Gambar"
+
+#: ../admin/addgallery.php:124
+#: ../admin/addgallery.php:155
+msgid "remove"
+msgstr "singkirkan"
+
+#: ../admin/addgallery.php:125
+msgid "Browse..."
+msgstr "Rambah..."
+
+#: ../admin/addgallery.php:126
+#: ../admin/addgallery.php:282
+msgid "Upload images"
+msgstr "Unggah gambar"
+
+#: ../admin/addgallery.php:174
+#: ../admin/addgallery.php:186
+msgid "Add new gallery"
+msgstr "Tambahkan galeri baru"
+
+#: ../admin/addgallery.php:176
+#: ../admin/addgallery.php:205
+msgid "Upload a Zip-File"
+msgstr "Unggah sebuah Berkas Zip"
+
+#: ../admin/addgallery.php:179
+#: ../admin/addgallery.php:237
+msgid "Import image folder"
+msgstr "Impor folder gambar"
+
+#: ../admin/addgallery.php:181
+#: ../admin/addgallery.php:254
+msgid "Upload Images"
+msgstr "Unggah Gambar"
+
+#: ../admin/addgallery.php:191
+msgid "New Gallery"
+msgstr "Galeri Baru"
+
+#: ../admin/addgallery.php:194
+msgid "Create a new , empty gallery below the folder"
+msgstr "Buat galeri baru yang kosong di bawah folder"
+
+#: ../admin/addgallery.php:196
+msgid "Allowed characters for file and folder names are"
+msgstr "Karakter yang diperbolehkan untuk nama berkas dan folder adalah"
+
+#: ../admin/addgallery.php:199
+msgid "Add gallery"
+msgstr "Tambahkan galeri"
+
+#: ../admin/addgallery.php:210
+msgid "Select Zip-File"
+msgstr "Pilih Berkas Zip"
+
+#: ../admin/addgallery.php:212
+msgid "Upload a zip file with images"
+msgstr "Unggah sebuah berkas zip dengan gambar"
+
+#: ../admin/addgallery.php:215
+#: ../admin/addgallery.php:263
+msgid "in to"
+msgstr "ke dalam"
+
+#: ../admin/addgallery.php:217
+msgid "a new gallery"
+msgstr "sebuah galeri baru"
+
+#: ../admin/addgallery.php:226
+msgid "Note : The upload limit on your server is "
+msgstr "Catatan: Batas unggah untuk server Anda adalah"
+
+#: ../admin/addgallery.php:230
+msgid "Start upload"
+msgstr "Mulai unggahan"
+
+#: ../admin/addgallery.php:242
+msgid "Import from Server path:"
+msgstr "Impor dari lokasi Server:"
+
+#: ../admin/addgallery.php:245
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Mohon dicatat: Untuk safe-mode = ON Anda perlu menambahkan subfolder miniatur secara manual"
+
+#: ../admin/addgallery.php:248
+msgid "Import folder"
+msgstr "Impor folder"
+
+#: ../admin/addgallery.php:259
+msgid "Upload image"
+msgstr "Unggah gambar"
+
+#: ../admin/addgallery.php:265
+msgid "Choose gallery"
+msgstr "Pilih galeri"
+
+#: ../admin/addgallery.php:278
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Unggahan massal memerlukan Adobe Flash 10, matikan jika Anda menemukan masalah"
+
+#: ../admin/addgallery.php:278
+msgid "Disable flash upload"
+msgstr "Matikan unggahan flash"
+
+#: ../admin/addgallery.php:280
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Unggah berbagai berkas sekaligus dengan ctrl/shift pilih dalam dialog"
+
+#: ../admin/addgallery.php:280
+msgid "Enable flash based upload"
+msgstr "Perkenankan unggahan berbasis flash"
+
+#: ../admin/admin.php:31
+#: ../admin/admin.php:204
+#: ../admin/admin.php:272
+#: ../admin/functions.php:82
+#: ../admin/functions.php:145
+#: ../admin/manage-images.php:151
+#: ../admin/manage.php:78
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galeri"
+msgstr[1] "Galeri-galeri"
+
+#: ../admin/admin.php:33
+msgid "Add Gallery / Images"
+msgstr "Tambah galeri / Gambar"
+
+#: ../admin/admin.php:34
+msgid "Manage Gallery"
+msgstr "Atur Galeri"
+
+#: ../admin/admin.php:35
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album-album"
+
+#: ../admin/admin.php:36
+msgid "Tags"
+msgstr "Tag"
+
+#: ../admin/admin.php:37
+msgid "Options"
+msgstr "Opsi"
+
+#: ../admin/admin.php:39
+msgid "Style"
+msgstr "Penggayaan"
+
+#: ../admin/admin.php:40
+msgid "Setup Gallery"
+msgstr "Bangun Galeri"
+
+#: ../admin/admin.php:40
+msgid "Setup"
+msgstr "Pasang"
+
+#: ../admin/admin.php:42
+msgid "Roles"
+msgstr "Peranan"
+
+#: ../admin/admin.php:43
+msgid "About this Gallery"
+msgstr "Tentang Galeri ini"
+
+#: ../admin/admin.php:43
+msgid "About"
+msgstr "Tentang"
+
+#: ../admin/admin.php:45
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/admin.php:70
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "Versi baru dari NextGEN Gallery telah tersedia"
+
+#: ../admin/admin.php:70
+msgid "Download here"
+msgstr "Unduh di sini"
+
+#: ../admin/admin.php:141
+msgid "You do not have the correct permission"
+msgstr "Anda tidak memiliki permisi yang tepat"
+
+#: ../admin/admin.php:142
+msgid "Unexpected Error"
+msgstr "Kesalahan yang tidak Diharapkan"
+
+#: ../admin/admin.php:143
+msgid "A failure occurred"
+msgstr "Kegagalan terjadi"
+
+#: ../admin/admin.php:208
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Perkenalan</a>"
+
+#: ../admin/admin.php:211
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Pasang</a>"
+
+#: ../admin/admin.php:214
+msgid "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.boelinger.com/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Diterjemahkan oleh alex rabe</a>"
+
+#: ../admin/admin.php:217
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Peran / Kemampuan</a>"
+
+#: ../admin/admin.php:220
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Penggayaan</a>"
+
+#: ../admin/admin.php:221
+msgid "Templates"
+msgstr "Templat"
+
+#: ../admin/admin.php:224
+#: ../admin/admin.php:230
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Manajemen Galeri</a>"
+
+#: ../admin/admin.php:225
+msgid "Gallery example"
+msgstr "Contoh galeri"
+
+#: ../admin/admin.php:231
+#: ../admin/admin.php:241
+msgid "Gallery tags"
+msgstr "Tag galeri"
+
+#: ../admin/admin.php:234
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Manajemen album</a>"
+
+#: ../admin/admin.php:235
+msgid "Album example"
+msgstr "Contoh album"
+
+#: ../admin/admin.php:236
+#: ../admin/admin.php:242
+msgid "Album tags"
+msgstr "Tag album"
+
+#: ../admin/admin.php:239
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Tag galeri</a>"
+
+#: ../admin/admin.php:240
+msgid "Related images"
+msgstr "Gambar terkait"
+
+#: ../admin/admin.php:245
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Manajemen gambar</a>"
+
+#: ../admin/admin.php:246
+msgid "Custom fields"
+msgstr "Ruas-ruas tersuai"
+
+#: ../admin/admin.php:251
+msgid "Get help with NextGEN Gallery"
+msgstr "Minta bantuan dengan NextGEN Gallery"
+
+#: ../admin/admin.php:255
+msgid "More Help & Info"
+msgstr "Bantuan & Informasi Lebih Lanjut"
+
+#: ../admin/admin.php:257
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery\" target=\"_blank\">Forum Dukungan</a>"
+
+#: ../admin/admin.php:258
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/admin.php:259
+msgid "Feature request"
+msgstr "Permintaan fitur"
+
+#: ../admin/admin.php:260
+msgid "Get your language pack"
+msgstr "Dapatkan paket bahasa Anda"
+
+#: ../admin/admin.php:261
+msgid "Contribute development"
+msgstr "Mengkontribusi pengembangan"
+
+#: ../admin/admin.php:262
+msgid "Download latest version"
+msgstr "Unduh versi terakhir"
+
+#: ../admin/album.php:19
+#: ../admin/album.php:31
+msgid "Update Successfully"
+msgstr "Pembaharuan Sukses"
+
+#: ../admin/album.php:40
+msgid "Album deleted"
+msgstr "Album terhapus"
+
+#: ../admin/album.php:125
+msgid "Manage Albums"
+msgstr "Atur Album"
+
+#: ../admin/album.php:131
+msgid "Select album"
+msgstr "Pilih album"
+
+#: ../admin/album.php:133
+msgid "No album selected"
+msgstr "Tidak ada album terpilih"
+
+#: ../admin/album.php:146
+msgid "Update"
+msgstr "Perbaharui"
+
+#: ../admin/album.php:147
+#: ../admin/manage-galleries.php:78
+#: ../admin/manage-images.php:336
+msgid "Delete"
+msgstr "Hapus"
+
+#: ../admin/album.php:147
+msgid "Delete album ?"
+msgstr "Hapus album?"
+
+#: ../admin/album.php:149
+msgid "Add new album"
+msgstr "Tambahkan album baru"
+
+#: ../admin/album.php:150
+msgid "Add"
+msgstr "Tambah"
+
+#: ../admin/album.php:158
+msgid "[Show all]"
+msgstr "[Tampilkan semua]"
+
+#: ../admin/album.php:159
+msgid "[Maximize]"
+msgstr "[Perbesar]"
+
+#: ../admin/album.php:160
+msgid "[Minimize]"
+msgstr "[Perkecil]"
+
+#: ../admin/album.php:162
+msgid "After you create and select a album, you can drag and drop a gallery into your album below"
+msgstr "Setelah Anda membuat dan memilih album, Anda dapat menarik dan menjatuhkan sebuah galeri pada album Anda di bawah ini"
+
+#: ../admin/album.php:169
+msgid "Select Gallery"
+msgstr "Pilih Galeri"
+
+#: ../admin/album.php:208
+msgid "Album Page ID"
+msgstr "ID Halaman Album"
+
+#: ../admin/album.php:220
+msgid "No album selected!"
+msgstr "Tidak ada album terpilih!"
+
+#: ../admin/album.php:254
+#: ../admin/manage-galleries.php:42
+#: ../admin/manage-images.php:473
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/album.php:255
+msgid "Name"
+msgstr "Nama"
+
+#: ../admin/album.php:256
+#: ../admin/manage-galleries.php:43
+#: ../admin/manage-images.php:165
+msgid "Title"
+msgstr "Judul"
+
+#: ../admin/album.php:257
+msgid "Page"
+msgstr "Halaman"
+
+#: ../admin/functions.php:23
+msgid "No valid gallery name!"
+msgstr "Tidak ada nama galeri yang vaild!"
+
+#: ../admin/functions.php:30
+#: ../admin/functions.php:39
+#: ../admin/functions.php:53
+#: ../admin/functions.php:117
+#: ../admin/functions.php:124
+msgid "Directory"
+msgstr "Direktori"
+
+#: ../admin/functions.php:30
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "tidak ada. Mohon buat terlebih dahulu folder galeri utama"
+
+#: ../admin/functions.php:31
+#: ../admin/functions.php:40
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Periksa taut, jika Anda tidak tau bagaimana mengeset permisi :"
+
+#: ../admin/functions.php:39
+#: ../admin/functions.php:53
+msgid "is not writeable !"
+msgstr "tidak dapat ditulis !"
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:58
+#: ../admin/functions.php:531
+msgid "Unable to create directory "
+msgstr "Tidak dapat membuat direktori"
+
+#: ../admin/functions.php:62
+msgid "The server setting Safe-Mode is on !"
+msgstr "Pengaturan server Safe-Mode aktif !"
+
+#: ../admin/functions.php:63
+msgid "If you have problems, please create directory"
+msgstr "Jika Anda mendapatkan masalah, mohon buat direktori"
+
+#: ../admin/functions.php:64
+msgid "and the thumbnails directory"
+msgstr "dan direktori miniatur"
+
+#: ../admin/functions.php:64
+msgid "with permission 777 manually !"
+msgstr "dengan permisi 777 secara manual !"
+
+#: ../admin/functions.php:82
+msgid "already exists"
+msgstr "telah ada"
+
+#: ../admin/functions.php:87
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "Galeri %1$s telah sukses dibuat.<br/>Anda dapat menampilkan galeri dengan tag %2$s.<br/>"
+
+#: ../admin/functions.php:90
+msgid "Edit gallery"
+msgstr "Sunting galeri"
+
+#: ../admin/functions.php:117
+msgid "doesn&#96;t exist!"
+msgstr "tidak ada!"
+
+#: ../admin/functions.php:124
+msgid "contains no pictures"
+msgstr "tidak berisi gambar"
+
+#: ../admin/functions.php:142
+msgid "Database error. Could not add gallery!"
+msgstr "Kesalahan database. Tidak dapat menambah galeri!"
+
+#: ../admin/functions.php:145
+msgid "successfully created!"
+msgstr "telah berhasil dibuat!"
+
+#: ../admin/functions.php:174
+#: ../admin/functions.php:640
+#: ../admin/manage-images.php:243
+#: ../admin/manage.php:130
+msgid "Create new thumbnails"
+msgstr "Buat miniatur baru"
+
+#: ../admin/functions.php:177
+msgid " picture(s) successfully added"
+msgstr "gambar telah sukses dibuat"
+
+#: ../admin/functions.php:216
+#: ../admin/functions.php:295
+#: ../admin/functions.php:336
+msgid "Object didn't contain correct data"
+msgstr "Objek tidak berisi data yang benar"
+
+#: ../admin/functions.php:221
+msgid " is not writeable "
+msgstr "tidak dapat ditulis"
+
+#: ../admin/functions.php:302
+#: ../admin/functions.php:339
+msgid " is not writeable"
+msgstr "tidak dapat ditulis"
+
+#: ../admin/functions.php:500
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "Berkas terunggah bukan atau adalah berkas zip yang rusak ! Server mengenali :"
+
+#: ../admin/functions.php:515
+msgid "Could not get a valid foldername"
+msgstr "Tidak dapat mendapatkan sebuan nama folder yang valid"
+
+#: ../admin/functions.php:526
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Tidak dapat membuat direktori %s. Apakah direktori induk dapat ditulis oleh server?"
+
+#: ../admin/functions.php:541
+msgid "Zip-File successfully unpacked"
+msgstr "Berkas Zip telah sukses dibongkar"
+
+#: ../admin/functions.php:576
+#: ../admin/functions.php:685
+msgid "Failure in database, no gallery path set !"
+msgstr "Kegagalan pada database, tiada lokasi galeri yang diset!"
+
+#: ../admin/functions.php:597
+#: ../admin/functions.php:679
+msgid "is no valid image file!"
+msgstr "bukan berkas gambar yang valid!"
+
+#: ../admin/functions.php:611
+#: ../admin/functions.php:787
+#: ../admin/functions.php:855
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Tidak dapat menulis ke direktori %s. Apakah direktori ini dapat ditulis server?"
+
+#: ../admin/functions.php:618
+#: ../admin/functions.php:702
+msgid "Error, the file could not moved to : "
+msgstr "Kesalahan, berkas tidak dapat dipindahkan ke :"
+
+#: ../admin/functions.php:623
+#: ../admin/functions.php:706
+msgid "Error, the file permissions could not set"
+msgstr "Kesalahan, permisi berkas tidak dapat diset"
+
+#: ../admin/functions.php:644
+msgid " Image(s) successfully added"
+msgstr "Gambar telah ditambahkan dengan sukses"
+
+#: ../admin/functions.php:667
+msgid "Invalid upload. Error Code : "
+msgstr "Unggahan tidak valid. Kode Kesalahan:"
+
+#: ../admin/functions.php:716
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Maaf, Anda telah menghabiskan alokasi penyimpanan Anda. Mohon hapus beberapa berkas untuk megunggah lebih banyak berkas."
+
+#: ../admin/functions.php:743
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "Keterbatasan SAFE MODE dalam efek! Anda perlu membuat folder <strong>%s</strong> secara manual"
+
+#: ../admin/functions.php:744
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Ketika safe_mode aktif, PHP memeriksa apakah pemilik (%s) dari skrip terkini cocok dengan pemilik (%s) dari berkas yang akan dioperasikan oleh fungsi berkas atau direktorinya"
+
+#: ../admin/functions.php:781
+#: ../admin/functions.php:849
+msgid "The destination gallery does not exist"
+msgstr "Galeri tujuan tidak ada"
+
+#: ../admin/functions.php:812
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Gagal memindahkan gambar %1$s ke %2$s"
+
+#: ../admin/functions.php:830
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Pemindahkan %1$s gambar ke galeri: %2$s"
+
+#: ../admin/functions.php:882
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Gagal menyalin gambar %1$s ke %2$s"
+
+#: ../admin/functions.php:894
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Gagal menyalin baris database untuk gambar %s"
+
+#: ../admin/functions.php:902
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Gambar %1$s (%2$s) disalin sebagai gambar %3$s (%4$s) &raquo; Berkas telah ada dalam galeri tujuan."
+
+#: ../admin/functions.php:905
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Gambar %1$s (%2$s) disalin sebagai gambar %3$s (%4$s)"
+
+#: ../admin/functions.php:914
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Tersalin %1$s gambar ke galeri: %2$s ."
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Maaf, NextGEN Gallery bekerja hanya dengan sebuah peran yang dinamakan administrator"
+
+#: ../admin/install.php:102
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery: Tabel tidak dapat dibuat, mohon periksa pengaturan database"
+
+#: ../admin/install.php:160
+msgid "[Show as slideshow]"
+msgstr "[Tampilkan sebagai lembar presentasi]"
+
+#: ../admin/install.php:161
+msgid "[Show picture list]"
+msgstr "[Tampilkan daftar gambar]"
+
+#: ../admin/manage-galleries.php:19
+#: ../admin/manage-images.php:39
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:20
+#: ../admin/manage-images.php:40
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:27
+msgid "Gallery Overview"
+msgstr "Gambaran Galeri"
+
+#: ../admin/manage-galleries.php:30
+#: ../admin/manage-images.php:232
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Menampilkan %s&#8211;%s dari %s"
+
+#: ../admin/manage-galleries.php:44
+#: ../admin/manage-images.php:176
+#: ../admin/manage-images.php:478
+msgid "Description"
+msgstr "Deskripsi"
+
+#: ../admin/manage-galleries.php:45
+#: ../admin/manage-images.php:196
+msgid "Author"
+msgstr "Pemilik"
+
+#: ../admin/manage-galleries.php:46
+msgid "Page ID"
+msgstr "ID Halaman"
+
+#: ../admin/manage-galleries.php:47
+msgid "Quantity"
+msgstr "Jumlah"
+
+#: ../admin/manage-galleries.php:48
+msgid "Action"
+msgstr "Aksi"
+
+#: ../admin/manage-galleries.php:65
+msgid "Edit"
+msgstr "Sunting"
+
+#: ../admin/manage-galleries.php:78
+msgid "Delete this gallery ?"
+msgstr "Hapus galeri ini ?"
+
+#: ../admin/manage-galleries.php:85
+#: ../admin/manage-images.php:390
+msgid "No entries found"
+msgstr "Tidak ditemukan entri"
+
+#: ../admin/manage-images.php:16
+msgid "Gallery not found."
+msgstr "Galeri tidak dapat ditemukan."
+
+#: ../admin/manage-images.php:22
+msgid "Sorry, you have no access here"
+msgstr "Maaf, Anda tidak mempunyai akses di sini"
+
+#: ../admin/manage-images.php:112
+msgid "No images selected"
+msgstr "Tidak ada gambar dipilih"
+
+#: ../admin/manage-images.php:132
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Anda hampir memulai penyuntingan massal untuk gambar %s \n"
+"\n"
+"'Batal' untuk berhenti, 'OK' untuk melanjutkan."
+
+#: ../admin/manage-images.php:161
+msgid "Gallery settings"
+msgstr "Pengaturan galeri"
+
+#: ../admin/manage-images.php:161
+msgid "Click here for more settings"
+msgstr "Klik di sini untuk lebih banyak pengaturan"
+
+#: ../admin/manage-images.php:167
+msgid "Page Link to"
+msgstr "Halaman Tertaut ke"
+
+#: ../admin/manage-images.php:170
+msgid "Not linked"
+msgstr "Tidak tertaut"
+
+#: ../admin/manage-images.php:178
+msgid "Preview image"
+msgstr "Tinjau gambar"
+
+#: ../admin/manage-images.php:181
+msgid "No Picture"
+msgstr "Tidak Ada Gambar"
+
+#: ../admin/manage-images.php:194
+msgid "Path"
+msgstr "Lokasi"
+
+#: ../admin/manage-images.php:210
+msgid "Create new page"
+msgstr "Buat gambar baru"
+
+#: ../admin/manage-images.php:213
+msgid "Main page (No parent)"
+msgstr "Halaman utama (Tidak ada induk)"
+
+#: ../admin/manage-images.php:216
+msgid "Add page"
+msgstr "Tambah halaman"
+
+#: ../admin/manage-images.php:222
+msgid "Scan Folder for new images"
+msgstr "Pindai Folder untuk gambar baru"
+
+#: ../admin/manage-images.php:223
+#: ../admin/manage-images.php:259
+#: ../admin/manage-images.php:396
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: ../admin/manage-images.php:241
+msgid "No action"
+msgstr "Tidak ada aksi"
+
+#: ../admin/manage-images.php:242
+#: ../admin/manage.php:126
+msgid "Set watermark"
+msgstr "Set tanda air"
+
+#: ../admin/manage-images.php:244
+#: ../admin/manage.php:134
+msgid "Resize images"
+msgstr "Ubah ukuran gambar"
+
+#: ../admin/manage-images.php:245
+msgid "Delete images"
+msgstr "Hapus gambar"
+
+#: ../admin/manage-images.php:246
+msgid "Import metadata"
+msgstr "Impor metadata"
+
+#: ../admin/manage-images.php:247
+msgid "Copy to..."
+msgstr "Salin ke..."
+
+#: ../admin/manage-images.php:248
+msgid "Move to..."
+msgstr "Pindahkan ke..."
+
+#: ../admin/manage-images.php:249
+msgid "Add tags"
+msgstr "Tambahkan tag"
+
+#: ../admin/manage-images.php:250
+msgid "Delete tags"
+msgstr "Hapus tag"
+
+#: ../admin/manage-images.php:251
+msgid "Overwrite tags"
+msgstr "Timpa tag"
+
+#: ../admin/manage-images.php:253
+#: ../admin/manage-images.php:413
+#: ../admin/manage-images.php:448
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/manage-images.php:256
+msgid "Sort gallery"
+msgstr "Sortir galeri"
+
+#: ../admin/manage-images.php:333
+#, php-format
+msgid "View \"%s\""
+msgstr "Lihat \"%s\""
+
+#: ../admin/manage-images.php:333
+msgid "View"
+msgstr "Lihat"
+
+#: ../admin/manage-images.php:334
+msgid "Show Meta data"
+msgstr "Tampilkan Meta data"
+
+#: ../admin/manage-images.php:334
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:335
+msgid "Customize thumbnail"
+msgstr "Sesuaikan miniatur"
+
+#: ../admin/manage-images.php:335
+msgid "Edit thumb"
+msgstr "Sunting miniatur"
+
+#: ../admin/manage-images.php:336
+#, php-format
+msgid "Delete \"%s\""
+msgstr "Hapus \"%s\""
+
+#: ../admin/manage-images.php:409
+msgid "Enter the tags"
+msgstr "Masukkan tag"
+
+#: ../admin/manage-images.php:415
+#: ../admin/manage-images.php:450
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: ../admin/manage-images.php:432
+msgid "Select the destination gallery:"
+msgstr "Pilih galeri tujuan:"
+
+#: ../admin/manage-images.php:474
+msgid "Thumbnail"
+msgstr "Miniatur"
+
+#: ../admin/manage-images.php:476
+#: ../admin/manage-sort.php:80
+msgid "Filename"
+msgstr "Nama berkas"
+
+#: ../admin/manage-images.php:478
+msgid "Alt &amp; Title Text"
+msgstr "Teks Alt &amp; Judul"
+
+#: ../admin/manage-images.php:479
+msgid "Tags (comma separated list)"
+msgstr "Tag (daftar terpisahkan dengan koma)"
+
+#: ../admin/manage-images.php:481
+msgid "exclude"
+msgstr "kecuali"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "Urutan penyortiran berubah"
+
+#: ../admin/manage-sort.php:65
+msgid "Sort Gallery"
+msgstr "Sortir Galeri"
+
+#: ../admin/manage-sort.php:69
+msgid "Update Sort Order"
+msgstr "Perbaharui Urutan Penyortiran"
+
+#: ../admin/manage-sort.php:72
+msgid "Back to gallery"
+msgstr "Kembali ke galeri"
+
+#: ../admin/manage-sort.php:77
+msgid "Presort"
+msgstr "Penyortiran awal"
+
+#: ../admin/manage-sort.php:78
+msgid "Unsorted"
+msgstr "Tidak tersortir"
+
+#: ../admin/manage-sort.php:79
+msgid "Image ID"
+msgstr "ID Gambar"
+
+#: ../admin/manage-sort.php:81
+msgid "Alt/Title text"
+msgstr "Teks Alt/Judul"
+
+#: ../admin/manage-sort.php:82
+msgid "Date/Time"
+msgstr "Tanggal/Waktu"
+
+#: ../admin/manage-sort.php:83
+msgid "Ascending"
+msgstr "Kecil ke besar"
+
+#: ../admin/manage-sort.php:84
+msgid "Descending"
+msgstr "Beasr ke kecil"
+
+#: ../admin/manage.php:78
+#: ../admin/manage.php:100
+msgid "deleted successfully"
+msgstr "terhapus secara sukses"
+
+#: ../admin/manage.php:100
+msgid "Picture"
+msgstr "Gambar"
+
+#: ../admin/manage.php:151
+msgid "Pictures deleted successfully "
+msgstr "Gambar terhapus secara sukses"
+
+#: ../admin/manage.php:157
+msgid "Import metadata finished"
+msgstr "Metadata terimpor dengan sukses"
+
+#: ../admin/manage.php:165
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operasi berhasil. Mohon hapus cache perambah Anda."
+
+#: ../admin/manage.php:228
+msgid "Tags changed"
+msgstr "Tag berubah"
+
+#: ../admin/manage.php:255
+msgid "Update successful"
+msgstr "Pembaharuan berhasil"
+
+#: ../admin/manage.php:289
+msgid "New gallery page ID"
+msgstr "ID halaman galeri baru"
+
+#: ../admin/manage.php:289
+msgid "created"
+msgstr "telah dibuat"
+
+#: ../admin/manage_thumbnail.php:19
+#: ../admin/manage_thumbnail.php:22
+#: ../admin/showmeta.php:10
+#: ../admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Curang ya?"
+
+#: ../admin/manage_thumbnail.php:116
+msgid "Select with the mouse the area for the new thumbnail."
+msgstr "Pilih dengan tetikus daerah untuk miniatur baru."
+
+#: ../admin/manage_thumbnail.php:130
+msgid "Thumbnail updated"
+msgstr "Miniatur telah diperbaharui"
+
+#: ../admin/manage_thumbnail.php:135
+msgid "Error updating thumbnail."
+msgstr "Kesalahan saat memperbaharui miniatur."
+
+#: ../admin/manage_thumbnail.php:152
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Pilih daerah untuk miniatur dari gambar di sebelah kiri."
+
+#: ../admin/media-upload.php:132
+#: ../admin/tinymce/window.php:43
+msgid "No gallery"
+msgstr "Tidak ada galeri."
+
+#: ../admin/media-upload.php:144
+msgid "Select &#187;"
+msgstr "Pilih &#187;"
+
+#: ../admin/media-upload.php:175
+msgid "Show"
+msgstr "Tampilkan"
+
+#: ../admin/media-upload.php:176
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: ../admin/media-upload.php:181
+msgid "Image ID:"
+msgstr "ID Gambar:"
+
+#: ../admin/media-upload.php:195
+msgid "Alignment"
+msgstr "Penjajaran"
+
+#: ../admin/media-upload.php:198
+#: ../admin/settings.php:339
+msgid "None"
+msgstr "Tidak ada"
+
+#: ../admin/media-upload.php:200
+#: ../admin/tinymce/window.php:129
+msgid "Left"
+msgstr "Kiri"
+
+#: ../admin/media-upload.php:202
+#: ../admin/tinymce/window.php:130
+msgid "Center"
+msgstr "Tengah"
+
+#: ../admin/media-upload.php:204
+#: ../admin/tinymce/window.php:131
+msgid "Right"
+msgstr "Kanan"
+
+#: ../admin/media-upload.php:208
+#: ../admin/settings.php:442
+msgid "Size"
+msgstr "Ukuran"
+
+#: ../admin/media-upload.php:214
+msgid "Full size"
+msgstr "Ukuran penuh"
+
+#: ../admin/media-upload.php:216
+msgid "Singlepic"
+msgstr "Gambar tunggal"
+
+#: ../admin/media-upload.php:224
+msgid "Insert into Post"
+msgstr "Masukkan ke dalam Tulisan"
+
+#: ../admin/media-upload.php:234
+msgid "Save all changes"
+msgstr "Simpan semua perubahan"
+
+#: ../admin/overview.php:13
+msgid "NextGEN Gallery Overview"
+msgstr "Gambaran NextGEN Gallery"
+
+#: ../admin/overview.php:108
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Feed berita tidak dapat dimuat. Periksa <a href=\"%s\">halaman depan</a> untuk memeriksa pembaharuan."
+
+#: ../admin/overview.php:128
+msgid "At a Glance"
+msgstr "Selayang Pandang"
+
+#: ../admin/overview.php:134
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Gambar"
+msgstr[1] "Gambar-gambar"
+
+#: ../admin/overview.php:155
+msgid "Upload pictures"
+msgstr "Unggah gambar"
+
+#: ../admin/overview.php:156
+msgid "Here you can control your images, galleries and albums."
+msgstr "Di sini Anda dapat mengontrol gambar, galeri dan album Anda."
+
+#: ../admin/overview.php:160
+msgid "Gallery Administrator"
+msgstr "Administrator Galeri"
+
+#: ../admin/overview.php:160
+msgid "Gallery Editor"
+msgstr "Penyunting Galeri"
+
+#: ../admin/overview.php:161
+#, php-format
+msgid "You currently have %s rights."
+msgstr "Anda memiliki %s hak saat ini."
+
+#: ../admin/overview.php:168
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Selamaat datang ke NextGEN Gallery !"
+
+#: ../admin/overview.php:169
+msgid "Latest News"
+msgstr "Berita Terkini"
+
+#: ../admin/overview.php:170
+msgid "Server Settings"
+msgstr "Pengaturan Server"
+
+#: ../admin/overview.php:171
+msgid "Graphic Library"
+msgstr "Perpustakaan Grafik"
+
+#: ../admin/overview.php:187
+msgid "No GD support"
+msgstr "Tidak ada dukungan GD"
+
+#: ../admin/overview.php:194
+#: ../admin/overview.php:233
+#: ../admin/overview.php:236
+#: ../admin/overview.php:239
+msgid "Yes"
+msgstr "Ya"
+
+#: ../admin/overview.php:196
+#: ../admin/overview.php:234
+#: ../admin/overview.php:237
+#: ../admin/overview.php:240
+msgid "No"
+msgstr "Tidak"
+
+#: ../admin/overview.php:210
+msgid "Not set"
+msgstr "Tidak diset"
+
+#: ../admin/overview.php:212
+#: ../admin/overview.php:215
+msgid "On"
+msgstr "Nyala"
+
+#: ../admin/overview.php:213
+#: ../admin/overview.php:216
+msgid "Off"
+msgstr "Padam"
+
+#: ../admin/overview.php:219
+#: ../admin/overview.php:222
+#: ../admin/overview.php:225
+#: ../admin/overview.php:228
+#: ../admin/overview.php:231
+msgid "N/A"
+msgstr "Tidak Tersedia"
+
+#: ../admin/overview.php:230
+msgid " MByte"
+msgstr "MByte"
+
+#: ../admin/overview.php:243
+msgid "Operating System"
+msgstr "Sistem Operasi"
+
+#: ../admin/overview.php:244
+msgid "Server"
+msgstr "Server"
+
+#: ../admin/overview.php:245
+msgid "Memory usage"
+msgstr "Pemakaian memori"
+
+#: ../admin/overview.php:246
+msgid "MYSQL Version"
+msgstr "Versi MySQL"
+
+#: ../admin/overview.php:247
+msgid "SQL Mode"
+msgstr "Mode SQL"
+
+#: ../admin/overview.php:248
+msgid "PHP Version"
+msgstr "Versi PHP"
+
+#: ../admin/overview.php:249
+msgid "PHP Safe Mode"
+msgstr "Safe Mode PHP"
+
+#: ../admin/overview.php:250
+msgid "PHP Allow URL fopen"
+msgstr "Allow URL fopen PHP"
+
+#: ../admin/overview.php:251
+msgid "PHP Memory Limit"
+msgstr "Memory Limit PHP"
+
+#: ../admin/overview.php:252
+msgid "PHP Max Upload Size"
+msgstr "Max Upload Size PHP"
+
+#: ../admin/overview.php:253
+msgid "PHP Max Post Size"
+msgstr "Max Post Size PHP"
+
+#: ../admin/overview.php:254
+msgid "PHP Max Script Execute Time"
+msgstr "Max Script Execute Time PHP"
+
+#: ../admin/overview.php:255
+msgid "PHP Exif support"
+msgstr "Dukungan PHP Exif"
+
+#: ../admin/overview.php:256
+msgid "PHP IPTC support"
+msgstr "Dukungan IPTC  PHP"
+
+#: ../admin/overview.php:257
+msgid "PHP XML support"
+msgstr "Dukungan XML PHP"
+
+#: ../admin/overview.php:315
+msgid "Storage Space"
+msgstr "Kapasitas Penyimpanan"
+
+#: ../admin/overview.php:318
+msgid "Upload Space Used:"
+msgstr "Ruang Unggahan Terpakai:"
+
+#: ../admin/overview.php:324
+msgid "Upload Space Remaining:"
+msgstr "Ruang Unggahan Tersisa:"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Kemampuang diperbaharui"
+
+#: ../admin/roles.php:27
+msgid "Roles / capabilities"
+msgstr "Peran / kemampuan"
+
+#: ../admin/roles.php:28
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Pilih peran terendah yang mana dapat mengakses kemampuan berikut. NextGEN Gallery mendukung peran standar dari WordPress."
+
+#: ../admin/roles.php:29
+msgid "For a more flexible user management you can use the"
+msgstr "Untuk manajemen pemakai yang lebih fleksible Anda dapat mempergunakan"
+
+#: ../admin/roles.php:34
+msgid "Main NextGEN Gallery overview"
+msgstr "Gambaran NextGEN Galeri utama"
+
+#: ../admin/roles.php:38
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Pakai Tombol TinyMCE / tab Unggahan"
+
+#: ../admin/roles.php:42
+msgid "Add gallery / Upload images"
+msgstr "Tambah galeri / Unggah foto"
+
+#: ../admin/roles.php:46
+msgid "Manage gallery"
+msgstr "Atur galeri"
+
+#: ../admin/roles.php:50
+msgid "Manage others gallery"
+msgstr "Atur galeri lain"
+
+#: ../admin/roles.php:54
+msgid "Manage tags"
+msgstr "Atur tag"
+
+#: ../admin/roles.php:58
+msgid "Edit Album"
+msgstr "Sunting Album"
+
+#: ../admin/roles.php:62
+msgid "Change style"
+msgstr "Ganti penggayaan"
+
+#: ../admin/roles.php:66
+msgid "Change options"
+msgstr "Ganti opsi"
+
+#: ../admin/roles.php:70
+msgid "Update capabilities"
+msgstr "Perbaharui kemampuan"
+
+#: ../admin/settings.php:61
+msgid "Cache cleared"
+msgstr "Tembolok dihapus"
+
+#: ../admin/settings.php:109
+#: ../admin/settings.php:121
+msgid "General Options"
+msgstr "Opsi umum"
+
+#: ../admin/settings.php:110
+#: ../admin/settings.php:291
+msgid "Thumbnails"
+msgstr "Miniatur"
+
+#: ../admin/settings.php:111
+msgid "Images"
+msgstr "Gambar"
+
+#: ../admin/settings.php:113
+#: ../admin/settings.php:328
+msgid "Effects"
+msgstr "Efek"
+
+#: ../admin/settings.php:114
+#: ../admin/settings.php:366
+#: ../admin/tinymce/window.php:119
+msgid "Watermark"
+msgstr "Tanda air"
+
+#: ../admin/settings.php:115
+#: ../admin/settings.php:292
+#: ../admin/settings.php:470
+#: ../admin/tinymce/window.php:58
+msgid "Slideshow"
+msgstr "Lembar presentasi"
+
+#: ../admin/settings.php:127
+#: ../admin/wpmu.php:48
+msgid "Gallery path"
+msgstr "Lokasi galeri"
+
+#: ../admin/settings.php:129
+msgid "This is the default path for all galleries"
+msgstr "Ini adalah lokasi bawaan untuk semua galeri"
+
+#: ../admin/settings.php:132
+msgid "Delete image files"
+msgstr "Hapus berkas gambar"
+
+#: ../admin/settings.php:134
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Hapus berkas, ketika menyingkirkan sebuah galeri dalam database"
+
+#: ../admin/settings.php:137
+msgid "Activate permalinks"
+msgstr "Aktifkan permalinks"
+
+#: ../admin/settings.php:139
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Ketika Anda mengaktifkan opsi ini, Anda ingin memperbaharui struktur permalink Anda sekali."
+
+#: ../admin/settings.php:142
+msgid "Select graphic library"
+msgstr "Pilih perpustakaan grafik"
+
+#: ../admin/settings.php:143
+msgid "GD Library"
+msgstr "Perpustakaan GD"
+
+#: ../admin/settings.php:144
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (Eksperimen). Lokasi ke perpustakaan :"
+
+#: ../admin/settings.php:149
+msgid "Activate Media RSS feed"
+msgstr "Aktivasi feed RSS Media"
+
+#: ../admin/settings.php:151
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "Sebuah feed RSS akan ditambahkan ke kepala header Anda. Berguna untuk CoolIris/PicLens"
+
+#: ../admin/settings.php:154
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktivasi dukungan PicLens/CoolIris"
+
+#: ../admin/settings.php:156
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Ketika Anda mengaktifkan opsi ini, beberapa javascript ditambahkan ke catatan kaki situs Anda. Pastikan bahwa wp_footer dipanggil dalam tema Anda."
+
+#: ../admin/settings.php:159
+msgid "Tags / Categories"
+msgstr "Tag / Kategori"
+
+#: ../admin/settings.php:162
+msgid "Activate related images"
+msgstr "Aktivasi gambar yang relevan"
+
+#: ../admin/settings.php:164
+msgid "This option will append related images to every post"
+msgstr "Opsi ini akan menambahkan gambar relevant ke setiap tulisan"
+
+#: ../admin/settings.php:168
+msgid "Match with"
+msgstr "Cocokkan dengan"
+
+#: ../admin/settings.php:169
+msgid "Categories"
+msgstr "Kategori"
+
+#: ../admin/settings.php:174
+msgid "Max. number of images"
+msgstr "Jumlah gambar maksimum"
+
+#: ../admin/settings.php:176
+msgid "0 will show all images"
+msgstr "0 akan menampilkan semua gambar"
+
+#: ../admin/settings.php:187
+msgid "Thumbnail settings"
+msgstr "Pengaturan miniatur"
+
+#: ../admin/settings.php:191
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Mohon dicatat : Jika Anda mengganti pengaturan, Anda perlu membuat ulang miniatur di -> Pengaturan Galeri ."
+
+#: ../admin/settings.php:194
+msgid "Width x height (in pixel)"
+msgstr "Lebar x tinggi (dalam piksel)"
+
+#: ../admin/settings.php:196
+msgid "These values are maximum values "
+msgstr "Nilai ini adalah nilai maksimum"
+
+#: ../admin/settings.php:199
+msgid "Set fix dimension"
+msgstr "Set dimensi tetap"
+
+#: ../admin/settings.php:201
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Abaikan rasio aspek, tidak ada miniatur potret"
+
+#: ../admin/settings.php:204
+msgid "Crop square thumbnail from image"
+msgstr "Penggal miniatur bujursangkar dari gambar"
+
+#: ../admin/settings.php:206
+msgid "Create square thumbnails, use only the width setting :"
+msgstr "Buat miniatur bujursangkar, pakai hanya pengaturan lebar :"
+
+#: ../admin/settings.php:209
+msgid "Thumbnail quality"
+msgstr "Kualitas miniatur"
+
+#: ../admin/settings.php:220
+msgid "Image settings"
+msgstr "Pengaturan gambar"
+
+#: ../admin/settings.php:226
+msgid "Resize Images"
+msgstr "Ganti Ukuran Gambar"
+
+#: ../admin/settings.php:230
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Lebar x tinggi (dalam piksel). NextGEN Gallery akan menyimpan ukuran rasio"
+
+#: ../admin/settings.php:233
+msgid "Image quality"
+msgstr "Kualitas gambar"
+
+#: ../admin/settings.php:238
+msgid "Single picture"
+msgstr "Gambar tunggal"
+
+#: ../admin/settings.php:241
+msgid "Cache single pictures"
+msgstr "Masukkan gambar tunggal dalam tembolok"
+
+#: ../admin/settings.php:244
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Buat sebuah berkas untuks etiap pengaturan gambar tunggal. Kurangi beban CPU"
+
+#: ../admin/settings.php:247
+msgid "Clear cache folder"
+msgstr "Bersihkan folder tembolok"
+
+#: ../admin/settings.php:249
+msgid "Proceed now"
+msgstr "Lanjut sekarang"
+
+#: ../admin/settings.php:265
+msgid "Deactivate gallery page link"
+msgstr "Nonaktifkan taut halaman galeri"
+
+#: ../admin/settings.php:267
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Album tidak akan ditautkan ke halaman anak galeri. Galeri akan ditampilkan pada halaman yang sama."
+
+#: ../admin/settings.php:271
+msgid "Number of images per page"
+msgstr "Jumlah gambar per halaman"
+
+#: ../admin/settings.php:273
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 akan mematikan penomoran halaman, semua gambar dalam satu halaman"
+
+#: ../admin/settings.php:277
+msgid "Number of columns"
+msgstr "Jumlah kolom"
+
+#: ../admin/settings.php:279
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 akan menampilkan sebanyak mungkin berdasarkan lebar dari tema Anda. Pengaturan secara normal hanya diperlukan untuk keterangan di bawah gambar"
+
+#: ../admin/settings.php:283
+msgid "Integrate slideshow"
+msgstr "Integrasi lembaran presentasi"
+
+#: ../admin/settings.php:290
+msgid "Show first"
+msgstr "Tampilkan pertama"
+
+#: ../admin/settings.php:296
+msgid "Show ImageBrowser"
+msgstr "Tampilkan ImageBrowser"
+
+#: ../admin/settings.php:298
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galeri akan membuka ImageBrowser bukan efek."
+
+#: ../admin/settings.php:302
+msgid "Sort options"
+msgstr "Sortir opsi"
+
+#: ../admin/settings.php:305
+msgid "Sort thumbnails"
+msgstr "Sortir miniatur"
+
+#: ../admin/settings.php:307
+msgid "Custom order"
+msgstr "Urutan tersuai"
+
+#: ../admin/settings.php:309
+msgid "File name"
+msgstr "Nama berkas"
+
+#: ../admin/settings.php:310
+msgid "Alt / Title text"
+msgstr "Teks Alt / Judul"
+
+#: ../admin/settings.php:311
+msgid "Date / Time"
+msgstr "Tanggal / Waktu"
+
+#: ../admin/settings.php:315
+msgid "Sort direction"
+msgstr "Sortir arah"
+
+#: ../admin/settings.php:332
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Thickbox effect will automatic added to your theme."
+msgstr "Di sini Anda akan memilih efek miniatur, NextGEN Gallery akan mengintegrasi kode HTML yang dibuuthkan dalam gambar. Harap dicatat bahwa hanya efek Thickbox akan ditambahkan ke tema Anda."
+
+#: ../admin/settings.php:333
+msgid "With the placeholder"
+msgstr "Dengan wadah tersedia"
+
+#: ../admin/settings.php:333
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "Anda dapat mengaktifasi navigasi melalui gambar (tergantung dari efek). Ganti hanya baris kode, ketika Anda menggunakan efek miniatur lain atau Anda tau apa yang Anda kerjakan."
+
+#: ../admin/settings.php:336
+msgid "JavaScript Thumbnail effect"
+msgstr "Efek Miniatur JavaScript"
+
+#: ../admin/settings.php:340
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:341
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:342
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:343
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:344
+msgid "Custom"
+msgstr "Tesuai"
+
+#: ../admin/settings.php:349
+msgid "Link Code line"
+msgstr "Baris Kode Taut"
+
+#: ../admin/settings.php:367
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Harap dicatat : Anda dapat mengaktifasi tanda air di bawah -> Atur Galeri. Aksi ini tidak dapat dibatalkan."
+
+#: ../admin/settings.php:372
+msgid "Preview"
+msgstr "Tinjau"
+
+#: ../admin/settings.php:374
+#: ../admin/settings.php:379
+msgid "Position"
+msgstr "Posisi"
+
+#: ../admin/settings.php:399
+msgid "Offset"
+msgstr "Ofset"
+
+#: ../admin/settings.php:415
+msgid "Use image as watermark"
+msgstr "Pakai gambar sebagai tanda air"
+
+#: ../admin/settings.php:418
+msgid "URL to file"
+msgstr "URL ke berkas"
+
+#: ../admin/settings.php:420
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Berkas URL yang mengakses telah dimatikan pada server Anda (allow_url_fopen)"
+
+#: ../admin/settings.php:423
+msgid "Use text as watermark"
+msgstr "Pergunakan teks sebagai tanda air"
+
+#: ../admin/settings.php:426
+msgid "Font"
+msgstr "Font"
+
+#: ../admin/settings.php:435
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "FUngsi ini tidak akan bekerja, karena Anda memerlukan perpustakaan FreeType"
+
+#: ../admin/settings.php:437
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Anda dapat mengunggah lebih banyak font dalam folder <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:446
+msgid "Color"
+msgstr "Warna"
+
+#: ../admin/settings.php:448
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: ../admin/settings.php:451
+msgid "Text"
+msgstr "Teks"
+
+#: ../admin/settings.php:455
+msgid "Opaque"
+msgstr "Kepadatan"
+
+#: ../admin/settings.php:475
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Lokasi ke imagerotator.swf tidak terdefinisi, lembar presentasi tidak akan berfungsi."
+
+#: ../admin/settings.php:476
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Jika Anda ingin menggunakan JW Image Rotator, harap unduh pemainnya <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >di sini</a> dan unggah ke folder Upload Anda (Bawannya wp-content/uploads)."
+
+#: ../admin/settings.php:481
+msgid "The settings are used in the JW Image Rotator Version"
+msgstr "Pengaturan dipergunakan di dalam Versi JW Image Rotator"
+
+#: ../admin/settings.php:482
+msgid "See more information for the Flash Player on the web page"
+msgstr "Lihat informasi lebih lanjut untuk Pemain Flash dalam halaman web"
+
+#: ../admin/settings.php:486
+msgid "Path to the Imagerotator (URL)"
+msgstr "Lokasi ke Imagerotator (URL)"
+
+#: ../admin/settings.php:489
+msgid "Search now"
+msgstr "Cari sekarang"
+
+#: ../admin/settings.php:490
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Tekan tombol untuk mencari imagerotator secara otomatis, jika Anda mengunggah ke wp-content/uploads atau sebuah folder anak"
+
+#: ../admin/settings.php:494
+msgid "Default size (W x H)"
+msgstr "Ukuran bawaan (L x T)"
+
+#: ../admin/settings.php:499
+msgid "Shuffle mode"
+msgstr "Acak mode"
+
+#: ../admin/settings.php:503
+msgid "Show next image on click"
+msgstr "Tampilkan gambar selanjutnya saat diklik"
+
+#: ../admin/settings.php:507
+msgid "Show navigation bar"
+msgstr "Tampilkan batang navigasi"
+
+#: ../admin/settings.php:511
+msgid "Show loading icon"
+msgstr "Tampilkan ikon pemuatan"
+
+#: ../admin/settings.php:515
+msgid "Use watermark logo"
+msgstr "Pergunakan logo tanda air"
+
+#: ../admin/settings.php:517
+msgid "You can change the logo at the watermark settings"
+msgstr "Anda dapat mengganti logo pada pengaturan tanda air"
+
+#: ../admin/settings.php:520
+msgid "Stretch image"
+msgstr "Tarik gambar"
+
+#: ../admin/settings.php:523
+msgid "true"
+msgstr "benar"
+
+#: ../admin/settings.php:524
+msgid "false"
+msgstr "salah"
+
+#: ../admin/settings.php:525
+msgid "fit"
+msgstr "muat"
+
+#: ../admin/settings.php:526
+msgid "none"
+msgstr "tidak ada"
+
+#: ../admin/settings.php:531
+msgid "Duration time"
+msgstr "Waktu durasi"
+
+#: ../admin/settings.php:532
+msgid "sec."
+msgstr "det."
+
+#: ../admin/settings.php:535
+msgid "Transition / Fade effect"
+msgstr "Transisi / Efek memudar"
+
+#: ../admin/settings.php:538
+msgid "fade"
+msgstr "pudar"
+
+#: ../admin/settings.php:539
+msgid "bgfade"
+msgstr "pudar latar belakang"
+
+#: ../admin/settings.php:540
+msgid "slowfade"
+msgstr "pudar perlahan-lahan"
+
+#: ../admin/settings.php:541
+msgid "circles"
+msgstr "putaran"
+
+#: ../admin/settings.php:542
+msgid "bubbles"
+msgstr "gelembung"
+
+#: ../admin/settings.php:543
+msgid "blocks"
+msgstr "blok"
+
+#: ../admin/settings.php:544
+msgid "fluids"
+msgstr "cairan"
+
+#: ../admin/settings.php:545
+msgid "flash"
+msgstr "kilat"
+
+#: ../admin/settings.php:546
+msgid "lines"
+msgstr "garis"
+
+#: ../admin/settings.php:547
+msgid "random"
+msgstr "acak"
+
+#: ../admin/settings.php:551
+msgid "Use slow zooming effect"
+msgstr "Pergunakan efek pembesaran secara perlahan"
+
+#: ../admin/settings.php:555
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: ../admin/settings.php:560
+msgid "Texts / Buttons Color"
+msgstr "Warna Teks / Tombol"
+
+#: ../admin/settings.php:565
+msgid "Rollover / Active Color"
+msgstr "Warna Rollover / Aktif"
+
+#: ../admin/settings.php:570
+msgid "Screen Color"
+msgstr "Warna Tampilan"
+
+#: ../admin/settings.php:575
+msgid "Background music (URL)"
+msgstr "Musik latar belakang (URL)"
+
+#: ../admin/settings.php:579
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Coba validasi XHTML (dengan CDATA)"
+
+#: ../admin/settings.php:581
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Penting: Dapat menyebabkan masalah pada beberapa perambah. Mohon periksa halaman Anda."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Reset semua pengaturan ke parameter bawaan"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Bongkar telah sukses ! Sekarang hapus plugin dan nikmati hidup Anda ! Semoga sukses !"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Reset opsi"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Reset semua opsi/pengaturan ke pemasangan bawaan."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Reset pengaturan"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Reset semua opsi ke pengaturan bawaan ?\\n"
+"\\n"
+"Pilih [Batal] untuk Berhenti, [OK} untuk melanjutkan.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Bongkar tabel plugin"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Anda tidak suka NextGEN Gallery?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Tidak masalah, sebelum Anda menonaktifkan plugin ini tekan tombol Bongkar, karena menonaktifkan NextGEN Gallery tidak menyingkirkan data apapun yang telah dibuat."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "PERHATIAN:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Setelah dibongkar, ini tidak dapat dibatalkan. Anda seharusnya menggunakan plugin Database Backup dari WordPress untuk membuat cadangan tabel sebelumnya. NextGEN Gallery disimpan dalam tabel"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "dan"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Bongkar plugin"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Anda hampir akan membongkar plugin ini dari WordPress.\\n"
+"Aksi ini tidak dapat dibalikkan.\\n"
+"\\n"
+"Pilih [Batal] untuk Berhenti, [OK] untuk Bongkar.\\n"
+
+#: ../admin/showmeta.php:46
+msgid "EXIF Data"
+msgstr "Data EXIF"
+
+#: ../admin/showmeta.php:51
+#: ../admin/showmeta.php:75
+#: ../admin/showmeta.php:99
+msgid "Tag"
+msgstr "Tag"
+
+#: ../admin/showmeta.php:52
+#: ../admin/showmeta.php:76
+#: ../admin/showmeta.php:100
+msgid "Value"
+msgstr "Nilai"
+
+#: ../admin/showmeta.php:65
+msgid "No exif data"
+msgstr "Tidak ada data EXIF"
+
+#: ../admin/showmeta.php:71
+msgid "IPTC Data"
+msgstr "Data IPTC"
+
+#: ../admin/showmeta.php:95
+msgid "XMP Data"
+msgstr "Data XMP"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(Dari folder tema)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Anda tidak memiliki permisi yang cukup untuk menyunting templat blog ini."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "Berkas CSS telah berhasil diperbaharui"
+
+#: ../admin/style.php:71
+msgid "Style Editor"
+msgstr "Penyunting Penggayaan"
+
+#: ../admin/style.php:75
+msgid "Activate and use style sheet:"
+msgstr "Aktivasi dan pakai stylesheet:"
+
+#: ../admin/style.php:95
+msgid "Activate"
+msgstr "Aktivasi"
+
+#: ../admin/style.php:105
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Sunting <strong>%s</strong>"
+
+#: ../admin/style.php:107
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Merambah <strong>%s</strong>"
+
+#: ../admin/style.php:117
+msgid "Version"
+msgstr "Versi"
+
+#: ../admin/style.php:120
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Tip : Salin stylesheet Anda (nggallery.css) ke folder tema, sehingga ia tidak akan hilang pada saat diperbaharui"
+
+#: ../admin/style.php:122
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Tema Anda berisi sebuah stylesheet NextGEN Gallery (nggallery.css), berkas ini akan dipakai"
+
+#: ../admin/style.php:136
+msgid "Update File"
+msgstr "Perbaharui Berkas"
+
+#: ../admin/style.php:139
+msgid "If this file were writable you could edit it."
+msgstr "Jika berkas ini dapat ditulis Anda dapat menyuntingnya."
+
+#: ../admin/style.php:144
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Oops, berkas ini tidak ditemukan! Cek ulang namanya dan coba lagi, terima kasih."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Paling populer"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Paling jarang dipergunakan"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Secara alfabet"
+
+#: ../admin/tags.php:95
+msgid "Manage image tags"
+msgstr "Atur tag gambar"
+
+#: ../admin/tags.php:107
+msgid "Existing Tags"
+msgstr "Tag yang Ada"
+
+#: ../admin/tags.php:111
+msgid "Search tags"
+msgstr "Cari Tag"
+
+#: ../admin/tags.php:115
+msgid "Go"
+msgstr "Jalan"
+
+#: ../admin/tags.php:120
+msgid "Sort Order:"
+msgstr "Urutan Penyortiran:"
+
+#: ../admin/tags.php:137
+#, php-format
+msgid "View all images tagged with %s"
+msgstr "Lihat semua gambar yang ditag dengan %s"
+
+#: ../admin/tags.php:152
+#: ../admin/tags.php:156
+#: ../admin/tags.php:169
+msgid "Previous tags"
+msgstr "Tag sebelumnya"
+
+#: ../admin/tags.php:165
+msgid "Next tags"
+msgstr "Tag sesudahnya"
+
+#: ../admin/tags.php:177
+msgid "Rename Tag"
+msgstr "Ganti Nama Tag"
+
+#: ../admin/tags.php:185
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Masukkan tag untuk mengganti nama dan nilainya. Anda dapat menggunakan fitur ini untuk menggabung tag juga. Klik \"Ganti Nama\" dan semua tulisan yang menggunakan tag ini akan diperbaharui."
+
+#: ../admin/tags.php:186
+#: ../admin/tags.php:234
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Anda dapat menentukan beberapa tag untuk diganti nama dengan memisahkannya dengan koma."
+
+#: ../admin/tags.php:190
+msgid "Tag(s) to rename:"
+msgstr "Tag untuk diganti nama:"
+
+#: ../admin/tags.php:194
+msgid "New tag name(s):"
+msgstr "Nama tag baru:"
+
+#: ../admin/tags.php:197
+msgid "Rename"
+msgstr "Ganti nama"
+
+#: ../admin/tags.php:203
+msgid "Delete Tag"
+msgstr "Hapus Tag"
+
+#: ../admin/tags.php:211
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Masukkan nama dari tag untuk menghapus. Tag ini akan disingkirkan dari semua tulisan."
+
+#: ../admin/tags.php:212
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Anda dapat menentukan tag untuk dihapus dengan memisahkannya dengan koma"
+
+#: ../admin/tags.php:216
+msgid "Tag(s) to delete:"
+msgstr "Tag untuk dihapus:"
+
+#: ../admin/tags.php:225
+msgid "Edit Tag Slug"
+msgstr "Sunting Wadah Tag"
+
+#: ../admin/tags.php:233
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Masukkan nama tag untuk menyunting wadahnya yang baru. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Definisi wadah</a>"
+
+#: ../admin/tags.php:238
+msgid "Tag(s) to match:"
+msgstr "Tag untuk dicocokkan:"
+
+#: ../admin/tags.php:242
+msgid "Slug(s) to set:"
+msgstr "Wadah untuk diset:"
+
+#: ../admin/upgrade.php:20
+msgid "Upgrade database structure..."
+msgstr "Perbaharui struktur database..."
+
+#: ../admin/upgrade.php:78
+#: ../admin/upgrade.php:88
+#: ../admin/upgrade.php:95
+#: ../admin/upgrade.php:106
+msgid "finished"
+msgstr "telah selesai"
+
+#: ../admin/upgrade.php:86
+msgid "Update file structure..."
+msgstr "Perbaharui struktur berkas..."
+
+#: ../admin/upgrade.php:93
+msgid "Import date and time information..."
+msgstr "Impor informasi tanggal dan waktu..."
+
+#: ../admin/upgrade.php:101
+msgid "Move imagerotator to new location..."
+msgstr "Pindahkan imagerotator ke lokasi baru..."
+
+#: ../admin/upgrade.php:170
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Beberapa folder/berkas tidak dapat diganti, mohon periksa lagi permisi dan pindai lagi folder dalam bagian pengaturan galeri."
+
+#: ../admin/upgrade.php:172
+msgid "Rename failed"
+msgstr "Pergantian nama gagal"
+
+#: ../admin/upgrade.php:267
+#: ../admin/upgrade.php:287
+msgid "Upgrade NextGEN Gallery"
+msgstr "Perbaharui NextGEN Gallery"
+
+#: ../admin/upgrade.php:268
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skrip mendeteksi bahwa Anda memperbaharui dari versi lama."
+
+#: ../admin/upgrade.php:269
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Tabel database Anda untuk NextGEN Gallery telah kedaluarsa, Anda harus memperbaharui sebelum Anda dapat melanjutkan."
+
+#: ../admin/upgrade.php:270
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Jika Anda ingin mengembalikan ke versi lama nantinya, mohon buat cadangan lengkap dari database dan gambar Anda."
+
+#: ../admin/upgrade.php:271
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Proses pembaharuan memerlukan waktu, harap sabar."
+
+#: ../admin/upgrade.php:272
+msgid "Start upgrade now"
+msgstr "Mulai pembaharuan sekarang"
+
+#: ../admin/upgrade.php:289
+msgid "Upgrade sucessful"
+msgstr "Pembaharuan berhasil"
+
+#: ../admin/upgrade.php:290
+msgid "Continue"
+msgstr "Lanjut"
+
+#: ../admin/wpmu.php:32
+msgid "Update successfully"
+msgstr "Pembaharuan telah sukses"
+
+#: ../admin/wpmu.php:41
+msgid "General WordPress MU Settings"
+msgstr "Pengaturan WordPress MU Umum"
+
+#: ../admin/wpmu.php:50
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "Ini adalah lokasi bawaan untuk semua blog. Dengan wadah bawaan %BLOG_ID% Anda dapat mengorganisasi struktur folder dengan lebih baik. Lokasi harus diakhiri dengan sebuah /."
+
+#: ../admin/wpmu.php:53
+msgid "Enable upload quota check"
+msgstr "Aktifkan pemeriksaan quota unggahan"
+
+#: ../admin/wpmu.php:55
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Seharusnya berfungsi jika galeri di bawah ini berada di bawah blog.dir"
+
+#: ../admin/wpmu.php:59
+msgid "Enable zip upload option"
+msgstr "Aktifkan opsi unggah zip"
+
+#: ../admin/wpmu.php:61
+msgid "Allow users to upload zip folders."
+msgstr "Izinkan pemakai untuk mengunggah folder zip."
+
+#: ../admin/wpmu.php:65
+msgid "Enable style selection"
+msgstr "Aktifkan pemilihan gaya"
+
+#: ../admin/wpmu.php:67
+msgid "Allow users to choose a style for the gallery."
+msgstr "Izinkan pemakai untuk memilih sebuah gaya untuk galeri."
+
+#: ../admin/wpmu.php:71
+msgid "Enable roles/capabilities"
+msgstr "Aktifkan peran/kemampuan"
+
+#: ../admin/wpmu.php:73
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Izinkan pemakai untuk mengganti peran untuk penulis blog lain."
+
+#: ../admin/wpmu.php:77
+msgid "Default style"
+msgstr "Penggayaan bawaan"
+
+#: ../admin/wpmu.php:94
+msgid "Choose the default style for the galleries."
+msgstr "Pilih penggayaan bawaan untuk galeri."
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "Anda tidak diizinkan di sini"
+
+#: ../admin/tinymce/window.php:41
+msgid "Select gallery"
+msgstr "Pilih galeri"
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "Tampilkan sebagai"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "Daftar gambar"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "Imagebrowser"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "Tidak ada album"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "Versi tambahan"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "Versi kompak"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "Pilih gambar"
+
+#: ../admin/tinymce/window.php:99
+msgid "No picture"
+msgstr "Tidak ada gambar"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "Lebar x tinggi"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "Efek"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "Tidak ada efek"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "Apung"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "Tidak terapung"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "Masukkan"
+
+#: ../lib/core.php:419
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Catatan : Berdasarkan batasan memori server Anda seharusnya tidak mengunggah gambar yang lebih besar dari <strong>%d x %d</strong> piksel"
+
+#: ../lib/meta.php:87
+msgid " mm"
+msgstr "mm"
+
+#: ../lib/meta.php:93
+msgid " sec"
+msgstr "det"
+
+#: ../lib/meta.php:371
+#: ../view/imagebrowser-exif.php:42
+msgid "Aperture"
+msgstr "Apertur"
+
+#: ../lib/meta.php:372
+#: ../lib/meta.php:397
+msgid "Credit"
+msgstr "Kredit"
+
+#: ../lib/meta.php:373
+msgid "Camera"
+msgstr "Kamre"
+
+#: ../lib/meta.php:374
+msgid "Caption"
+msgstr "Catatan"
+
+#: ../lib/meta.php:376
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: ../lib/meta.php:377
+msgid "Focal length"
+msgstr "Panjang fokal"
+
+#: ../lib/meta.php:378
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:379
+#: ../view/imagebrowser-exif.php:50
+msgid "Shutter speed"
+msgstr "Kecepatan Shutter"
+
+#: ../lib/meta.php:383
+msgid "Subject"
+msgstr "Subjek"
+
+#: ../lib/meta.php:384
+msgid "Make"
+msgstr "Buat"
+
+#: ../lib/meta.php:385
+msgid "Edit Status"
+msgstr "Status Penyuntingan"
+
+#: ../lib/meta.php:386
+msgid "Category"
+msgstr "Kategori"
+
+#: ../lib/meta.php:387
+msgid "Keywords"
+msgstr "Kata kunci"
+
+#: ../lib/meta.php:388
+msgid "Date Created"
+msgstr "Tanggal Dibuat"
+
+#: ../lib/meta.php:389
+msgid "Time Created"
+msgstr "Waktu Dibuat"
+
+#: ../lib/meta.php:390
+msgid "Author Position"
+msgstr "Posisi Pemilik"
+
+#: ../lib/meta.php:391
+msgid "City"
+msgstr "Kota"
+
+#: ../lib/meta.php:392
+msgid "Location"
+msgstr "Lokasi"
+
+#: ../lib/meta.php:393
+msgid "Province/State"
+msgstr "Propinsi / Negara Bagian"
+
+#: ../lib/meta.php:394
+msgid "Country code"
+msgstr "Kode Negara"
+
+#: ../lib/meta.php:395
+msgid "Country"
+msgstr "Negara"
+
+#: ../lib/meta.php:396
+msgid "Headline"
+msgstr "Judul Utama"
+
+#: ../lib/meta.php:398
+msgid "Source"
+msgstr "SUmber"
+
+#: ../lib/meta.php:399
+msgid "Copyright Notice"
+msgstr "Pemberitahuan Hak Cipta"
+
+#: ../lib/meta.php:400
+msgid "Contact"
+msgstr "Kontak"
+
+#: ../lib/meta.php:401
+msgid "Last modified"
+msgstr "Terakhir dimodifikasi"
+
+#: ../lib/meta.php:402
+msgid "Program tool"
+msgstr "Alat bantu Program"
+
+#: ../lib/meta.php:403
+msgid "Format"
+msgstr "Format"
+
+#: ../lib/ngg-db.php:243
+msgid "Album overview"
+msgstr "Gambaran album"
+
+#: ../lib/shortcodes.php:275
+msgid "[Pictures not found]"
+msgstr "[Gambar tidak ditemukan]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Tidak ada tag baru ditentukan!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Tidak ada tag baru/lama yang valid ditentukan!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Tidak ada tag yang diganti namakan."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Ganti nama tag &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Tidak ada tag baru yang valid."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Tidak ada objek (tulisan/halaman) ditemukan untuk tag lama yang ditentukan."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Tidak ada tag yang digabungkan."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Gabungkan tag &laquo;%1$s&raquo; ke &laquo;%2$s&raquo;. %3$s objek telah disunting."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Kesalahan. Tidak cukup tag untuk diganti nama. Juga untuk digabungkan. Pilih !"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Tidak ada tag yang ditentukan!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Tidak ada tag yang dihapus."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s tag telah dihapus."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Tidak ada wadah baru ditentukan!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Nomor tag dan nomor wadah tidak sama!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Tidak ada wadah disunting."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s wadah telah disunting."
+
+#: ../view/album-compact.php:31
+#: ../view/album-extend.php:29
+msgid "Photos"
+msgstr "Foto"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+msgid "[View with PicLens]"
+msgstr "[Lihat dengan PicLens]"
+
+#: ../view/imagebrowser-exif.php:26
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Balik"
+
+#: ../view/imagebrowser-exif.php:29
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: ../view/imagebrowser-exif.php:31
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "dari"
+
+#: ../view/imagebrowser-exif.php:34
+msgid "Meta data"
+msgstr "Meta data"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Camera / Type"
+msgstr "Kamera / Tipe"
+
+#: ../view/imagebrowser-exif.php:46
+msgid "Focal Length"
+msgstr "Panjang Fokal"
+
+#: ../widgets/media-rss-widget.php:31
+msgid "NextGEN Media RSS"
+msgstr "RSS Media NextGEN"
+
+#: ../widgets/media-rss-widget.php:37
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget yang menampilkan taut RSS Media untuk NextGEN Gallery."
+
+#: ../widgets/media-rss-widget.php:135
+#: ../widgets/media-rss-widget.php:203
+#: ../widgets/media-rss-widget.php:260
+msgid "Media RSS"
+msgstr "RSS Media"
+
+#: ../widgets/media-rss-widget.php:136
+#: ../widgets/media-rss-widget.php:261
+msgid "Link to the main image feed"
+msgstr "Tautkan ke feed gambar utama"
+
+#: ../widgets/media-rss-widget.php:153
+#: ../widgets/widgets.php:133
+msgid "Title:"
+msgstr "Judul:"
+
+#: ../widgets/media-rss-widget.php:160
+msgid "Media RSS icon:"
+msgstr "Ikon RSS Media:"
+
+#: ../widgets/media-rss-widget.php:168
+msgid "Show the global Media RSS link:"
+msgstr "Tampilkan taut RSS Media global:"
+
+#: ../widgets/media-rss-widget.php:172
+msgid "Text for the global Media RSS link:"
+msgstr "Teks untuk taut RSS Media global:"
+
+#: ../widgets/media-rss-widget.php:178
+msgid "Tooltip text for the global Media RSS link:"
+msgstr "Teks tooltip untuk taut RSS Media global:"
+
+#: ../widgets/widgets.php:28
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Tampilkan Lembar Presentasi NextGEN Gallery"
+
+#: ../widgets/widgets.php:29
+#: ../widgets/widgets.php:30
+msgid "NextGEN Slideshow"
+msgstr "Lembar Presentasi NextGEN"
+
+#: ../widgets/widgets.php:54
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Perolah Pemain Flash</a> untuk menonton lembar presentasi."
+
+#: ../widgets/widgets.php:135
+msgid "Select Gallery:"
+msgstr "Pilih Galeri:"
+
+#: ../widgets/widgets.php:137
+msgid "All images"
+msgstr "Semua gambar"
+
+#: ../widgets/widgets.php:150
+msgid "Height:"
+msgstr "Tinggi:"
+
+#: ../widgets/widgets.php:151
+msgid "Width:"
+msgstr "Lebar:"
+
+#: ../widgets/widgets.php:184
+msgid "Add recent or random images from the galleries"
+msgstr "Tambahkan gambar belakangan ini atau acak dari galeri"
+
+#: ../widgets/widgets.php:186
+msgid "NextGEN Widget"
+msgstr "Widget NextGEN"
+
+#: ../widgets/widgets.php:286
+msgid "Title :"
+msgstr "Judul:"
+
+#: ../widgets/widgets.php:292
+msgid "Show :"
+msgstr "Tampilkan:"
+
+#: ../widgets/widgets.php:298
+msgid "Original images"
+msgstr "Gambar asli"
+
+#: ../widgets/widgets.php:306
+msgid "recent added "
+msgstr "ditambahkan belakangan"
+
+#: ../widgets/widgets.php:312
+msgid "Enable IE8 Web Slices"
+msgstr "Aktifkan Web Slices IE8"
+
+#: ../widgets/widgets.php:317
+msgid "Width x Height :"
+msgstr "Lebar x Tinggi:"
+
+#: ../widgets/widgets.php:324
+msgid "Select :"
+msgstr "Pilih:"
+
+#: ../widgets/widgets.php:326
+msgid "All galleries"
+msgstr "Semua galeri:"
+
+#: ../widgets/widgets.php:327
+msgid "Only which are not listed"
+msgstr "Hanya yang tidak didaftarkan"
+
+#: ../widgets/widgets.php:328
+msgid "Only which are listed"
+msgstr "Hanya yang didaftarkan"
+
+#: ../widgets/widgets.php:334
+msgid "Gallery ID :"
+msgstr "ID Gallery"
+
+#: ../widgets/widgets.php:336
+msgid "Gallery IDs, separated by commas."
+msgstr "ID Gallery, dipisahkan koma."
+
+#: ../xml/media-rss.php:58
+msgid "No galleries have been yet created."
+msgstr "Tidak ada galeri yang telah dibuat."
+
+#: ../xml/media-rss.php:77
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "ID Galeri=%s tidak ada."
+
+#: ../xml/media-rss.php:108
+msgid "No album ID has been provided as parameter"
+msgstr "ID album telah disertakan sebagai parameter"
+
+#: ../xml/media-rss.php:116
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "ID Album=%s tidak ada."
+
+#: ../xml/media-rss.php:123
+#, php-format
+msgid "Invalid MediaRSS command (%s)."
+msgstr "Perintah MediaRSS tidak valid (%s)."
+

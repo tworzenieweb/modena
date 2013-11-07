@@ -1,0 +1,4461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-07 13:00+0100\n"
+"PO-Revision-Date: 2009-07-12 21:24+0100\n"
+"Last-Translator: Alex Rabe\n"
+"Language-Team: Alex Rabe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: nggallery.php:238
+#@ nggallery
+msgid "Picture tag"
+msgstr "Tag slike"
+
+#: nggallery.php:239
+#, php-format
+#@ nggallery
+msgid "Picture tag: %2$l."
+msgstr "Tag slike: %2$l."
+
+#: nggallery.php:240
+#@ nggallery
+msgid "Separate picture tags with commas."
+msgstr "Odvojite tagove slike sa zarezom"
+
+#: nggallery.php:339
+#@ nggallery
+msgid "L O A D I N G"
+msgstr "U Č I T A V A N J E"
+
+#: nggallery.php:340
+#@ nggallery
+msgid "Click to Close"
+msgstr "Kliknite za zatvaranje"
+
+#: nggallery.php:361
+#@ nggallery
+msgid "loading"
+msgstr "učitavanje"
+
+#: lib/shortcodes.php:255
+#: nggfunctions.php:164
+#: nggfunctions.php:630
+#@ nggallery
+msgid "[Gallery not found]"
+msgstr "[Galerija nije pronađena]"
+
+#: nggfunctions.php:437
+#@ nggallery
+msgid "[Album not found]"
+msgstr "[Album nije pronađen]"
+
+#: nggfunctions.php:747
+#@ nggallery
+msgid "[SinglePic not found]"
+msgstr "[Slika nije pronađena]"
+
+#: nggfunctions.php:885
+#@ nggallery
+msgid "Related images for"
+msgstr "Povezane slike za"
+
+#: admin/admin.php:32
+#: nggallery.php:501
+#: nggfunctions.php:920
+#@ nggallery
+msgid "Overview"
+msgstr "Pregled"
+
+#: admin/about.php:10
+#@ nggallery
+msgid "Copyright notes / Credits"
+msgstr "Autorska prava / Zasluge"
+
+#: admin/about.php:13
+#@ nggallery
+msgid "NextGEN DEV Team"
+msgstr "NextGEN Razvojni Tim"
+
+#: admin/about.php:15
+#@ nggallery
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Ovaj plugin je primarno razvijen, održavan, podržan i dokumentiran od"
+
+#: admin/about.php:15
+#@ nggallery
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Još je mnogo ljudi pridonijelo ovom projektu:"
+
+#: admin/about.php:20
+#@ nggallery
+msgid "Contributors / Tribute to"
+msgstr "Suradnici / Priznanje"
+
+#: admin/about.php:22
+#@ nggallery
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Ako ćete proučiti kod ovog plugina, pronaći ćete da smo ga sastavili od mnogo dobrog postojećeg koda i ideja."
+
+#: admin/about.php:23
+#@ nggallery
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Zato, htjeli bi se zahvaliti sljedećim ljudima za izvrstan posta (bez njih bilo bi nemoguće napraviti ovakav plugin brzo)"
+
+#: admin/about.php:25
+#@ nggallery
+msgid "for their great documented code"
+msgstr "za njihov dokumentiran kod"
+
+#: admin/about.php:26
+#@ nggallery
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "za jQuery, najbolji Web 2.0 Framework"
+
+#: admin/about.php:27
+#@ nggallery
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "za fantastičan PHP Thumbnail Class"
+
+#: admin/about.php:28
+#@ nggallery
+msgid "for a lot of very useful plugins and ideas"
+msgstr "za mnogo korisnih plugina i ideja"
+
+#: admin/about.php:29
+#@ nggallery
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "za Shutter Reloaded, stvarno brzi efekti slika"
+
+#: admin/about.php:30
+#@ nggallery
+msgid "for the best Media Flash Scripts on earth"
+msgstr "za najbolje Media Flash skripte na svijetu"
+
+#: admin/about.php:32
+#@ nggallery
+msgid "for the Watermark plugin"
+msgstr "za plugin za vodene žigove"
+
+#: admin/about.php:34
+#@ nggallery
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Ako niste pronašli svoje ime na ovoj listi a postoji neki vaš kod integriran u moj plugin, ne ustručavajte se poslati mi email."
+
+#: admin/about.php:38
+#@ nggallery
+msgid "How to support ?"
+msgstr "Podrška"
+
+#: admin/about.php:40
+#@ nggallery
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Postoji nekoliko načina kako možete pridonijeti, pomoći ili nas podržati u radu. Nisu svi ključni."
+
+#: admin/about.php:42
+#@ nggallery
+msgid "Send us bugfixes / code changes"
+msgstr "Pošaljite nam ispravljenje greške / izmjene koda"
+
+#: admin/about.php:42
+#@ nggallery
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Najmotiviranija podrška za ovaj plugin su vaše ideje"
+
+#: admin/about.php:43
+#@ nggallery
+msgid "Translate the plugin"
+msgstr "Prevedite plugin"
+
+#: admin/about.php:43
+#@ nggallery
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Da pomognem ljudima raditi s ovim pluginom, želio bih ga imati u svim dostupnim jezicima"
+
+#: admin/about.php:44
+#@ nggallery
+msgid "Donate the work via paypal"
+msgstr "Donirajte preko Paypala"
+
+#: admin/about.php:57
+#@ nggallery
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Bez sumnje veoma laka i korisna motivacija :-)"
+
+#: admin/about.php:59
+#@ nggallery
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Stavite link na plugin na vaš blog/stranicu"
+
+#: admin/about.php:59
+#@ nggallery
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Da, dijeljenje i trackback je također dobra podrška našem radu"
+
+#: admin/about.php:64
+#@ nggallery
+msgid "Thanks!"
+msgstr "Hvala!"
+
+#: admin/about.php:66
+#@ nggallery
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Željeli bismo se zahvaliti ovim ljudima koji nas podržavaju u radu:"
+
+#: admin/about.php:166
+#@ nggallery
+msgid "and all donators..."
+msgstr "I svima koji su donirali..."
+
+#: admin/addgallery.php:62
+#@ nggallery
+msgid "Upload failed!"
+msgstr "Upload nije izvršen!"
+
+#: admin/addgallery.php:90
+#: admin/functions.php:930
+#: admin/functions.php:1030
+#@ nggallery
+msgid "No gallery selected !"
+msgstr "Nijedna galerija nije odabrana!"
+
+#: admin/addgallery.php:159
+#@ nggallery
+msgid "Image Files"
+msgstr "Slike"
+
+#: admin/addgallery.php:180
+#: admin/addgallery.php:208
+#@ nggallery
+msgid "remove"
+msgstr "obriši"
+
+#: admin/addgallery.php:181
+#: admin/addgallery.php:361
+#@ nggallery
+msgid "Browse..."
+msgstr "Pregledaj..."
+
+#: admin/addgallery.php:182
+#: admin/addgallery.php:194
+#: admin/addgallery.php:411
+#@ nggallery
+msgid "Upload images"
+msgstr "Uploadaj slike"
+
+#: admin/addgallery.php:274
+#: admin/addgallery.php:291
+#: admin/manage-galleries.php:112
+#: admin/manage-galleries.php:149
+#@ nggallery
+msgid "Add new gallery"
+msgstr "Dodaj novu galeriju"
+
+#: admin/addgallery.php:277
+#: admin/addgallery.php:313
+#@ nggallery
+msgid "Upload a Zip-File"
+msgstr "Uploadaj Zip datoteku"
+
+#: admin/addgallery.php:280
+#: admin/addgallery.php:355
+#@ nggallery
+msgid "Import image folder"
+msgstr "Importiraj folder sa slikama"
+
+#: admin/addgallery.php:271
+#: admin/addgallery.php:377
+#@ nggallery
+msgid "Upload Images"
+msgstr "Uploadaj Slike"
+
+#: admin/addgallery.php:296
+#: admin/manage-galleries.php:284
+#@ nggallery
+msgid "New Gallery"
+msgstr "Nova Galerija"
+
+#: admin/addgallery.php:299
+#: admin/manage-galleries.php:286
+#@ nggallery
+msgid "Create a new , empty gallery below the folder"
+msgstr "Stvori novu, praznu galeriju ispod direktorija"
+
+#: admin/addgallery.php:301
+#: admin/manage-galleries.php:288
+#@ nggallery
+msgid "Allowed characters for file and folder names are"
+msgstr "Dopušteni znakovi za imena datoteka i direktorija"
+
+#: admin/addgallery.php:305
+#@ nggallery
+msgid "Add gallery"
+msgstr "Dodaj galeriju"
+
+#: admin/addgallery.php:318
+#@ nggallery
+msgid "Select Zip-File"
+msgstr "Odaberite Zip datoteku"
+
+#: admin/addgallery.php:320
+#@ nggallery
+msgid "Upload a zip file with images"
+msgstr "Uploadaj zip datoteku sa slikama"
+
+#: admin/addgallery.php:324
+#@ nggallery
+msgid "or enter a Zip-File URL"
+msgstr "ili unesi link na Zip datoteku"
+
+#: admin/addgallery.php:326
+#@ nggallery
+msgid "Import a zip file with images from a url"
+msgstr "Importiraj zip datoteku sa slikama s linka"
+
+#: admin/addgallery.php:330
+#: admin/addgallery.php:386
+#@ nggallery
+msgid "in to"
+msgstr "u"
+
+#: admin/addgallery.php:332
+#@ nggallery
+msgid "a new gallery"
+msgstr "novu galeriju"
+
+#: admin/addgallery.php:343
+#@ nggallery
+msgid "Note : The upload limit on your server is "
+msgstr "Pozor: limit uploada na vašem serveru je"
+
+#: admin/addgallery.php:347
+#@ nggallery
+msgid "Start upload"
+msgstr "Započni upload"
+
+#: admin/addgallery.php:360
+#@ nggallery
+msgid "Import from Server path:"
+msgstr "Importaj sa servera:"
+
+#: admin/addgallery.php:365
+#@ nggallery
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Pozor: ukoliko je safe-mode uključen morate dodati pod-direktorij thumbs ručno"
+
+#: admin/addgallery.php:368
+#@ nggallery
+msgid "Import folder"
+msgstr "Importiraj direktorij"
+
+#: admin/addgallery.php:382
+#@ nggallery
+msgid "Upload image"
+msgstr "Uploadaj sliku"
+
+#: admin/addgallery.php:388
+#@ nggallery
+msgid "Choose gallery"
+msgstr "Odaberi galeriju"
+
+#: admin/addgallery.php:407
+#@ nggallery
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Upload više slika odjednom treba Adobe Flash 10, isključite ga ukoliko imate problema"
+
+#: admin/addgallery.php:407
+#@ nggallery
+msgid "Disable flash upload"
+msgstr "Isključi Flash upload"
+
+#: admin/addgallery.php:409
+#@ nggallery
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Uploadaj više slika odjednom držeći CTRL/SHIFT i selektiranjem u dijalogu"
+
+#: admin/addgallery.php:409
+#@ nggallery
+msgid "Enable flash based upload"
+msgstr "Aktiviraj Flash upload"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:31
+#: admin/admin.php:57
+#: admin/admin.php:292
+#: admin/admin.php:360
+#: admin/functions.php:178
+#: admin/manage-galleries.php:120
+#: admin/manage-galleries.php:372
+#: admin/manage-images.php:239
+#: admin/overview.php:495
+#: admin/settings.php:214
+#: admin/tinymce/window.php:42
+#: admin/tinymce/window.php:54
+#: lib/rewrite.php:185
+#: lib/rewrite.php:194
+#@ nggallery
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galerija"
+msgstr[1] "Galerije"
+
+#: admin/admin.php:33
+#@ nggallery
+msgid "Add Gallery / Images"
+msgstr "Dodaj Galeriju / Slike"
+
+#: admin/admin.php:34
+#@ nggallery
+msgid "Manage Gallery"
+msgstr "Upravljaj Galerijom"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:35
+#: admin/overview.php:501
+#: admin/tinymce/window.php:43
+#: admin/tinymce/window.php:75
+#: lib/rewrite.php:191
+#@ nggallery
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Albumi"
+
+#: admin/admin.php:36
+#: admin/settings.php:284
+#: lib/meta.php:441
+#@ nggallery
+msgid "Tags"
+msgstr "Tagovi"
+
+#: admin/admin.php:37
+#@ nggallery
+msgid "Options"
+msgstr "Opcije"
+
+#: admin/admin.php:39
+#@ nggallery
+msgid "Style"
+msgstr "Stil"
+
+#: admin/admin.php:41
+#@ nggallery
+msgid "Roles"
+msgstr "Uloge"
+
+#: admin/admin.php:42
+#@ nggallery
+msgid "About this Gallery"
+msgstr "O ovoj galeriji"
+
+#: admin/admin.php:42
+#@ nggallery
+msgid "About"
+msgstr "O nama"
+
+#: admin/admin.php:45
+#: admin/media-upload.php:11
+#@ nggallery
+msgid "NextGEN Gallery"
+msgstr "NextGEN Galerija"
+
+#: admin/admin.php:186
+#@ nggallery
+msgid "You do not have the correct permission"
+msgstr "Nemate potrebna dopuštenja"
+
+#: admin/admin.php:187
+#@ nggallery
+msgid "Unexpected Error"
+msgstr "Neočekivan error"
+
+#: admin/admin.php:188
+#@ nggallery
+msgid "A failure occurred"
+msgstr "Pojavila se greška"
+
+#: admin/admin.php:296
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Uvod</a>"
+
+#: admin/admin.php:299
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Postavljanje</a>"
+
+#: admin/admin.php:305
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Uloge / Mogućnosti</a>"
+
+#: admin/admin.php:308
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Stilovi</a>"
+
+#: admin/admin.php:309
+#@ nggallery
+msgid "Templates"
+msgstr "Predlošci"
+
+#: admin/admin.php:312
+#: admin/admin.php:318
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Uređivanje galerije</a>"
+
+#: admin/admin.php:313
+#@ nggallery
+msgid "Gallery example"
+msgstr "Primjer galerije"
+
+#: admin/admin.php:319
+#: admin/admin.php:329
+#@ nggallery
+msgid "Gallery tags"
+msgstr "Tagovi galerije"
+
+#: admin/admin.php:322
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Postavljanje albuma</a>"
+
+#: admin/admin.php:323
+#@ nggallery
+msgid "Album example"
+msgstr "Primjer albuma"
+
+#: admin/admin.php:324
+#: admin/admin.php:330
+#@ nggallery
+msgid "Album tags"
+msgstr "Tagovi albuma"
+
+#: admin/admin.php:327
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://www.curlyrob.de/curlyrob/?page_id=129\" target=\"_blank\">Tagovi galerije</a>"
+
+#: admin/admin.php:328
+#@ nggallery
+msgid "Related images"
+msgstr "Slične slike"
+
+#: admin/admin.php:333
+#@ nggallery
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Upravljanje slikama</a>"
+
+#: admin/admin.php:334
+#@ nggallery
+msgid "Custom fields"
+msgstr "Proizvoljna polja"
+
+#: admin/admin.php:339
+#@ nggallery
+msgid "Get help with NextGEN Gallery"
+msgstr "Potražite pomoć za NextGEN Galeriju"
+
+#: admin/admin.php:343
+#@ nggallery
+msgid "More Help & Info"
+msgstr "Više pomoći i informacija"
+
+#: admin/admin.php:346
+#@ nggallery
+msgid "FAQ"
+msgstr "Učestalo postavljana pitanja"
+
+#: admin/admin.php:347
+#@ nggallery
+msgid "Feature request"
+msgstr "Zatraži nova svojstva"
+
+#: admin/admin.php:348
+#@ nggallery
+msgid "Get your language pack"
+msgstr "Skinite svoj jezični paket"
+
+#: admin/admin.php:349
+#@ nggallery
+msgid "Contribute development"
+msgstr "Pridonesite razvoju"
+
+#: admin/admin.php:350
+#@ nggallery
+msgid "Download latest version"
+msgstr "Preuzmite posljednju verziju"
+
+#: admin/album.php:102
+#: admin/album.php:117
+#: admin/album.php:158
+#: admin/settings.php:74
+#: admin/style.php:24
+#@ nggallery
+msgid "Update Successfully"
+msgstr "Ažuriranje uspješno"
+
+#: admin/album.php:131
+#@ nggallery
+msgid "Album deleted"
+msgstr "Album obrisan"
+
+#: admin/album.php:278
+#@ nggallery
+msgid "Manage Albums"
+msgstr "Upravljaj albumima"
+
+#: admin/album.php:284
+#: admin/album.php:333
+#@ nggallery
+msgid "Select album"
+msgstr "Odaberi album"
+
+#: admin/album.php:286
+#@ nggallery
+msgid "No album selected"
+msgstr "Album nije odabran"
+
+#: admin/album.php:297
+#: admin/edit-thumbnail.php:157
+#: admin/overview.php:616
+#: admin/rotate.php:90
+#: admin/wpmu.php:126
+#@ nggallery
+#@ default
+msgid "Update"
+msgstr "Ažuriraj"
+
+#: admin/album.php:299
+#@ nggallery
+msgid "Edit album"
+msgstr "Editiraj album"
+
+#: admin/album.php:302
+#: admin/manage-galleries.php:139
+#: admin/manage-images.php:445
+#: admin/tags.php:223
+#@ nggallery
+#@ default
+msgid "Delete"
+msgstr "Obriši"
+
+#: admin/album.php:306
+#@ nggallery
+msgid "Add new album"
+msgstr "Dodaj novi album"
+
+#: admin/album.php:308
+#@ nggallery
+msgid "Add"
+msgstr "Dodaj"
+
+#: admin/album.php:319
+#@ nggallery
+msgid "Show / hide used galleries"
+msgstr "Prikaži / sakrij korištene galerije"
+
+#: admin/album.php:319
+#@ nggallery
+msgid "[Show all]"
+msgstr "[Prikaži sve]"
+
+#: admin/album.php:320
+#@ nggallery
+msgid "Maximize the widget content"
+msgstr "Povećaj sadržaj widgeta"
+
+#: admin/album.php:320
+#@ nggallery
+msgid "[Maximize]"
+msgstr "[Povećaj]"
+
+#: admin/album.php:321
+#@ nggallery
+msgid "Minimize the widget content"
+msgstr "Smanji sadržaj widgeta"
+
+#: admin/album.php:321
+#@ nggallery
+msgid "[Minimize]"
+msgstr "[Smanji]"
+
+#: admin/album.php:323
+#@ nggallery
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Nakon što kreirate i odaberete album, možete unijeti galeriju ili drugi album u novi album drag & drop metodom"
+
+#: admin/album.php:349
+#@ nggallery
+msgid "Select gallery"
+msgstr "Odaberi galeriju"
+
+#: admin/album.php:378
+#@ nggallery
+msgid "Album ID"
+msgstr "ID Albuma"
+
+#: admin/album.php:391
+#@ nggallery
+msgid "No album selected!"
+msgstr "Nijedan album nije odabran!"
+
+#: admin/album.php:411
+#@ nggallery
+msgid "Album name:"
+msgstr "Ime albuma:"
+
+#: admin/album.php:417
+#@ nggallery
+msgid "Album description:"
+msgstr "Opis albuma:"
+
+#: admin/album.php:423
+#@ nggallery
+msgid "Select a preview image:"
+msgstr "Slika za predstavljanje albuma:"
+
+#: admin/album.php:426
+#: admin/album.php:429
+#@ nggallery
+msgid "No picture"
+msgstr "Nema slike"
+
+#: admin/album.php:455
+#: admin/manage-galleries.php:293
+#: admin/manage-galleries.php:322
+#: admin/manage-galleries.php:352
+#: admin/manage-images.php:539
+#: admin/manage-images.php:575
+#: admin/manage-images.php:604
+#: admin/manage-images.php:634
+#@ nggallery
+msgid "OK"
+msgstr "OK"
+
+#: admin/album.php:457
+#: admin/manage-galleries.php:295
+#: admin/manage-galleries.php:324
+#: admin/manage-galleries.php:354
+#: admin/manage-images.php:541
+#: admin/manage-images.php:577
+#: admin/manage-images.php:606
+#: admin/manage-images.php:636
+#: admin/tinymce/window.php:134
+#@ nggallery
+msgid "Cancel"
+msgstr "Poništi"
+
+#: admin/album.php:541
+#@ nggallery
+msgid "Name"
+msgstr "Ime"
+
+#: admin/album.php:542
+#: admin/manage-images.php:255
+#: lib/meta.php:439
+#@ nggallery
+#@ default
+msgid "Title"
+msgstr "Naziv"
+
+#: admin/album.php:543
+#: lib/rewrite.php:197
+#@ nggallery
+msgid "Page"
+msgstr "Stranica"
+
+#: admin/functions.php:39
+#@ nggallery
+msgid "No valid gallery name!"
+msgstr "Ime galerije nije važeće!"
+
+#: admin/functions.php:46
+#: admin/functions.php:55
+#: admin/functions.php:80
+#: admin/functions.php:149
+#: admin/functions.php:157
+#@ nggallery
+msgid "Directory"
+msgstr "Direktorij"
+
+#: admin/functions.php:46
+#@ nggallery
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "ne postoji. Molimo napravite glavni direktorij galerije prvo"
+
+#: admin/functions.php:47
+#: admin/functions.php:56
+#@ nggallery
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Provjerite ovaj link, ukoliko ne znate kako podesiti dopuštenja:"
+
+#: admin/functions.php:55
+#: admin/functions.php:80
+#@ nggallery
+msgid "is not writeable !"
+msgstr "nije moguće pisati u direktorij!"
+
+#: admin/functions.php:76
+#: admin/functions.php:85
+#: admin/functions.php:889
+#: lib/core.php:102
+#@ nggallery
+msgid "Unable to create directory "
+msgstr "Nije moguće stvoriti direktorij"
+
+#: admin/functions.php:89
+#@ nggallery
+msgid "The server setting Safe-Mode is on !"
+msgstr "Postavke servera su podešene na Safe-Mode!"
+
+#: admin/functions.php:90
+#@ nggallery
+msgid "If you have problems, please create directory"
+msgstr "Ukoliko imate problema, napravite direktorij"
+
+#: admin/functions.php:91
+#@ nggallery
+msgid "and the thumbnails directory"
+msgstr "i direktorij za thumbnailse (manje slike)"
+
+#: admin/functions.php:91
+#@ nggallery
+msgid "with permission 777 manually !"
+msgstr "sa dopuštenjima 777 ručno!"
+
+#: admin/functions.php:119
+#@ nggallery
+msgid "Edit gallery"
+msgstr "Uredi galeriju"
+
+#: admin/functions.php:149
+#@ nggallery
+msgid "doesn&#96;t exist!"
+msgstr "ne postoji!"
+
+#: admin/functions.php:157
+#@ nggallery
+msgid "contains no pictures"
+msgstr "ne sadrži nikakve slike"
+
+#: admin/functions.php:175
+#@ nggallery
+msgid "Database error. Could not add gallery!"
+msgstr "Greška s bazom podataka. Nije moguće dodati galeriju!"
+
+#: admin/functions.php:178
+#@ nggallery
+msgid "successfully created!"
+msgstr "uspješno kreirana!"
+
+#: admin/functions.php:207
+#: admin/functions.php:1006
+#: admin/manage-galleries.php:74
+#: admin/manage-galleries.php:141
+#: admin/manage-images.php:202
+#: admin/manage-images.php:341
+#: admin/manage.php:216
+#: admin/manage.php:292
+#@ nggallery
+msgid "Create new thumbnails"
+msgstr "Stvorite nove thumbnailse"
+
+#: admin/functions.php:210
+#@ nggallery
+msgid " picture(s) successfully added"
+msgstr "Slike uspješno dodane"
+
+#: admin/functions.php:260
+#: admin/functions.php:340
+#: admin/functions.php:395
+#: admin/functions.php:492
+#: admin/functions.php:546
+#@ nggallery
+msgid "Object didn't contain correct data"
+msgstr "Objekt nije sadržavao pravilne podatke"
+
+#: admin/functions.php:268
+#@ nggallery
+msgid " is not writeable "
+msgstr "nije moguće pisati"
+
+#: admin/functions.php:350
+#: admin/functions.php:398
+#: admin/functions.php:498
+#: admin/functions.php:549
+#@ nggallery
+msgid " is not writeable"
+msgstr "nije moguće pisati"
+
+#: admin/functions.php:823
+#@ nggallery
+msgid "No valid URL path "
+msgstr "Nije važeća putanja"
+
+#: admin/functions.php:839
+#@ nggallery
+msgid "Import via cURL failed."
+msgstr "Import preko cURL nije uspio."
+
+#: admin/functions.php:873
+#@ nggallery
+msgid "Could not get a valid foldername"
+msgstr "Nije moguće dobiti važeće ime direktorija"
+
+#: admin/functions.php:884
+#, php-format
+#@ nggallery
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Nije moguće kreirati direktorij %s. Jeste li sigurni da je moguće upisivati u direktorij?"
+
+#: admin/functions.php:899
+#@ nggallery
+msgid "Zip-File successfully unpacked"
+msgstr "Zip datoteka uspješno otpakirana."
+
+#: admin/functions.php:938
+#: admin/functions.php:1055
+#@ nggallery
+msgid "Failure in database, no gallery path set !"
+msgstr "Greška u bazi podataka, nije unesena putanja do galerije!"
+
+#: admin/functions.php:962
+#: admin/functions.php:1049
+#@ nggallery
+msgid "is no valid image file!"
+msgstr "nije važeća datoteka slike!"
+
+#: admin/functions.php:976
+#: admin/functions.php:1175
+#: admin/functions.php:1252
+#, php-format
+#@ nggallery
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Nije moguće zapisivati u direktorij %s.  Jeste li sigurni da je moguće upisivati u direktorij?"
+
+#: admin/functions.php:1011
+#@ nggallery
+msgid " Image(s) successfully added"
+msgstr "Slike su uspješno dodane"
+
+#: admin/functions.php:1038
+#@ nggallery
+msgid "Invalid upload. Error Code : "
+msgstr "Nevažeći upload. Kod greške: "
+
+#: lib/multisite.php:23
+#@ nggallery
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Žao nam je, nemate više mjesta. Molimo vas da obrišete neke datoteke da biste mogli uploadati nove."
+
+#: admin/functions.php:1115
+#, php-format
+#@ nggallery
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "SAFE MODE je uključen! Morate kreirati direktorij <strong>%s</strong> ručno"
+
+#: admin/functions.php:1116
+#, php-format
+#@ nggallery
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Kad je safe_mode uključen, PHP provjerava da li vlasnik (%s) skripte odgovara vlasniku (%s) datoteke na kojoj treba raditi funkcija ili njezin direktorij"
+
+#: admin/functions.php:1169
+#: admin/functions.php:1246
+#@ nggallery
+msgid "The destination gallery does not exist"
+msgstr "Galerija ne postoji"
+
+#: admin/functions.php:1200
+#: lib/xmlrpc.php:194
+#, php-format
+#@ nggallery
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Greška kod premještanja slike %1$s u %2$s "
+
+#: admin/functions.php:1220
+#, php-format
+#@ nggallery
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Premješteno %1$s slika u galeriju : %2$s ."
+
+#: admin/functions.php:1279
+#, php-format
+#@ nggallery
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Greška kod kopiranja slike %1$s u %2$s"
+
+#: admin/functions.php:1293
+#, php-format
+#@ nggallery
+msgid "Failed to copy database row for picture %s"
+msgstr "Greška kod kopiranja retka u bazi podataka za sliku %s"
+
+#: admin/functions.php:1305
+#, php-format
+#@ nggallery
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Slika %1$s (%2$s) je kopirana pod nazivom %3$s (%4$s) &raquo; Datoteka već postoji u ciljanom direktoriju."
+
+#: admin/functions.php:1308
+#, php-format
+#@ nggallery
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Slika %1$s (%2$s) je kopirana kao slika %3$s (%4$s)"
+
+#: admin/functions.php:1317
+#, php-format
+#@ nggallery
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Kopirano %1$s slika u galeriju: %2$s ."
+
+#: admin/install.php:23
+#@ nggallery
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Žao nam je, NextGEN Galerija radi samo s ulogom administratora"
+
+#: admin/install.php:112
+#@ nggallery
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Galerija : Nije moguće kreirati tablice u bazi podataka, molimo vas da provjerite postavke"
+
+#: admin/install.php:170
+#@ nggallery
+msgid "[Show as slideshow]"
+msgstr "[Prikaži kao slajd]"
+
+#: admin/install.php:171
+#@ nggallery
+msgid "[Show picture list]"
+msgstr "[Prikaži listu slika]"
+
+#: admin/manage-galleries.php:20
+#: admin/manage-images.php:55
+#@ default
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/manage-galleries.php:21
+#: admin/manage-images.php:56
+#@ default
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/manage-galleries.php:123
+#: admin/manage-galleries.php:126
+#: admin/manage-images.php:225
+#: admin/manage-images.php:228
+#@ nggallery
+msgid "Search Images"
+msgstr "Pretraži Slike"
+
+#: admin/manage-galleries.php:154
+#: admin/manage-galleries.php:266
+#: admin/manage-images.php:330
+#: admin/manage-images.php:514
+#, php-format
+#@ default
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Prikazujem %s&#8211;%s od %s"
+
+#: admin/manage-galleries.php:371
+#: admin/manage-images.php:658
+#@ default
+msgid "ID"
+msgstr "ID"
+
+#: admin/manage-galleries.php:373
+#: admin/manage-images.php:266
+#: admin/manage-images.php:663
+#: admin/media-upload.php:225
+#: admin/style.php:136
+#@ nggallery
+#@ default
+msgid "Description"
+msgstr "Opis"
+
+#: admin/manage-galleries.php:374
+#: admin/manage-images.php:287
+#: admin/overview.php:844
+#: admin/style.php:134
+#: lib/meta.php:440
+#@ nggallery
+#@ default
+msgid "Author"
+msgstr "Autor"
+
+#: admin/manage-galleries.php:375
+#@ nggallery
+msgid "Page ID"
+msgstr "ID Stranice"
+
+#: admin/manage-galleries.php:219
+#: admin/tags.php:249
+#@ default
+#@ nggallery
+msgid "Edit"
+msgstr "Uredi"
+
+#: admin/manage-galleries.php:259
+#: admin/manage-images.php:505
+#@ nggallery
+msgid "No entries found"
+msgstr "Nije pronađen nijedan zapis"
+
+#: admin/manage-images.php:32
+#@ nggallery
+msgid "Gallery not found."
+msgstr "Galerija nije pronađena."
+
+#: admin/manage-images.php:38
+#@ nggallery
+msgid "Sorry, you have no access here"
+msgstr "Žao nam je, nemate pristup ovdje"
+
+#: admin/manage-galleries.php:62
+#: admin/manage-images.php:170
+#@ nggallery
+msgid "No images selected"
+msgstr "Nijedna slika nije odabrana"
+
+#: admin/manage-images.php:207
+#, php-format
+#@ nggallery
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Započeti ćete grupno editiranje za %s slika \n"
+" \n"
+" 'Poništi' to za prekid, 'OK' za nastavak."
+
+#: admin/manage-images.php:222
+#, php-format
+#@ nggallery
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Rezultati pretrage za &#8220;%s&#8221;"
+
+#: admin/manage-images.php:251
+#: admin/settings.php:383
+#@ nggallery
+msgid "Gallery settings"
+msgstr "Postavke galerije"
+
+#: admin/manage-images.php:251
+#@ nggallery
+msgid "Click here for more settings"
+msgstr "Kliknite ovdje za više postavki"
+
+#: admin/album.php:440
+#: admin/manage-images.php:257
+#@ nggallery
+msgid "Page Link to"
+msgstr "Link stranice na"
+
+#: admin/album.php:442
+#: admin/manage-images.php:260
+#@ nggallery
+msgid "Not linked"
+msgstr "Nema linka"
+
+#: admin/manage-images.php:268
+#@ nggallery
+msgid "Preview image"
+msgstr "Pregledaj sliku"
+
+#: admin/manage-images.php:271
+#@ nggallery
+msgid "No Picture"
+msgstr "Nema Slike"
+
+#: admin/manage-images.php:285
+#@ nggallery
+msgid "Path"
+msgstr "Putanja"
+
+#: admin/manage-images.php:302
+#@ nggallery
+msgid "Create new page"
+msgstr "Stvori novu stranicu"
+
+#: admin/manage-images.php:305
+#@ nggallery
+msgid "Main page (No parent)"
+msgstr "Glavna stranica"
+
+#: admin/manage-images.php:308
+#@ nggallery
+msgid "Add page"
+msgstr "Dodaj stranicu"
+
+#: admin/manage-images.php:317
+#@ nggallery
+msgid "Scan Folder for new images"
+msgstr "Pregledaj direktorij za nove slike"
+
+#: admin/manage-images.php:318
+#: admin/manage-images.php:360
+#: admin/manage-images.php:512
+#: admin/settings.php:295
+#: admin/settings.php:326
+#: admin/settings.php:373
+#: admin/settings.php:458
+#: admin/settings.php:493
+#: admin/settings.php:603
+#: admin/settings.php:754
+#@ nggallery
+#@ default
+msgid "Save Changes"
+msgstr "Snimi Promjene"
+
+#: admin/manage-galleries.php:140
+#: admin/manage-images.php:340
+#: admin/manage.php:133
+#: admin/manage.php:242
+#@ nggallery
+msgid "Set watermark"
+msgstr "Podesi vodeni žig"
+
+#: admin/manage-galleries.php:70
+#: admin/manage-galleries.php:142
+#: admin/manage-images.php:198
+#: admin/manage-images.php:342
+#: admin/manage.php:200
+#: admin/manage.php:278
+#@ nggallery
+msgid "Resize images"
+msgstr "Promijeni veličinu slika"
+
+#: admin/manage-images.php:344
+#@ nggallery
+msgid "Delete images"
+msgstr "Obriši slike"
+
+#: admin/manage-galleries.php:143
+#: admin/manage-images.php:345
+#: admin/manage.php:138
+#: admin/manage.php:262
+#@ nggallery
+msgid "Import metadata"
+msgstr "Importiraj Meta-podatke"
+
+#: admin/manage-images.php:348
+#@ nggallery
+msgid "Copy to..."
+msgstr "Kopiraj u..."
+
+#: admin/manage-images.php:349
+#@ nggallery
+msgid "Move to..."
+msgstr "Premjesti u..."
+
+#: admin/manage-images.php:350
+#@ nggallery
+msgid "Add tags"
+msgstr "Dodaj tagove"
+
+#: admin/manage-images.php:190
+#: admin/manage-images.php:351
+#@ nggallery
+msgid "Delete tags"
+msgstr "Obriši tagove"
+
+#: admin/manage-images.php:352
+#@ nggallery
+msgid "Overwrite tags"
+msgstr "Prebriši tagove"
+
+#: admin/manage-images.php:357
+#@ nggallery
+msgid "Sort gallery"
+msgstr "Sortiraj galeriju"
+
+#: admin/manage-images.php:437
+#, php-format
+#@ default
+msgid "View \"%s\""
+msgstr "Pregledaj  \"%s\""
+
+#: admin/manage-images.php:437
+#@ nggallery
+msgid "View"
+msgstr "Pregledaj"
+
+#: admin/manage-images.php:438
+#@ nggallery
+msgid "Show Meta data"
+msgstr "Prikaži Meta-podatke"
+
+#: admin/manage-images.php:438
+#@ nggallery
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/manage-images.php:439
+#@ nggallery
+msgid "Customize thumbnail"
+msgstr "Uredi thumbnail"
+
+#: admin/manage-images.php:439
+#@ nggallery
+msgid "Edit thumb"
+msgstr "Uredi thumbnail"
+
+#: admin/manage-images.php:535
+#@ nggallery
+msgid "Enter the tags"
+msgstr "Unesi tagove"
+
+#: admin/manage-images.php:559
+#@ nggallery
+msgid "Select the destination gallery:"
+msgstr "Odaberi ciljanu galeriju:"
+
+#: admin/manage-images.php:659
+#: admin/media-upload.php:246
+#@ nggallery
+#@ default
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: admin/manage-images.php:661
+#: admin/manage-sort.php:77
+#@ nggallery
+msgid "Filename"
+msgstr "Ime datoteke"
+
+#: admin/manage-images.php:663
+#@ nggallery
+msgid "Alt &amp; Title Text"
+msgstr "Alt &amp; Naslovni tekst"
+
+#: admin/manage-images.php:664
+#@ nggallery
+msgid "Tags (comma separated list)"
+msgstr "Tagovi (odvojeni zarezima)"
+
+#: admin/manage-images.php:666
+#@ nggallery
+msgid "exclude"
+msgstr "izostavi"
+
+#: admin/manage-sort.php:33
+#@ nggallery
+msgid "Sort order changed"
+msgstr "Redoslijed sortiranja promijenjen"
+
+#: admin/manage-sort.php:62
+#@ nggallery
+msgid "Sort Gallery"
+msgstr "Sortiraj Galeriju"
+
+#: admin/manage-sort.php:66
+#@ nggallery
+msgid "Update Sort Order"
+msgstr "Obnovi Redoslijed Sortiranja"
+
+#: admin/manage-sort.php:69
+#@ nggallery
+msgid "Back to gallery"
+msgstr "Natrag na galeriju"
+
+#: admin/manage-sort.php:74
+#@ nggallery
+msgid "Presort"
+msgstr "Sortiraj"
+
+#: admin/manage-sort.php:75
+#@ nggallery
+msgid "Unsorted"
+msgstr "Nije sortirano"
+
+#: admin/manage-sort.php:76
+#: admin/settings.php:444
+#@ nggallery
+msgid "Image ID"
+msgstr "ID Slike"
+
+#: admin/manage-sort.php:78
+#: admin/media-upload.php:221
+#@ nggallery
+msgid "Alt/Title text"
+msgstr "Alt / Naslovni tekst"
+
+#: admin/manage-sort.php:79
+#: lib/meta.php:434
+#@ nggallery
+msgid "Date/Time"
+msgstr "Datum/vrijeme"
+
+#: admin/manage-sort.php:80
+#: admin/settings.php:452
+#@ nggallery
+msgid "Ascending"
+msgstr "Uzlazni"
+
+#: admin/manage-sort.php:81
+#: admin/settings.php:453
+#@ nggallery
+msgid "Descending"
+msgstr "Silazni"
+
+#: admin/manage.php:77
+#@ nggallery
+msgid "deleted successfully"
+msgstr "uspješno obrisano"
+
+#: admin/manage.php:77
+#: admin/tinymce/window.php:44
+#: admin/tinymce/window.php:95
+#: lib/rewrite.php:188
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+#@ nggallery
+msgid "Picture"
+msgstr "Slika"
+
+#: admin/manage.php:258
+#@ nggallery
+msgid "Pictures deleted successfully "
+msgstr "Slike obrisane uspješno"
+
+#: admin/manage.php:92
+#: admin/manage.php:101
+#@ nggallery
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Thumbnailsi su uspješno promijenjeni. Molimo da obrišete cache vašeg internet preglednika."
+
+#: admin/manage.php:354
+#@ nggallery
+msgid "Tags changed"
+msgstr "Tagovi promijenjeni"
+
+#: admin/manage.php:390
+#@ nggallery
+msgid "Update successful"
+msgstr "Ažuriranje uspješno"
+
+#: admin/manage.php:425
+#@ nggallery
+msgid "New gallery page ID"
+msgstr "ID stranice nove galerije"
+
+#: admin/manage.php:425
+#@ nggallery
+msgid "created"
+msgstr "stvoren"
+
+#: admin/addgallery.php:46
+#: admin/addgallery.php:57
+#: admin/addgallery.php:69
+#: admin/addgallery.php:80
+#: admin/album.php:96
+#: admin/album.php:124
+#: admin/album.php:142
+#: admin/edit-thumbnail.php:19
+#: admin/edit-thumbnail.php:22
+#: admin/manage.php:179
+#: admin/publish.php:17
+#: admin/publish.php:20
+#: admin/publish.php:23
+#: admin/rotate.php:17
+#: admin/rotate.php:20
+#: admin/showmeta.php:10
+#: admin/showmeta.php:13
+#@ default
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: admin/edit-thumbnail.php:120
+#@ nggallery
+msgid "Thumbnail updated"
+msgstr "Thumbnail ažuriran"
+
+#: admin/edit-thumbnail.php:142
+#@ nggallery
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Odaberite područje za thumbnail iz slike lijevo."
+
+#: admin/media-upload.php:166
+#@ nggallery
+msgid "No gallery"
+msgstr "Nema galerije"
+
+#: admin/media-upload.php:178
+#@ nggallery
+msgid "Select &#187;"
+msgstr "Odaberite &#187;"
+
+#: admin/media-upload.php:209
+#@ nggallery
+msgid "Show"
+msgstr "Prikaži"
+
+#: admin/media-upload.php:210
+#@ nggallery
+msgid "Hide"
+msgstr "Sakrij"
+
+#: admin/media-upload.php:215
+#@ nggallery
+msgid "Image ID:"
+msgstr "ID Slike:"
+
+#: admin/media-upload.php:229
+#: admin/publish.php:55
+#@ default
+#@ nggallery
+msgid "Alignment"
+msgstr "Poravnanje"
+
+#: admin/media-upload.php:232
+#: admin/publish.php:57
+#: admin/settings.php:478
+#@ default
+#@ nggallery
+msgid "None"
+msgstr "Nema"
+
+#: admin/media-upload.php:234
+#: admin/publish.php:59
+#: admin/tinymce/window.php:120
+#@ default
+#@ nggallery
+msgid "Left"
+msgstr "Lijevo"
+
+#: admin/media-upload.php:236
+#: admin/publish.php:61
+#: admin/tinymce/window.php:121
+#@ default
+#@ nggallery
+msgid "Center"
+msgstr "Sredina"
+
+#: admin/media-upload.php:238
+#: admin/publish.php:63
+#: admin/tinymce/window.php:122
+#@ default
+#@ nggallery
+msgid "Right"
+msgstr "Desno"
+
+#: admin/media-upload.php:242
+#: admin/settings.php:585
+#@ default
+#@ nggallery
+msgid "Size"
+msgstr "Veličina"
+
+#: admin/media-upload.php:248
+#@ default
+msgid "Full size"
+msgstr "Najveća veličina"
+
+#: admin/media-upload.php:250
+#@ nggallery
+msgid "Singlepic"
+msgstr "Singlepic"
+
+#: admin/media-upload.php:263
+#@ default
+msgid "Insert into Post"
+msgstr "Unesi u post"
+
+#: admin/media-upload.php:274
+#@ nggallery
+msgid "Save all changes"
+msgstr "Spremi sve promjene"
+
+#: admin/overview.php:14
+#@ nggallery
+msgid "NextGEN Gallery Overview"
+msgstr "Pregled NextGEN Galerije"
+
+#: admin/overview.php:374
+#@ nggallery
+msgid "Thanks to all donators..."
+msgstr "Hbala svim donatorima..."
+
+#: admin/overview.php:396
+#@ nggallery
+msgid "View all"
+msgstr "Vidi sve"
+
+#: admin/overview.php:422
+#, php-format
+#@ nggallery
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Feed sa vijestima se ne može prikazati. Posjetite <a href=\"%s\">početnu stranicu</a> da biste provjerili novosti."
+
+#: admin/overview.php:484
+#@ nggallery
+msgid "At a Glance"
+msgstr "Na prvi pogled"
+
+#: admin/manage-galleries.php:376
+#: admin/overview.php:489
+#@ nggallery
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Slika"
+msgstr[1] "Slike"
+
+#: admin/overview.php:510
+#@ nggallery
+msgid "Upload pictures"
+msgstr "Upload slika"
+
+#: admin/overview.php:511
+#@ nggallery
+msgid "Here you can control your images, galleries and albums."
+msgstr "Ovdje možete upravljati slikama, galerijama i albumima."
+
+#: admin/overview.php:86
+#@ nggallery
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Dobrodošli u NextGEN Galeriju"
+
+#: admin/overview.php:90
+#@ nggallery
+msgid "Latest News"
+msgstr "Posljednje novosti"
+
+#: admin/overview.php:91
+#@ nggallery
+msgid "Recent donators"
+msgstr "Posljednji donatori"
+
+#: admin/overview.php:94
+#@ nggallery
+msgid "Server Settings"
+msgstr "Postavke servera"
+
+#: admin/overview.php:345
+#@ nggallery
+msgid "Graphic Library"
+msgstr "Grafičke mogućnosti"
+
+#: admin/overview.php:656
+#@ nggallery
+msgid "No GD support"
+msgstr "Nema podrške za GD"
+
+#: admin/overview.php:668
+#: admin/overview.php:714
+#: admin/overview.php:717
+#: admin/overview.php:720
+#@ nggallery
+msgid "Yes"
+msgstr "Da"
+
+#: admin/overview.php:670
+#: admin/overview.php:715
+#: admin/overview.php:718
+#: admin/overview.php:721
+#@ nggallery
+msgid "No"
+msgstr "Ne"
+
+#: admin/overview.php:688
+#@ nggallery
+msgid "Not set"
+msgstr "Nije podešeno"
+
+#: admin/overview.php:690
+#: admin/overview.php:693
+#@ nggallery
+msgid "On"
+msgstr "Uključeno"
+
+#: admin/overview.php:691
+#: admin/overview.php:694
+#@ nggallery
+msgid "Off"
+msgstr "Isključeno"
+
+#: admin/overview.php:697
+#: admin/overview.php:700
+#: admin/overview.php:703
+#: admin/overview.php:706
+#: admin/overview.php:709
+#: admin/overview.php:712
+#@ nggallery
+msgid "N/A"
+msgstr "N/A"
+
+#: admin/overview.php:711
+#@ nggallery
+msgid " MByte"
+msgstr " MByte"
+
+#: admin/overview.php:724
+#@ nggallery
+msgid "Operating System"
+msgstr "Operacijski sustav"
+
+#: admin/overview.php:725
+#@ nggallery
+msgid "Server"
+msgstr "Server"
+
+#: admin/overview.php:726
+#@ nggallery
+msgid "Memory usage"
+msgstr "Memorije iskorišteno"
+
+#: admin/overview.php:727
+#@ nggallery
+msgid "MYSQL Version"
+msgstr "MYSQL Verzija"
+
+#: admin/overview.php:728
+#@ nggallery
+msgid "SQL Mode"
+msgstr "SQL Mod"
+
+#: admin/overview.php:729
+#@ nggallery
+msgid "PHP Version"
+msgstr "PHP Verzija"
+
+#: admin/overview.php:730
+#@ nggallery
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: admin/overview.php:731
+#@ nggallery
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: admin/overview.php:732
+#@ nggallery
+msgid "PHP Memory Limit"
+msgstr "PHP Limit Memorije"
+
+#: admin/overview.php:733
+#@ nggallery
+msgid "PHP Max Upload Size"
+msgstr "PHP Max veličina datoteke"
+
+#: admin/overview.php:734
+#@ nggallery
+msgid "PHP Max Post Size"
+msgstr "PHP Max veličina posta"
+
+#: admin/overview.php:736
+#@ nggallery
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max učitavanje skripte"
+
+#: admin/overview.php:737
+#@ nggallery
+msgid "PHP Exif support"
+msgstr "PHP Exif podrška"
+
+#: admin/overview.php:738
+#@ nggallery
+msgid "PHP IPTC support"
+msgstr "PHP IPTC podrška"
+
+#: admin/overview.php:739
+#@ nggallery
+msgid "PHP XML support"
+msgstr "PHP XML podrška"
+
+#: admin/overview.php:541
+#@ default
+msgid "Storage Space"
+msgstr "Mjesta za pohranu podataka"
+
+#: admin/roles.php:22
+#@ nggallery
+msgid "Updated capabilities"
+msgstr "Ažurirane mogućnosti"
+
+#: admin/roles.php:28
+#@ nggallery
+msgid "Roles / capabilities"
+msgstr "Uloge / mogućnosti"
+
+#: admin/roles.php:30
+#@ nggallery
+msgid "For a more flexible user management you can use the"
+msgstr "Za fleksibilnije upravljanje korisnicima možete koristiti"
+
+#: admin/roles.php:35
+#@ nggallery
+msgid "Main NextGEN Gallery overview"
+msgstr "Glavni pregled NextGEN Galerije"
+
+#: admin/roles.php:39
+#@ nggallery
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Koristi TinyMCE Button / Upload Tab"
+
+#: admin/roles.php:43
+#@ nggallery
+msgid "Add gallery / Upload images"
+msgstr "Dodaj galeriju / Uploadaj slike"
+
+#: admin/roles.php:47
+#@ nggallery
+msgid "Manage gallery"
+msgstr "Upravljaj galerijom"
+
+#: admin/roles.php:51
+#@ nggallery
+msgid "Manage others gallery"
+msgstr "Upravljaj ostalim galerijama"
+
+#: admin/roles.php:55
+#@ nggallery
+msgid "Manage tags"
+msgstr "Upravljaj tagovima"
+
+#: admin/album.php:269
+#: admin/roles.php:59
+#@ nggallery
+msgid "Edit Album"
+msgstr "Editiraj album"
+
+#: admin/roles.php:63
+#@ nggallery
+msgid "Change style"
+msgstr "Promijeni stil"
+
+#: admin/roles.php:67
+#@ nggallery
+msgid "Change options"
+msgstr "Promijeni opcije"
+
+#: admin/roles.php:71
+#@ nggallery
+msgid "Update capabilities"
+msgstr "Mogućnosti ažuriranja"
+
+#: admin/settings.php:92
+#@ nggallery
+msgid "Cache cleared"
+msgstr "Privremene datoteke obrisane"
+
+#: admin/settings.php:211
+#: admin/settings.php:230
+#@ nggallery
+msgid "General Options"
+msgstr "Glavne Opcije"
+
+#: admin/settings.php:212
+#: admin/settings.php:415
+#: widgets/widgets.php:212
+#@ nggallery
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: admin/settings.php:213
+#@ nggallery
+msgid "Images"
+msgstr "Slike"
+
+#: admin/settings.php:215
+#: admin/settings.php:467
+#@ nggallery
+msgid "Effects"
+msgstr "Efekti"
+
+#: admin/settings.php:216
+#: admin/settings.php:509
+#: admin/tinymce/window.php:110
+#@ nggallery
+msgid "Watermark"
+msgstr "Vodeni žig"
+
+#: admin/settings.php:217
+#: admin/settings.php:416
+#: admin/settings.php:616
+#: admin/tinymce/window.php:63
+#: lib/rewrite.php:183
+#: widgets/widgets.php:29
+#@ nggallery
+msgid "Slideshow"
+msgstr "Slajd"
+
+#: admin/settings.php:236
+#: admin/wpmu.php:68
+#@ nggallery
+msgid "Gallery path"
+msgstr "Putanja galerije"
+
+#: admin/settings.php:238
+#@ nggallery
+msgid "This is the default path for all galleries"
+msgstr "Ovo je uobičajena putanja za sve galerije"
+
+#: admin/settings.php:241
+#@ nggallery
+msgid "Delete image files"
+msgstr "Obriši slike"
+
+#: admin/settings.php:243
+#@ nggallery
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Obriši slike kada se makne galerija iz baze podataka"
+
+#: admin/settings.php:246
+#@ nggallery
+msgid "Activate permalinks"
+msgstr "Aktiviraj trajne linkove"
+
+#: admin/settings.php:248
+#@ nggallery
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Kada aktivirate ovu opciju, trebate obnoviti trajne linkove jednom."
+
+#: admin/settings.php:256
+#@ nggallery
+msgid "Select graphic library"
+msgstr "Odaberi grafički library"
+
+#: admin/settings.php:257
+#@ nggallery
+msgid "GD Library"
+msgstr "GD library"
+
+#: admin/settings.php:258
+#@ nggallery
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (eksperimentalno). Putanja do librarya :"
+
+#: admin/settings.php:263
+#@ nggallery
+msgid "Activate Media RSS feed"
+msgstr "Aktiviraj Media RSS feed"
+
+#: admin/settings.php:265
+#@ nggallery
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSS Feed biti će dodan na zaglavlje vašeg bloga. Koristno za CoolIris/PicLens"
+
+#: admin/settings.php:268
+#@ nggallery
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktiviraj PicLens/CoolIris"
+
+#: admin/settings.php:270
+#@ nggallery
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Kata aktivirate ovu opciju, određeni javascript će biti dodan u podnožje vaše stranice. Provjerite da li vaša tema poziva wp_footer."
+
+#: admin/settings.php:273
+#@ nggallery
+msgid "Tags / Categories"
+msgstr "Tagovi / Kategorije"
+
+#: admin/settings.php:276
+#@ nggallery
+msgid "Activate related images"
+msgstr "Aktiviraj vezane slike"
+
+#: admin/settings.php:278
+#@ nggallery
+msgid "This option will append related images to every post"
+msgstr "Ova opcija će dodati vezane slike na svaki post"
+
+#: admin/settings.php:282
+#@ nggallery
+msgid "Match with"
+msgstr "Upari sa"
+
+#: admin/settings.php:283
+#@ nggallery
+msgid "Categories"
+msgstr "Kategorije"
+
+#: admin/settings.php:288
+#@ nggallery
+msgid "Max. number of images"
+msgstr "Max. broj slika"
+
+#: admin/settings.php:290
+#@ nggallery
+msgid "0 will show all images"
+msgstr "0 će prikazati sve slike"
+
+#: admin/settings.php:304
+#@ nggallery
+msgid "Thumbnail settings"
+msgstr "Thumbnail postavke"
+
+#: admin/settings.php:308
+#@ nggallery
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Oprez: Ako promijenite postavke, morati ćete ponovo kreirati thumbnailse u Upravljanje Galerijom ."
+
+#: admin/manage-galleries.php:341
+#: admin/manage-images.php:623
+#: admin/publish.php:50
+#: admin/settings.php:311
+#@ nggallery
+msgid "Width x height (in pixel)"
+msgstr "Širina x visina (u pikselima)"
+
+#: admin/manage-galleries.php:343
+#: admin/manage-images.php:625
+#: admin/settings.php:313
+#@ nggallery
+msgid "These values are maximum values "
+msgstr "Ove vrijednosti su najveće"
+
+#: admin/manage-galleries.php:346
+#: admin/manage-images.php:628
+#: admin/settings.php:316
+#@ nggallery
+msgid "Set fix dimension"
+msgstr "Postavi fiksne dimenzije"
+
+#: admin/manage-galleries.php:348
+#: admin/manage-images.php:630
+#: admin/settings.php:318
+#@ nggallery
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignoriraj omjer veličine i širine, bez portreta"
+
+#: admin/settings.php:321
+#@ nggallery
+msgid "Thumbnail quality"
+msgstr "Kvaliteta thumbnaila"
+
+#: admin/settings.php:335
+#@ nggallery
+msgid "Image settings"
+msgstr "Postavke slike"
+
+#: admin/settings.php:341
+#@ nggallery
+msgid "Resize Images"
+msgstr "Promijeni veličinu slika"
+
+#: admin/manage-galleries.php:317
+#: admin/manage-images.php:599
+#: admin/settings.php:343
+#@ nggallery
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Širina x visina (u pikselima). NextGEN Galerija će zadržati omjer."
+
+#: admin/settings.php:346
+#@ nggallery
+msgid "Image quality"
+msgstr "Kvaliteta slike"
+
+#: admin/settings.php:360
+#@ nggallery
+msgid "Single picture"
+msgstr "Jedna slika"
+
+#: admin/settings.php:363
+#@ nggallery
+msgid "Cache single pictures"
+msgstr "Cache slike"
+
+#: admin/settings.php:365
+#@ nggallery
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Napravi datoteku za svaku postavku singlepic. Smanjuje potrebu za procesorom."
+
+#: admin/settings.php:368
+#@ nggallery
+msgid "Clear cache folder"
+msgstr "Obriši cache direktorij"
+
+#: admin/settings.php:252
+#: admin/settings.php:369
+#@ nggallery
+msgid "Proceed now"
+msgstr "Počni sad"
+
+#: admin/settings.php:389
+#@ nggallery
+msgid "Deactivate gallery page link"
+msgstr "Deaktiviraj link na stranicu galerije"
+
+#: admin/settings.php:391
+#@ nggallery
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Album neće linkati na pod-stranicu galerije. Galerija je prikazana na istoj stranici."
+
+#: admin/settings.php:395
+#@ nggallery
+msgid "Number of images per page"
+msgstr "Broj slika po stranici"
+
+#: admin/settings.php:397
+#@ nggallery
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 će maknuti stranice, sve slike će biti prikazane na jednog stranici"
+
+#: admin/settings.php:401
+#@ nggallery
+msgid "Number of columns"
+msgstr "Broj stupaca"
+
+#: admin/settings.php:403
+#@ nggallery
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 će prikazati kolko je god moguće bazirano na širini vaše teme. Obično je postavka potrebna za opise ispod slika"
+
+#: admin/settings.php:407
+#@ nggallery
+msgid "Integrate slideshow"
+msgstr "Integriraj slajd"
+
+#: admin/settings.php:414
+#@ nggallery
+msgid "Show first"
+msgstr "Prikaži prvo"
+
+#: admin/settings.php:420
+#@ nggallery
+msgid "Show ImageBrowser"
+msgstr "Prikaži preglednik slika"
+
+#: admin/settings.php:422
+#@ nggallery
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galerija će otvoriti preglednik slika umjesto efekta."
+
+#: admin/settings.php:438
+#@ nggallery
+msgid "Sort options"
+msgstr "Opcije sortiranja"
+
+#: admin/settings.php:441
+#@ nggallery
+msgid "Sort thumbnails"
+msgstr "Sortiraj thumbnailove"
+
+#: admin/settings.php:443
+#@ nggallery
+msgid "Custom order"
+msgstr "Prilagođen poredak"
+
+#: admin/settings.php:445
+#@ nggallery
+msgid "File name"
+msgstr "Ime datoteke"
+
+#: admin/settings.php:446
+#@ nggallery
+msgid "Alt / Title text"
+msgstr "Alt / Naslovni tekst"
+
+#: admin/settings.php:447
+#: view/imagebrowser-exif.php:58
+#@ nggallery
+msgid "Date / Time"
+msgstr "Datum / Vrijeme"
+
+#: admin/settings.php:451
+#@ nggallery
+msgid "Sort direction"
+msgstr "Sortiranje"
+
+#: admin/settings.php:472
+#@ nggallery
+msgid "With the placeholder"
+msgstr "Sa položajem"
+
+#: admin/settings.php:472
+#@ nggallery
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "možete aktivirati navigaciju kroz slike (ovisno o efektu). Promijenite samo liniju koda, kada koristite drukčiji thumbnail efekt ili kad znate što radite."
+
+#: admin/settings.php:475
+#@ nggallery
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScript Thumbnail Efekt"
+
+#: admin/settings.php:479
+#@ nggallery
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: admin/settings.php:480
+#@ nggallery
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin/settings.php:481
+#@ nggallery
+msgid "Highslide"
+msgstr "Highslide"
+
+#: admin/settings.php:482
+#@ nggallery
+msgid "Shutter"
+msgstr "Zasun"
+
+#: admin/settings.php:483
+#@ nggallery
+msgid "Custom"
+msgstr "Proizvoljno"
+
+#: admin/settings.php:488
+#@ nggallery
+msgid "Link Code line"
+msgstr "Linija koda"
+
+#: admin/settings.php:510
+#@ nggallery
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Pozor: vodeni žig možete aktivirati pod Upravljanje Galerijom . Ovo se ne može vratiti."
+
+#: admin/settings.php:515
+#@ nggallery
+msgid "Preview"
+msgstr "Pregled"
+
+#: admin/settings.php:517
+#: admin/settings.php:522
+#@ nggallery
+msgid "Position"
+msgstr "Pozicija"
+
+#: admin/settings.php:542
+#@ nggallery
+msgid "Offset"
+msgstr "Odstupanje"
+
+#: admin/settings.php:558
+#@ nggallery
+msgid "Use image as watermark"
+msgstr "Koristi sliku kao vodeni žig"
+
+#: admin/settings.php:561
+#@ nggallery
+msgid "URL to file"
+msgstr "Link na datoteku"
+
+#: admin/settings.php:563
+#@ nggallery
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Pristup URL datotekama je onemogućen na vašem serveru (allow_url_fopen)"
+
+#: admin/settings.php:566
+#@ nggallery
+msgid "Use text as watermark"
+msgstr "Koristi tekst kao vodeni žig"
+
+#: admin/settings.php:569
+#@ nggallery
+msgid "Font"
+msgstr "Font"
+
+#: admin/settings.php:578
+#@ nggallery
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Ova funkcija neće raditi jer trebate FreeType library"
+
+#: admin/settings.php:580
+#@ nggallery
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Možete uploadati više fontova u direktorij <strong>nggallery/fonts</strong>"
+
+#: admin/settings.php:589
+#@ nggallery
+msgid "Color"
+msgstr "Boja"
+
+#: admin/settings.php:591
+#@ nggallery
+msgid "(hex w/o #)"
+msgstr "(hex w/o #)"
+
+#: admin/settings.php:594
+#@ nggallery
+msgid "Text"
+msgstr "Tekst"
+
+#: admin/settings.php:598
+#@ nggallery
+msgid "Opaque"
+msgstr "Neprozirno"
+
+#: admin/settings.php:651
+#@ nggallery
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Putanja do imagerotator.swf nije definirana, slajd neće raditi."
+
+#: admin/settings.php:652
+#@ nggallery
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Ako želite koristiti JW Image Rotator, molimo skinite player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >ovdje</a> i uploadajte ga u vaš Upload direktorij (obično wp-content/uploads)."
+
+#: admin/settings.php:646
+#@ nggallery
+msgid "See more information for the Flash Player on the web page"
+msgstr "Vidi više informacija za Flash Player na web stranici"
+
+#: admin/settings.php:663
+#@ nggallery
+msgid "Path to the Imagerotator (URL)"
+msgstr "Putanja do JW Image Rotator (URL)"
+
+#: admin/settings.php:666
+#@ nggallery
+msgid "Search now"
+msgstr "Pretraži sad"
+
+#: admin/settings.php:619
+#@ nggallery
+msgid "Default size (W x H)"
+msgstr "Postavljena veličina (širina x visina)"
+
+#: admin/settings.php:671
+#@ nggallery
+msgid "Shuffle mode"
+msgstr "Mod miješanja"
+
+#: admin/settings.php:675
+#@ nggallery
+msgid "Show next image on click"
+msgstr "Prikaži sljedeću sliku na klik"
+
+#: admin/settings.php:679
+#@ nggallery
+msgid "Show navigation bar"
+msgstr "Prikaži navigacijski bar"
+
+#: admin/settings.php:683
+#@ nggallery
+msgid "Show loading icon"
+msgstr "Prikaži ikonu za učitavanje"
+
+#: admin/settings.php:687
+#@ nggallery
+msgid "Use watermark logo"
+msgstr "Koristi logo vodenog žiga"
+
+#: admin/settings.php:689
+#@ nggallery
+msgid "You can change the logo at the watermark settings"
+msgstr "Možete promijeniti logo u opcijama za vodeni žig"
+
+#: admin/settings.php:692
+#@ nggallery
+msgid "Stretch image"
+msgstr "Rastegni sliku"
+
+#: admin/settings.php:695
+#@ nggallery
+msgid "true"
+msgstr "istinito"
+
+#: admin/settings.php:696
+#@ nggallery
+msgid "false"
+msgstr "pogrešno"
+
+#: admin/settings.php:697
+#@ nggallery
+msgid "fit"
+msgstr "podesi"
+
+#: admin/settings.php:698
+#@ nggallery
+msgid "none"
+msgstr "nema"
+
+#: admin/settings.php:624
+#@ nggallery
+msgid "Duration time"
+msgstr "Trajanje"
+
+#: admin/settings.php:625
+#@ nggallery
+msgid "sec."
+msgstr "sek."
+
+#: admin/settings.php:628
+#: admin/settings.php:703
+#@ nggallery
+msgid "Transition / Fade effect"
+msgstr "Prijelaz / Fade efekt"
+
+#: admin/settings.php:631
+#: admin/settings.php:706
+#@ nggallery
+msgid "fade"
+msgstr "Fade"
+
+#: admin/settings.php:707
+#@ nggallery
+msgid "bgfade"
+msgstr "BGFade"
+
+#: admin/settings.php:708
+#@ nggallery
+msgid "slowfade"
+msgstr "Spori fade"
+
+#: admin/settings.php:709
+#@ nggallery
+msgid "circles"
+msgstr "Krugovi"
+
+#: admin/settings.php:710
+#@ nggallery
+msgid "bubbles"
+msgstr "Baloni"
+
+#: admin/settings.php:711
+#@ nggallery
+msgid "blocks"
+msgstr "Blokovi"
+
+#: admin/settings.php:712
+#@ nggallery
+msgid "fluids"
+msgstr "Tekućine"
+
+#: admin/settings.php:713
+#@ nggallery
+msgid "flash"
+msgstr "Flash"
+
+#: admin/settings.php:714
+#@ nggallery
+msgid "lines"
+msgstr "Linije"
+
+#: admin/settings.php:715
+#: widgets/widgets.php:219
+#@ nggallery
+msgid "random"
+msgstr "Nasumice"
+
+#: admin/settings.php:720
+#@ nggallery
+msgid "Use slow zooming effect"
+msgstr "Koristi spori zoom efekt"
+
+#: admin/settings.php:724
+#@ nggallery
+msgid "Background Color"
+msgstr "Boja Pozadine"
+
+#: admin/settings.php:729
+#@ nggallery
+msgid "Texts / Buttons Color"
+msgstr "Boja Teksta / Dugmadi"
+
+#: admin/settings.php:734
+#@ nggallery
+msgid "Rollover / Active Color"
+msgstr "Prijelaz Mišem / Aktivna Boja"
+
+#: admin/settings.php:739
+#@ nggallery
+msgid "Screen Color"
+msgstr "Boja ekrana"
+
+#: admin/settings.php:744
+#@ nggallery
+msgid "Background music (URL)"
+msgstr "Pozadinska glazba (URL)"
+
+#: admin/settings.php:748
+#@ nggallery
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Pokušaj XHTML validation (sa CDATA)"
+
+#: admin/settings.php:750
+#@ nggallery
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Važno: Može uzrokovati probleme sa nekim preglednicima. Molimo provjerite vašu stranicu."
+
+#: admin/setup.php:15
+#@ nggallery
+msgid "Reset all settings to default parameter"
+msgstr "Resetiraj sve postavke na default"
+
+#: admin/setup.php:26
+#@ nggallery
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Deinstalacija uspješna! Sada možete izbrisati plugin i uživati u vašem životu! Sretno!"
+
+#: admin/setup.php:30
+#@ nggallery
+msgid "Reset options"
+msgstr "Resetiraj opcije"
+
+#: admin/setup.php:33
+#@ nggallery
+msgid "Reset all options/settings to the default installation."
+msgstr "Resetiraj sve opcije/postavke na default"
+
+#: admin/setup.php:34
+#@ nggallery
+msgid "Reset settings"
+msgstr "Resetiraj postavke"
+
+#: admin/setup.php:42
+#@ nggallery
+msgid "Uninstall plugin tables"
+msgstr "Deinstalacija tabela plugina"
+
+#: admin/setup.php:47
+#@ nggallery
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Ne sviđa vam se NextGEN Galerija?"
+
+#: admin/setup.php:48
+#@ nggallery
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Nema problema, prije nego deaktivirate ovaj plugin pritisnite Deinstalacija, zato jer deaktivacija plugina neće maknuti podatke koji su uneseni."
+
+#: admin/setup.php:50
+#@ nggallery
+msgid "WARNING:"
+msgstr "UPOZORENJE:"
+
+#: admin/setup.php:51
+#@ nggallery
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Jednom kada deinstalirate plugin ne možete vratiti podatke. Trebali biste korisiti plugin za stvaranje sigurnosnih kopija baze podataka prije. NextGEN Galerija je spremljena u tablicama."
+
+#: admin/setup.php:51
+#@ nggallery
+msgid "and"
+msgstr "i"
+
+#: admin/setup.php:53
+#@ nggallery
+msgid "Uninstall plugin"
+msgstr "Deinstalacija plugina"
+
+#: admin/showmeta.php:55
+#@ nggallery
+msgid "EXIF Data"
+msgstr "EXIF Podaci"
+
+#: admin/showmeta.php:34
+#: admin/showmeta.php:60
+#: admin/showmeta.php:85
+#: admin/showmeta.php:109
+#@ nggallery
+msgid "Tag"
+msgstr "Tag"
+
+#: admin/showmeta.php:35
+#: admin/showmeta.php:61
+#: admin/showmeta.php:86
+#: admin/showmeta.php:110
+#@ nggallery
+msgid "Value"
+msgstr "Vrijednost"
+
+#: admin/showmeta.php:74
+#@ nggallery
+msgid "No exif data"
+msgstr "Nema exif podataka"
+
+#: admin/showmeta.php:81
+#@ nggallery
+msgid "IPTC Data"
+msgstr "IPTC Podaci"
+
+#: admin/showmeta.php:105
+#@ nggallery
+msgid "XMP Data"
+msgstr "XMP Podaci"
+
+#: admin/style.php:11
+#@ nggallery
+msgid "(From the theme folder)"
+msgstr "(iz direktorija teme)"
+
+#: admin/style.php:43
+#@ default
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Nemate potrebna dopuštenja da viste editirali template ovog bloga."
+
+#: admin/style.php:52
+#@ nggallery
+msgid "CSS file successfully updated"
+msgstr "CSS datoteka uspješno ažurirana"
+
+#: admin/style.php:89
+#@ nggallery
+msgid "Style Editor"
+msgstr "CSS Editor"
+
+#: admin/style.php:93
+#@ nggallery
+msgid "Activate and use style sheet:"
+msgstr "Aktiviraj i koristi CSS datoteku:"
+
+#: admin/style.php:113
+#@ nggallery
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: admin/style.php:123
+#, php-format
+#@ nggallery
+msgid "Editing <strong>%s</strong>"
+msgstr "Editiranje <strong>%s</strong>"
+
+#: admin/style.php:125
+#, php-format
+#@ nggallery
+msgid "Browsing <strong>%s</strong>"
+msgstr "Pregledavanje <strong>%s</strong>"
+
+#: admin/style.php:135
+#@ nggallery
+msgid "Version"
+msgstr "Verzija"
+
+#: admin/style.php:138
+#@ nggallery
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Savjet: Kopirajte svoju CSS datoteku (nggallery.css) u vaš direktorij s temom, tako da neće biti izgubljena kod ažuriranja plugina."
+
+#: admin/style.php:140
+#@ nggallery
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Vaša tema sadrži NextGEN Galerija CSS datoteku (nggallery.css), ta datoteka će biti korištena"
+
+#: admin/style.php:158
+#@ nggallery
+msgid "Update File"
+msgstr "Ažuriraj datoteku"
+
+#: admin/style.php:161
+#@ nggallery
+msgid "If this file were writable you could edit it."
+msgstr "Da je moguće pisati u ovu datoteku mogli biste je editirati."
+
+#: admin/style.php:166
+#@ nggallery
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Ups, ova datoteka ne postoji! Provjerite još jednom naziv i pokušajte ponovo, hvala."
+
+#: admin/tags.php:38
+#@ nggallery
+msgid "Most popular"
+msgstr "Najpopularnije"
+
+#: admin/tags.php:39
+#@ nggallery
+msgid "Least used"
+msgstr "Najmanje korišteno"
+
+#: admin/tags.php:40
+#@ nggallery
+msgid "Alphabetical"
+msgstr "Abecednim redom"
+
+#: admin/tags.php:96
+#@ nggallery
+msgid "Manage image tags"
+msgstr "Upravljaj tagovima slike"
+
+#: admin/tags.php:108
+#@ nggallery
+msgid "Existing Tags"
+msgstr "Postojeći tagovi"
+
+#: admin/tags.php:112
+#@ nggallery
+msgid "Search tags"
+msgstr "Pretraži tagove"
+
+#: admin/tags.php:116
+#@ nggallery
+msgid "Go"
+msgstr "Idi"
+
+#: admin/tags.php:121
+#@ nggallery
+msgid "Sort Order:"
+msgstr "Redoslijed sortiranja:"
+
+#: admin/tags.php:156
+#: admin/tags.php:160
+#: admin/tags.php:173
+#@ nggallery
+msgid "Previous tags"
+msgstr "Prijašnji tagovi"
+
+#: admin/tags.php:169
+#@ nggallery
+msgid "Next tags"
+msgstr "Sljedeći tagovi"
+
+#: admin/tags.php:181
+#@ nggallery
+msgid "Rename Tag"
+msgstr "Promijeni ime tagu"
+
+#: admin/tags.php:189
+#@ nggallery
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Unesite tag da mu promijenite ime i unesite mu novi naziv. Možete koristiti ovu opciju i za spajanje postojećih tagova također. Kliknite \"Preimenuj\" i svi postevi s ovim tagom biti će ažurirani."
+
+#: admin/tags.php:190
+#: admin/tags.php:238
+#@ nggallery
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Možete unijeti više tagova za promijenu naziva ukoliko ih odvojite zarezima."
+
+#: admin/tags.php:194
+#@ nggallery
+msgid "Tag(s) to rename:"
+msgstr "Tag(ovi) za preimenovati:"
+
+#: admin/tags.php:198
+#@ nggallery
+msgid "New tag name(s):"
+msgstr "Ime novog taga:"
+
+#: admin/tags.php:201
+#@ nggallery
+msgid "Rename"
+msgstr "Preimenuj"
+
+#: admin/tags.php:207
+#@ nggallery
+msgid "Delete Tag"
+msgstr "Obriši tag"
+
+#: admin/tags.php:215
+#@ nggallery
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Unesite ime taga za brisanje. Ovaj tag će biti maknut sa svih posteva."
+
+#: admin/tags.php:216
+#@ nggallery
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Možete unijeti više tagova za brisanje ukoliko ih odvojite zarezima."
+
+#: admin/tags.php:220
+#@ nggallery
+msgid "Tag(s) to delete:"
+msgstr "Tag(ovi) za brisanje:"
+
+#: admin/tags.php:229
+#@ nggallery
+msgid "Edit Tag Slug"
+msgstr "Uredi slug taga"
+
+#: admin/tags.php:237
+#@ nggallery
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Unesite ime taga za editiranje i novi slug. . <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definicija</a>"
+
+#: admin/tags.php:242
+#@ nggallery
+msgid "Tag(s) to match:"
+msgstr "Tag(ovi):"
+
+#: admin/tags.php:246
+#@ nggallery
+msgid "Slug(s) to set:"
+msgstr "Slug(ovi):"
+
+#: admin/upgrade.php:22
+#@ nggallery
+msgid "Upgrade database structure..."
+msgstr "Ažuriraj strukturu baze podataka..."
+
+#: admin/upgrade.php:108
+#: admin/upgrade.php:122
+#: admin/upgrade.php:129
+#: admin/upgrade.php:140
+#: admin/upgrade.php:154
+#@ nggallery
+msgid "finished"
+msgstr "završeno"
+
+#: admin/upgrade.php:120
+#@ nggallery
+msgid "Update file structure..."
+msgstr "Ažuriraj strukturu datoteka..."
+
+#: admin/upgrade.php:127
+#@ nggallery
+msgid "Import date and time information..."
+msgstr "Import datuma i vremena..."
+
+#: admin/upgrade.php:135
+#@ nggallery
+msgid "Move imagerotator to new location..."
+msgstr "Premjesti imagerotator na novu lokaciju..."
+
+#: admin/upgrade.php:250
+#@ nggallery
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Neki direktoriji/datoteke nisu preimenovane, molimo provjerite dopuštenja i ponovo skenirajte direktorij u sekciji za upravljanje galerijom."
+
+#: admin/upgrade.php:252
+#@ nggallery
+msgid "Rename failed"
+msgstr "Preimenovanje neuspjelo"
+
+#: admin/upgrade.php:348
+#: admin/upgrade.php:367
+#@ nggallery
+msgid "Upgrade NextGEN Gallery"
+msgstr "Ažuriranje NextGEN Galerije"
+
+#: admin/upgrade.php:349
+#@ nggallery
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skripta je detektirala da ažurirate sa starije verzije."
+
+#: admin/upgrade.php:350
+#@ nggallery
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Vaše tablice u bazi podataka moraju bit ažurirane prije nego možete nastaviti."
+
+#: admin/upgrade.php:351
+#@ nggallery
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Ako želite maknuti ažurirane promjene kasnije, molimo da prvo napraviti kompletnu sigurnosnu kopiju baze podataka i slika."
+
+#: admin/upgrade.php:352
+#@ nggallery
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Ažuriranje može potrajati, molimo budite strpljivi."
+
+#: admin/upgrade.php:353
+#@ nggallery
+msgid "Start upgrade now"
+msgstr "Počni ažuriranje sada"
+
+#: admin/upgrade.php:370
+#@ nggallery
+msgid "Continue"
+msgstr "Nastavi"
+
+#: admin/wpmu.php:33
+#@ nggallery
+msgid "Update successfully"
+msgstr "Ažuriranje uspješno"
+
+#: admin/wpmu.php:75
+#@ nggallery
+msgid "Enable upload quota check"
+msgstr "Omogući provjeru kvota uploada"
+
+#: admin/wpmu.php:77
+#@ nggallery
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Trebalo bi raditi ukoliko je galerija ispod direktorija bloga"
+
+#: admin/wpmu.php:81
+#@ nggallery
+msgid "Enable zip upload option"
+msgstr "Omogući upload zip datoteka"
+
+#: admin/wpmu.php:83
+#@ nggallery
+msgid "Allow users to upload zip folders."
+msgstr "Omogući korisnicima upload zip direktorija."
+
+#: admin/wpmu.php:93
+#@ nggallery
+msgid "Enable style selection"
+msgstr "Omoguću odabir stilova"
+
+#: admin/wpmu.php:95
+#@ nggallery
+msgid "Allow users to choose a style for the gallery."
+msgstr "Omogući korisnicima da biraju stil galerije."
+
+#: admin/wpmu.php:99
+#@ nggallery
+msgid "Enable roles/capabilities"
+msgstr "Omogući uloge/mogućnosti"
+
+#: admin/wpmu.php:101
+#@ nggallery
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Omogući korisnicima da promijene uloge ostalim autorima bloga."
+
+#: admin/wpmu.php:105
+#@ nggallery
+msgid "Default style"
+msgstr "Defaultni stil"
+
+#: admin/wpmu.php:122
+#@ nggallery
+msgid "Choose the default style for the galleries."
+msgstr "Odaberite defaultni stil za galerije."
+
+#: admin/ajax.php:312
+#@ default
+msgid "You are not allowed to be here"
+msgstr "Ne biste smjeli biti ovdje"
+
+#: admin/tinymce/window.php:61
+#: admin/tinymce/window.php:82
+#@ nggallery
+msgid "Show as"
+msgstr "Prikaži kao"
+
+#: admin/tinymce/window.php:62
+#@ nggallery
+msgid "Image list"
+msgstr "Popis slika"
+
+#: admin/tinymce/window.php:64
+#@ nggallery
+msgid "Imagebrowser"
+msgstr "Imagebrowser"
+
+#: admin/tinymce/window.php:83
+#@ nggallery
+msgid "Extended version"
+msgstr "Proširena verzija"
+
+#: admin/tinymce/window.php:84
+#@ nggallery
+msgid "Compact version"
+msgstr "Kompaktna verzija"
+
+#: admin/tinymce/window.php:102
+#@ nggallery
+msgid "Width x Height"
+msgstr "Širina x Visina"
+
+#: admin/tinymce/window.php:106
+#@ nggallery
+msgid "Effect"
+msgstr "Efekt"
+
+#: admin/tinymce/window.php:109
+#@ nggallery
+msgid "No effect"
+msgstr "Bez efekta"
+
+#: admin/tinymce/window.php:111
+#@ nggallery
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: admin/tinymce/window.php:116
+#@ nggallery
+msgid "Float"
+msgstr "Float"
+
+#: admin/tinymce/window.php:119
+#@ nggallery
+msgid "No float"
+msgstr "No float"
+
+#: admin/tinymce/window.php:138
+#@ nggallery
+msgid "Insert"
+msgstr "Unesi"
+
+#: lib/core.php:379
+#, php-format
+#@ nggallery
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Pozor: s obzirom na limit memorije vašeg servera ne biste trebali uploadati slike veće od <strong>%d x %d</strong> piksela"
+
+#: lib/meta.php:124
+#@ nggallery
+msgid " mm"
+msgstr " mm"
+
+#: lib/meta.php:130
+#@ nggallery
+msgid " sec"
+msgstr " Sek."
+
+#: lib/meta.php:430
+#: view/imagebrowser-exif.php:46
+#@ nggallery
+msgid "Aperture"
+msgstr "Apertura"
+
+#: lib/meta.php:431
+#: lib/meta.php:456
+#@ nggallery
+msgid "Credit"
+msgstr "Zasluge"
+
+#: lib/meta.php:432
+#@ nggallery
+msgid "Camera"
+msgstr "Kamera"
+
+#: lib/meta.php:433
+#@ nggallery
+msgid "Caption"
+msgstr "Opis"
+
+#: lib/meta.php:435
+#@ nggallery
+msgid "Copyright"
+msgstr "Autorska prava"
+
+#: lib/meta.php:436
+#@ nggallery
+msgid "Focal length"
+msgstr "Duljina žarišta"
+
+#: lib/meta.php:437
+#@ nggallery
+msgid "ISO"
+msgstr "ISO"
+
+#: lib/meta.php:438
+#: view/imagebrowser-exif.php:54
+#@ nggallery
+msgid "Shutter speed"
+msgstr "Shutter brzina"
+
+#: lib/meta.php:442
+#@ nggallery
+msgid "Subject"
+msgstr "Predmet"
+
+#: lib/meta.php:443
+#@ nggallery
+msgid "Make"
+msgstr "Napravi"
+
+#: lib/meta.php:444
+#@ nggallery
+msgid "Edit Status"
+msgstr "Editiraj Status"
+
+#: lib/meta.php:445
+#@ nggallery
+msgid "Category"
+msgstr "Kategorija"
+
+#: lib/meta.php:446
+#@ nggallery
+msgid "Keywords"
+msgstr "Ključne riječi"
+
+#: lib/meta.php:447
+#@ nggallery
+msgid "Date Created"
+msgstr "Datum Kreiranja"
+
+#: lib/meta.php:448
+#@ nggallery
+msgid "Time Created"
+msgstr "Vrijeme Kreiranja"
+
+#: lib/meta.php:449
+#@ nggallery
+msgid "Author Position"
+msgstr "Pozicija Autora"
+
+#: lib/meta.php:450
+#@ nggallery
+msgid "City"
+msgstr "Grad"
+
+#: lib/meta.php:451
+#@ nggallery
+msgid "Location"
+msgstr "Lokacija"
+
+#: lib/meta.php:452
+#@ nggallery
+msgid "Province/State"
+msgstr "Županija"
+
+#: lib/meta.php:453
+#@ nggallery
+msgid "Country code"
+msgstr "Kod države"
+
+#: lib/meta.php:454
+#@ nggallery
+msgid "Country"
+msgstr "Država"
+
+#: lib/meta.php:455
+#@ nggallery
+msgid "Headline"
+msgstr "Naslov"
+
+#: lib/meta.php:457
+#@ nggallery
+msgid "Source"
+msgstr "Izvor"
+
+#: lib/meta.php:458
+#@ nggallery
+msgid "Copyright Notice"
+msgstr "Obavijest o autorskim pravima"
+
+#: lib/meta.php:459
+#@ nggallery
+msgid "Contact"
+msgstr "Kontakt"
+
+#: lib/meta.php:460
+#@ nggallery
+msgid "Last modified"
+msgstr "Posljednji put promijenjeno"
+
+#: lib/meta.php:461
+#@ nggallery
+msgid "Program tool"
+msgstr "Program"
+
+#: lib/meta.php:462
+#@ nggallery
+msgid "Format"
+msgstr "Format"
+
+#: lib/ngg-db.php:330
+#: lib/ngg-db.php:331
+#@ nggallery
+msgid "Album overview"
+msgstr "Pregled albuma"
+
+#: lib/shortcodes.php:298
+#@ nggallery
+msgid "[Pictures not found]"
+msgstr "[Slike nisu pronađene]"
+
+#: lib/tags.php:35
+#@ nggallery
+msgid "No new tag specified!"
+msgstr "Novi tag nije unesen!"
+
+#: lib/tags.php:50
+#@ nggallery
+msgid "No new/old valid tag specified!"
+msgstr "Nijedan važeći novi/stari tag nije unesen !"
+
+#: lib/tags.php:86
+#@ nggallery
+msgid "No tag renamed."
+msgstr "Nijedan tag nije preimenovan."
+
+#: lib/tags.php:88
+#, php-format
+#@ nggallery
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr " Preimenovani tag(ovi) &laquo;%1$s&raquo; u &laquo;%2$s&raquo;"
+
+#: lib/tags.php:95
+#@ nggallery
+msgid "No valid new tag."
+msgstr "Nije važeći novi tag."
+
+#: lib/tags.php:112
+#@ nggallery
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Nijedan objekt (post, stranica) nije pronađen za unesene stare tagove."
+
+#: lib/tags.php:141
+#@ nggallery
+msgid "No tag merged."
+msgstr "Nijedan tag nije spojen."
+
+#: lib/tags.php:143
+#, php-format
+#@ nggallery
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Spoji tag(ove) &laquo;%1$s&raquo; bis &laquo;%2$s&raquo; sa %3$s Objekte geändert."
+
+#: lib/tags.php:146
+#@ nggallery
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Greška. Nema dovoljno tagova za preimenovanje ili spajanje. Odaberite !"
+
+#: lib/tags.php:163
+#@ nggallery
+msgid "No tag specified!"
+msgstr "Tag nije odabran!"
+
+#: lib/tags.php:186
+#@ nggallery
+msgid "No tag deleted."
+msgstr "Nijedan tag nije izbrisan."
+
+#: lib/tags.php:188
+#, php-format
+#@ nggallery
+msgid "%1s tag(s) deleted."
+msgstr "%1s tag obrisan."
+
+#: lib/tags.php:202
+#@ nggallery
+msgid "No new slug(s) specified!"
+msgstr "Nijedan novi slug odabran!"
+
+#: lib/tags.php:214
+#@ nggallery
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Broj tagova i slugova nije isti!"
+
+#: lib/tags.php:241
+#@ nggallery
+msgid "No slug edited."
+msgstr "Nijedan slug nije promijenjen."
+
+#: lib/tags.php:243
+#, php-format
+#@ nggallery
+msgid "%s slug(s) edited."
+msgstr "%s slug(ova) promijenjeno."
+
+#: view/album-compact.php:32
+#: view/album-extend.php:30
+#@ nggallery
+msgid "Photos"
+msgstr "Fotografija"
+
+#: view/gallery-caption.php:32
+#: view/gallery.php:32
+#: widgets/media-rss-widget.php:122
+#@ nggallery
+msgid "[View with PicLens]"
+msgstr "[Vidi sa PicLens]"
+
+#: view/imagebrowser-caption.php:26
+#: view/imagebrowser-exif.php:30
+#: view/imagebrowser.php:26
+#@ nggallery
+msgid "Back"
+msgstr "Natrag"
+
+#: view/imagebrowser-caption.php:29
+#: view/imagebrowser-exif.php:33
+#: view/imagebrowser.php:29
+#@ nggallery
+msgid "Next"
+msgstr "Naprijed"
+
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+#@ nggallery
+msgid "of"
+msgstr "od"
+
+#: view/imagebrowser-exif.php:38
+#@ nggallery
+msgid "Meta data"
+msgstr "Meta podaci"
+
+#: view/imagebrowser-exif.php:42
+#@ nggallery
+msgid "Camera / Type"
+msgstr "Kamera / Tip"
+
+#: view/imagebrowser-exif.php:50
+#@ nggallery
+msgid "Focal Length"
+msgstr "Duljina žarišta"
+
+#: widgets/media-rss-widget.php:20
+#@ nggallery
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: widgets/media-rss-widget.php:19
+#@ nggallery
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget koji prikazuje Media RSS linkove za NextGEN Gallery."
+
+#: widgets/media-rss-widget.php:68
+#@ nggallery
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: widgets/media-rss-widget.php:69
+#@ nggallery
+msgid "Link to the main image feed"
+msgstr "Link na glavni feed slika"
+
+#: widgets/widgets.php:121
+#@ default
+msgid "Title:"
+msgstr "Naziv:"
+
+#: widgets/widgets.php:22
+#@ nggallery
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Prikaži NextGEN Galerija Slajd"
+
+#: widgets/widgets.php:23
+#@ nggallery
+msgid "NextGEN Slideshow"
+msgstr "NextGEN Slajd"
+
+#: widgets/widgets.php:64
+#@ nggallery
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Preuzmite Flash Player</a> da biste vidjeli slajd."
+
+#: widgets/widgets.php:123
+#@ nggallery
+msgid "Select Gallery:"
+msgstr "Odaberite Galeriju:"
+
+#: widgets/widgets.php:125
+#@ nggallery
+msgid "All images"
+msgstr "Sve slike"
+
+#: widgets/widgets.php:137
+#@ nggallery
+msgid "Height:"
+msgstr "Visina:"
+
+#: widgets/widgets.php:138
+#@ nggallery
+msgid "Width:"
+msgstr "Širina:"
+
+#: widgets/widgets.php:160
+#@ nggallery
+msgid "Add recent or random images from the galleries"
+msgstr "Dodaj nedavne ili nasumične slike iz galerija"
+
+#: widgets/widgets.php:161
+#@ nggallery
+msgid "NextGEN Widget"
+msgstr "NextGEN Widget"
+
+#: widgets/media-rss-widget.php:79
+#: widgets/widgets.php:201
+#@ nggallery
+msgid "Title :"
+msgstr "Naslov :"
+
+#: widgets/widgets.php:207
+#@ nggallery
+msgid "Show :"
+msgstr "Prikaži :"
+
+#: widgets/widgets.php:213
+#@ nggallery
+msgid "Original images"
+msgstr "Originalne slike"
+
+#: widgets/widgets.php:222
+#@ nggallery
+msgid "recent added "
+msgstr "Nedavno dodane"
+
+#: widgets/widgets.php:228
+#@ nggallery
+msgid "Enable IE8 Web Slices"
+msgstr "Omogući IE8 Web Slices"
+
+#: widgets/widgets.php:233
+#@ nggallery
+msgid "Width x Height :"
+msgstr "Širina x Visina :"
+
+#: widgets/widgets.php:239
+#@ nggallery
+msgid "Select :"
+msgstr "Odaberite :"
+
+#: widgets/widgets.php:241
+#@ nggallery
+msgid "All galleries"
+msgstr "Sve galerije"
+
+#: widgets/widgets.php:242
+#@ nggallery
+msgid "Only which are not listed"
+msgstr "Samo koje nisu prikazane"
+
+#: widgets/widgets.php:243
+#@ nggallery
+msgid "Only which are listed"
+msgstr "Samo prikazane"
+
+#: widgets/widgets.php:249
+#@ nggallery
+msgid "Gallery ID :"
+msgstr "ID Galerije :"
+
+#: widgets/widgets.php:251
+#@ nggallery
+msgid "Gallery IDs, separated by commas."
+msgstr "ID Galerije, razdvojeni zarezima."
+
+#: xml/media-rss.php:50
+#@ nggallery
+msgid "No galleries have been yet created."
+msgstr "Nijedna galerija nije još kreirana."
+
+#: xml/media-rss.php:69
+#, php-format
+#@ nggallery
+msgid "The gallery ID=%s does not exist."
+msgstr "Galerija ID=%s ne postoji."
+
+#: xml/media-rss.php:100
+#@ nggallery
+msgid "No album ID has been provided as parameter"
+msgstr "Nije naveden ID albuma kao parametar"
+
+#: xml/media-rss.php:108
+#, php-format
+#@ nggallery
+msgid "The album ID=%s does not exist."
+msgstr "Album ID =%s ne postoji."
+
+#: admin/about.php:31
+#@ nggallery
+msgid "for the Gallery Icon"
+msgstr ""
+
+#: admin/addgallery.php:363
+#@ nggallery
+msgid "Note : Change the default path in the gallery settings"
+msgstr ""
+
+#: admin/admin.php:48
+#: admin/admin.php:59
+#@ nggallery
+msgid "Reset / Uninstall"
+msgstr ""
+
+#: admin/admin.php:58
+#@ nggallery
+msgid "Network settings"
+msgstr ""
+
+#: admin/admin.php:98
+#, php-format
+#@ nggallery
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr ""
+
+#: admin/admin.php:101
+#: admin/wpmu.php:48
+#@ nggallery
+msgid "OK, hide this message now !"
+msgstr ""
+
+#: admin/admin.php:302
+#@ nggallery
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr ""
+
+#: admin/admin.php:345
+#@ nggallery
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr ""
+
+#: admin/ajax.php:406
+#, php-format
+#@ nggallery
+msgid "Could create image with %s x %s pixel"
+msgstr ""
+
+#: admin/edit-thumbnail.php:106
+#@ nggallery
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr ""
+
+#: admin/edit-thumbnail.php:125
+#@ nggallery
+msgid "Error updating thumbnail"
+msgstr ""
+
+#: admin/functions.php:116
+#, php-format
+#@ nggallery
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr ""
+
+#: admin/functions.php:552
+#@ nggallery
+msgid "File do not exists"
+msgstr ""
+
+#: admin/functions.php:556
+#@ nggallery
+msgid "Couldn't restore original image"
+msgstr ""
+
+#: admin/functions.php:669
+#@ nggallery
+msgid "(Error : Couldn't not update data base)"
+msgstr ""
+
+#: admin/functions.php:676
+#@ nggallery
+msgid "(Error : Couldn't not update meta data)"
+msgstr ""
+
+#: admin/functions.php:685
+#@ nggallery
+msgid "(Error : Couldn't not find image)"
+msgstr ""
+
+#: admin/functions.php:856
+#@ nggallery
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr ""
+
+#: admin/functions.php:983
+#: admin/functions.php:1072
+#@ nggallery
+msgid "Error, the file could not be moved to : "
+msgstr ""
+
+#: admin/functions.php:988
+#: admin/functions.php:1076
+#@ nggallery
+msgid "Error, the file permissions could not be set"
+msgstr ""
+
+#: admin/functions.php:1425
+#@ nggallery
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: admin/functions.php:1428
+#@ nggallery
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr ""
+
+#: admin/functions.php:1431
+#@ nggallery
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: admin/functions.php:1434
+#@ nggallery
+msgid "No file was uploaded"
+msgstr ""
+
+#: admin/functions.php:1437
+#@ nggallery
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: admin/functions.php:1440
+#@ nggallery
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: admin/functions.php:1443
+#@ nggallery
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: admin/functions.php:1446
+#@ nggallery
+msgid "Unknown upload error"
+msgstr ""
+
+#: admin/manage-galleries.php:79
+#, php-format
+#@ nggallery
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+
+#: admin/manage-galleries.php:138
+#: admin/manage-images.php:339
+#@ nggallery
+msgid "Bulk actions"
+msgstr ""
+
+#: admin/manage-galleries.php:144
+#: admin/manage-images.php:343
+#: admin/manage.php:128
+#: admin/manage.php:239
+#@ nggallery
+msgid "Recover from backup"
+msgstr ""
+
+#: admin/manage-galleries.php:146
+#: admin/manage-images.php:354
+#@ nggallery
+msgid "Apply"
+msgstr ""
+
+#: admin/manage-galleries.php:313
+#: admin/manage-images.php:595
+#@ nggallery
+msgid "Resize Images to"
+msgstr ""
+
+#: admin/manage-images.php:178
+#@ nggallery
+msgid "Copy image to..."
+msgstr ""
+
+#: admin/manage-images.php:182
+#@ nggallery
+msgid "Move image to..."
+msgstr ""
+
+#: admin/manage-images.php:186
+#@ nggallery
+msgid "Add new tags"
+msgstr ""
+
+#: admin/manage-images.php:194
+#@ nggallery
+msgid "Overwrite"
+msgstr ""
+
+#: admin/manage-images.php:346
+#@ nggallery
+msgid "Rotate images clockwise"
+msgstr ""
+
+#: admin/manage-images.php:347
+#@ nggallery
+msgid "Rotate images counter-clockwise"
+msgstr ""
+
+#: admin/manage-images.php:431
+#@ nggallery
+msgid "pixel"
+msgstr ""
+
+#: admin/manage-images.php:440
+#@ nggallery
+msgid "Rotate"
+msgstr ""
+
+#: admin/manage-images.php:442
+#@ nggallery
+msgid "Publish this image"
+msgstr ""
+
+#: admin/manage-images.php:442
+#: admin/publish.php:68
+#@ nggallery
+msgid "Publish"
+msgstr ""
+
+#: admin/manage-images.php:444
+#@ nggallery
+msgid "Recover"
+msgstr ""
+
+#: admin/manage-images.php:444
+#, php-format
+#@ nggallery
+msgid "Recover \"%s\" ?"
+msgstr ""
+
+#: admin/manage-images.php:445
+#, php-format
+#@ nggallery
+msgid "Delete \"%s\" ?"
+msgstr ""
+
+#: admin/manage.php:168
+#@ nggallery
+msgid "Gallery deleted successfully "
+msgstr ""
+
+#: admin/manage.php:233
+#: admin/manage.php:236
+#@ nggallery
+msgid "Rotate images"
+msgstr ""
+
+#: admin/manage.php:461
+#@ nggallery
+msgid "Published a new post"
+msgstr ""
+
+#: admin/media-upload.php:261
+#@ default
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/overview.php:87
+#@ nggallery
+msgid "Do you like this Plugin?"
+msgstr ""
+
+#: admin/overview.php:89
+#@ nggallery
+msgid "Translation"
+msgstr ""
+
+#: admin/overview.php:93
+#@ nggallery
+msgid "Plugin Check"
+msgstr ""
+
+#: admin/overview.php:95
+#@ nggallery
+msgid "Related plugins"
+msgstr ""
+
+#: admin/overview.php:101
+#, php-format
+#@ nggallery
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr ""
+
+#: admin/overview.php:106
+#@ nggallery
+msgid "Give it a good rating on WordPress.org."
+msgstr ""
+
+#: admin/overview.php:111
+#@ nggallery
+msgid "Donate the work via paypal."
+msgstr ""
+
+#: admin/overview.php:116
+#@ nggallery
+msgid "Send a gift to show your appreciation."
+msgstr ""
+
+#: admin/overview.php:121
+#@ nggallery
+msgid "Help translating it."
+msgstr ""
+
+#: admin/overview.php:258
+#@ nggallery
+msgid "Running..."
+msgstr ""
+
+#: admin/overview.php:305
+#@ nggallery
+msgid "Check plugin/theme conflict"
+msgstr ""
+
+#: admin/overview.php:306
+#: admin/overview.php:312
+#: admin/overview.php:318
+#@ nggallery
+msgid "Not tested"
+msgstr ""
+
+#: admin/overview.php:307
+#@ nggallery
+msgid "No conflict could be detected"
+msgstr ""
+
+#: admin/overview.php:308
+#@ nggallery
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr ""
+
+#: admin/overview.php:311
+#@ nggallery
+msgid "Test image function"
+msgstr ""
+
+#: admin/overview.php:313
+#@ nggallery
+msgid "The plugin could create images"
+msgstr ""
+
+#: admin/overview.php:314
+#@ nggallery
+msgid "Couldn't create image, check your memory limit"
+msgstr ""
+
+#: admin/overview.php:317
+#@ nggallery
+msgid "Check theme compatibility"
+msgstr ""
+
+#: admin/overview.php:319
+#@ nggallery
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr ""
+
+#: admin/overview.php:320
+#@ nggallery
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr ""
+
+#: admin/overview.php:324
+#@ nggallery
+msgid "Check plugin"
+msgstr ""
+
+#: admin/overview.php:361
+#: admin/overview.php:410
+#: admin/overview.php:597
+#: admin/overview.php:787
+#@ default
+msgid "Loading&#8230;"
+msgstr ""
+
+#: admin/overview.php:361
+#: admin/overview.php:410
+#: admin/overview.php:597
+#: admin/overview.php:787
+#@ default
+msgid "This widget requires JavaScript."
+msgstr ""
+
+#: admin/overview.php:434
+#@ default
+msgid "Untitled"
+msgstr ""
+
+#: admin/overview.php:545
+#, php-format
+#@ default
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr ""
+
+#: admin/overview.php:546
+#@ default
+msgid "Space Allowed"
+msgstr ""
+
+#: admin/overview.php:553
+#, php-format
+#@ default
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr ""
+
+#: admin/overview.php:554
+#@ default
+msgid "Space Used"
+msgstr ""
+
+#: admin/overview.php:583
+#@ nggallery
+msgid "Translation file successful updated. Please reload page."
+msgstr ""
+
+#: admin/overview.php:585
+#@ nggallery
+msgid "Reload page"
+msgstr ""
+
+#: admin/overview.php:590
+#@ nggallery
+msgid "Translation file couldn't be updated"
+msgstr ""
+
+#: admin/overview.php:627
+#@ nggallery
+msgid "Download"
+msgstr ""
+
+#: admin/overview.php:735
+#@ nggallery
+msgid "PCRE Backtracking Limit"
+msgstr ""
+
+#: admin/overview.php:751
+#@ nggallery
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr ""
+
+#: admin/overview.php:843
+#@ default
+msgid "Install"
+msgstr ""
+
+#: admin/publish.php:45
+#@ nggallery
+msgid "Post title"
+msgstr ""
+
+#: admin/publish.php:47
+#@ nggallery
+msgid "Enter the post title "
+msgstr ""
+
+#: admin/publish.php:52
+#@ nggallery
+msgid "Size of the image"
+msgstr ""
+
+#: admin/publish.php:70
+#@ nggallery
+msgid "Draft"
+msgstr ""
+
+#: admin/roles.php:29
+#@ nggallery
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr ""
+
+#: admin/rotate.php:55
+#@ nggallery
+msgid "Image rotated"
+msgstr ""
+
+#: admin/rotate.php:56
+#@ nggallery
+msgid "Error rotating thumbnail"
+msgstr ""
+
+#: admin/rotate.php:81
+#@ nggallery
+msgid "90&deg; clockwise"
+msgstr ""
+
+#: admin/rotate.php:82
+#@ nggallery
+msgid "90&deg; anticlockwise"
+msgstr ""
+
+#: admin/rotate.php:83
+#@ nggallery
+msgid "Flip vertically"
+msgstr ""
+
+#: admin/rotate.php:84
+#@ nggallery
+msgid "Flip horizontally"
+msgstr ""
+
+#: admin/settings.php:251
+#@ nggallery
+msgid "Create new URL friendly image slugs"
+msgstr ""
+
+#: admin/settings.php:253
+#@ nggallery
+msgid "Currently not used, prepare database for upcoming version"
+msgstr ""
+
+#: admin/settings.php:294
+#: admin/settings.php:325
+#: admin/settings.php:372
+#: admin/settings.php:457
+#: admin/settings.php:492
+#: admin/settings.php:753
+#@ nggallery
+msgid "More settings"
+msgstr ""
+
+#: admin/settings.php:350
+#@ nggallery
+msgid "Backup original images"
+msgstr ""
+
+#: admin/settings.php:352
+#@ nggallery
+msgid "Creates a backup for inserted images"
+msgstr ""
+
+#: admin/settings.php:355
+#@ nggallery
+msgid "Automatically resize"
+msgstr ""
+
+#: admin/settings.php:357
+#@ nggallery
+msgid "Automatically resize images on upload."
+msgstr ""
+
+#: admin/settings.php:426
+#@ nggallery
+msgid "Add hidden images"
+msgstr ""
+
+#: admin/settings.php:428
+#@ nggallery
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr ""
+
+#: admin/settings.php:432
+#@ nggallery
+msgid "Enable AJAX pagination"
+msgstr ""
+
+#: admin/settings.php:434
+#@ nggallery
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr ""
+
+#: admin/settings.php:471
+#@ nggallery
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr ""
+
+#: admin/settings.php:632
+#@ nggallery
+msgid "blindX"
+msgstr ""
+
+#: admin/settings.php:633
+#@ nggallery
+msgid "cover"
+msgstr ""
+
+#: admin/settings.php:634
+#@ nggallery
+msgid "scrollUp"
+msgstr ""
+
+#: admin/settings.php:635
+#@ nggallery
+msgid "scrollDown"
+msgstr ""
+
+#: admin/settings.php:636
+#@ nggallery
+msgid "shuffle"
+msgstr ""
+
+#: admin/settings.php:637
+#@ nggallery
+msgid "toss"
+msgstr ""
+
+#: admin/settings.php:638
+#@ nggallery
+msgid "wipe"
+msgstr ""
+
+#: admin/settings.php:640
+#@ nggallery
+msgid "See here for more information about the effects :"
+msgstr ""
+
+#: admin/settings.php:644
+#@ nggallery
+msgid "Settings for the JW Image Rotator"
+msgstr ""
+
+#: admin/settings.php:645
+#@ nggallery
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr ""
+
+#: admin/settings.php:658
+#@ nggallery
+msgid "Enable flash slideshow"
+msgstr ""
+
+#: admin/settings.php:660
+#@ nggallery
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr ""
+
+#: admin/settings.php:667
+#@ nggallery
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr ""
+
+#: admin/setup.php:34
+#@ nggallery
+msgid ""
+"Reset all options to default settings ?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\n"
+msgstr ""
+
+#: admin/setup.php:53
+#@ nggallery
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\n"
+"This action is not reversible.\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\n"
+msgstr ""
+
+#: admin/showmeta.php:29
+#@ nggallery
+msgid "Meta Data"
+msgstr ""
+
+#: admin/showmeta.php:49
+#@ nggallery
+msgid "No meta data saved"
+msgstr ""
+
+#: admin/style.php:142
+#@ nggallery
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr ""
+
+#: admin/tinymce/window.php:56
+#@ nggallery
+msgid "Select or enter gallery"
+msgstr ""
+
+#: admin/tinymce/window.php:77
+#@ nggallery
+msgid "Select or enter album"
+msgstr ""
+
+#: admin/tinymce/window.php:97
+#@ nggallery
+msgid "Select or enter picture"
+msgstr ""
+
+#: admin/upgrade.php:146
+#@ nggallery
+msgid "Update settings..."
+msgstr ""
+
+#: admin/upgrade.php:160
+#@ nggallery
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr ""
+
+#: admin/upgrade.php:168
+#@ nggallery
+msgid "Updated options."
+msgstr ""
+
+#: admin/upgrade.php:175
+#@ nggallery
+msgid "Create unique slug"
+msgstr ""
+
+#: admin/upgrade.php:176
+#@ nggallery
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr ""
+
+#: admin/upgrade.php:177
+#@ nggallery
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr ""
+
+#: admin/upgrade.php:178
+#@ nggallery
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr ""
+
+#: admin/upgrade.php:187
+#@ nggallery
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr ""
+
+#: admin/upgrade.php:369
+#@ nggallery
+msgid "Upgrade finished..."
+msgstr ""
+
+#: admin/upgrade.php:393
+#, php-format
+#@ nggallery
+msgid "Rebuild image structure : %s / %s images"
+msgstr ""
+
+#: admin/upgrade.php:394
+#, php-format
+#@ nggallery
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr ""
+
+#: admin/upgrade.php:395
+#, php-format
+#@ nggallery
+msgid "Rebuild album structure : %s / %s albums"
+msgstr ""
+
+#: admin/upgrade.php:452
+#@ nggallery
+msgid "Done."
+msgstr ""
+
+#: admin/wpmu.php:45
+#, php-format
+#@ nggallery
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr ""
+
+#: admin/wpmu.php:62
+#@ nggallery
+msgid "Network Options"
+msgstr ""
+
+#: admin/wpmu.php:70
+#, php-format
+#@ nggallery
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr ""
+
+#: admin/wpmu.php:71
+#, php-format
+#@ nggallery
+msgid "The default setting should be %s"
+msgstr ""
+
+#: admin/wpmu.php:87
+#@ nggallery
+msgid "Enable import function"
+msgstr ""
+
+#: admin/wpmu.php:89
+#@ nggallery
+msgid "Allow users to import images folders from the server."
+msgstr ""
+
+#: lib/locale.php:120
+#@ default
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: lib/locale.php:124
+#: lib/locale.php:128
+#@ default
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: lib/meta.php:134
+#@ nggallery
+msgid "Fired"
+msgstr ""
+
+#: lib/meta.php:134
+#@ nggallery
+msgid "Not fired"
+msgstr ""
+
+#: lib/meta.php:463
+#@ nggallery
+msgid "Image Width"
+msgstr ""
+
+#: lib/meta.php:464
+#@ nggallery
+msgid "Image Height"
+msgstr ""
+
+#: lib/meta.php:465
+#@ nggallery
+msgid "Flash"
+msgstr ""
+
+#: lib/post-thumbnail.php:177
+#: lib/post-thumbnail.php:178
+#@ default
+msgid "Set featured image"
+msgstr ""
+
+#: lib/post-thumbnail.php:205
+#@ default
+msgid "Remove featured image"
+msgstr ""
+
+#: lib/xmlrpc.php:66
+#, php-format
+#@ default
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr ""
+
+#: lib/xmlrpc.php:73
+#@ default
+msgid "Bad login/pass combination."
+msgstr ""
+
+#: lib/xmlrpc.php:129
+#@ default
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+#: lib/xmlrpc.php:135
+#: lib/xmlrpc.php:680
+#@ default
+msgid "Could not find gallery "
+msgstr ""
+
+#: lib/xmlrpc.php:140
+#: lib/xmlrpc.php:685
+#@ default
+msgid "You are not allowed to upload files to this gallery."
+msgstr ""
+
+#: lib/xmlrpc.php:152
+#@ nggallery
+msgid "This is no valid image file."
+msgstr ""
+
+#: lib/xmlrpc.php:164
+#@ default
+msgid "Could not find image id "
+msgstr ""
+
+#: lib/xmlrpc.php:171
+#, php-format
+#@ nggallery
+msgid "Failed to delete image %1$s "
+msgstr ""
+
+#: lib/xmlrpc.php:180
+#, php-format
+#@ default
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+#: lib/xmlrpc.php:247
+#: lib/xmlrpc.php:299
+#@ default
+msgid "Invalid image ID"
+msgstr ""
+
+#: lib/xmlrpc.php:250
+#: lib/xmlrpc.php:302
+#@ default
+msgid "Sorry, you must be able to edit this image"
+msgstr ""
+
+#: lib/xmlrpc.php:308
+#@ default
+msgid "Sorry, could not update the image"
+msgstr ""
+
+#: lib/xmlrpc.php:344
+#: lib/xmlrpc.php:576
+#: lib/xmlrpc.php:642
+#@ default
+msgid "Sorry, you must be able to manage galleries"
+msgstr ""
+
+#: lib/xmlrpc.php:350
+#@ default
+msgid "Sorry, could not create the gallery"
+msgstr ""
+
+#: lib/xmlrpc.php:393
+#: lib/xmlrpc.php:573
+#@ default
+msgid "Invalid gallery ID"
+msgstr ""
+
+#: lib/xmlrpc.php:396
+#@ default
+msgid "Sorry, you must be able to manage this gallery"
+msgstr ""
+
+#: lib/xmlrpc.php:402
+#@ default
+msgid "Sorry, could not update the gallery"
+msgstr ""
+
+#: lib/xmlrpc.php:442
+#: lib/xmlrpc.php:494
+#: lib/xmlrpc.php:536
+#: lib/xmlrpc.php:609
+#@ default
+msgid "Sorry, you must be able to manage albums"
+msgstr ""
+
+#: lib/xmlrpc.php:448
+#@ default
+msgid "Sorry, could not create the album"
+msgstr ""
+
+#: lib/xmlrpc.php:491
+#: lib/xmlrpc.php:533
+#@ default
+msgid "Invalid album ID"
+msgstr ""
+
+#: lib/xmlrpc.php:500
+#@ default
+msgid "Sorry, could not update the album"
+msgstr ""
+
+#: nggallery.php:97
+#@ nggallery
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr ""
+
+#: nggallery.php:98
+#@ nggallery
+msgid "<strong>This translation is not yet updated for Version 1.7.3</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr ""
+
+#: nggallery.php:197
+#@ nggallery
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr ""
+
+#: nggallery.php:215
+#@ nggallery
+msgid "Please update the database of NextGEN Gallery."
+msgstr ""
+
+#: nggallery.php:215
+#@ nggallery
+msgid "Click here to proceed."
+msgstr ""
+
+#: nggallery.php:502
+#@ nggallery
+msgid "Get help"
+msgstr ""
+
+#: nggallery.php:503
+#@ nggallery
+msgid "Contribute"
+msgstr ""
+
+#: nggallery.php:504
+#@ nggallery
+msgid "Donate"
+msgstr ""
+
+#: nggfunctions.php:42
+#@ nggallery
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr ""
+
+#: widgets/media-rss-widget.php:87
+#@ nggallery
+msgid "Show Media RSS icon"
+msgstr ""
+
+#: widgets/media-rss-widget.php:93
+#@ nggallery
+msgid "Show the Media RSS link"
+msgstr ""
+
+#: widgets/media-rss-widget.php:98
+#@ nggallery
+msgid "Text for Media RSS link:"
+msgstr ""
+
+#: widgets/media-rss-widget.php:104
+#@ nggallery
+msgid "Tooltip text for Media RSS link:"
+msgstr ""
+
+#: xml/media-rss.php:115
+#@ nggallery
+msgid "Invalid MediaRSS command"
+msgstr ""
+

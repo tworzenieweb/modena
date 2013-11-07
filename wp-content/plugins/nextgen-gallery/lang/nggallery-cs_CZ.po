@@ -1,0 +1,4486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery 1.7.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-18 13:20+0100\n"
+"PO-Revision-Date: 2011-06-16 20:45+0100\n"
+"Last-Translator: Dominik Matus <email@dominikmatus.cz>\n"
+"Language-Team: Pepawo, Bengo <jklimosz@gmail.com, email@dominikmatus.cz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: c:/translate/wordpress 2.7/wp-content/plugins/nextgen-gallery/langs\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ nggallery
+#: nggallery.php:97
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Překlady : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">zde</a>"
+
+#@ nggallery
+#: nggallery.php:222
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Prosím aktualizujte databázi NextGen Gallery."
+
+#@ nggallery
+#: nggallery.php:222
+msgid "Click here to proceed."
+msgstr "Klikněte zde pro pokračování."
+
+#@ nggallery
+#: nggallery.php:245
+msgid "Picture tag"
+msgstr "Štítek obrázku"
+
+#@ nggallery
+#: nggallery.php:246
+#, php-format
+msgid "Picture tag: %2$l."
+msgstr "Štítek obrázku: %2$l."
+
+#@ nggallery
+#: nggallery.php:247
+msgid "Separate picture tags with commas."
+msgstr "Oddělte štítky obrázků čárkami."
+
+#@ nggallery
+#: nggallery.php:347
+msgid "L O A D I N G"
+msgstr "N A H R Á V Á N Í"
+
+#@ nggallery
+#: nggallery.php:348
+msgid "Click to Close"
+msgstr "Kliknutím zavřít"
+
+#@ nggallery
+#: nggallery.php:369
+msgid "loading"
+msgstr "načítání"
+
+#@ nggallery
+#: admin/admin.php:35
+#: nggallery.php:509
+#: nggfunctions.php:940
+msgid "Overview"
+msgstr "Přehled"
+
+#@ nggallery
+#: nggallery.php:510
+msgid "Get help"
+msgstr "Použít pomoc"
+
+#@ nggallery
+#: nggallery.php:511
+msgid "Contribute"
+msgstr "Přispět"
+
+#@ nggallery
+#: nggallery.php:512
+msgid "Donate"
+msgstr "Dotovat"
+
+#@ nggallery
+#: lib/shortcodes.php:255
+#: nggfunctions.php:163
+#: nggfunctions.php:641
+msgid "[Gallery not found]"
+msgstr "[Galerie nebyla nalezena]"
+
+#@ nggallery
+#: nggfunctions.php:448
+msgid "[Album not found]"
+msgstr "[Album nebylo nalezeno]"
+
+#@ nggallery
+#: nggfunctions.php:770
+msgid "[SinglePic not found]"
+msgstr "[Obrázek nebyl nalezen]"
+
+#@ nggallery
+#: nggfunctions.php:905
+msgid "Related images for"
+msgstr "Obrázky, související s "
+
+#@ nggallery
+#: admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Autorská práva/kredity"
+
+#@ nggallery
+#: admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "Vývojový tým NextGEN"
+
+#@ nggallery
+#: admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Tento plugin vyvíjí, udržuje, podporuje a dokumentuje"
+
+#@ nggallery
+#: admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Mnoho dalších lidí se podílí na vývoji tohoto projektu:"
+
+#@ nggallery
+#: admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Doplňky"
+
+#@ nggallery
+#: admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Pokud si budete prohlížet zdrojový kód tohoto pluginu, zjistíte, že jsme spojili mnoho dobrých, již existujících, kódů a nápadů do jednoho celku."
+
+#@ nggallery
+#: admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Takže bychom rádi poděkovali následujícím lidem za jejich průkopnickou práci (bez nich by nebylo možné vytvořit tento plugin tak rychle)."
+
+#@ nggallery
+#: admin/about.php:25
+msgid "for their great documented code"
+msgstr "za jejich skvělý komentovaný kód"
+
+#@ nggallery
+#: admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "za jQuery, který je nejlepším Web 2.0 frameworkem"
+
+#@ nggallery
+#: admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "za úžasnou PHP Thumbnail Class"
+
+#@ nggallery
+#: admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "za mnoho velmi užitečných doplňků a nápadů"
+
+#@ nggallery
+#: admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "za Shutter Reloaded, opravdu jednoduchý zobrazovací efekt"
+
+#@ nggallery
+#: admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "za nejlepší  Media Flash Scripts na světě"
+
+#@ nggallery
+#: admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "pro galerii ikon"
+
+#@ nggallery
+#: admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "za plugin Watermark (vodoznak)"
+
+#@ nggallery
+#: admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Jestliže jste zde nenašli své jméno a váš kód je součástí tohoto pluginu, neváhejte mi poslat e-mail."
+
+#@ nggallery
+#: admin/about.php:38
+msgid "How to support ?"
+msgstr "Jak nás podpořit?"
+
+#@ nggallery
+#: admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Je několik způsobů, jak nás podpořit a pomoci nám s vývojem. Žádný z nich však není závazný."
+
+#@ nggallery
+#: admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Upozorněte nás na chyby/změny kódu"
+
+#@ nggallery
+#: admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Nejvíce motivující podpora pro tento plugin jsou vaše nápady a myšlenky"
+
+#@ nggallery
+#: admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Přeložte plugin"
+
+#@ nggallery
+#: admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Abychom usnadnili lidem práci s tímto pluginem, měl by být dostupný ve všech možných jazycích."
+
+#@ nggallery
+#: admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Přispějte na naši práci pomocí PayPal"
+
+#@ nggallery
+#: admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Nepochybně to je velmi užitečná a snadná motivace :-)"
+
+#@ nggallery
+#: admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Umístěte odkaz na plugin na své webové stránce"
+
+#@ nggallery
+#: admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Ano, sdílení a zpětná vazba je také dobrá podpora pro tuto práci"
+
+#@ nggallery
+#: admin/about.php:64
+msgid "Thanks!"
+msgstr "Díky!"
+
+#@ nggallery
+#: admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Chtěli bychom poděkovat všem, kdo nás podporují v naší práci:"
+
+#@ nggallery
+#: admin/about.php:166
+msgid "and all donators..."
+msgstr "a všichni dárci ..."
+
+#@ default
+#: admin/addgallery.php:46
+#: admin/addgallery.php:57
+#: admin/addgallery.php:69
+#: admin/addgallery.php:80
+#: admin/album.php:96
+#: admin/album.php:124
+#: admin/album.php:142
+#: admin/edit-thumbnail.php:19
+#: admin/edit-thumbnail.php:22
+#: admin/manage.php:186
+#: admin/publish.php:17
+#: admin/publish.php:20
+#: admin/publish.php:23
+#: admin/rotate.php:17
+#: admin/rotate.php:20
+#: admin/showmeta.php:10
+#: admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Nepodvádíte?"
+
+#@ nggallery
+#: admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Nahrávání selhalo!"
+
+#@ nggallery
+#: admin/addgallery.php:90
+#: admin/functions.php:938
+#: admin/functions.php:1038
+msgid "No gallery selected !"
+msgstr "Není vybrána žádná galerie!"
+
+#@ nggallery
+#: admin/addgallery.php:162
+msgid "Image Files"
+msgstr "Soubory obrázků"
+
+#@ nggallery
+#: admin/addgallery.php:183
+#: admin/addgallery.php:211
+msgid "remove"
+msgstr "odstranit"
+
+#@ nggallery
+#: admin/addgallery.php:184
+#: admin/addgallery.php:364
+msgid "Browse..."
+msgstr "Procházet..."
+
+#@ nggallery
+#: admin/addgallery.php:185
+#: admin/addgallery.php:197
+#: admin/addgallery.php:414
+msgid "Upload images"
+msgstr "Nahrát obrázky"
+
+#@ nggallery
+#: admin/addgallery.php:274
+#: admin/addgallery.php:380
+msgid "Upload Images"
+msgstr "Nahrát obrázky"
+
+#@ nggallery
+#: admin/addgallery.php:277
+#: admin/addgallery.php:294
+#: admin/manage-galleries.php:119
+#: admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Přidat novou galerii"
+
+#@ nggallery
+#: admin/addgallery.php:280
+#: admin/addgallery.php:316
+msgid "Upload a Zip-File"
+msgstr "Nahrát ZIP soubor"
+
+#@ nggallery
+#: admin/addgallery.php:283
+#: admin/addgallery.php:358
+msgid "Import image folder"
+msgstr "Importovat adresář s obrázky"
+
+#@ nggallery
+#: admin/addgallery.php:299
+#: admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nová galerie"
+
+#@ nggallery
+#: admin/addgallery.php:302
+#: admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Vytvořit novou prázdnou galerii v adresáři"
+
+#@ nggallery
+#: admin/addgallery.php:304
+#: admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "Přípustné znaky pro názvy souborů a adresářů jsou"
+
+#@ nggallery
+#: admin/addgallery.php:308
+msgid "Add gallery"
+msgstr "Přidat galerii"
+
+#@ nggallery
+#: admin/addgallery.php:321
+msgid "Select Zip-File"
+msgstr "Vybrat ZIP soubor"
+
+#@ nggallery
+#: admin/addgallery.php:323
+msgid "Upload a zip file with images"
+msgstr "Nahrát ZIP soubor s obrázky"
+
+#@ nggallery
+#: admin/addgallery.php:327
+msgid "or enter a Zip-File URL"
+msgstr "nebo zadejte URL Zip souboru"
+
+#@ nggallery
+#: admin/addgallery.php:329
+msgid "Import a zip file with images from a url"
+msgstr "Importovat zip soubor s obrázky z url adresy"
+
+#@ nggallery
+#: admin/addgallery.php:333
+#: admin/addgallery.php:389
+msgid "in to"
+msgstr "do"
+
+#@ nggallery
+#: admin/addgallery.php:335
+msgid "a new gallery"
+msgstr "nová galerie"
+
+#@ nggallery
+#: admin/addgallery.php:346
+msgid "Note : The upload limit on your server is "
+msgstr "Upozornění: Limit vašeho serveru pro nahrávání je "
+
+#@ nggallery
+#: admin/addgallery.php:350
+msgid "Start upload"
+msgstr "Zahájit nahrávání"
+
+#@ nggallery
+#: admin/addgallery.php:363
+msgid "Import from Server path:"
+msgstr "Importovat ze serveru:"
+
+#@ nggallery
+#: admin/addgallery.php:366
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Poznámka: Změňte výchozí cestu v nastavení galerie"
+
+#@ nggallery
+#: admin/addgallery.php:368
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Upozornění : Když je zapnut Safe_Mode, je třeba vytvořit podadresář thumbs ručně"
+
+#@ nggallery
+#: admin/addgallery.php:371
+msgid "Import folder"
+msgstr "Importovat adresář"
+
+#@ nggallery
+#: admin/addgallery.php:385
+msgid "Upload image"
+msgstr "Nahrát obrázek"
+
+#@ nggallery
+#: admin/addgallery.php:391
+msgid "Choose gallery"
+msgstr "Vybrat galerii"
+
+#@ nggallery
+#: admin/addgallery.php:410
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Skupinový upload vyžaduje Adobe Flash 10, vypněte jej, pokud máte problémy"
+
+#@ nggallery
+#: admin/addgallery.php:410
+msgid "Disable flash upload"
+msgstr "Vypnout flash nahrávání"
+
+#@ nggallery
+#: admin/addgallery.php:412
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Nahrát více souborů najednou pomocí ctrl/shift-výběru v dialogovém okně"
+
+#@ nggallery
+#: admin/addgallery.php:412
+msgid "Enable flash based upload"
+msgstr "Povolit nahrávání souborů pomocí flashe"
+
+#@ nggallery
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:34
+#: admin/admin.php:60
+#: admin/admin.php:295
+#: admin/admin.php:373
+#: admin/functions.php:178
+#: admin/manage-galleries.php:127
+#: admin/manage-galleries.php:407
+#: admin/manage-images.php:239
+#: admin/overview.php:490
+#: admin/settings.php:219
+#: admin/tinymce/window.php:42
+#: admin/tinymce/window.php:54
+#: lib/rewrite.php:178
+#: lib/rewrite.php:187
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galerie"
+msgstr[1] "Galerie"
+
+#@ nggallery
+#: admin/admin.php:36
+msgid "Add Gallery / Images"
+msgstr "Přidat galerii / obrázky"
+
+#@ nggallery
+#: admin/admin.php:37
+msgid "Manage Gallery"
+msgstr "Správa galerií"
+
+#@ nggallery
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: admin/admin.php:38
+#: admin/overview.php:496
+#: admin/tinymce/window.php:43
+#: admin/tinymce/window.php:75
+#: lib/rewrite.php:184
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Alba"
+
+#@ nggallery
+#: admin/admin.php:39
+#: admin/settings.php:290
+#: lib/meta.php:441
+msgid "Tags"
+msgstr "Štítky"
+
+#@ nggallery
+#: admin/admin.php:40
+msgid "Options"
+msgstr "Nastavení"
+
+#@ nggallery
+#: admin/admin.php:42
+msgid "Style"
+msgstr "Vzhled"
+
+#@ nggallery
+#: admin/admin.php:44
+msgid "Roles"
+msgstr "Oprávnění"
+
+#@ nggallery
+#: admin/admin.php:45
+msgid "About this Gallery"
+msgstr "O této galerii"
+
+#@ nggallery
+#: admin/admin.php:45
+msgid "About"
+msgstr "O programu"
+
+#@ nggallery
+#: admin/admin.php:48
+#: admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN galerie"
+
+#@ nggallery
+#: admin/admin.php:51
+#: admin/admin.php:62
+msgid "Reset / Uninstall"
+msgstr "Resetovat / Odinstalovat"
+
+#@ nggallery
+#: admin/admin.php:101
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Děkujeme, že používáte tento plugin, doufám, že budete spokojeni! Pokud byste chtěli podpořit další rozvoj, prosím zvažte <strong><a href=\"%s\">darování</a></strong>! Pokud stále potřebujete nějakou pomoc, prosím pošlete svoje dotazy <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">zde</a> ."
+
+#@ nggallery
+#: admin/admin.php:104
+#: admin/wpmu.php:48
+msgid "OK, hide this message now !"
+msgstr "OK, skrýt tuto zprávu hned !"
+
+#@ nggallery
+#: admin/admin.php:189
+msgid "You do not have the correct permission"
+msgstr "Nemáte patřičné oprávnění"
+
+#@ nggallery
+#: admin/admin.php:190
+msgid "Unexpected Error"
+msgstr "Neočekávaná chyba"
+
+#@ nggallery
+#: admin/admin.php:191
+msgid "A failure occurred"
+msgstr "Objevila se závada"
+
+#@ nggallery
+#: admin/admin.php:299
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Úvod</a>"
+
+#@ nggallery
+#: admin/admin.php:302
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Nastavení</a>"
+
+#@ nggallery
+#: admin/admin.php:305
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Přeložil DominikMatus.cz</a>"
+
+#@ nggallery
+#: admin/admin.php:308
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Role/oprávnění</a>"
+
+#@ nggallery
+#: admin/admin.php:311
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styly</a>"
+
+#@ nggallery
+#: admin/admin.php:312
+msgid "Templates"
+msgstr "Šablony"
+
+#@ nggallery
+#: admin/admin.php:315
+#: admin/admin.php:321
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Správa galerie</a>"
+
+#@ nggallery
+#: admin/admin.php:316
+msgid "Gallery example"
+msgstr "Vzor galerie"
+
+#@ nggallery
+#: admin/admin.php:322
+#: admin/admin.php:332
+msgid "Gallery tags"
+msgstr "Štítky galerie"
+
+#@ nggallery
+#: admin/admin.php:325
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Správa alb</a>"
+
+#@ nggallery
+#: admin/admin.php:326
+msgid "Album example"
+msgstr "Vzor alba"
+
+#@ nggallery
+#: admin/admin.php:327
+#: admin/admin.php:333
+msgid "Album tags"
+msgstr "Štítky alba"
+
+#@ nggallery
+#: admin/admin.php:330
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Štítky</a>"
+
+#@ nggallery
+#: admin/admin.php:331
+msgid "Related images"
+msgstr "Související obrázky"
+
+#@ nggallery
+#: admin/admin.php:336
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Správa obrázků</a>"
+
+#@ nggallery
+#: admin/admin.php:337
+msgid "Custom fields"
+msgstr "Uživatelská pole"
+
+#@ nggallery
+#: admin/admin.php:342
+msgid "Get help with NextGEN Gallery"
+msgstr "Nápověda k NextGEN Gallery"
+
+#@ nggallery
+#: admin/admin.php:346
+msgid "More Help & Info"
+msgstr "Další pomoc a informace"
+
+#@ nggallery
+#: admin/admin.php:348
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Fóra podpory</a>"
+
+#@ nggallery
+#: admin/admin.php:349
+msgid "FAQ"
+msgstr "Otázky a odpovědi"
+
+#@ nggallery
+#: admin/admin.php:350
+msgid "Feature request"
+msgstr "Požadavky vlastností"
+
+#@ nggallery
+#: admin/admin.php:351
+msgid "Get your language pack"
+msgstr "Získat jazykový balíček"
+
+#@ nggallery
+#: admin/admin.php:352
+msgid "Contribute development"
+msgstr "Příspěvek k vývoji"
+
+#@ nggallery
+#: admin/admin.php:353
+msgid "Download latest version"
+msgstr "Stáhnout poslední verzi"
+
+#@ nggallery
+#: admin/album.php:102
+#: admin/album.php:117
+#: admin/album.php:158
+#: admin/settings.php:79
+#: admin/style.php:24
+msgid "Update Successfully"
+msgstr "Uspěšně aktualizováno"
+
+#@ nggallery
+#: admin/album.php:131
+msgid "Album deleted"
+msgstr "Album bylo odstraněno"
+
+#@ nggallery
+#: admin/album.php:278
+msgid "Manage Albums"
+msgstr "Správa alb"
+
+#@ nggallery
+#: admin/album.php:284
+#: admin/album.php:333
+msgid "Select album"
+msgstr "Vybrat album"
+
+#@ nggallery
+#: admin/album.php:286
+msgid "No album selected"
+msgstr "Není vybráno žádné album"
+
+#@ nggallery
+#@ default
+#: admin/album.php:297
+#: admin/edit-thumbnail.php:157
+#: admin/overview.php:611
+#: admin/rotate.php:90
+#: admin/wpmu.php:126
+msgid "Update"
+msgstr "Aktualizovat"
+
+#@ nggallery
+#: admin/album.php:299
+msgid "Edit album"
+msgstr "Upravit album"
+
+#@ nggallery
+#@ default
+#: admin/album.php:302
+#: admin/manage-galleries.php:146
+#: admin/manage-images.php:440
+#: admin/tags.php:223
+msgid "Delete"
+msgstr "Vymazat"
+
+#@ nggallery
+#: admin/album.php:306
+msgid "Add new album"
+msgstr "Přidat nové album"
+
+#@ nggallery
+#: admin/album.php:308
+msgid "Add"
+msgstr "Přidat"
+
+#@ nggallery
+#: admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "Zobrazit / skrýt použité galerie"
+
+#@ nggallery
+#: admin/album.php:319
+msgid "[Show all]"
+msgstr "[Zobrazit vše]"
+
+#@ nggallery
+#: admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "Maximalizovat obsah widgetu"
+
+#@ nggallery
+#: admin/album.php:320
+msgid "[Maximize]"
+msgstr "[Max. zvětšit]"
+
+#@ nggallery
+#: admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "Minimalizovat obsah widgetu"
+
+#@ nggallery
+#: admin/album.php:321
+msgid "[Minimize]"
+msgstr "[Max. zmenšit]"
+
+#@ nggallery
+#: admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Po vytvoření a vybrání alba, můžete přetáhnout galerie nebo jiné album do svého nového alba pod"
+
+#@ nggallery
+#: admin/album.php:349
+msgid "Select gallery"
+msgstr "Vyberte galerii"
+
+#@ nggallery
+#: admin/album.php:378
+msgid "Album ID"
+msgstr "Album ID"
+
+#@ nggallery
+#: admin/album.php:391
+msgid "No album selected!"
+msgstr "Není zvoleno žádné album"
+
+#@ nggallery
+#: admin/album.php:411
+msgid "Album name:"
+msgstr "Jméno alba:"
+
+#@ nggallery
+#: admin/album.php:417
+msgid "Album description:"
+msgstr "Popis alba:"
+
+#@ nggallery
+#: admin/album.php:423
+msgid "Select a preview image:"
+msgstr "Vyberte náhled obrázku:"
+
+#@ nggallery
+#: admin/album.php:426
+#: admin/album.php:429
+msgid "No picture"
+msgstr "Žádný obrázek"
+
+#@ nggallery
+#: admin/album.php:440
+#: admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Odkaz na stránku"
+
+#@ nggallery
+#: admin/album.php:442
+#: admin/manage-images.php:260
+msgid "Not linked"
+msgstr "Bez odkazu"
+
+#@ nggallery
+#: admin/album.php:455
+#: admin/manage-galleries.php:288
+#: admin/manage-galleries.php:317
+#: admin/manage-galleries.php:347
+#: admin/manage-images.php:525
+#: admin/manage-images.php:561
+#: admin/manage-images.php:590
+#: admin/manage-images.php:620
+msgid "OK"
+msgstr "OK"
+
+#@ nggallery
+#: admin/album.php:457
+#: admin/manage-galleries.php:290
+#: admin/manage-galleries.php:319
+#: admin/manage-galleries.php:349
+#: admin/manage-images.php:527
+#: admin/manage-images.php:563
+#: admin/manage-images.php:592
+#: admin/manage-images.php:622
+#: admin/tinymce/window.php:134
+msgid "Cancel"
+msgstr "Zrušit"
+
+#@ nggallery
+#: admin/album.php:541
+msgid "Name"
+msgstr "Název"
+
+#@ nggallery
+#@ default
+#: admin/album.php:542
+#: admin/manage-images.php:255
+#: lib/meta.php:439
+msgid "Title"
+msgstr "Titulek"
+
+#@ nggallery
+#: admin/album.php:543
+#: lib/rewrite.php:190
+msgid "Page"
+msgstr "Stránka"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Zvolte myší prostor pro nový náhled"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "Náhled aktualizován"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "Chyba při aktualizaci náhledu"
+
+#@ nggallery
+#: admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Vyberte oblast pro náhled z obrázku vlevo."
+
+#@ nggallery
+#: admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Neplatný název galerie"
+
+#@ nggallery
+#: admin/functions.php:46
+#: admin/functions.php:55
+#: admin/functions.php:80
+#: admin/functions.php:149
+#: admin/functions.php:157
+msgid "Directory"
+msgstr "Adresář"
+
+#@ nggallery
+#: admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "neexistuje. Vytvořte nejprve hlavní adresář galerie "
+
+#@ nggallery
+#: admin/functions.php:47
+#: admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Podívejte se na tento odkaz, pokud nevíte, jak nastavit práva:"
+
+#@ nggallery
+#: admin/functions.php:55
+#: admin/functions.php:80
+msgid "is not writeable !"
+msgstr "není zapisovatelný!"
+
+#@ nggallery
+#: admin/functions.php:76
+#: admin/functions.php:85
+#: admin/functions.php:897
+#: lib/core.php:102
+msgid "Unable to create directory "
+msgstr "Nelze vytvořit adresář"
+
+#@ nggallery
+#: admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "Server je nastaven na Safe_Mode On!"
+
+#@ nggallery
+#: admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "Pokud máte problémy, vytvořte adresář"
+
+#@ nggallery
+#: admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "a adresář pro náhledy"
+
+#@ nggallery
+#: admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "s právy 777 ručně!"
+
+#@ nggallery
+#: admin/functions.php:119
+msgid "Edit gallery"
+msgstr "Upravit galerii"
+
+#@ nggallery
+#: admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "neexistuje!"
+
+#@ nggallery
+#: admin/functions.php:157
+msgid "contains no pictures"
+msgstr "neobsahuje žádné obrázky"
+
+#@ nggallery
+#: admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "Chyba databáze. Nemohla být přidána galerie!"
+
+#@ nggallery
+#: admin/functions.php:178
+msgid "successfully created!"
+msgstr "uspěšně vytvořen!"
+
+#@ nggallery
+#: admin/functions.php:212
+#: admin/functions.php:1014
+#: admin/manage-galleries.php:81
+#: admin/manage-galleries.php:148
+#: admin/manage-images.php:203
+#: admin/manage-images.php:334
+#: admin/manage.php:223
+#: admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "Vytvořit nové náhledy"
+
+#@ nggallery
+#: admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr "obrázek/y úspěšně přidán/y"
+
+#@ nggallery
+#: admin/functions.php:265
+#: admin/functions.php:345
+#: admin/functions.php:400
+#: admin/functions.php:497
+#: admin/functions.php:551
+msgid "Object didn't contain correct data"
+msgstr "Objekt neobsahoval správná data"
+
+#@ nggallery
+#: admin/functions.php:273
+msgid " is not writeable "
+msgstr " není zapisovatelný"
+
+#@ nggallery
+#: admin/functions.php:355
+#: admin/functions.php:403
+#: admin/functions.php:503
+#: admin/functions.php:554
+msgid " is not writeable"
+msgstr " není zapisovatelný"
+
+#@ nggallery
+#: admin/functions.php:557
+msgid "File do not exists"
+msgstr "Soubor neexistuje"
+
+#@ nggallery
+#: admin/functions.php:561
+msgid "Couldn't restore original image"
+msgstr "Nepodařilo se obnovit původní obrázek"
+
+#@ nggallery
+#: admin/functions.php:677
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Chyba: Nelze aktualizovat databázi)"
+
+#@ nggallery
+#: admin/functions.php:684
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Chyba: Nepodařilo se aktualizovat meta data)"
+
+#@ nggallery
+#: admin/functions.php:693
+msgid "(Error : Couldn't not find image)"
+msgstr "(Chyba: Nepodařilo se najít obrázek)"
+
+#@ nggallery
+#: admin/functions.php:831
+msgid "No valid URL path "
+msgstr "Špatná URL cesta"
+
+#@ nggallery
+#: admin/functions.php:847
+msgid "Import via cURL failed."
+msgstr "Import přes cURL se nezdařil."
+
+#@ nggallery
+#: admin/functions.php:881
+msgid "Could not get a valid foldername"
+msgstr "Nelze získat platný název adresáře"
+
+#@ nggallery
+#: admin/functions.php:892
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Adresář %s nemohl být vytvořen. Má nadřízený adresář na serveru povoleno zapisování?"
+
+#@ nggallery
+#: admin/functions.php:907
+msgid "Zip-File successfully unpacked"
+msgstr "ZIP archív byl úspěšně rozbalen"
+
+#@ nggallery
+#: admin/functions.php:946
+#: admin/functions.php:1063
+msgid "Failure in database, no gallery path set !"
+msgstr "Chyba databáze, nebyla nastavena cesta ke galerii!"
+
+#@ nggallery
+#: admin/functions.php:970
+#: admin/functions.php:1057
+msgid "is no valid image file!"
+msgstr "není platný obrázkový soubor!"
+
+#@ nggallery
+#: admin/functions.php:984
+#: admin/functions.php:1183
+#: admin/functions.php:1260
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Nelze zapisovat do adresáře %s. Je adresář zapisovatelný serverem?"
+
+#@ nggallery
+#: admin/functions.php:1019
+msgid " Image(s) successfully added"
+msgstr " obrázek/obrázky úspěšně přidán/y"
+
+#@ nggallery
+#: admin/functions.php:1046
+msgid "Invalid upload. Error Code : "
+msgstr "Chyba nahrávání. Kód chyby:"
+
+#@ nggallery
+#: admin/functions.php:1123
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "Safe_Mode omezení je v činnosti. Musíte vytvořit adresář <strong>%s</strong> na serveru ručně "
+
+#@ nggallery
+#: admin/functions.php:1124
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Když je Safe_Mode zapnut, PHP ověřuje, zda se vlastník (%s) skriptu shoduje s vlastníkem (%s) souboru nebo adresáře"
+
+#@ nggallery
+#: admin/functions.php:1177
+#: admin/functions.php:1254
+msgid "The destination gallery does not exist"
+msgstr "Cílová galerie neexistuje"
+
+#@ nggallery
+#: admin/functions.php:1208
+#: lib/xmlrpc.php:194
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Nelze přemístit obrázek %1$s do %2$s"
+
+#@ nggallery
+#: admin/functions.php:1228
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Přemístěné obrázky: %1$s do galerie%2$s."
+
+#@ nggallery
+#: admin/functions.php:1287
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Nelze zkopírovat obrázek %1$s do %2$s"
+
+#@ nggallery
+#: admin/functions.php:1301
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Nelze zkopírovat databázový záznam pro obrázek %s"
+
+#@ nggallery
+#: admin/functions.php:1313
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Obrázek %1$s (%2$s) zkopírován jako obrázek %3$s (%4$s) &raquo; soubor už v cílové galerii existuje."
+
+#@ nggallery
+#: admin/functions.php:1316
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Obrázek %1$s (%2$s) zkopírován jako obrázek %3$s (%4$s)"
+
+#@ nggallery
+#: admin/functions.php:1325
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Zkopírované obrázky: %1$s do galerie %2$s."
+
+#@ nggallery
+#: admin/functions.php:1433
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Nahrávaný soubor překračuje upload_max_filesize směrnici danou v php.ini"
+
+#@ nggallery
+#: admin/functions.php:1436
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "Nahrávanný soubor překračuje MAX_FILE_SIZE směrnici, která byla uvedena v HTML formuláři"
+
+#@ nggallery
+#: admin/functions.php:1439
+msgid "The uploaded file was only partially uploaded"
+msgstr "Nahrávaný soubor byl pouze částečně nahrán"
+
+#@ nggallery
+#: admin/functions.php:1442
+msgid "No file was uploaded"
+msgstr "Žádný soubor nebyl nahrán"
+
+#@ nggallery
+#: admin/functions.php:1445
+msgid "Missing a temporary folder"
+msgstr "Chybí dočasné složky"
+
+#@ nggallery
+#: admin/functions.php:1448
+msgid "Failed to write file to disk"
+msgstr "Selhal zápis souboru na disk"
+
+#@ nggallery
+#: admin/functions.php:1451
+msgid "File upload stopped by extension"
+msgstr "Nahrávání souboru bylo zastaveno rozšířením"
+
+#@ nggallery
+#: admin/functions.php:1454
+msgid "Unknown upload error"
+msgstr "Neznámá chyba nahrávání"
+
+#@ nggallery
+#: admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Je nám líto, ale NextGEN galerie pracuje pouze pro roli administrátor"
+
+#@ nggallery
+#: admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr " NextGEN galerie : Tabulky nemohly být vytvořeny, zkontrolujte nastavení databáze"
+
+#@ nggallery
+#: admin/install.php:171
+msgid "[Show as slideshow]"
+msgstr "[Prezentace]"
+
+#@ nggallery
+#: admin/install.php:172
+msgid "[Show picture list]"
+msgstr "[Seznam obrázků]"
+
+#@ nggallery
+#: admin/manage-galleries.php:69
+#: admin/manage-images.php:171
+msgid "No images selected"
+msgstr "Nebyly vybrány žádné obrázky"
+
+#@ nggallery
+#: admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Chystáte se k hromadné úpravě na galeriích %s \n"
+" \n"
+" 'Zrušit' nebo 'OK' pro zpracování."
+
+#@ nggallery
+#: admin/manage-galleries.php:130
+#: admin/manage-galleries.php:133
+#: admin/manage-images.php:225
+#: admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Hledat Obrázky"
+
+#@ nggallery
+#: admin/manage-galleries.php:147
+#: admin/manage-images.php:333
+#: admin/manage.php:140
+#: admin/manage.php:249
+msgid "Set watermark"
+msgstr "Vložit vodoznak"
+
+#@ nggallery
+#: admin/manage-galleries.php:77
+#: admin/manage-galleries.php:149
+#: admin/manage-images.php:199
+#: admin/manage-images.php:335
+#: admin/manage.php:207
+#: admin/manage.php:285
+msgid "Resize images"
+msgstr "Změnit rozměry obrázků"
+
+#@ nggallery
+#: admin/manage-galleries.php:150
+#: admin/manage-images.php:338
+#: admin/manage.php:145
+#: admin/manage.php:269
+msgid "Import metadata"
+msgstr "Importovat metadata"
+
+#@ nggallery
+#: admin/manage-galleries.php:151
+#: admin/manage-images.php:336
+#: admin/manage.php:135
+#: admin/manage.php:246
+msgid "Recover from backup"
+msgstr "Obnovit ze zálohy"
+
+#@ nggallery
+#: admin/manage-galleries.php:153
+#: admin/manage-images.php:347
+msgid "Apply"
+msgstr "Použít"
+
+#@ default
+#: admin/manage-galleries.php:406
+#: admin/manage-images.php:684
+msgid "ID"
+msgstr "ID"
+
+#@ nggallery
+#@ default
+#: admin/manage-galleries.php:408
+#: admin/manage-images.php:266
+#: admin/manage-images.php:687
+#: admin/media-upload.php:225
+#: admin/style.php:136
+msgid "Description"
+msgstr "Popis"
+
+#@ nggallery
+#@ default
+#: admin/manage-galleries.php:409
+#: admin/manage-images.php:287
+#: admin/overview.php:839
+#: admin/style.php:134
+#: lib/meta.php:440
+msgid "Author"
+msgstr "Autor"
+
+#@ nggallery
+#: admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "ID stránky"
+
+#@ default
+#@ nggallery
+#: admin/manage-galleries.php:220
+#: admin/tags.php:249
+msgid "Edit"
+msgstr "Editovat"
+
+#@ nggallery
+#: admin/manage-galleries.php:261
+#: admin/manage-images.php:498
+msgid "No entries found"
+msgstr "Nebyly nalezeny žádné vstupy"
+
+#@ nggallery
+#: admin/manage-galleries.php:308
+#: admin/manage-images.php:581
+msgid "Resize Images to"
+msgstr "Změnit velikost obrázků na"
+
+#@ nggallery
+#: admin/manage-galleries.php:312
+#: admin/manage-images.php:585
+#: admin/settings.php:349
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Šířka x výška (v pixelech). NextGEN galerie zachová poměr stran"
+
+#@ nggallery
+#: admin/manage-galleries.php:336
+#: admin/manage-images.php:609
+#: admin/publish.php:50
+#: admin/settings.php:317
+msgid "Width x height (in pixel)"
+msgstr "Šířka x výška (v pixelech)"
+
+#@ nggallery
+#: admin/manage-galleries.php:338
+#: admin/manage-images.php:611
+#: admin/settings.php:319
+msgid "These values are maximum values "
+msgstr "Tyto hodnoty jsou maximální "
+
+#@ nggallery
+#: admin/manage-galleries.php:341
+#: admin/manage-images.php:614
+#: admin/settings.php:322
+msgid "Set fix dimension"
+msgstr "Nastavit pevný rozměr"
+
+#@ nggallery
+#: admin/manage-galleries.php:343
+#: admin/manage-images.php:616
+#: admin/settings.php:324
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorovat poměr stran, žádné náhledy na výšku"
+
+#@ nggallery
+#: admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "Galerie nebyla nalezena."
+
+#@ nggallery
+#: admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Je nám líto, ale nemáte zde přístup"
+
+#@ nggallery
+#: admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Chystáte se spustit hromadnou editaci %s obrázků \n"
+"\n"
+"[Zrušit] pro zrušení, [OK] pro pokračování"
+
+#@ nggallery
+#: admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Výsledky hledání pro &#8220;%s&#8221;"
+
+#@ nggallery
+#: admin/manage-images.php:251
+#: admin/settings.php:389
+msgid "Gallery settings"
+msgstr "Nastavení galerie"
+
+#@ nggallery
+#: admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Klikněte pro další nastavení"
+
+#@ nggallery
+#: admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Obrázek náhledu galerie"
+
+#@ nggallery
+#: admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Žádný obrázek"
+
+#@ nggallery
+#: admin/manage-images.php:285
+msgid "Path"
+msgstr "Cesta"
+
+#@ nggallery
+#: admin/manage-images.php:302
+msgid "Create new page"
+msgstr "Vytvořit novou stránku"
+
+#@ nggallery
+#: admin/manage-images.php:305
+msgid "Main page (No parent)"
+msgstr "Hlavní stránka (bez nadřazené)"
+
+#@ nggallery
+#: admin/manage-images.php:308
+msgid "Add page"
+msgstr "Přidat stránku"
+
+#@ nggallery
+#: admin/manage-images.php:317
+msgid "Scan Folder for new images"
+msgstr "Hledat nové obrázky v adresáři"
+
+#@ nggallery
+#@ default
+#: admin/manage-images.php:318
+#: admin/manage-images.php:353
+#: admin/manage-images.php:505
+#: admin/settings.php:301
+#: admin/settings.php:332
+#: admin/settings.php:379
+#: admin/settings.php:464
+#: admin/settings.php:499
+#: admin/settings.php:609
+#: admin/settings.php:760
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#@ nggallery
+#: admin/manage-images.php:337
+msgid "Delete images"
+msgstr "Vymazat obrázky"
+
+#@ nggallery
+#: admin/manage-images.php:339
+msgid "Rotate images clockwise"
+msgstr "Otočit obrázky ve směru hodinových ručiček"
+
+#@ nggallery
+#: admin/manage-images.php:340
+msgid "Rotate images counter-clockwise"
+msgstr "Otočit obrázky proti směru hodinových ručiček"
+
+#@ nggallery
+#: admin/manage-images.php:341
+msgid "Copy to..."
+msgstr "Kopírovat..."
+
+#@ nggallery
+#: admin/manage-images.php:342
+msgid "Move to..."
+msgstr "Přemístit..."
+
+#@ nggallery
+#: admin/manage-images.php:343
+msgid "Add tags"
+msgstr "Přidat štítky"
+
+#@ nggallery
+#: admin/manage-images.php:191
+#: admin/manage-images.php:344
+msgid "Delete tags"
+msgstr "Vymazat štítky"
+
+#@ nggallery
+#: admin/manage-images.php:345
+msgid "Overwrite tags"
+msgstr "Přepsat štítky"
+
+#@ nggallery
+#: admin/manage-images.php:350
+msgid "Sort gallery"
+msgstr "Řazení galerie"
+
+#@ nggallery
+#: admin/manage-images.php:426
+msgid "pixel"
+msgstr "pixel"
+
+#@ default
+#: admin/manage-images.php:432
+#, php-format
+msgid "View \"%s\""
+msgstr "Pohled \"%s\""
+
+#@ nggallery
+#: admin/manage-images.php:432
+msgid "View"
+msgstr "Náhled"
+
+#@ nggallery
+#: admin/manage-images.php:433
+msgid "Show Meta data"
+msgstr "Zobrazit metadata"
+
+#@ nggallery
+#: admin/manage-images.php:433
+msgid "Meta"
+msgstr "Meta"
+
+#@ nggallery
+#: admin/manage-images.php:434
+msgid "Customize thumbnail"
+msgstr "Přizpůsobit náhled"
+
+#@ nggallery
+#: admin/manage-images.php:434
+msgid "Edit thumb"
+msgstr "Upravit náhled"
+
+#@ nggallery
+#: admin/manage-images.php:435
+msgid "Rotate"
+msgstr "Otočit"
+
+#@ nggallery
+#: admin/manage-images.php:439
+msgid "Recover"
+msgstr "Obnovit"
+
+#@ nggallery
+#: admin/manage-images.php:439
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "Obnovit \"%s\" ?"
+
+#@ nggallery
+#: admin/manage-images.php:440
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Smazat \"%s\" ?"
+
+#@ nggallery
+#: admin/manage-images.php:521
+msgid "Enter the tags"
+msgstr "Vložit štítky"
+
+#@ nggallery
+#: admin/manage-images.php:545
+msgid "Select the destination gallery:"
+msgstr "Vyberte cílovou galerii:"
+
+#@ nggallery
+#@ default
+#: admin/manage-images.php:685
+#: admin/media-upload.php:246
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#@ nggallery
+#: admin/manage-images.php:686
+#: admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Název souboru"
+
+#@ nggallery
+#: admin/manage-images.php:687
+msgid "Alt &amp; Title Text"
+msgstr "Alt. text/titulek"
+
+#@ nggallery
+#: admin/manage-images.php:688
+msgid "Tags (comma separated list)"
+msgstr "Štítky (oddělené čárkami)"
+
+#@ nggallery
+#: admin/manage-images.php:689
+msgid "exclude"
+msgstr "Vyřadit"
+
+#@ nggallery
+#: admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Řazení změněno"
+
+#@ nggallery
+#: admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Řadit galerii"
+
+#@ nggallery
+#: admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Aktualizovat řazení"
+
+#@ nggallery
+#: admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Zpět na galerii"
+
+#@ nggallery
+#: admin/manage-sort.php:74
+msgid "Presort"
+msgstr "Přeřadit"
+
+#@ nggallery
+#: admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Neseřazené"
+
+#@ nggallery
+#: admin/manage-sort.php:76
+#: admin/settings.php:450
+msgid "Image ID"
+msgstr "ID obrázku"
+
+#@ nggallery
+#: admin/manage-sort.php:78
+#: admin/media-upload.php:221
+msgid "Alt/Title text"
+msgstr "Alt. text/titulek"
+
+#@ nggallery
+#: admin/manage-sort.php:79
+#: lib/meta.php:434
+msgid "Date/Time"
+msgstr "Datum/čas"
+
+#@ nggallery
+#: admin/manage-sort.php:80
+#: admin/settings.php:458
+msgid "Ascending"
+msgstr "Vzestupné"
+
+#@ nggallery
+#: admin/manage-sort.php:81
+#: admin/settings.php:459
+msgid "Descending"
+msgstr "Sestupné"
+
+#@ nggallery
+#: admin/manage.php:84
+msgid "deleted successfully"
+msgstr "úspěšně odstraněn"
+
+#@ nggallery
+#: admin/manage.php:84
+#: admin/tinymce/window.php:44
+#: admin/tinymce/window.php:95
+#: lib/rewrite.php:181
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+msgid "Picture"
+msgstr "Obrázek"
+
+#@ nggallery
+#: admin/manage.php:99
+#: admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operace úspěšná. Prosím smažte cache prohlížeče."
+
+#@ nggallery
+#: admin/manage.php:240
+#: admin/manage.php:243
+msgid "Rotate images"
+msgstr "Otočit obrázky"
+
+#@ nggallery
+#: admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "Obrázky byly úspěšně vymazány"
+
+#@ nggallery
+#: admin/manage.php:361
+msgid "Tags changed"
+msgstr "Štítky změněny"
+
+#@ nggallery
+#: admin/manage.php:397
+msgid "Update successful"
+msgstr "Aktualizace proběhla úspěšně"
+
+#@ nggallery
+#: admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "ID stránky s galerií"
+
+#@ nggallery
+#: admin/manage.php:432
+msgid "created"
+msgstr "vytvořeno"
+
+#@ nggallery
+#: admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Žádná galerie"
+
+#@ nggallery
+#: admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Vybrat &#187;"
+
+#@ nggallery
+#: admin/media-upload.php:209
+msgid "Show"
+msgstr "Zobrazit"
+
+#@ nggallery
+#: admin/media-upload.php:210
+msgid "Hide"
+msgstr "Skrýt"
+
+#@ nggallery
+#: admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "ID obrázku"
+
+#@ nggallery
+#: admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Uložit všechny změny"
+
+#@ nggallery
+#: admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "O NextGEN galerii"
+
+#@ nggallery
+#: admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Vítejte v NextGEN galerii!"
+
+#@ nggallery
+#: admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "Líbí se vám tento plugin?"
+
+#@ nggallery
+#: admin/overview.php:89
+msgid "Translation"
+msgstr "Překlad"
+
+#@ nggallery
+#: admin/overview.php:90
+msgid "Latest News"
+msgstr "Poslední novinky"
+
+#@ nggallery
+#: admin/overview.php:91
+msgid "Recent donators"
+msgstr "Poslední dárci"
+
+#@ nggallery
+#: admin/overview.php:94
+msgid "Server Settings"
+msgstr "Nastavení serveru"
+
+#@ nggallery
+#: admin/overview.php:95
+msgid "Related plugins"
+msgstr "Související pluginy"
+
+#@ nggallery
+#: admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Tento plugin je primárně vytvořen, udržován, podporován a dokumentován <a href=\"%s\">Alexem Rabe</a> s láskou & úsilím. Jakýkoliv druh příspěvku by vysoce ocenil. Díky!"
+
+#@ nggallery
+#: admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Dej tomuto pluginu dobrý hlas na WordPress.org."
+
+#@ nggallery
+#: admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Přispějte na práci přes Paypal."
+
+#@ nggallery
+#: admin/overview.php:340
+msgid "Graphic Library"
+msgstr "Grafická knihovna"
+
+#@ default
+#: admin/overview.php:356
+#: admin/overview.php:405
+#: admin/overview.php:592
+#: admin/overview.php:782
+msgid "Loading&#8230;"
+msgstr "Načítání&#8230;"
+
+#@ default
+#: admin/overview.php:356
+#: admin/overview.php:405
+#: admin/overview.php:592
+#: admin/overview.php:782
+msgid "This widget requires JavaScript."
+msgstr "Widget vyžaduje JavaScript."
+
+#@ nggallery
+#: admin/overview.php:369
+msgid "Thanks to all donators..."
+msgstr "Díky všem dárcům ..."
+
+#@ nggallery
+#: admin/overview.php:391
+msgid "View all"
+msgstr "Zobrazit vše"
+
+#@ nggallery
+#: admin/overview.php:417
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Kanál novinek se nepodařilo otevřít. Pro aktuality se podívejte na <a href=\"%s\">hlavní stránku</a>."
+
+#@ default
+#: admin/overview.php:429
+msgid "Untitled"
+msgstr "Bez titulku"
+
+#@ nggallery
+#: admin/overview.php:479
+msgid "At a Glance"
+msgstr "Rychlý přehled"
+
+#@ nggallery
+#: admin/manage-galleries.php:411
+#: admin/overview.php:484
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Obrázek"
+msgstr[1] "Obrázky"
+
+#@ nggallery
+#: admin/overview.php:505
+msgid "Upload pictures"
+msgstr "Nahrát obrázky"
+
+#@ nggallery
+#: admin/overview.php:506
+msgid "Here you can control your images, galleries and albums."
+msgstr "Zde můžete spravovat obrázky, galerie a alba."
+
+#@ default
+#: admin/overview.php:536
+msgid "Storage Space"
+msgstr "Místo pro nahrávání"
+
+#@ default
+#: admin/overview.php:540
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Spravovat nahrané\" class=\"musublink\">%2$sMB</a>"
+
+#@ default
+#: admin/overview.php:541
+msgid "Space Allowed"
+msgstr "Volné místo"
+
+#@ default
+#: admin/overview.php:548
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Spravovat nahrané\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#@ default
+#: admin/overview.php:549
+msgid "Space Used"
+msgstr "Využité místo"
+
+#@ nggallery
+#: admin/overview.php:578
+msgid "Translation file successful updated. Please reload page."
+msgstr "Soubor s překladem úspěšně aktualizován. Prosím, obnovte stránku."
+
+#@ nggallery
+#: admin/overview.php:580
+msgid "Reload page"
+msgstr "Obnovit stránku"
+
+#@ nggallery
+#: admin/overview.php:585
+msgid "Translation file couldn't be updated"
+msgstr "Soubor překladu nemohl být aktualizován"
+
+#@ nggallery
+#: admin/overview.php:622
+msgid "Download"
+msgstr "Stáhnout"
+
+#@ nggallery
+#: admin/overview.php:651
+msgid "No GD support"
+msgstr "GD není podporováno"
+
+#@ nggallery
+#: admin/overview.php:663
+#: admin/overview.php:709
+#: admin/overview.php:712
+#: admin/overview.php:715
+msgid "Yes"
+msgstr "Ano"
+
+#@ nggallery
+#: admin/overview.php:665
+#: admin/overview.php:710
+#: admin/overview.php:713
+#: admin/overview.php:716
+msgid "No"
+msgstr "Ne"
+
+#@ nggallery
+#: admin/overview.php:683
+msgid "Not set"
+msgstr "Není nastaveno"
+
+#@ nggallery
+#: admin/overview.php:685
+#: admin/overview.php:688
+msgid "On"
+msgstr "Zapnuto"
+
+#@ nggallery
+#: admin/overview.php:686
+#: admin/overview.php:689
+msgid "Off"
+msgstr "Vypnuto"
+
+#@ nggallery
+#: admin/overview.php:692
+#: admin/overview.php:695
+#: admin/overview.php:698
+#: admin/overview.php:701
+#: admin/overview.php:704
+#: admin/overview.php:707
+msgid "N/A"
+msgstr "N/A"
+
+#@ nggallery
+#: admin/overview.php:706
+msgid " MByte"
+msgstr " MB"
+
+#@ nggallery
+#: admin/overview.php:719
+msgid "Operating System"
+msgstr "Operační systém"
+
+#@ nggallery
+#: admin/overview.php:720
+msgid "Server"
+msgstr "Server"
+
+#@ nggallery
+#: admin/overview.php:721
+msgid "Memory usage"
+msgstr "Využití paměti"
+
+#@ nggallery
+#: admin/overview.php:722
+msgid "MYSQL Version"
+msgstr "MySQL verze"
+
+#@ nggallery
+#: admin/overview.php:723
+msgid "SQL Mode"
+msgstr "SQL mód"
+
+#@ nggallery
+#: admin/overview.php:724
+msgid "PHP Version"
+msgstr "PHP verze"
+
+#@ nggallery
+#: admin/overview.php:725
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#@ nggallery
+#: admin/overview.php:726
+msgid "PHP Allow URL fopen"
+msgstr "PHP umožňuje URL fopen"
+
+#@ nggallery
+#: admin/overview.php:727
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#@ nggallery
+#: admin/overview.php:728
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#@ nggallery
+#: admin/overview.php:729
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#@ nggallery
+#: admin/overview.php:730
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE Backtracking Limit"
+
+#@ nggallery
+#: admin/overview.php:731
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Script Execute Time"
+
+#@ nggallery
+#: admin/overview.php:732
+msgid "PHP Exif support"
+msgstr "podpora PHP Exif"
+
+#@ nggallery
+#: admin/overview.php:733
+msgid "PHP IPTC support"
+msgstr "podpora PHP IPTC"
+
+#@ nggallery
+#: admin/overview.php:734
+msgid "PHP XML support"
+msgstr "podpora PHP XML"
+
+#@ nggallery
+#: admin/overview.php:746
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "Nextgen Galerie obsahuje některé funkce, které jsou k dispozici pouze v PHP 5.2. Používáte starou verzi PHP 4, aktualizujte ji! Není již podporován skupinou PHP. Mnozí poskytovatelé nabízejí sdílený hosting s PHP 4 a PHP 5, které běží současně. Zeptejte se svého poskytovatele, jesli to může tak udělat."
+
+#@ default
+#: admin/overview.php:838
+msgid "Install"
+msgstr "Instalovat"
+
+#@ nggallery
+#: admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Aktualizovány možnosti"
+
+#@ nggallery
+#: admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Role/možnosti"
+
+#@ nggallery
+#: admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Pro lepší správu uživatelů můžete využít"
+
+#@ nggallery
+#: admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "Hlavní přehled NextGEN galerie"
+
+#@ nggallery
+#: admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Používat tlačítko TinyMCE/nahrávání"
+
+#@ nggallery
+#: admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Přidat galerii/nahrát obrázky"
+
+#@ nggallery
+#: admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Správa galerie"
+
+#@ nggallery
+#: admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Správa dalších galerií"
+
+#@ nggallery
+#: admin/roles.php:55
+msgid "Manage tags"
+msgstr "Správa štítků"
+
+#@ nggallery
+#: admin/album.php:269
+#: admin/roles.php:59
+msgid "Edit Album"
+msgstr "Editace alba"
+
+#@ nggallery
+#: admin/roles.php:63
+msgid "Change style"
+msgstr "Změnit styl"
+
+#@ nggallery
+#: admin/roles.php:67
+msgid "Change options"
+msgstr "Změnit nastavení"
+
+#@ nggallery
+#: admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Aktualizovat oprávnění"
+
+#@ nggallery
+#: admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Obrázek otočen"
+
+#@ nggallery
+#: admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Chyba otoční náhledu"
+
+#@ nggallery
+#: admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; ve směru hodinových ručiček"
+
+#@ nggallery
+#: admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; proti směru hodinových ručiček"
+
+#@ nggallery
+#: admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Přehodit svisle"
+
+#@ nggallery
+#: admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Přehodit vodorovně"
+
+#@ nggallery
+#: admin/settings.php:97
+msgid "Cache cleared"
+msgstr "Vyrovnávací paměť vymazána"
+
+#@ nggallery
+#: admin/settings.php:216
+#: admin/settings.php:235
+msgid "General Options"
+msgstr "Obecná nastavení"
+
+#@ nggallery
+#: admin/settings.php:217
+#: admin/settings.php:421
+#: widgets/widgets.php:212
+msgid "Thumbnails"
+msgstr "Náhledy"
+
+#@ nggallery
+#: admin/settings.php:218
+msgid "Images"
+msgstr "Obrázky"
+
+#@ nggallery
+#: admin/settings.php:220
+#: admin/settings.php:473
+msgid "Effects"
+msgstr "Efekty"
+
+#@ nggallery
+#: admin/settings.php:221
+#: admin/settings.php:515
+#: admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "Vodoznak"
+
+#@ nggallery
+#: admin/settings.php:222
+#: admin/settings.php:422
+#: admin/settings.php:622
+#: admin/tinymce/window.php:63
+#: lib/rewrite.php:176
+#: widgets/widgets.php:29
+msgid "Slideshow"
+msgstr "Prezentace"
+
+#@ nggallery
+#: admin/settings.php:241
+#: admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "Cesta ke galerii"
+
+#@ nggallery
+#: admin/settings.php:243
+msgid "This is the default path for all galleries"
+msgstr "Toto je standardní cesta pro všechny galerie"
+
+#@ nggallery
+#: admin/settings.php:246
+msgid "Delete image files"
+msgstr "Vymazat soubory obrázků"
+
+#@ nggallery
+#: admin/settings.php:248
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Vymazat soubory při odstraňování galerie z databáze"
+
+#@ nggallery
+#: admin/settings.php:251
+msgid "Activate permalinks"
+msgstr "Povolit trvalé odkazy"
+
+#@ nggallery
+#: admin/settings.php:253
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Když zvolíte tuto možnost, musíte aktualizovat strukturu trvalých odkazů."
+
+#@ nggallery
+#: admin/settings.php:262
+msgid "Select graphic library"
+msgstr "Vyberte grafickou knihovnu"
+
+#@ nggallery
+#: admin/settings.php:263
+msgid "GD Library"
+msgstr "Knihovna GD"
+
+#@ nggallery
+#: admin/settings.php:264
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (zkušebně). Cesta ke knihovně:"
+
+#@ nggallery
+#: admin/settings.php:269
+msgid "Activate Media RSS feed"
+msgstr "Aktivovat RSS médií"
+
+#@ nggallery
+#: admin/settings.php:271
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "RSS kanál bude přidán do hlavičky blogu. Užitečné pro CoolIris / PicLens"
+
+#@ nggallery
+#: admin/settings.php:274
+msgid "Activate PicLens/CoolIris support"
+msgstr "Aktivovat podporu PicLens/CoolIris"
+
+#@ nggallery
+#: admin/settings.php:276
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Pokud aktivujete tuto volbu, bude přidán do zápatí webu javascript. Ujistěte se, že použitý motiv volá funkci wp_footer."
+
+#@ nggallery
+#: admin/settings.php:279
+msgid "Tags / Categories"
+msgstr "Štítky/rubriky"
+
+#@ nggallery
+#: admin/settings.php:282
+msgid "Activate related images"
+msgstr "Aktivovat související obrázky"
+
+#@ nggallery
+#: admin/settings.php:284
+msgid "This option will append related images to every post"
+msgstr "Tato volba umožní přiřadit ke každému příspěvku odpovídající obrázky "
+
+#@ nggallery
+#: admin/settings.php:288
+msgid "Match with"
+msgstr "Odpovídající:"
+
+#@ nggallery
+#: admin/settings.php:289
+msgid "Categories"
+msgstr "Rubriky"
+
+#@ nggallery
+#: admin/settings.php:294
+msgid "Max. number of images"
+msgstr "Max. počet obrázků"
+
+#@ nggallery
+#: admin/settings.php:296
+msgid "0 will show all images"
+msgstr "0 zobrazí všechny obrázky"
+
+#@ nggallery
+#: admin/settings.php:300
+#: admin/settings.php:331
+#: admin/settings.php:378
+#: admin/settings.php:463
+#: admin/settings.php:498
+#: admin/settings.php:759
+msgid "More settings"
+msgstr "Další nastavení"
+
+#@ nggallery
+#: admin/settings.php:310
+msgid "Thumbnail settings"
+msgstr "Nastavení náhledů"
+
+#@ nggallery
+#: admin/settings.php:314
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Pozor: Pokud změníte toto nastavení, bude potřeba znovu vytvořit náhledy ve Správě galerie."
+
+#@ nggallery
+#: admin/settings.php:327
+msgid "Thumbnail quality"
+msgstr "Kvalita náhledů"
+
+#@ nggallery
+#: admin/settings.php:341
+msgid "Image settings"
+msgstr "Nastavení obrázků"
+
+#@ nggallery
+#: admin/settings.php:347
+msgid "Resize Images"
+msgstr "Změnit velikost obrázků"
+
+#@ nggallery
+#: admin/settings.php:352
+msgid "Image quality"
+msgstr "Kvalita obrázku"
+
+#@ nggallery
+#: admin/settings.php:356
+msgid "Backup original images"
+msgstr "Zálohovat originální obrázky"
+
+#@ nggallery
+#: admin/settings.php:358
+msgid "Creates a backup for inserted images"
+msgstr "Vytvoří zálohy pro vložené obrázky"
+
+#@ nggallery
+#: admin/settings.php:361
+msgid "Automatically resize"
+msgstr "Automaticky měnit velikost"
+
+#@ nggallery
+#: admin/settings.php:363
+msgid "Automatically resize images on upload."
+msgstr "Automaticky změnit velikost obrázků při nahrávání."
+
+#@ nggallery
+#: admin/settings.php:366
+msgid "Single picture"
+msgstr "Jeden obrázek"
+
+#@ nggallery
+#: admin/settings.php:369
+msgid "Cache single pictures"
+msgstr "Jednotlivé obrázky do cache"
+
+#@ nggallery
+#: admin/settings.php:371
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Vytvoří soubor pro nastavení každého jednotlivého obrázku. To zmenšuje zátěž CPU"
+
+#@ nggallery
+#: admin/settings.php:374
+msgid "Clear cache folder"
+msgstr "Vyčistit cache"
+
+#@ nggallery
+#: admin/settings.php:259
+#: admin/settings.php:375
+msgid "Proceed now"
+msgstr "Provést nyní"
+
+#@ nggallery
+#: admin/settings.php:395
+msgid "Deactivate gallery page link"
+msgstr "Zrušit odkaz na stránku galerie"
+
+#@ nggallery
+#: admin/settings.php:397
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "Album nebude odkazovat na podstránku galerie. Galerie bude zobrazena na stránce alba."
+
+#@ nggallery
+#: admin/settings.php:401
+msgid "Number of images per page"
+msgstr "Počet obrázků na stránku"
+
+#@ nggallery
+#: admin/settings.php:403
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 vypne stránkování, všechny obrázky budou na jedné stránce"
+
+#@ nggallery
+#: admin/settings.php:407
+msgid "Number of columns"
+msgstr "Počet sloupců"
+
+#@ nggallery
+#: admin/settings.php:409
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 zobrazí co nejvíce podle šířký vaší témy. Nastavení se obvykle vyžadují pouze pro popisky pod obrázky"
+
+#@ nggallery
+#: admin/settings.php:413
+msgid "Integrate slideshow"
+msgstr "Integrovat prezentaci"
+
+#@ nggallery
+#: admin/settings.php:420
+msgid "Show first"
+msgstr "Zobrazit nejdříve"
+
+#@ nggallery
+#: admin/settings.php:426
+msgid "Show ImageBrowser"
+msgstr "Zobrazit prohlížeč obrázků"
+
+#@ nggallery
+#: admin/settings.php:428
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Místo efektu se otevře prohlížeč obrázků."
+
+#@ nggallery
+#: admin/settings.php:432
+msgid "Add hidden images"
+msgstr "Přidat skryté obrázky"
+
+#@ nggallery
+#: admin/settings.php:438
+msgid "Enable AJAX pagination"
+msgstr "Povolit AJAX stránkování"
+
+#@ nggallery
+#: admin/settings.php:444
+msgid "Sort options"
+msgstr "Volby řazení"
+
+#@ nggallery
+#: admin/settings.php:447
+msgid "Sort thumbnails"
+msgstr "Řadit náhledy podle"
+
+#@ nggallery
+#: admin/settings.php:449
+msgid "Custom order"
+msgstr "Vlastní pořadí"
+
+#@ nggallery
+#: admin/settings.php:451
+msgid "File name"
+msgstr "Název souboru"
+
+#@ nggallery
+#: admin/settings.php:452
+msgid "Alt / Title text"
+msgstr "Alt. text/titulek"
+
+#@ nggallery
+#: admin/settings.php:453
+#: view/imagebrowser-exif.php:58
+msgid "Date / Time"
+msgstr "Datum/čas"
+
+#@ nggallery
+#: admin/settings.php:457
+msgid "Sort direction"
+msgstr "Směr řazení"
+
+#@ nggallery
+#: admin/settings.php:477
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Zde si můžete vybrat efekt náhledu, který vloží do galerie potřebný HTML kód u obrazků. Upozorňujeme, že pouze Shutter a Thickbox efekt bude automaticky přidán do vašeho tématu."
+
+#@ nggallery
+#: admin/settings.php:478
+msgid "With the placeholder"
+msgstr "Se zástupným znakem (placeholder)"
+
+#@ nggallery
+#: admin/settings.php:478
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "můžete aktivovat navigaci pomocí obrázků (záleží na efektu). Pokud používáte různé efekty, změníte pouze řádek kódu, pokud ovšem víte, co děláte."
+
+#@ nggallery
+#: admin/settings.php:481
+msgid "JavaScript Thumbnail effect"
+msgstr "JavaScriptový efekt náhledů"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:232
+#: admin/publish.php:57
+#: admin/settings.php:484
+msgid "None"
+msgstr "Žádný"
+
+#@ nggallery
+#: admin/settings.php:485
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#@ nggallery
+#: admin/settings.php:486
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#@ nggallery
+#: admin/settings.php:487
+msgid "Highslide"
+msgstr "Highslide"
+
+#@ nggallery
+#: admin/settings.php:488
+msgid "Shutter"
+msgstr "Shutter"
+
+#@ nggallery
+#: admin/settings.php:489
+msgid "Custom"
+msgstr "Vlastní"
+
+#@ nggallery
+#: admin/settings.php:494
+msgid "Link Code line"
+msgstr "kód odkazu"
+
+#@ nggallery
+#: admin/settings.php:516
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Poznámka: Aktivovat vodoznak můžete ve Správě galerií. Tato akce je nevratná."
+
+#@ nggallery
+#: admin/settings.php:521
+msgid "Preview"
+msgstr "Náhled"
+
+#@ nggallery
+#: admin/settings.php:523
+#: admin/settings.php:528
+msgid "Position"
+msgstr "Pozice"
+
+#@ nggallery
+#: admin/settings.php:548
+msgid "Offset"
+msgstr "Odsazení"
+
+#@ nggallery
+#: admin/settings.php:564
+msgid "Use image as watermark"
+msgstr "Použít obrázkový vodoznak"
+
+#@ nggallery
+#: admin/settings.php:567
+msgid "URL to file"
+msgstr "URL souboru"
+
+#@ nggallery
+#: admin/settings.php:569
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "Přístup k URL adresám souborů je na vašem serveru zakázán (allow_url_fopen)"
+
+#@ nggallery
+#: admin/settings.php:572
+msgid "Use text as watermark"
+msgstr "Použít textový vodoznak"
+
+#@ nggallery
+#: admin/settings.php:575
+msgid "Font"
+msgstr "Písmo"
+
+#@ nggallery
+#: admin/settings.php:584
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Tato funkce nebude pracovat, protože potřebujete FreeType knihovnu"
+
+#@ nggallery
+#: admin/settings.php:586
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Můžete nahrát více fontů do adresáře <strong>nggallery/fonts</strong>"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:242
+#: admin/settings.php:591
+msgid "Size"
+msgstr "Velikost"
+
+#@ nggallery
+#: admin/settings.php:595
+msgid "Color"
+msgstr "Barva"
+
+#@ nggallery
+#: admin/settings.php:597
+msgid "(hex w/o #)"
+msgstr "(hex hodnota bez #)"
+
+#@ nggallery
+#: admin/settings.php:600
+msgid "Text"
+msgstr "Text"
+
+#@ nggallery
+#: admin/settings.php:604
+msgid "Opaque"
+msgstr "Průhlednost"
+
+#@ nggallery
+#: admin/settings.php:625
+msgid "Default size (W x H)"
+msgstr "Základní rozměr (Š x V)"
+
+#@ nggallery
+#: admin/settings.php:630
+msgid "Duration time"
+msgstr "Doba zobrazení"
+
+#@ nggallery
+#: admin/settings.php:631
+msgid "sec."
+msgstr "s"
+
+#@ nggallery
+#: admin/settings.php:634
+#: admin/settings.php:709
+msgid "Transition / Fade effect"
+msgstr "Přechodový efekt"
+
+#@ nggallery
+#: admin/settings.php:637
+#: admin/settings.php:712
+msgid "fade"
+msgstr "prolnutí"
+
+#@ nggallery
+#: admin/settings.php:638
+msgid "blindX"
+msgstr "blindX"
+
+#@ nggallery
+#: admin/settings.php:639
+msgid "cover"
+msgstr "cover"
+
+#@ nggallery
+#: admin/settings.php:640
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#@ nggallery
+#: admin/settings.php:641
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#@ nggallery
+#: admin/settings.php:642
+msgid "shuffle"
+msgstr "shuffle"
+
+#@ nggallery
+#: admin/settings.php:643
+msgid "toss"
+msgstr "toss"
+
+#@ nggallery
+#: admin/settings.php:644
+msgid "wipe"
+msgstr "wipe"
+
+#@ nggallery
+#: admin/settings.php:646
+msgid "See here for more information about the effects :"
+msgstr "Čtěte zde pro více informací o efektech:"
+
+#@ nggallery
+#: admin/settings.php:650
+msgid "Settings for the JW Image Rotator"
+msgstr "Nastavení pro JW Image Rotator"
+
+#@ nggallery
+#: admin/settings.php:651
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Nastavení je použito pouze v JW Image Rotator Version"
+
+#@ nggallery
+#: admin/settings.php:652
+msgid "See more information for the Flash Player on the web page"
+msgstr "Více informací o Flash Player najdete na webu"
+
+#@ nggallery
+#: admin/settings.php:657
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Cesta k imagerotator.swf není definována, prezentace nebude fungovat."
+
+#@ nggallery
+#: admin/settings.php:658
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Pokud byste chtěli použít JW Image Rotatator, prosím stáhněte si flash soubor <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >zde</a> a nahrájte jej do složky NextGen galerie (/wp-content/plugins/nggallery)."
+
+#@ nggallery
+#: admin/settings.php:664
+msgid "Enable flash slideshow"
+msgstr "Povolit flash slideshow"
+
+#@ nggallery
+#: admin/settings.php:669
+msgid "Path to the Imagerotator (URL)"
+msgstr "Cesta k Imagerotatoru (URL)"
+
+#@ nggallery
+#: admin/settings.php:672
+msgid "Search now"
+msgstr "Vyhledat nyní"
+
+#@ nggallery
+#: admin/settings.php:677
+msgid "Shuffle mode"
+msgstr "Náhodné zobrazení (shuffle)"
+
+#@ nggallery
+#: admin/settings.php:681
+msgid "Show next image on click"
+msgstr "Zobrazit další obrázek při kliknutí"
+
+#@ nggallery
+#: admin/settings.php:685
+msgid "Show navigation bar"
+msgstr "Zobrazit navigační lištu"
+
+#@ nggallery
+#: admin/settings.php:689
+msgid "Show loading icon"
+msgstr "Zobrazit ikonu načítání"
+
+#@ nggallery
+#: admin/settings.php:693
+msgid "Use watermark logo"
+msgstr "Použít vodoznak"
+
+#@ nggallery
+#: admin/settings.php:695
+msgid "You can change the logo at the watermark settings"
+msgstr "Logo můžete změnit v nastavení vodoznaku"
+
+#@ nggallery
+#: admin/settings.php:698
+msgid "Stretch image"
+msgstr "Roztáhnout obrázek"
+
+#@ nggallery
+#: admin/settings.php:701
+msgid "true"
+msgstr "ano"
+
+#@ nggallery
+#: admin/settings.php:702
+msgid "false"
+msgstr "ne"
+
+#@ nggallery
+#: admin/settings.php:703
+msgid "fit"
+msgstr "přizpůsobit"
+
+#@ nggallery
+#: admin/settings.php:704
+msgid "none"
+msgstr "nic"
+
+#@ nggallery
+#: admin/settings.php:713
+msgid "bgfade"
+msgstr "prolnutí přes pozadí"
+
+#@ nggallery
+#: admin/settings.php:714
+msgid "slowfade"
+msgstr "pomalé prolnutí"
+
+#@ nggallery
+#: admin/settings.php:715
+msgid "circles"
+msgstr "kruhy"
+
+#@ nggallery
+#: admin/settings.php:716
+msgid "bubbles"
+msgstr "bubliny"
+
+#@ nggallery
+#: admin/settings.php:717
+msgid "blocks"
+msgstr "čtverce"
+
+#@ nggallery
+#: admin/settings.php:718
+msgid "fluids"
+msgstr "tekutina"
+
+#@ nggallery
+#: admin/settings.php:719
+msgid "flash"
+msgstr "blesk"
+
+#@ nggallery
+#: admin/settings.php:720
+msgid "lines"
+msgstr "linie"
+
+#@ nggallery
+#: admin/settings.php:721
+#: widgets/widgets.php:219
+msgid "random"
+msgstr "náhodný"
+
+#@ nggallery
+#: admin/settings.php:726
+msgid "Use slow zooming effect"
+msgstr "Použít pomalý zoomovací efekt"
+
+#@ nggallery
+#: admin/settings.php:730
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#@ nggallery
+#: admin/settings.php:735
+msgid "Texts / Buttons Color"
+msgstr "Barva textu a tlačítek"
+
+#@ nggallery
+#: admin/settings.php:740
+msgid "Rollover / Active Color"
+msgstr "Barva při najetí/aktivaci"
+
+#@ nggallery
+#: admin/settings.php:745
+msgid "Screen Color"
+msgstr "Barva plochy"
+
+#@ nggallery
+#: admin/settings.php:750
+msgid "Background music (URL)"
+msgstr "Hudba na pozadí (adresa URL)"
+
+#@ nggallery
+#: admin/settings.php:754
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Zkusit XHTML validaci (pomocí CDATA)"
+
+#@ nggallery
+#: admin/settings.php:756
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Důležité: Toto nastavení může způsobit problémy v některých prohlížečích, proto si stránku raději vyzkoušejte."
+
+#@ nggallery
+#: admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Obnovit všechna nastavení na základní hodnoty."
+
+#@ nggallery
+#: admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Odinstalace úspěšná! Nyní můžete smazat plugin a vychutnat si svůj život! Hodně štěstí!"
+
+#@ nggallery
+#: admin/setup.php:30
+msgid "Reset options"
+msgstr "Obnovit nastavení"
+
+#@ nggallery
+#: admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Obnovit všechna nastavení na původní hodnoty."
+
+#@ nggallery
+#: admin/setup.php:34
+msgid "Reset settings"
+msgstr "Obnovit nastavení"
+
+#@ nggallery
+#: admin/setup.php:42
+msgid "Uninstall plugin tables"
+msgstr "Vymazat tabulky pluginu"
+
+#@ nggallery
+#: admin/setup.php:47
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Nelíbí se vám NextGEN galerie?"
+
+#@ nggallery
+#: admin/setup.php:48
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Žádný problém, ale před deaktivací pluginu stiskněte tlačítko Odinstalovat, protože deaktivace nevymaže případná vytvořená data."
+
+#@ nggallery
+#: admin/setup.php:50
+msgid "WARNING:"
+msgstr "POZOR:"
+
+#@ nggallery
+#: admin/setup.php:51
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Odinstalace je nevratná. Měli byste použít plugin Database Backup pro WordPress a nejdříve vytvořit zálohu všech tabulek. NextGEN galerie je uložena v těchto tabulkách:"
+
+#@ nggallery
+#: admin/setup.php:51
+msgid "and"
+msgstr "a "
+
+#@ nggallery
+#: admin/setup.php:53
+msgid "Uninstall plugin"
+msgstr "Odinstalovat"
+
+#@ nggallery
+#: admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Meta data"
+
+#@ nggallery
+#: admin/showmeta.php:34
+#: admin/showmeta.php:60
+#: admin/showmeta.php:85
+#: admin/showmeta.php:109
+msgid "Tag"
+msgstr "Štítek"
+
+#@ nggallery
+#: admin/showmeta.php:35
+#: admin/showmeta.php:61
+#: admin/showmeta.php:86
+#: admin/showmeta.php:110
+msgid "Value"
+msgstr "Hodnota"
+
+#@ nggallery
+#: admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Žádné uložené meta data"
+
+#@ nggallery
+#: admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "EXIF data"
+
+#@ nggallery
+#: admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Žádná EXIF data"
+
+#@ nggallery
+#: admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "IPTC data"
+
+#@ nggallery
+#: admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "XMP data"
+
+#@ nggallery
+#: admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(z adresáře motivu vzhledu)"
+
+#@ default
+#: admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Nemáte dostatečné oprávnění k úpravě šablon tohoto blogu."
+
+#@ nggallery
+#: admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "CSS soubor byl úspěšně aktualizován"
+
+#@ nggallery
+#: admin/style.php:89
+msgid "Style Editor"
+msgstr "Editor stylů"
+
+#@ nggallery
+#: admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Aktivovat a použít soubor stylů:"
+
+#@ nggallery
+#: admin/style.php:113
+msgid "Activate"
+msgstr "Aktivovat"
+
+#@ nggallery
+#: admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Editace <strong>%s</strong>"
+
+#@ nggallery
+#: admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Prohlížení <strong>%s</strong>"
+
+#@ nggallery
+#: admin/style.php:135
+msgid "Version"
+msgstr "Verze"
+
+#@ nggallery
+#: admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Tip: Zkopírujte váš stylopis (nggallery.css) do adresáře vašeho motivu vzhledu, takže při aktualizaci nebude ztracen"
+
+#@ nggallery
+#: admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Váš vzhled obsahuje stylopis NextGEN Gallery (nggallery.css), bude použit tento soubor"
+
+#@ nggallery
+#: admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Tip č. 2: Použijte výběr barvy níže. Ten vám pomůže najít správné barevné schéma pro váš galerii!"
+
+#@ nggallery
+#: admin/style.php:158
+msgid "Update File"
+msgstr "Aktualizovat soubor"
+
+#@ nggallery
+#: admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Kdyby byl soubor zapisovatelný, bylo by možno ho editovat."
+
+#@ nggallery
+#: admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Žádný takový soubor neexistuje! Dvakrát zkontrolujte název a zkuste znovu."
+
+#@ nggallery
+#: admin/tags.php:38
+msgid "Most popular"
+msgstr "Nejoblíbenější"
+
+#@ nggallery
+#: admin/tags.php:39
+msgid "Least used"
+msgstr "Naposled použité"
+
+#@ nggallery
+#: admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Abecedně"
+
+#@ nggallery
+#: admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Správa štítků"
+
+#@ nggallery
+#: admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Existující štítky"
+
+#@ nggallery
+#: admin/tags.php:112
+msgid "Search tags"
+msgstr "Hledat štítky"
+
+#@ nggallery
+#: admin/tags.php:116
+msgid "Go"
+msgstr "OK"
+
+#@ nggallery
+#: admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Pořadí:"
+
+#@ nggallery
+#: admin/tags.php:156
+#: admin/tags.php:160
+#: admin/tags.php:173
+msgid "Previous tags"
+msgstr "Předchozí štítky"
+
+#@ nggallery
+#: admin/tags.php:169
+msgid "Next tags"
+msgstr "Další štítky"
+
+#@ nggallery
+#: admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Přejmenovat štítek"
+
+#@ nggallery
+#: admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Vložte štítek k přejmenování a jeho nový název. Tuto možnost můžete použít také pro slučování štítků. Klikněte na \"Přejmenovat\" a všechny příspěvky, používající tento štítek, budou aktualizovány."
+
+#@ nggallery
+#: admin/tags.php:190
+#: admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Můžete vložit více názvů štítků k přejmenování, oddělených čárkami."
+
+#@ nggallery
+#: admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Původní název (názvy):"
+
+#@ nggallery
+#: admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Nový název (názvy):"
+
+#@ nggallery
+#: admin/tags.php:201
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#@ nggallery
+#: admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Vymazat štítek"
+
+#@ nggallery
+#: admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Vložte název štítku, který chcete vymazat. Bude vymazán u všech příspěvků."
+
+#@ nggallery
+#: admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Můžete vložit více názvů štítků k vymazání, oddělených čárkami."
+
+#@ nggallery
+#: admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Vymazat štítek (štítky):"
+
+#@ nggallery
+#: admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Editovat zkrácený název štítku"
+
+#@ nggallery
+#: admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Vložte název štítku k editaci a jeho nový zkrácený název. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Definice zkráceného názvu</a>"
+
+#@ nggallery
+#: admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Štítek (štítky) odpovídající:"
+
+#@ nggallery
+#: admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "Nová zkratka (zkratky):"
+
+#@ nggallery
+#: admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Aktualizace struktury databáze..."
+
+#@ nggallery
+#: admin/upgrade.php:108
+#: admin/upgrade.php:119
+#: admin/upgrade.php:126
+#: admin/upgrade.php:137
+#: admin/upgrade.php:151
+msgid "finished"
+msgstr "ukončeno"
+
+#@ nggallery
+#: admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "Aktualizovat systém souborů..."
+
+#@ nggallery
+#: admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "Importovat informace o datu a čase..."
+
+#@ nggallery
+#: admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "Přesunňte imagerotator do nového umístění ..."
+
+#@ nggallery
+#: admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "Aktualizovat nastavení..."
+
+#@ nggallery
+#: admin/upgrade.php:157
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Aktualizována widget struktura. Pokud jste použili NextGEN Widgety, je nutné je nastavit znovu ..."
+
+#@ nggallery
+#: admin/upgrade.php:165
+#: admin/upgrade.php:187
+msgid "Updated options."
+msgstr "Aktualizované možnosti."
+
+#@ nggallery
+#: admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "Nepodařilo se najít NextGEN Gallery tabulky databáze, aktualizace byla chybná !"
+
+#@ nggallery
+#: admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Některé soubory/adresáře nelze přejmenovat, prověřte oprávnění a projděte adresář v sekci správy galerií."
+
+#@ nggallery
+#: admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Přejmenování selhalo"
+
+#@ nggallery
+#: admin/upgrade.php:356
+#: admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Aktualizace NextGEN Gallery"
+
+#@ nggallery
+#: admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Skript detekoval, že aktualizujete ze starší verze."
+
+#@ nggallery
+#: admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Vaše databázové tabulky pro NextGEN Gallery jsou zastaralé, a před pokračováním musí být aktualizovány."
+
+#@ nggallery
+#: admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Pokud budete chtít později vrátit aktualizaci, nejdříve proveďte kompletní zálohu databáze a obrázků."
+
+#@ nggallery
+#: admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Aktualizace může chvíli trvat, trpělivost!"
+
+#@ nggallery
+#: admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Zahájit aktualizaci"
+
+#@ nggallery
+#: admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Aktualizace hotova ..."
+
+#@ nggallery
+#: admin/upgrade.php:378
+msgid "Continue"
+msgstr "Pokračovat"
+
+#@ nggallery
+#: admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Aktualizace úspěšná"
+
+#@ nggallery
+#: admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "Umožnit kontrolu kvóty pro nahrávání"
+
+#@ nggallery
+#: admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Mělo by pracovat, pokud je galerie umístěna v blog.dir"
+
+#@ nggallery
+#: admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "Umožnit nahrávání ZIP souborů"
+
+#@ nggallery
+#: admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "Povolit uživatelům nahrávat ZIP soubory"
+
+#@ nggallery
+#: admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "Umožnit výběr stylů"
+
+#@ nggallery
+#: admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "Povolit uživatelům vybírat styl pro galerii"
+
+#@ nggallery
+#: admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "Povolit role/oprávnění"
+
+#@ nggallery
+#: admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Povolit uživatelům měnit role pro ostatní autory blogu."
+
+#@ nggallery
+#: admin/wpmu.php:105
+msgid "Default style"
+msgstr "Přednastavený styl"
+
+#@ nggallery
+#: admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "Zvolte přednastavený styl pro všechny galerie"
+
+#@ default
+#: admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Nemáte oprávnění zde být"
+
+#@ nggallery
+#: admin/tinymce/window.php:61
+#: admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "Ukázat jako"
+
+#@ nggallery
+#: admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "Seznam obrázků"
+
+#@ nggallery
+#: admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Prohlížeč obrázků"
+
+#@ nggallery
+#: admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "Rozšířená verze"
+
+#@ nggallery
+#: admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "Kompaktní verze"
+
+#@ nggallery
+#: admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "Šířka x výška"
+
+#@ nggallery
+#: admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "Efekt"
+
+#@ nggallery
+#: admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "Bez efektu"
+
+#@ nggallery
+#: admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#@ nggallery
+#: admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Obtékání"
+
+#@ nggallery
+#: admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Bez obtékání"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:234
+#: admin/publish.php:59
+#: admin/tinymce/window.php:120
+msgid "Left"
+msgstr "Vlevo"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:236
+#: admin/publish.php:61
+#: admin/tinymce/window.php:121
+msgid "Center"
+msgstr "Na střed"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:238
+#: admin/publish.php:63
+#: admin/tinymce/window.php:122
+msgid "Right"
+msgstr "Vpravo"
+
+#@ nggallery
+#: admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "Vložit"
+
+#@ nggallery
+#: lib/core.php:397
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Poznámka: V závislosti na paměťovém limitu vašeho serveru, byste neměli nahrávat obrázky většíjak <strong>%d x %d</strong> pixelů"
+
+#@ default
+#: lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Neplatné poskytnutí URL."
+
+#@ default
+#: lib/locale.php:124
+#: lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Nepodařilo se vytvořit dočasný soubor."
+
+#@ nggallery
+#: lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+#@ nggallery
+#: lib/meta.php:130
+msgid " sec"
+msgstr " s"
+
+#@ nggallery
+#: lib/meta.php:134
+msgid "Fired"
+msgstr "Zapálený"
+
+#@ nggallery
+#: lib/meta.php:134
+msgid "Not fired"
+msgstr "Nezapálený"
+
+#@ nggallery
+#: lib/meta.php:430
+#: view/imagebrowser-exif.php:46
+msgid "Aperture"
+msgstr "Clona"
+
+#@ nggallery
+#: lib/meta.php:431
+#: lib/meta.php:456
+msgid "Credit"
+msgstr "Tvůrce"
+
+#@ nggallery
+#: lib/meta.php:432
+msgid "Camera"
+msgstr "Fotoaparát"
+
+#@ nggallery
+#: lib/meta.php:433
+msgid "Caption"
+msgstr "Titulek"
+
+#@ nggallery
+#: lib/meta.php:435
+msgid "Copyright"
+msgstr "Copyright"
+
+#@ nggallery
+#: lib/meta.php:436
+msgid "Focal length"
+msgstr "Ohnisková vzdálenost"
+
+#@ nggallery
+#: lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+#@ nggallery
+#: lib/meta.php:438
+#: view/imagebrowser-exif.php:54
+msgid "Shutter speed"
+msgstr "Rychlost závěrky"
+
+#@ nggallery
+#: lib/meta.php:442
+msgid "Subject"
+msgstr "Předmět"
+
+#@ nggallery
+#: lib/meta.php:443
+msgid "Make"
+msgstr "Vytvořit"
+
+#@ nggallery
+#: lib/meta.php:444
+msgid "Edit Status"
+msgstr "Stav úprav"
+
+#@ nggallery
+#: lib/meta.php:445
+msgid "Category"
+msgstr "Rubrika"
+
+#@ nggallery
+#: lib/meta.php:446
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+#@ nggallery
+#: lib/meta.php:447
+msgid "Date Created"
+msgstr "Datum vytvoření"
+
+#@ nggallery
+#: lib/meta.php:448
+msgid "Time Created"
+msgstr "Čas vytvoření"
+
+#@ nggallery
+#: lib/meta.php:449
+msgid "Author Position"
+msgstr "Pozice autora"
+
+#@ nggallery
+#: lib/meta.php:450
+msgid "City"
+msgstr "Město"
+
+#@ nggallery
+#: lib/meta.php:451
+msgid "Location"
+msgstr "Poloha"
+
+#@ nggallery
+#: lib/meta.php:452
+msgid "Province/State"
+msgstr "Kraj/okres"
+
+#@ nggallery
+#: lib/meta.php:453
+msgid "Country code"
+msgstr "Kód země"
+
+#@ nggallery
+#: lib/meta.php:454
+msgid "Country"
+msgstr "Země"
+
+#@ nggallery
+#: lib/meta.php:455
+msgid "Headline"
+msgstr "Nadpis"
+
+#@ nggallery
+#: lib/meta.php:457
+msgid "Source"
+msgstr "Zdroj"
+
+#@ nggallery
+#: lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "Autorská práva"
+
+#@ nggallery
+#: lib/meta.php:459
+msgid "Contact"
+msgstr "Kontakt"
+
+#@ nggallery
+#: lib/meta.php:460
+msgid "Last modified"
+msgstr "Naposled změněno"
+
+#@ nggallery
+#: lib/meta.php:461
+msgid "Program tool"
+msgstr "Nástroj"
+
+#@ nggallery
+#: lib/meta.php:462
+msgid "Format"
+msgstr "Formát"
+
+#@ nggallery
+#: lib/meta.php:463
+msgid "Image Width"
+msgstr "Šířka obrázku"
+
+#@ nggallery
+#: lib/meta.php:464
+msgid "Image Height"
+msgstr "Výška obrázku"
+
+#@ nggallery
+#: lib/meta.php:465
+msgid "Flash"
+msgstr "Flash"
+
+#@ nggallery
+#: lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Byla využit celý alokovaný prostor. Vymažte některé soubory, pokud chcete nahrát další. "
+
+#@ nggallery
+#: lib/ngg-db.php:330
+#: lib/ngg-db.php:331
+msgid "Album overview"
+msgstr "Přehled o albu"
+
+#@ nggallery
+#: lib/shortcodes.php:298
+msgid "[Pictures not found]"
+msgstr "[Žádné obrázky nenalezeny]"
+
+#@ nggallery
+#: lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Nespecifikován žádný nový štítek!"
+
+#@ nggallery
+#: lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Nespecifikován žádný platnýštítek!"
+
+#@ nggallery
+#: lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Žádný štítek nepřejmenován."
+
+#@ nggallery
+#: lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Přejmenován(y) štítek (štítky) &laquo;%1$s&raquo; na &laquo;%2$s&raquo;"
+
+#@ nggallery
+#: lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Neplatný nový štítek."
+
+#@ nggallery
+#: lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Žádné objekty (příspěvky/stránky) neodpovídají specifikovaným starším štítkům."
+
+#@ nggallery
+#: lib/tags.php:141
+msgid "No tag merged."
+msgstr "Žádný štítek nepřipojen."
+
+#@ nggallery
+#: lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Spojit štítky &laquo;%1$s&raquo; do &laquo;%2$s&raquo;. %3$s objektů upraveno."
+
+#@ nggallery
+#: lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Chyba.Nedostatečný počet štítků pro přejmenování. Příliš mnoho pro spojení. Upravte výběr!"
+
+#@ nggallery
+#: lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Nespecifikován žádný štítek!"
+
+#@ nggallery
+#: lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Nevymazán žádný štítek."
+
+#@ nggallery
+#: lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "Štítek (štítky) %1s vymazán(y)."
+
+#@ nggallery
+#: lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Žádný zkrácený název nebyl specifikován!"
+
+#@ nggallery
+#: lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Počet štítků a jejich zkrácených názvů není shodný!"
+
+#@ nggallery
+#: lib/tags.php:241
+msgid "No slug edited."
+msgstr "Neupraven žádný zkrácený název."
+
+#@ nggallery
+#: lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "Zkrácený název (názvy) %s upraven(y)."
+
+#@ default
+#: lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "XML-RPC služby jsou na tomto blogu vypnuté. Admin je může povolit na %s"
+
+#@ default
+#: lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "Špatná kombinace jména a hesla."
+
+#@ default
+#: lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "Nemáte právo nahrávat soubory na tyto stránky."
+
+#@ default
+#: lib/xmlrpc.php:135
+#: lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "Nelze najít galerii "
+
+#@ default
+#: lib/xmlrpc.php:140
+#: lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Nemáte právo nahrávat soubory do této galerie."
+
+#@ nggallery
+#: lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "Toto není platný soubor obrázku."
+
+#@ default
+#: lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "Nelze najít ID obrázku "
+
+#@ nggallery
+#: lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Nepodařilo se smazat obrázek %1$s "
+
+#@ default
+#: lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Nelze zapsat soubor %1$s (%2$s)"
+
+#@ default
+#: lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "Promiňte, nepodařilo se vytvořit galerii"
+
+#@ nggallery
+#: view/album-compact.php:32
+#: view/album-extend.php:30
+msgid "Photos"
+msgstr "fotografií"
+
+#@ nggallery
+#: view/gallery-caption.php:32
+#: view/gallery.php:32
+#: widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Zobrazit pomocí PicLens]"
+
+#@ nggallery
+#: view/imagebrowser-caption.php:26
+#: view/imagebrowser-exif.php:30
+#: view/imagebrowser.php:26
+msgid "Back"
+msgstr "Zpět"
+
+#@ nggallery
+#: view/imagebrowser-caption.php:29
+#: view/imagebrowser-exif.php:33
+#: view/imagebrowser.php:29
+msgid "Next"
+msgstr "Další"
+
+#@ nggallery
+#: view/imagebrowser-caption.php:31
+#: view/imagebrowser-exif.php:35
+#: view/imagebrowser.php:31
+msgid "of"
+msgstr "z"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metadata"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Fotoaparát/typ"
+
+#@ nggallery
+#: view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Ohnisková vzdálenost"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget zobrazující RSS odkazy do NextGen Gallery."
+
+#@ nggallery
+#: widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "NextGEN RSS"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "RSS médií"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Odkaz na kanál hlavního obrázku"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:79
+#: widgets/widgets.php:201
+msgid "Title :"
+msgstr "Titulek: "
+
+#@ nggallery
+#: widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Zobrazit ikonu Media RSS"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Zobrazit Media RSS odkaz"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Text pro Media RSS odkaz:"
+
+#@ nggallery
+#: widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Tooltip text pro Media RSS odkaz:"
+
+#@ nggallery
+#: widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Zobrazit NextGEN prezentaci"
+
+#@ nggallery
+#: widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "Prezentace"
+
+#@ nggallery
+#: widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Získat Flash Player</a> pro prezentace."
+
+#@ default
+#: widgets/widgets.php:121
+msgid "Title:"
+msgstr "Titulek:"
+
+#@ nggallery
+#: widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Vyberte galerii:"
+
+#@ nggallery
+#: widgets/widgets.php:125
+msgid "All images"
+msgstr "Všechny obrázky"
+
+#@ nggallery
+#: widgets/widgets.php:137
+msgid "Height:"
+msgstr "Výška:"
+
+#@ nggallery
+#: widgets/widgets.php:138
+msgid "Width:"
+msgstr "Šířka:"
+
+#@ nggallery
+#: widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Přidat poslední nebo náhodné obrázky z galerií "
+
+#@ nggallery
+#: widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "NextGEN widget"
+
+#@ nggallery
+#: widgets/widgets.php:207
+msgid "Show :"
+msgstr "Zobrazit:"
+
+#@ nggallery
+#: widgets/widgets.php:213
+msgid "Original images"
+msgstr "Originální obrázky"
+
+#@ nggallery
+#: widgets/widgets.php:222
+msgid "recent added "
+msgstr "naposled přidáno "
+
+#@ nggallery
+#: widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Povolit IE8 Web Slices"
+
+#@ nggallery
+#: widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "šířka x výška"
+
+#@ nggallery
+#: widgets/widgets.php:239
+msgid "Select :"
+msgstr "Vyberte:"
+
+#@ nggallery
+#: widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Všechny galerie"
+
+#@ nggallery
+#: widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Pouze ty, které nejsou v seznamu"
+
+#@ nggallery
+#: widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Pouze ty, které jsou v seznamu"
+
+#@ nggallery
+#: widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "ID galerie:"
+
+#@ nggallery
+#: widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "ID galerií, oddělené čárkami."
+
+#@ nggallery
+#: xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Žádná galerie ještě nebyla vytvořena."
+
+#@ nggallery
+#: xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "Galerie ID=%s neexistuje."
+
+#@ nggallery
+#: xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Nebylo zadáno žádné ID alba jako parametr."
+
+#@ nggallery
+#: xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "Album ID=%s neexistuje."
+
+#@ nggallery
+#: xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Neplatný příkaz MediaRSS"
+
+#@ default
+#@ nggallery
+#: admin/media-upload.php:229
+#: admin/publish.php:55
+msgid "Alignment"
+msgstr "Seřazení"
+
+#@ default
+#: admin/media-upload.php:248
+msgid "Full size"
+msgstr "Plná velikost"
+
+#@ nggallery
+#: admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Jednoduchý obrázek"
+
+#@ default
+#: admin/media-upload.php:261
+msgid "Use as featured image"
+msgstr "Použít jako úvodní obrázek"
+
+#@ default
+#: admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Vložit do příspěvku"
+
+#@ nggallery
+#: admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\n"
+msgstr ""
+"Resetovat všechny možnosti na výchozí nastavení ?\n"
+"\n"
+"Vyberte [Zrušit] pro zrušení, [OK] pro pokračování.\n"
+
+#@ nggallery
+#: admin/setup.php:53
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\n"
+"This action is not reversible.\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\n"
+msgstr ""
+"Chystáte se odinstalovat tento plugin z WordPressu.\n"
+"Tato akce je nevratná.\n"
+"\n"
+"Vyberte [Zrušit] nebo, [OK] pro odinstalování.\n"
+
+#@ default
+#: lib/post-thumbnail.php:177
+#: lib/post-thumbnail.php:178
+msgid "Set featured image"
+msgstr "Nastavit úvodní obrázek"
+
+#@ default
+#: lib/post-thumbnail.php:205
+msgid "Remove featured image"
+msgstr "Vymazat úvodní obrázek"
+
+#@ nggallery
+#: admin/admin.php:61
+msgid "Network settings"
+msgstr "Nastavení sítě"
+
+#@ nggallery
+#: admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "Může vytvořit obrázek %s x %s pixelů"
+
+#@ nggallery
+#: admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "Galerie ID %1$s byla úspěšně vytvořena. Můžete zobrazit tuto galerii v příspěvku nebo stránce pomocí krátkého kódu %2$s.<br/>"
+
+#@ nggallery
+#: admin/functions.php:864
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "Nahrané soubory nebyly žádné nebo je vadný zip soubor! Zpráva serveru:"
+
+#@ nggallery
+#: admin/functions.php:991
+#: admin/functions.php:1080
+msgid "Error, the file could not be moved to : "
+msgstr "Chyba, soubor nemůže být přesunut do : "
+
+#@ nggallery
+#: admin/functions.php:996
+#: admin/functions.php:1084
+msgid "Error, the file permissions could not be set"
+msgstr "Chyba, oprávnění k souboru nelze nastavit"
+
+#@ nggallery
+#: admin/manage-galleries.php:145
+#: admin/manage-images.php:332
+msgid "Bulk actions"
+msgstr "Hromadné akce"
+
+#@ nggallery
+#: admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "Kopírovat obrázek do..."
+
+#@ nggallery
+#: admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "Přesunout obrázek..."
+
+#@ nggallery
+#: admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "Přidat nové značky"
+
+#@ nggallery
+#: admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "Přepsat"
+
+#@ nggallery
+#: admin/manage-images.php:437
+msgid "Publish this image"
+msgstr "Publikovat tento obrázek"
+
+#@ nggallery
+#: admin/manage-images.php:437
+#: admin/publish.php:68
+msgid "Publish"
+msgstr "Zveřejnit"
+
+#@ nggallery
+#: admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "Galerie úspěšně smazána"
+
+#@ nggallery
+#: admin/manage.php:468
+msgid "Published a new post"
+msgstr "Zveřejněn nový příspěvek"
+
+#@ nggallery
+#: admin/overview.php:93
+msgid "Plugin Check"
+msgstr "Kontrola pluginu"
+
+#@ nggallery
+#: admin/overview.php:116
+msgid "Help translating it."
+msgstr "Pomoct s překladem."
+
+#@ nggallery
+#: admin/overview.php:253
+msgid "Running..."
+msgstr "Běží ..."
+
+#@ nggallery
+#: admin/overview.php:300
+msgid "Check plugin/theme conflict"
+msgstr "Zkontrolovat konflikty s pluginy a šablonami"
+
+#@ nggallery
+#: admin/overview.php:301
+#: admin/overview.php:307
+#: admin/overview.php:313
+msgid "Not tested"
+msgstr "Netestováno"
+
+#@ nggallery
+#: admin/overview.php:302
+msgid "No conflict could be detected"
+msgstr "Žádný konflikt nebyl detekován"
+
+#@ nggallery
+#: admin/overview.php:303
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Test selhal, deaktivujte ostatní pluginy a přejděte na výchozí motiv"
+
+#@ nggallery
+#: admin/overview.php:306
+msgid "Test image function"
+msgstr "Test funkce obrázku"
+
+#@ nggallery
+#: admin/overview.php:308
+msgid "The plugin could create images"
+msgstr "Plugin může vytvářet obrázky"
+
+#@ nggallery
+#: admin/overview.php:309
+msgid "Couldn't create image, check your memory limit"
+msgstr "Nelze vytvořit obraz, zkontrolujte limit paměti"
+
+#@ nggallery
+#: admin/overview.php:312
+msgid "Check theme compatibility"
+msgstr "Zkontrolovat kompatibilitu šablony"
+
+#@ nggallery
+#: admin/overview.php:314
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "Vaše šablona by měla správně fungovat s NextGEN galerií"
+
+#@ nggallery
+#: admin/overview.php:315
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() chybí, obraťte se na autora šablony"
+
+#@ nggallery
+#: admin/overview.php:319
+msgid "Check plugin"
+msgstr "Zkontrolovat plugin"
+
+#@ nggallery
+#: admin/publish.php:45
+msgid "Post title"
+msgstr "Název příspěvku"
+
+#@ nggallery
+#: admin/publish.php:47
+msgid "Enter the post title "
+msgstr "Zadat název příspěvku"
+
+#@ nggallery
+#: admin/publish.php:52
+msgid "Size of the image"
+msgstr "Velikost obrázku"
+
+#@ nggallery
+#: admin/publish.php:70
+msgid "Draft"
+msgstr "Návrh"
+
+#@ nggallery
+#: admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Vyberte nejnižší práva, kterými by mělo být možno získat přístup k těmto funkcím. NextGEN Galerie podporuje standardtní přístupové role WordPress."
+
+#@ nggallery
+#: admin/settings.php:258
+msgid "Create new URL friendly image slugs"
+msgstr "Vytvořit nové URL přátelské ke slugu obrázku"
+
+#@ nggallery
+#: admin/settings.php:434
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "Pokud je používáno stránkování, tato možnost zobrazí všechny obrázky v modálním okně (Thickbox, Lightbox atd.). Poznámka: Tím se zvyšuje doba načtení stránky"
+
+#@ nggallery
+#: admin/settings.php:440
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "Prohlížení obrázků bez znovunačítání stránky. Poznámka: Funguje pouze v kombinaci s Shutter efektem"
+
+#@ nggallery
+#: admin/settings.php:666
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integrovat flash prezentaci pro všechna podporovaná zařízení flash"
+
+#@ nggallery
+#: admin/settings.php:673
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Stiskněte tlačítko pro automatické vyhledání imagerotatoru, pokud jste jej nahráli do wp-content/uploads nebo podsložky"
+
+#@ nggallery
+#: admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "Vyberte nebo zadejte galerii"
+
+#@ nggallery
+#: admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "Vyberte nebo zadejte album"
+
+#@ nggallery
+#: admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "Vyberte nebo zadejte obrázek"
+
+#@ nggallery
+#: admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "Vytvořit unikátní slug"
+
+#@ nggallery
+#: admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "Jedna z připravovaných funkcí jsou přepracovaná struktura trvalých odkazů."
+
+#@ nggallery
+#: admin/upgrade.php:174
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "Proto je potřeba mít jedinečný identifikátor pro každý obrázek, galerií a album."
+
+#@ nggallery
+#: admin/upgrade.php:175
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "Závisí na množství položek databáze, bude to chvíli trvat, neobnovujte tuto stránku."
+
+#@ nggallery
+#: admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Přestavět strukturu obrázků: %s / %s obrázků"
+
+#@ nggallery
+#: admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Přestavět strukturu galerií: %s / %s galerií"
+
+#@ nggallery
+#: admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Přestavět strukturu alb: %s / %s alb"
+
+#@ nggallery
+#: admin/upgrade.php:460
+msgid "Done."
+msgstr "Hotovo."
+
+#@ nggallery
+#: admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Díky za používání tohoto pluginu, NextGEN Galerie je původně vyvinuta pro vlastní hostované blogy. Multi nastavení je možné, ale v současné době nejsou plně podporovány, protože to může mít několik zvláštních podmínek (tj. mapování domén). <br /> Pokud byste chtěli podpořit další rozvoj, prosím zvažte <strong><a href=\"%s\">příspěvek</a></strong>! Pokud ještě potřebujete nějakou pomoc, prosím, pošlete své dotazy <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">zde</a> ."
+
+#@ nggallery
+#: admin/wpmu.php:62
+msgid "Network Options"
+msgstr "Možnosti sítě"
+
+#@ nggallery
+#: admin/wpmu.php:70
+#, php-format
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Toto je výchozí cesta pro všechny blogy. Se zástupným symbolem %BLOG_ID% můžete organizovat strukturu složek lépe."
+
+#@ nggallery
+#: admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "Výchozí nastavení by mělo být %s"
+
+#@ nggallery
+#: admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "Povolit funkci importování"
+
+#@ nggallery
+#: admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "Povolit uživatelům importovat složky obrázků ze serveru."
+
+#@ default
+#: lib/xmlrpc.php:247
+#: lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "Neplatné ID obrázku"
+
+#@ default
+#: lib/xmlrpc.php:250
+#: lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "Omlouváme se, ale musíte mít prvomoce upravit tento obrázek"
+
+#@ default
+#: lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "Omlouváme se, ale obrázek nemohl být aktualizován"
+
+#@ default
+#: lib/xmlrpc.php:344
+#: lib/xmlrpc.php:576
+#: lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Omlouváme se, ale musíte mít pravomoce spravovat galerie"
+
+#@ default
+#: lib/xmlrpc.php:393
+#: lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "Neplatné ID galerie"
+
+#@ default
+#: lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "Omlouváme se, ale musíte mít pravomoce spravovat tuto galerii"
+
+#@ default
+#: lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "Omlouváme se, ale nebylo možné aktualizovat galerii"
+
+#@ default
+#: lib/xmlrpc.php:442
+#: lib/xmlrpc.php:494
+#: lib/xmlrpc.php:536
+#: lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "Omlouváme se, ale musíte mít pravomoce spravovat alba"
+
+#@ default
+#: lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "Omlouváme se, ale nebylo možné vytvořit album"
+
+#@ default
+#: lib/xmlrpc.php:491
+#: lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "Neplatné ID alba"
+
+#@ default
+#: lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "Omlouváme se, ale nebylo možné aktualizovat album"
+
+#@ nggallery
+#: nggallery.php:202
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "Omlouváme se, NextGEN galerie funguje pouze s limitem paměti 16 MB nebo vyšší"
+
+#@ nggallery
+#: nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> a <a href=\"http://www.mozilla.com/firefox/\">prohlížeč s podporou Javascriptu</a> jsou potřebné."
+
+#@ default
+#: admin/manage.php:572
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 položka"
+msgstr[1] "%s položek"
+msgstr[2] ""
+
+#@ default
+#: admin/manage.php:588
+msgid "Go to the first page"
+msgstr "Přejít na první stránku"
+
+#@ default
+#: admin/manage.php:595
+msgid "Go to the previous page"
+msgstr "Návrat na předchozí stránku"
+
+#@ default
+#: admin/manage.php:604
+msgid "Current page"
+msgstr "Aktuální stránka"
+
+#@ default
+#: admin/manage.php:611
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s z %2$s"
+
+#@ default
+#: admin/manage.php:615
+msgid "Go to the next page"
+msgstr "Přechod na další stránku"
+
+#@ default
+#: admin/manage.php:622
+msgid "Go to the last page"
+msgstr "Přechod na poslední stránku"
+
+#@ nggallery
+#: admin/settings.php:254
+msgid "Gallery slug name :"
+msgstr "Galerie jméno v trvalém odkaze (slug):"
+
+#@ nggallery
+#: nggallery.php:98
+msgid "<strong>This translation is not yet updated for Version 1.8.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Tento překlad zatím není aktualizován pro verzi 1.8.0.</strong> Pokud byste chtěli pomoci s překladem, stáhněte si aktuální po soubor ze složky pluginu a přečtěte si <a href=\\\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\\\">zde</a> jak můžete přeložit plugin."
+

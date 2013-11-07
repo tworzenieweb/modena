@@ -1,0 +1,3338 @@
+# , 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-18 13:20+0100\n"
+"PO-Revision-Date: 2010-10-31 18:31+0100\n"
+"Last-Translator: Guillem Francès <guillem@guillemfrances.com>\n"
+"Language-Team: Inglés americano <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../nggallery.php:95
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Traduït per: </strong><a target=\"_blank\" href=\"http://www.guillemfrances.com/ca/traduccio-nextgen-gallery/\">Guillem Francès</a>"
+
+#: ../nggallery.php:96
+msgid "<strong>This translation is not yet updated for Version 1.6.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Traducció actualitzada a la versió 1.6.2</strong>. Si hi trobeu algun error o teniu alguna suggerència a fer, contacteu amb <a target=\"_blank\" href=\"http://www.guillemfrances.com/contacte/\">l'autor</a>. Gràcies per la vostra col·laboració!"
+
+#: ../nggallery.php:195
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB higher"
+msgstr "NextGEN Gallery només funciona amb un límit de memòria de com a mínim 16MB"
+
+#: ../nggallery.php:213
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Actualitzeu la base de dades de NextGEN Gallery."
+
+#: ../nggallery.php:213
+msgid "Click here to proceed."
+msgstr "Cliqueu aquí per continuar."
+
+#: ../nggallery.php:236
+msgid "Picture tag"
+msgstr "Etiqueta d'imatge"
+
+#: ../nggallery.php:237
+msgid "Picture tag: %2$l."
+msgstr "Etiqueta d'imatge: %2$l."
+
+#: ../nggallery.php:238
+msgid "Separate picture tags with commas."
+msgstr "Separeu etiquetes d'imatge amb comes."
+
+#: ../nggallery.php:338
+msgid "L O A D I N G"
+msgstr "C A R R E G A N T"
+
+#: ../nggallery.php:339
+msgid "Click to Close"
+msgstr "Cliqueu per tancar"
+
+#: ../nggallery.php:360
+msgid "loading"
+msgstr "carregant"
+
+#: ../nggallery.php:500
+#: ../nggfunctions.php:916
+#: ../admin/admin.php:31
+msgid "Overview"
+msgstr "General"
+
+#: ../nggallery.php:501
+msgid "Get help"
+msgstr "Obteniu ajuda"
+
+#: ../nggallery.php:502
+msgid "Contribute"
+msgstr "Contribuïu"
+
+#: ../nggallery.php:503
+msgid "Donate"
+msgstr "Feu una donació"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed.."
+msgstr "Es necessita <a href=\"http://www.macromedia.com/go/getflashplayer\">un Reproductor Flash </a> i <a href=\"http://www.mozilla.com/firefox/\">un navegador compatible amb Javascript</a>"
+
+#: ../nggfunctions.php:161
+#: ../nggfunctions.php:626
+msgid "[Gallery not found]"
+msgstr "[Galeria no trobada]"
+
+#: ../nggfunctions.php:433
+msgid "[Album not found]"
+msgstr "[Àlbum no trobat]"
+
+#: ../nggfunctions.php:743
+msgid "[SinglePic not found]"
+msgstr "[SinglePic no trobada]"
+
+#: ../nggfunctions.php:881
+msgid "Related images for"
+msgstr "Imatges relacionades amb"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Drets d'autor / Crèdits"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "Equip de desenvolupament de NextGEN"
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Aquesta extensió és desenvolupada, mantinguda i documentada principalment per:"
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Molta altra gent ha col·laborat en aquest projecte:"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Col·laboradors / Agraïments a"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Si observes el codi font d'aquesta extensió, veuràs que hi hem inclòs una bona barreja d'idees i codi font prèviament existents."
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Volem, en conseqüència, agrair a tota aquesta gent el seu treball pioner, sense el qual no hagúes estat possible crear una extensió com aquesta tan ràpidament:"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "pel seu codi font, excel·lentment documentat"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "per jQuery, el millor framework per a la Web 2.0"
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "per la fantàstica classe PHP Thumbnail"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "per un munt d'idees i extensions molt útils"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "pel Shutter Reloaded, un efecte d'imatge realment lleuger"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "pels millors scripts de Flash Mèdia de la Terra"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "Per la icona de la Galeria"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "per l'extensió de marques d'aigua"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Si no trobeu el vostre nom en aquesta llista, però algun codi font vostre està integrat en aquesta extensió, contacteu-me per correu electrònic."
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "Com ajudar-nos?"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Hi ha diverses maneres de col·laborar, ajudar-nos o recolzar aquest projecte, però cap d'elles és obligatòria!"
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Envieu-nos correccions o millores del codi"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "La millor ajuda per a aquesta extensió són les vostres idees."
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Traduïu l'extensió"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Per tal d'ajudar a tothom a treballar amb aquesta extensió, ens agradaria poder-la oferir en tants idiomes com sigui possible."
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Feu una donació al projecte a través de PayPal"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Sens dubte, una forma senzilla i efectiva de motivar-nos :-)"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Enllaceu a aquesta extensió des del vostre blog o pàgina web"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Sí, compartir i retroenllaçar són també bones maneres de recolzar-nos."
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "Gràcies!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Voldríem agrair a tota aquesta gent el seu recolzament al projecte:"
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "I a tots aquells que han fet donacions..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:125
+#: ../admin/album.php:140
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:178
+msgid "Cheatin&#8217; uh?"
+msgstr "Fent trampes, oi?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "La càrrega ha fallat!"
+
+#: ../admin/addgallery.php:85
+msgid "Upload failed! "
+msgstr "La càrrega ha fallat! "
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:928
+#: ../admin/functions.php:1028
+msgid "No gallery selected !"
+msgstr "No heu seleccionat cap galeria!"
+
+#: ../admin/addgallery.php:162
+msgid "Image Files"
+msgstr "Fitxers d'imatge"
+
+#: ../admin/addgallery.php:181
+#: ../admin/addgallery.php:212
+msgid "remove"
+msgstr "eliminar"
+
+#: ../admin/addgallery.php:182
+#: ../admin/addgallery.php:364
+msgid "Browse..."
+msgstr "Explorar..."
+
+#: ../admin/addgallery.php:183
+#: ../admin/addgallery.php:414
+msgid "Upload images"
+msgstr "Penjar imatges"
+
+#: ../admin/addgallery.php:274
+#: ../admin/addgallery.php:380
+msgid "Upload Images"
+msgstr "Penjar Imatges"
+
+#: ../admin/addgallery.php:277
+#: ../admin/addgallery.php:294
+#: ../admin/manage-galleries.php:136
+msgid "Add new gallery"
+msgstr "Afegir una galeria nova"
+
+#: ../admin/addgallery.php:280
+#: ../admin/addgallery.php:316
+msgid "Upload a Zip-File"
+msgstr "Penjar un fitxer .zip"
+
+#: ../admin/addgallery.php:283
+#: ../admin/addgallery.php:358
+msgid "Import image folder"
+msgstr "Importar una carpeta d'imatges"
+
+#: ../admin/addgallery.php:299
+#: ../admin/manage-galleries.php:243
+msgid "New Gallery"
+msgstr "Galeria nova"
+
+#: ../admin/addgallery.php:302
+#: ../admin/manage-galleries.php:245
+msgid "Create a new , empty gallery below the folder"
+msgstr "Creeu una galeria nova (i buida) en la carpeta"
+
+#: ../admin/addgallery.php:304
+#: ../admin/manage-galleries.php:247
+msgid "Allowed characters for file and folder names are"
+msgstr "Els caràcters permesos per als noms de fitxer i carpeta són"
+
+#: ../admin/addgallery.php:308
+msgid "Add gallery"
+msgstr "Afegir galeria"
+
+#: ../admin/addgallery.php:321
+msgid "Select Zip-File"
+msgstr "Seleccioneu fitxer zip"
+
+#: ../admin/addgallery.php:323
+msgid "Upload a zip file with images"
+msgstr "Pengeu un fitxer zip amb imatges"
+
+#: ../admin/addgallery.php:327
+msgid "or enter a Zip-File URL"
+msgstr "o introduïu una adreça URL"
+
+#: ../admin/addgallery.php:329
+msgid "Import a zip file with images from a url"
+msgstr "Importeu un fitxer zip amb imatges des d'una adreça URL"
+
+#: ../admin/addgallery.php:333
+#: ../admin/addgallery.php:389
+msgid "in to"
+msgstr "a la galeria"
+
+#: ../admin/addgallery.php:335
+msgid "a new gallery"
+msgstr "Galeria nova"
+
+#: ../admin/addgallery.php:346
+msgid "Note : The upload limit on your server is "
+msgstr "Nota: La mida màxima de fitxer permesa al vostre servidor és de "
+
+#: ../admin/addgallery.php:350
+msgid "Start upload"
+msgstr "Iniciar càrrega"
+
+#: ../admin/addgallery.php:363
+msgid "Import from Server path:"
+msgstr "Importeu des d'una ruta del servidor:"
+
+#: ../admin/addgallery.php:366
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Nota: Podeu canviar la ruta per defecte en la pàgina de configuració de l'extensió"
+
+#: ../admin/addgallery.php:368
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr "Observeu que amb el mode segur (safe_mode) activat, és necessari afegir la subcarpeta \"thumbs\" manualment"
+
+#: ../admin/addgallery.php:371
+msgid "Import folder"
+msgstr "Importar carpeta"
+
+#: ../admin/addgallery.php:385
+msgid "Upload image"
+msgstr "Penjar imatge"
+
+#: ../admin/addgallery.php:391
+msgid "Choose gallery"
+msgstr "Escolliu galeria"
+
+#: ../admin/addgallery.php:410
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "La càrrega en lot necessita l'Adobe Flash 10, desactiveu-lo si teniu algun problema"
+
+#: ../admin/addgallery.php:410
+msgid "Disable flash upload"
+msgstr "Desactivar càrrega amb Flash"
+
+#: ../admin/addgallery.php:412
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Pengeu diversos fitxers de cop seleccionant-los amb les tecles CTRL o de majúscules en el quadre de diàleg"
+
+#: ../admin/addgallery.php:412
+msgid "Enable flash based upload"
+msgstr "Activar càrrega amb Flash"
+
+#: ../admin/admin.php:30
+#: ../admin/admin.php:271
+#: ../admin/admin.php:339
+#: ../admin/functions.php:99
+#: ../admin/functions.php:176
+#: ../admin/manage-images.php:201
+#: ../admin/manage.php:86
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galeria"
+msgstr[1] "Galeries"
+
+#: ../admin/admin.php:32
+msgid "Add Gallery / Images"
+msgstr "Afegir galeria / Imatges"
+
+#: ../admin/admin.php:33
+msgid "Manage Gallery"
+msgstr "Gestió de galeries"
+
+#: ../admin/admin.php:34
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Àlbum"
+msgstr[1] "Àlbums"
+
+#: ../admin/admin.php:35
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: ../admin/admin.php:36
+msgid "Options"
+msgstr "Configuració"
+
+#: ../admin/admin.php:38
+msgid "Style"
+msgstr "Estil"
+
+#: ../admin/admin.php:40
+msgid "Roles"
+msgstr "Rols i permisos"
+
+#: ../admin/admin.php:41
+msgid "About this Gallery"
+msgstr "Quant a la galeria"
+
+#: ../admin/admin.php:41
+msgid "About"
+msgstr "Quant a..."
+
+#: ../admin/admin.php:44
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/admin.php:46
+msgid "Reset / Uninstall"
+msgstr "Reinicialitzar / Desinstal·lar"
+
+#: ../admin/admin.php:74
+msgid "A new version of NextGEN Gallery is available !"
+msgstr "Hi ha disponible una nova versió de NextGEN Gallery!"
+
+#: ../admin/admin.php:74
+msgid "Download here"
+msgstr "Baixeu-la aquí"
+
+#: ../admin/admin.php:93
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Gràcies per utilitzar aquesta extensió, esperem que n'estigueu satisfets! Si voleu contribuir al seu desenvolupament futur, considereu, si us plau, la possibilitat de <strong><a href=\"%s\">fer una donació</a></strong>. Si encara necessiteu ajuda, plantegeu els vostres dubtes <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">aquí</a> ."
+
+#: ../admin/admin.php:96
+msgid "OK, hide this message now !"
+msgstr "D'acord, amaga aquest missatge!"
+
+#: ../admin/admin.php:180
+msgid "You do not have the correct permission"
+msgstr "No teniu permisos adequats"
+
+#: ../admin/admin.php:181
+msgid "Unexpected Error"
+msgstr "Error inesperat"
+
+#: ../admin/admin.php:182
+msgid "A failure occurred"
+msgstr "Hi ha hagut un error"
+
+#: ../admin/admin.php:275
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introducció</a>"
+
+#: ../admin/admin.php:278
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Configuració</a>"
+
+#: ../admin/admin.php:281
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Traducció: Guillem Francès</a>"
+
+#: ../admin/admin.php:284
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Rols / Permisos</a>"
+
+#: ../admin/admin.php:287
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Estils</a>"
+
+#: ../admin/admin.php:288
+msgid "Templates"
+msgstr "Plantilles"
+
+#: ../admin/admin.php:291
+#: ../admin/admin.php:297
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gestió Galeries</a>"
+
+#: ../admin/admin.php:292
+msgid "Gallery example"
+msgstr "Galeria d'exemple"
+
+#: ../admin/admin.php:298
+#: ../admin/admin.php:308
+msgid "Gallery tags"
+msgstr "Etiquetes de galeria"
+
+#: ../admin/admin.php:301
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gestió d'àlbums</a>"
+
+#: ../admin/admin.php:302
+msgid "Album example"
+msgstr "Àlbum d'exemple"
+
+#: ../admin/admin.php:303
+#: ../admin/admin.php:309
+msgid "Album tags"
+msgstr "Etiquetes d'àlbum"
+
+#: ../admin/admin.php:306
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Etiquetes de galeria</a>"
+
+#: ../admin/admin.php:307
+msgid "Related images"
+msgstr "Imatges relacionades"
+
+#: ../admin/admin.php:312
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Gestió d'imatges</a>"
+
+#: ../admin/admin.php:313
+msgid "Custom fields"
+msgstr "Camps personalitzats"
+
+#: ../admin/admin.php:318
+msgid "Get help with NextGEN Gallery"
+msgstr "Obteniu ajuda amb la NextGEN Gallery"
+
+#: ../admin/admin.php:322
+msgid "More Help & Info"
+msgstr "Més ajuda i informació"
+
+#: ../admin/admin.php:324
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Fòrums d'ajuda</a>"
+
+#: ../admin/admin.php:325
+msgid "FAQ"
+msgstr "Preguntes més freqüents"
+
+#: ../admin/admin.php:326
+msgid "Feature request"
+msgstr "Sol·liciteu una funcionalitat"
+
+#: ../admin/admin.php:327
+msgid "Get your language pack"
+msgstr "Obteniu el vostre paquet d'idioma"
+
+#: ../admin/admin.php:328
+msgid "Contribute development"
+msgstr "Contribuïu al desenvolupament"
+
+#: ../admin/admin.php:329
+msgid "Download latest version"
+msgstr "Baixeu l'última versió"
+
+#: ../admin/album.php:103
+#: ../admin/album.php:118
+#: ../admin/album.php:153
+msgid "Update Successfully"
+msgstr "Actualització correcta"
+
+#: ../admin/album.php:129
+msgid "Album deleted"
+msgstr "Àlbum eliminat"
+
+#: ../admin/album.php:264
+msgid "Manage Albums"
+msgstr "Gestió d'Àlbums"
+
+#: ../admin/album.php:270
+#: ../admin/album.php:319
+msgid "Select album"
+msgstr "Seleccioneu àlbum"
+
+#: ../admin/album.php:272
+msgid "No album selected"
+msgstr "Cap àlbum seleccionat"
+
+#: ../admin/album.php:283
+#: ../admin/edit-thumbnail.php:157
+msgid "Update"
+msgstr "Actualitzar"
+
+#: ../admin/album.php:285
+msgid "Edit album"
+msgstr "Editar àlbum"
+
+#: ../admin/album.php:288
+#: ../admin/manage-galleries.php:211
+#: ../admin/manage-images.php:406
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ../admin/album.php:288
+msgid "Delete album ?"
+msgstr "Voleu eliminar l'àlbum?"
+
+#: ../admin/album.php:292
+msgid "Add new album"
+msgstr "Afegir àlbum nou"
+
+#: ../admin/album.php:294
+msgid "Add"
+msgstr "Afegir"
+
+#: ../admin/album.php:305
+msgid "Show / hide used galleries"
+msgstr "Mostra / amaga les galeries usades"
+
+#: ../admin/album.php:305
+msgid "[Show all]"
+msgstr "[Mostrar totes]"
+
+#: ../admin/album.php:306
+msgid "Maximize the widget content"
+msgstr "Maximitza el contingut del giny"
+
+#: ../admin/album.php:306
+msgid "[Maximize]"
+msgstr "Maximitzar"
+
+#: ../admin/album.php:307
+msgid "Minimize the widget content"
+msgstr "Minimitza el contingut del giny"
+
+#: ../admin/album.php:307
+msgid "[Minimize]"
+msgstr "[Minimitzar]"
+
+#: ../admin/album.php:309
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Després d'haver creat i seleccionat un àlbum, podeu arrossegar-hi (a la columna de l'esquerra) una galeria o un altre àlbum"
+
+#: ../admin/album.php:335
+msgid "Select gallery"
+msgstr "Seleccioneu una galeria"
+
+#: ../admin/album.php:364
+msgid "Album ID"
+msgstr "Àlbum amb ID"
+
+#: ../admin/album.php:377
+msgid "No album selected!"
+msgstr "No heu seleccionat cap àlbum!"
+
+#: ../admin/album.php:397
+msgid "Album name:"
+msgstr "Nom de l'àlbum:"
+
+#: ../admin/album.php:403
+msgid "Album description:"
+msgstr "Descripció de l'àlbum:"
+
+#: ../admin/album.php:409
+msgid "Select a preview image:"
+msgstr "Seleccioneu una imatge prèvia:"
+
+#: ../admin/album.php:411
+msgid "No picture"
+msgstr "Cap imatge"
+
+#: ../admin/album.php:425
+#: ../admin/manage-images.php:219
+msgid "Page Link to"
+msgstr "Enllaç de pàgina a"
+
+#: ../admin/album.php:427
+#: ../admin/manage-images.php:222
+msgid "Not linked"
+msgstr "Cap enllaç"
+
+#: ../admin/album.php:440
+#: ../admin/manage-galleries.php:252
+#: ../admin/manage-galleries.php:281
+#: ../admin/manage-galleries.php:311
+#: ../admin/manage-images.php:500
+#: ../admin/manage-images.php:536
+#: ../admin/manage-images.php:565
+#: ../admin/manage-images.php:595
+msgid "OK"
+msgstr "Acceptar"
+
+#: ../admin/album.php:442
+#: ../admin/manage-galleries.php:254
+#: ../admin/manage-galleries.php:283
+#: ../admin/manage-galleries.php:313
+#: ../admin/manage-images.php:502
+#: ../admin/manage-images.php:538
+#: ../admin/manage-images.php:567
+#: ../admin/manage-images.php:597
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+#: ../admin/album.php:526
+msgid "Name"
+msgstr "Nom"
+
+#: ../admin/album.php:527
+#: ../admin/manage-galleries.php:157
+#: ../admin/manage-galleries.php:171
+#: ../admin/manage-images.php:217
+msgid "Title"
+msgstr "Títol"
+
+#: ../admin/album.php:528
+msgid "Page"
+msgstr "Pàgina"
+
+#: ../admin/edit-thumbnail.php:106
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Seleccioneu, amb el ratolí, l'àrea de la nova miniatura"
+
+#: ../admin/edit-thumbnail.php:120
+msgid "Thumbnail updated"
+msgstr "Miniatura actualitzada"
+
+#: ../admin/edit-thumbnail.php:125
+msgid "Error updating thumbnail"
+msgstr "Error actualitzant la miniatura"
+
+#: ../admin/edit-thumbnail.php:142
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Seleccioneu l'àrea de la miniatura en la imatge de l'esquerra"
+
+#: ../admin/functions.php:40
+msgid "No valid gallery name!"
+msgstr "Nom de galeria invàlid!"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+#: ../admin/functions.php:147
+#: ../admin/functions.php:155
+msgid "Directory"
+msgstr "La carpeta"
+
+#: ../admin/functions.php:47
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "no existeix. Creeu primer la carpeta de la galeria principal."
+
+#: ../admin/functions.php:48
+#: ../admin/functions.php:57
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Si no sabeu com establir els permisos, vegeu aquest enllaç:"
+
+#: ../admin/functions.php:56
+#: ../admin/functions.php:70
+msgid "is not writeable !"
+msgstr "no té permisos d'escriptura"
+
+#: ../admin/functions.php:65
+#: ../admin/functions.php:75
+#: ../admin/functions.php:887
+msgid "Unable to create directory "
+msgstr "No s'ha pogut crear la carpeta"
+
+#: ../admin/functions.php:79
+msgid "The server setting Safe-Mode is on !"
+msgstr "El mode segur (safe_mode) del servidor està activat!"
+
+#: ../admin/functions.php:80
+msgid "If you have problems, please create directory"
+msgstr "Si teniu algun problema, creeu manualment la carpeta"
+
+#: ../admin/functions.php:81
+msgid "and the thumbnails directory"
+msgstr "i la carpeta de miniatures"
+
+#: ../admin/functions.php:81
+msgid "with permission 777 manually !"
+msgstr "amb permisos 777."
+
+#: ../admin/functions.php:99
+msgid "already exists"
+msgstr "ja existeix"
+
+#: ../admin/functions.php:113
+#, php-format
+msgid "Gallery %1$s successfully created.<br/>You can show this gallery with the tag %2$s.<br/>"
+msgstr "La galeria %1$s s'ha creat correctament.<br/>Podeu mostrar-la amb l'etiqueta %2$s.<br/>"
+
+#: ../admin/functions.php:116
+msgid "Edit gallery"
+msgstr "Editar galeria"
+
+#: ../admin/functions.php:147
+msgid "doesn&#96;t exist!"
+msgstr "no existeix!"
+
+#: ../admin/functions.php:155
+msgid "contains no pictures"
+msgstr "no conté cap imatge"
+
+#: ../admin/functions.php:173
+msgid "Database error. Could not add gallery!"
+msgstr "Error de la base de dades. No s'ha pogut afegir la galeria."
+
+#: ../admin/functions.php:176
+msgid "successfully created!"
+msgstr "creada satisfactòriament!"
+
+#: ../admin/functions.php:205
+#: ../admin/functions.php:1004
+#: ../admin/manage-galleries.php:128
+#: ../admin/manage-images.php:302
+#: ../admin/manage.php:215
+#: ../admin/manage.php:291
+msgid "Create new thumbnails"
+msgstr "Crear miniatures noves"
+
+#: ../admin/functions.php:208
+msgid " picture(s) successfully added"
+msgstr " imatge(s) afegides satisfactòriament"
+
+#: ../admin/functions.php:258
+#: ../admin/functions.php:338
+#: ../admin/functions.php:393
+#: ../admin/functions.php:490
+#: ../admin/functions.php:544
+msgid "Object didn't contain correct data"
+msgstr "L'objecte no conté dades correctes"
+
+#: ../admin/functions.php:266
+msgid " is not writeable "
+msgstr " no té permisos d'escriptura "
+
+#: ../admin/functions.php:348
+#: ../admin/functions.php:396
+#: ../admin/functions.php:496
+#: ../admin/functions.php:547
+msgid " is not writeable"
+msgstr " no té permisos d'escriptura"
+
+#: ../admin/functions.php:550
+msgid "File do not exists"
+msgstr "El fitxer no existeix"
+
+#: ../admin/functions.php:554
+msgid "Couldn't restore original image"
+msgstr "No s'ha pogut restaurar l'imatge original"
+
+#: ../admin/functions.php:669
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Error: No s'ha pogut actualitzar la base de dades)"
+
+#: ../admin/functions.php:676
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Error: No s'han pogut actualitzar les metadades)"
+
+#: ../admin/functions.php:685
+msgid "(Error : Couldn't not find image)"
+msgstr "(Error: No s'ha pogut trobar la imatge)"
+
+#: ../admin/functions.php:821
+msgid "No valid URL path "
+msgstr "Adreça URL invàlida"
+
+#: ../admin/functions.php:837
+msgid "Import via cURL failed."
+msgstr "La importació via cURL ha fallat"
+
+#: ../admin/functions.php:854
+msgid "Uploaded file was no or a faulty zip file ! The server recognize : "
+msgstr "El fitxer carregat no és un fitxer zip vàlid. El servidor ha reconegut: "
+
+#: ../admin/functions.php:871
+msgid "Could not get a valid foldername"
+msgstr "No s'ha pogut obtenir un nom de carpeta vàlid"
+
+#: ../admin/functions.php:882
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "No s'ha pogut crear la carpeta %s. Té el servidor permisos per escriure en la carpeta pare?"
+
+#: ../admin/functions.php:897
+msgid "Zip-File successfully unpacked"
+msgstr "Fitxer zip satisfactòriament descomprimit"
+
+#: ../admin/functions.php:936
+#: ../admin/functions.php:1053
+msgid "Failure in database, no gallery path set !"
+msgstr "Error en la base de dades. No s'ha establert cap ruta de la galeria!"
+
+#: ../admin/functions.php:960
+#: ../admin/functions.php:1047
+msgid "is no valid image file!"
+msgstr "no és un fitxer d'imatge vàlid"
+
+#: ../admin/functions.php:974
+#: ../admin/functions.php:1173
+#: ../admin/functions.php:1248
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "No s'ha pogut escriure en la carpeta %s. Té el servidor permisos per escriure-hi?"
+
+#: ../admin/functions.php:981
+#: ../admin/functions.php:1070
+msgid "Error, the file could not moved to : "
+msgstr "Error, no s'ha pogut moure el fitxer a: "
+
+#: ../admin/functions.php:986
+#: ../admin/functions.php:1074
+msgid "Error, the file permissions could not set"
+msgstr "Error, no s'han pogut establir els permissos del fitxer"
+
+#: ../admin/functions.php:1009
+msgid " Image(s) successfully added"
+msgstr " Imatge(s) correctament afegida(es)"
+
+#: ../admin/functions.php:1036
+msgid "Invalid upload. Error Code : "
+msgstr "Càrrega fallida. Codi d'error: "
+
+#: ../admin/functions.php:1113
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "El mode segur (safe_mode) del servidor està activat! Haureu de crear la carpeta <strong>%s</strong> manualment"
+
+#: ../admin/functions.php:1114
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Quan el mode segur (safe_mode) està activat, el PHP verifica que el propietari (%s) de l'script és el mateix que el propietari (%s) del fitxer o carpeta sobre el qual es vol operar a través d'alguna funció de fitxer"
+
+#: ../admin/functions.php:1167
+#: ../admin/functions.php:1242
+msgid "The destination gallery does not exist"
+msgstr "La galeria de destí no existeix"
+
+#: ../admin/functions.php:1198
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "No s'ha pogut moure la imatge %1$s a %2$s"
+
+#: ../admin/functions.php:1218
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "S'ha(n) mogut %1$s imatge(s) a la galeria %2$s ."
+
+#: ../admin/functions.php:1275
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "No s'ha pogut copiar la imatge %1$s a %2$s"
+
+#: ../admin/functions.php:1289
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "No s'ha pogut copiar la fila de la base de dades corresponent a la imatge %s"
+
+#: ../admin/functions.php:1297
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "La imatge %1$s (%2$s) s'ha copiat com a imatge %3$s (%4$s) &raquo; El fitxer ja existia en la galeria de destí"
+
+#: ../admin/functions.php:1300
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "La imatge %1$s (%2$s) s'ha copiat com a imatge %3$s (%4$s)"
+
+#: ../admin/functions.php:1309
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "S'ha(n) copiat %1$s imatge(s) a la galeria %2$s ."
+
+#: ../admin/functions.php:1419
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "La mida del fitxer carregat excedeix la directiva upload_max_filesize del fitxer php.ini"
+
+#: ../admin/functions.php:1422
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "La mida del fitxer carregat excedeix la directiva MAX_FILE_SIZE especificada al formulari HTML"
+
+#: ../admin/functions.php:1425
+msgid "The uploaded file was only partially uploaded"
+msgstr "El fitxer s'ha pogut carregar només de forma parcial"
+
+#: ../admin/functions.php:1428
+msgid "No file was uploaded"
+msgstr "No s'ha carregat cap fitxer"
+
+#: ../admin/functions.php:1431
+msgid "Missing a temporary folder"
+msgstr "Falta una carpeta temporal"
+
+#: ../admin/functions.php:1434
+msgid "Failed to write file to disk"
+msgstr "No s'ha pogut escriure el fitxer a disc"
+
+#: ../admin/functions.php:1437
+msgid "File upload stopped by extension"
+msgstr "Càrrega del fitxer cancel·lada per la seva extensió"
+
+#: ../admin/functions.php:1440
+msgid "Unknown upload error"
+msgstr "Error de càrrega desconegut"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "El NextGEN Gallery necessita un rol anomenat \"administrator\" per tal de poder funcionar"
+
+#: ../admin/install.php:108
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery: Les taules no s'han pogut crear, comprova la configuració de la base de dades"
+
+#: ../admin/install.php:166
+msgid "[Show as slideshow]"
+msgstr "[Mostrar com a projecció de diapositives]"
+
+#: ../admin/install.php:167
+msgid "[Show picture list]"
+msgstr "[Mostrar llista d'imatges]"
+
+#: ../admin/manage-galleries.php:20
+#: ../admin/manage-images.php:55
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../admin/manage-galleries.php:21
+#: ../admin/manage-images.php:56
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../admin/manage-galleries.php:62
+#: ../admin/manage-images.php:140
+msgid "No images selected"
+msgstr "Cap imatge seleccionada"
+
+#: ../admin/manage-galleries.php:79
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Estàs a punt d'iniciar l'edició en lot de %s galeries\n"
+"\n"
+"Prem 'Acceptar' per continuar."
+
+#: ../admin/manage-galleries.php:108
+msgid "Gallery Overview"
+msgstr "Informació general de la galeria"
+
+#: ../admin/manage-galleries.php:111
+#: ../admin/manage-galleries.php:114
+#: ../admin/manage-images.php:187
+#: ../admin/manage-images.php:190
+msgid "Search Images"
+msgstr "Cercar imatges"
+
+#: ../admin/manage-galleries.php:126
+#: ../admin/manage-images.php:300
+msgid "No action"
+msgstr "Cap acció"
+
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-images.php:301
+#: ../admin/manage.php:163
+#: ../admin/manage.php:241
+msgid "Set watermark"
+msgstr "Establir marca d'aigua"
+
+#: ../admin/manage-galleries.php:129
+#: ../admin/manage-images.php:303
+#: ../admin/manage.php:199
+#: ../admin/manage.php:277
+msgid "Resize images"
+msgstr "Redimensionar imatges"
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-images.php:306
+#: ../admin/manage.php:168
+#: ../admin/manage.php:261
+msgid "Import metadata"
+msgstr "Importar metadades"
+
+#: ../admin/manage-galleries.php:131
+#: ../admin/manage-images.php:304
+#: ../admin/manage.php:158
+#: ../admin/manage.php:238
+msgid "Recover from backup"
+msgstr "Recuperar des d'una còpia de seguretat"
+
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:315
+msgid "Apply"
+msgstr "Acceptar"
+
+#: ../admin/manage-galleries.php:141
+#: ../admin/manage-galleries.php:225
+#: ../admin/manage-images.php:291
+#: ../admin/manage-images.php:475
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Mostrant %s&#8211;%s de %s"
+
+#: ../admin/manage-galleries.php:156
+#: ../admin/manage-galleries.php:170
+#: ../admin/manage-images.php:619
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:158
+#: ../admin/manage-galleries.php:172
+#: ../admin/manage-images.php:228
+#: ../admin/manage-images.php:624
+msgid "Description"
+msgstr "Descripció"
+
+#: ../admin/manage-galleries.php:159
+#: ../admin/manage-galleries.php:173
+#: ../admin/manage-images.php:248
+msgid "Author"
+msgstr "Autor"
+
+#: ../admin/manage-galleries.php:160
+#: ../admin/manage-galleries.php:174
+msgid "Page ID"
+msgstr "ID de pàgina"
+
+#: ../admin/manage-galleries.php:161
+#: ../admin/manage-galleries.php:175
+msgid "Quantity"
+msgstr "Quantitat"
+
+#: ../admin/manage-galleries.php:162
+#: ../admin/manage-galleries.php:176
+msgid "Action"
+msgstr "Acció"
+
+#: ../admin/manage-galleries.php:198
+msgid "Edit"
+msgstr "Editar"
+
+#: ../admin/manage-galleries.php:211
+msgid "Delete this gallery ?"
+msgstr "Voleu eliminar aquesta galeria?"
+
+#: ../admin/manage-galleries.php:218
+#: ../admin/manage-images.php:466
+msgid "No entries found"
+msgstr "Cap entrada trobada"
+
+#: ../admin/manage-galleries.php:272
+#: ../admin/manage-images.php:556
+msgid "Resize Images to"
+msgstr "Redimensionar imatges a"
+
+#: ../admin/manage-galleries.php:276
+#: ../admin/manage-images.php:560
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Amplada x alçada (en píxels). El NextGEN Gallery mantindrà la relació d'aspecte"
+
+#: ../admin/manage-galleries.php:300
+#: ../admin/manage-images.php:584
+msgid "Width x height (in pixel)"
+msgstr "Amplada x alçada (en píxels)"
+
+#: ../admin/manage-galleries.php:302
+#: ../admin/manage-images.php:586
+msgid "These values are maximum values "
+msgstr "Aquests són els valors màxims "
+
+#: ../admin/manage-galleries.php:305
+#: ../admin/manage-images.php:589
+msgid "Set fix dimension"
+msgstr "Establir unes dimensions fixes"
+
+#: ../admin/manage-galleries.php:307
+#: ../admin/manage-images.php:591
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "S'ignorarà la relació d'aspecte de l'original; "
+
+#: ../admin/manage-images.php:32
+msgid "Gallery not found."
+msgstr "No s'ha trobat la galeria"
+
+#: ../admin/manage-images.php:38
+msgid "Sorry, you have no access here"
+msgstr "No teniu permisos per estar aquí"
+
+#: ../admin/manage-images.php:168
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Estàs a punt d'iniciar l'edició en lot de %s imatges\n"
+"\n"
+"Prem 'Acceptar' per continuar."
+
+#: ../admin/manage-images.php:184
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultats de la cerca de  &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:213
+msgid "Gallery settings"
+msgstr "Configuració de la galeria"
+
+#: ../admin/manage-images.php:213
+msgid "Click here for more settings"
+msgstr "Fes clic aquí per a més opcions"
+
+#: ../admin/manage-images.php:230
+msgid "Preview image"
+msgstr "Imatge prèvia"
+
+#: ../admin/manage-images.php:233
+msgid "No Picture"
+msgstr "Cap Imatge"
+
+#: ../admin/manage-images.php:246
+msgid "Path"
+msgstr "Adreça"
+
+#: ../admin/manage-images.php:263
+msgid "Create new page"
+msgstr "Crear pàgina nova"
+
+#: ../admin/manage-images.php:266
+msgid "Main page (No parent)"
+msgstr "Pàg. principal (sense pare)"
+
+#: ../admin/manage-images.php:269
+msgid "Add page"
+msgstr "Afegir pàgina"
+
+#: ../admin/manage-images.php:278
+msgid "Scan Folder for new images"
+msgstr "Buscar imatges noves a la carpeta"
+
+#: ../admin/manage-images.php:279
+#: ../admin/manage-images.php:321
+#: ../admin/manage-images.php:473
+msgid "Save Changes"
+msgstr "Desar els canvis"
+
+#: ../admin/manage-images.php:305
+msgid "Delete images"
+msgstr "Esborrar imatges"
+
+#: ../admin/manage-images.php:307
+msgid "Rotate images clockwise"
+msgstr "Rotar les imatges en sentit horari"
+
+#: ../admin/manage-images.php:308
+msgid "Rotate images counter-clockwise"
+msgstr "Rotar les imatges en sentit anti-horari"
+
+#: ../admin/manage-images.php:309
+msgid "Copy to..."
+msgstr "Copiar a..."
+
+#: ../admin/manage-images.php:310
+msgid "Move to..."
+msgstr "Moure a..."
+
+#: ../admin/manage-images.php:311
+msgid "Add tags"
+msgstr "Afegir etiquetes"
+
+#: ../admin/manage-images.php:312
+msgid "Delete tags"
+msgstr "Esborrar etiquetes"
+
+#: ../admin/manage-images.php:313
+msgid "Overwrite tags"
+msgstr "Sobreescriure etiquetes"
+
+#: ../admin/manage-images.php:318
+msgid "Sort gallery"
+msgstr "Ordenar galeria"
+
+#: ../admin/manage-images.php:392
+msgid "pixel"
+msgstr "píxel"
+
+#: ../admin/manage-images.php:400
+#, php-format
+msgid "View \"%s\""
+msgstr "Veure \"%s\""
+
+#: ../admin/manage-images.php:400
+msgid "View"
+msgstr "Veure"
+
+#: ../admin/manage-images.php:401
+msgid "Show Meta data"
+msgstr "Veure metadades"
+
+#: ../admin/manage-images.php:401
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:402
+msgid "Customize thumbnail"
+msgstr "Personalitzar miniatura"
+
+#: ../admin/manage-images.php:402
+msgid "Edit thumb"
+msgstr "Editar miniatura"
+
+#: ../admin/manage-images.php:403
+msgid "Rotate"
+msgstr "Rotar"
+
+#: ../admin/manage-images.php:405
+msgid "Recover"
+msgstr "Recuperar"
+
+#: ../admin/manage-images.php:405
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "Recuperar \"%s\" ?"
+
+#: ../admin/manage-images.php:406
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Esborrar \"%s\" ?"
+
+#: ../admin/manage-images.php:496
+msgid "Enter the tags"
+msgstr "Introdueix les etiquetes"
+
+#: ../admin/manage-images.php:520
+msgid "Select the destination gallery:"
+msgstr "Seleccioneu la galeria de destí:"
+
+#: ../admin/manage-images.php:620
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../admin/manage-images.php:622
+#: ../admin/manage-sort.php:74
+msgid "Filename"
+msgstr "Nom del fitxer"
+
+#: ../admin/manage-images.php:624
+msgid "Alt &amp; Title Text"
+msgstr "Atributs Alt &amp; Title"
+
+#: ../admin/manage-images.php:625
+msgid "Tags (comma separated list)"
+msgstr "Etiquetes (llista separada per comes)"
+
+#: ../admin/manage-images.php:627
+msgid "exclude"
+msgstr "exclou"
+
+#: ../admin/manage-sort.php:30
+msgid "Sort order changed"
+msgstr "Ordre modificat"
+
+#: ../admin/manage-sort.php:59
+msgid "Sort Gallery"
+msgstr "Ordenar galeria"
+
+#: ../admin/manage-sort.php:63
+msgid "Update Sort Order"
+msgstr "Actualitzar Ordre"
+
+#: ../admin/manage-sort.php:66
+msgid "Back to gallery"
+msgstr "Tornar a la galeria"
+
+#: ../admin/manage-sort.php:71
+msgid "Presort"
+msgstr "Pre-ordenació"
+
+#: ../admin/manage-sort.php:72
+msgid "Unsorted"
+msgstr "Cap ordre"
+
+#: ../admin/manage-sort.php:73
+msgid "Image ID"
+msgstr "ID d'imatge"
+
+#: ../admin/manage-sort.php:75
+msgid "Alt/Title text"
+msgstr "Atributs Alt &amp; Title"
+
+#: ../admin/manage-sort.php:76
+msgid "Date/Time"
+msgstr "Data i hora"
+
+#: ../admin/manage-sort.php:77
+msgid "Ascending"
+msgstr "Ascendent"
+
+#: ../admin/manage-sort.php:78
+msgid "Descending"
+msgstr "Descendent"
+
+#: ../admin/manage.php:86
+#: ../admin/manage.php:107
+msgid "deleted successfully"
+msgstr "esborrat correctament"
+
+#: ../admin/manage.php:107
+msgid "Picture"
+msgstr "Imatge"
+
+#: ../admin/manage.php:122
+#: ../admin/manage.php:131
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operació correcta. Neteja la memòria cau del teu navegador."
+
+#: ../admin/manage.php:232
+#: ../admin/manage.php:235
+msgid "Rotate images"
+msgstr "Rotar imatges"
+
+#: ../admin/manage.php:257
+msgid "Pictures deleted successfully "
+msgstr "Imatges esborrades correctament "
+
+#: ../admin/manage.php:353
+msgid "Tags changed"
+msgstr "Etiquetes modificades"
+
+#: ../admin/manage.php:386
+msgid "Update successful"
+msgstr "Actualització correcta"
+
+#: ../admin/manage.php:421
+msgid "New gallery page ID"
+msgstr "Nova ID de pàgina de galeria"
+
+#: ../admin/manage.php:421
+msgid "created"
+msgstr "creada"
+
+#: ../admin/media-upload.php:168
+#: ../admin/tinymce/window.php:43
+msgid "No gallery"
+msgstr "Cap galeria"
+
+#: ../admin/media-upload.php:180
+msgid "Select &#187;"
+msgstr "Seleccionar &#187;"
+
+#: ../admin/media-upload.php:211
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../admin/media-upload.php:212
+msgid "Hide"
+msgstr "Amagar"
+
+#: ../admin/media-upload.php:217
+msgid "Image ID:"
+msgstr "ID d'imatge:"
+
+#: ../admin/media-upload.php:276
+msgid "Save all changes"
+msgstr "Desar tots els canvis"
+
+#: ../admin/overview.php:15
+msgid "NextGEN Gallery Overview"
+msgstr "Informació general del NextGEN Gallery"
+
+#: ../admin/overview.php:87
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Benvingut al NextGEN Gallery!"
+
+#: ../admin/overview.php:88
+msgid "Do you like this Plugin?"
+msgstr "T'agrada aquesta extensió?"
+
+#: ../admin/overview.php:90
+msgid "Translation"
+msgstr "Traducció"
+
+#: ../admin/overview.php:91
+msgid "Latest News"
+msgstr "Últimes notícies"
+
+#: ../admin/overview.php:92
+msgid "Recent donators"
+msgstr "Donacions recents"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "Configuració del servidor"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "Extensions relacionades"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Aquesta extensió és desenvolupada, mantinguda i documentada principalment per l'<a href=\"%s\">Alex Rabe</a>, amb molta cura i esforç. Qualsevol tipus de col·laboració serà enormement benvinguda. Gràcies!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Doneu-li una bona puntuació a WordPress.org."
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Feu una donació al projecte a través de PayPal."
+
+#: ../admin/overview.php:116
+msgid "Send a gift to show your appreciation."
+msgstr "Envieu-nos un regal per demostrar el vostre apreci."
+
+#: ../admin/overview.php:121
+msgid "Help to translating it."
+msgstr "Ajudeu-nos a traduir-la."
+
+#: ../admin/overview.php:140
+msgid "Graphic Library"
+msgstr "Biblioteca gràfica"
+
+#: ../admin/overview.php:156
+#: ../admin/overview.php:205
+#: ../admin/overview.php:392
+#: ../admin/overview.php:582
+msgid "Loading&#8230;"
+msgstr "Carregant&#8230;"
+
+#: ../admin/overview.php:156
+#: ../admin/overview.php:205
+#: ../admin/overview.php:392
+#: ../admin/overview.php:582
+msgid "This widget requires JavaScript."
+msgstr "Aquest giny requereix Javascript."
+
+#: ../admin/overview.php:169
+msgid "Thanks to all donators..."
+msgstr "Gràcies a tots els donador..."
+
+#: ../admin/overview.php:191
+msgid "View all"
+msgstr "Veure tots"
+
+#: ../admin/overview.php:217
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "L'agregador de notícies no s'ha pogut carregar. Comprova si hi ha actualitzacions a la <a href=\"%s\">pàgina d'inici</a>"
+
+#: ../admin/overview.php:229
+msgid "Untitled"
+msgstr "Sense títol"
+
+#: ../admin/overview.php:279
+msgid "At a Glance"
+msgstr "D'una ullada"
+
+#: ../admin/overview.php:284
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Imatge"
+msgstr[1] "Imatges"
+
+#: ../admin/overview.php:305
+msgid "Upload pictures"
+msgstr "Penjar imatges"
+
+#: ../admin/overview.php:306
+msgid "Here you can control your images, galleries and albums."
+msgstr "Aquí pots controlar les imatges, galeries i àlbums."
+
+#: ../admin/overview.php:336
+msgid "Storage Space"
+msgstr "Espai d'emmagatzemament"
+
+#: ../admin/overview.php:340
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Gestionar càrregues\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:341
+msgid "Space Allowed"
+msgstr "Espai permès"
+
+#: ../admin/overview.php:348
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Gestionar càrregues\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:349
+msgid "Space Used"
+msgstr "Espai utilitzat"
+
+#: ../admin/overview.php:378
+msgid "Translation file successful updated. Please reload page."
+msgstr "El fitxer de traducció s'ha actualitzat correctament. Torneu a carregar la pàgina."
+
+#: ../admin/overview.php:380
+msgid "Reload page"
+msgstr "Torneu a carregar la pàgina"
+
+#: ../admin/overview.php:385
+msgid "Translation file couldn't be updated"
+msgstr "El fitxer de traducció no s'ha pogut actualitzar"
+
+#: ../admin/overview.php:422
+msgid "Download"
+msgstr "Baixar"
+
+#: ../admin/overview.php:451
+msgid "No GD support"
+msgstr "No admet GD"
+
+#: ../admin/overview.php:463
+#: ../admin/overview.php:509
+#: ../admin/overview.php:512
+#: ../admin/overview.php:515
+msgid "Yes"
+msgstr "Sí"
+
+#: ../admin/overview.php:465
+#: ../admin/overview.php:510
+#: ../admin/overview.php:513
+#: ../admin/overview.php:516
+msgid "No"
+msgstr "No"
+
+#: ../admin/overview.php:483
+msgid "Not set"
+msgstr "No definit"
+
+#: ../admin/overview.php:485
+#: ../admin/overview.php:488
+msgid "On"
+msgstr "Activat"
+
+#: ../admin/overview.php:486
+#: ../admin/overview.php:489
+msgid "Off"
+msgstr "Desactivat"
+
+#: ../admin/overview.php:492
+#: ../admin/overview.php:495
+#: ../admin/overview.php:498
+#: ../admin/overview.php:501
+#: ../admin/overview.php:504
+#: ../admin/overview.php:507
+msgid "N/A"
+msgstr "N/D"
+
+#: ../admin/overview.php:506
+msgid " MByte"
+msgstr " MB"
+
+#: ../admin/overview.php:519
+msgid "Operating System"
+msgstr "Sistema operatiu"
+
+#: ../admin/overview.php:520
+msgid "Server"
+msgstr "Servidor"
+
+#: ../admin/overview.php:521
+msgid "Memory usage"
+msgstr "Ús de memòria"
+
+#: ../admin/overview.php:522
+msgid "MYSQL Version"
+msgstr "MySQL - Versió"
+
+#: ../admin/overview.php:523
+msgid "SQL Mode"
+msgstr "SQL - Mode"
+
+#: ../admin/overview.php:524
+msgid "PHP Version"
+msgstr "PHP - Versió"
+
+#: ../admin/overview.php:525
+msgid "PHP Safe Mode"
+msgstr "PHP - Mode segur (safe_mode)"
+
+#: ../admin/overview.php:526
+msgid "PHP Allow URL fopen"
+msgstr "PHP - Permet URL fopen"
+
+#: ../admin/overview.php:527
+msgid "PHP Memory Limit"
+msgstr "PHP - Límit memòria"
+
+#: ../admin/overview.php:528
+msgid "PHP Max Upload Size"
+msgstr "PHP - Mida màx. càrrega"
+
+#: ../admin/overview.php:529
+msgid "PHP Max Post Size"
+msgstr "PHP - Mida màx. entrada"
+
+#: ../admin/overview.php:530
+msgid "PCRE Backtracking Limit"
+msgstr "PCRE - Límit backtracking"
+
+#: ../admin/overview.php:531
+msgid "PHP Max Script Execute Time"
+msgstr "PHP - Temps màx. exec. script"
+
+#: ../admin/overview.php:532
+msgid "PHP Exif support"
+msgstr "PHP - Suport EXIF"
+
+#: ../admin/overview.php:533
+msgid "PHP IPTC support"
+msgstr "PHP - Suport IPTC"
+
+#: ../admin/overview.php:534
+msgid "PHP XML support"
+msgstr "PHP - Suport XML"
+
+#: ../admin/overview.php:546
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "El NextGEN Gallery conté característiques que només funcionen amb el PHP 5.2 o superior. Esteu utilitzant la versió 4 de PHP; us recomanem que l'actualitzeu, ja no està mantinguda pel grup de desenvolupament del PHP. Molts proveïdors d'allotjament compartit ofereixen la posibilitat d'executar alhora el PHP 4 i el 5, consulteu amb el vostre si tal cosa és possible."
+
+#: ../admin/overview.php:638
+msgid "Install"
+msgstr "Instal·lar"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Permisos actualitzats"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Rols / Permisos"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the follow capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Seleccioneu quin és el rol més baix que tindrà els permisos següents. El NextGEN Gallery admet els rols estàndard de WordPress."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Per a una gestió d'usuaris més flexible, podeu utilitzar l'extensió"
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "Informació general del NextGEN Gallery"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Ús del botó TinyMCE / Pestanya de càrrega"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Afegir galeria / Carregar imatges"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Gestió de galeries"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Gestionar galeries d'altres"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "Gestionar etiquetes"
+
+#: ../admin/roles.php:59
+msgid "Edit Album"
+msgstr "Editar àlbum"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "Modificar l'estil"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "Modificar configuració"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Actualitzar permisos"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "Imatge rotada"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Error rotant miniatura"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; sentit horari"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; sentit anti-horari"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "Invertir verticalment"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "Invertir horitzontalment"
+
+#: ../admin/settings.php:91
+msgid "Cache cleared"
+msgstr "Memòria cau netejada"
+
+#: ../admin/settings.php:201
+#: ../admin/settings.php:220
+msgid "General Options"
+msgstr "Opcions generals"
+
+#: ../admin/settings.php:202
+#: ../admin/settings.php:400
+msgid "Thumbnails"
+msgstr "Miniatures"
+
+#: ../admin/settings.php:203
+msgid "Images"
+msgstr "Imatges"
+
+#: ../admin/settings.php:205
+#: ../admin/settings.php:452
+msgid "Effects"
+msgstr "Efectes"
+
+#: ../admin/settings.php:206
+#: ../admin/settings.php:494
+#: ../admin/tinymce/window.php:119
+msgid "Watermark"
+msgstr "Marques d'aigua"
+
+#: ../admin/settings.php:207
+#: ../admin/settings.php:401
+#: ../admin/settings.php:601
+#: ../admin/tinymce/window.php:58
+msgid "Slideshow"
+msgstr "Projecció de diapositives"
+
+#: ../admin/settings.php:226
+#: ../admin/wpmu.php:46
+msgid "Gallery path"
+msgstr "Carpeta de la galeria"
+
+#: ../admin/settings.php:228
+msgid "This is the default path for all galleries"
+msgstr "Aquesta és la carpeta per defecte on es desen totes les galeries"
+
+#: ../admin/settings.php:231
+msgid "Delete image files"
+msgstr "Esborrar fitxers d'imatge"
+
+#: ../admin/settings.php:233
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Esborrar els fitxers d'imatge quan s'elimini una galeria de la base de dades"
+
+#: ../admin/settings.php:236
+msgid "Activate permalinks"
+msgstr "Activar enllaços permanents (permalinks)"
+
+#: ../admin/settings.php:238
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Si activeu aquesta opció, caldrà que actualitzeu la vostra estructura de permalinks"
+
+#: ../admin/settings.php:241
+msgid "Select graphic library"
+msgstr "Biblioteca gràfica:"
+
+#: ../admin/settings.php:242
+msgid "GD Library"
+msgstr "Biblioteca GD"
+
+#: ../admin/settings.php:243
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (experimental). Ruta de la biblioteca:"
+
+#: ../admin/settings.php:248
+msgid "Activate Media RSS feed"
+msgstr "Activar agregador RSS Mèdia"
+
+#: ../admin/settings.php:250
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "S'afegirà un agregador RSS a la capçalera del blog. Útil per a CoolIris/PicLens"
+
+#: ../admin/settings.php:253
+msgid "Activate PicLens/CoolIris support"
+msgstr "Activar CoolIris/PicLens"
+
+#: ../admin/settings.php:255
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Si activeu aquesta opció, s'afegirà una mica de Javascript al peu de pàgina. Assegureu-vos que el vostre tema fa una crida a wp_footer"
+
+#: ../admin/settings.php:258
+msgid "Tags / Categories"
+msgstr "Etiquetes / Categories"
+
+#: ../admin/settings.php:261
+msgid "Activate related images"
+msgstr "Activar imatges relacionades"
+
+#: ../admin/settings.php:263
+msgid "This option will append related images to every post"
+msgstr "Aquesta opció afegirà imatges relacionades a cada entrada"
+
+#: ../admin/settings.php:267
+msgid "Match with"
+msgstr "Fer coincidir amb"
+
+#: ../admin/settings.php:268
+msgid "Categories"
+msgstr "Categories"
+
+#: ../admin/settings.php:273
+msgid "Max. number of images"
+msgstr "Nombre màxim d'imatges"
+
+#: ../admin/settings.php:275
+msgid "0 will show all images"
+msgstr "0 mostrarà totes les imatges relacionades"
+
+#: ../admin/settings.php:279
+#: ../admin/settings.php:310
+#: ../admin/settings.php:357
+#: ../admin/settings.php:442
+#: ../admin/settings.php:477
+#: ../admin/settings.php:738
+msgid "More settings"
+msgstr "Més opcions"
+
+#: ../admin/settings.php:289
+msgid "Thumbnail settings"
+msgstr "Opcions de les miniatures"
+
+#: ../admin/settings.php:293
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Nota: Si modifiqueu aquestes opcions, caldrà que torneu a crear els thumbnails a la pàgina de Gestió de galeries"
+
+#: ../admin/settings.php:306
+msgid "Thumbnail quality"
+msgstr "Qualitat de la miniatura"
+
+#: ../admin/settings.php:320
+msgid "Image settings"
+msgstr "Opcions d'imatge"
+
+#: ../admin/settings.php:326
+msgid "Resize Images"
+msgstr "Redimensionar imatges"
+
+#: ../admin/settings.php:331
+msgid "Image quality"
+msgstr "Qualitat d'imatge"
+
+#: ../admin/settings.php:335
+msgid "Backup original images"
+msgstr "Còpia de seguretat dels originals"
+
+#: ../admin/settings.php:337
+msgid "Creates a backup for inserted images"
+msgstr "Crea una còpia de seguretat de les imatges carregades"
+
+#: ../admin/settings.php:340
+msgid "Automatically resize"
+msgstr "Redimensionar automàticament"
+
+#: ../admin/settings.php:342
+msgid "Automatically resize images on upload."
+msgstr "Redimensiona automàticament les imatges quan són carregades"
+
+#: ../admin/settings.php:345
+msgid "Single picture"
+msgstr "Imatge Única"
+
+#: ../admin/settings.php:348
+msgid "Cache single pictures"
+msgstr "Desar en memòria cau"
+
+#: ../admin/settings.php:350
+msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+msgstr "Crea un fitxer per a cada configuració d'imatge única. Redueix la càrrega de la CPU"
+
+#: ../admin/settings.php:353
+msgid "Clear cache folder"
+msgstr "Buidar memòria cau"
+
+#: ../admin/settings.php:354
+msgid "Proceed now"
+msgstr "Buidar ara"
+
+#: ../admin/settings.php:374
+msgid "Deactivate gallery page link"
+msgstr "Desactivar enllaç a una pàgina de galeria"
+
+#: ../admin/settings.php:376
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "L'àlbum no enllaçarà a una subpàgina amb la galeria, sinó que la galeria es mostrarà a la mateixa pàgina."
+
+#: ../admin/settings.php:380
+msgid "Number of images per page"
+msgstr "Nombre d'imatges per pàgina"
+
+#: ../admin/settings.php:382
+msgid "0 will disable pagination, all images on one page"
+msgstr "Si introduïu 0, la paginació es desactivarà, i totes les imatges es mostraran en una pàgina"
+
+#: ../admin/settings.php:386
+msgid "Number of columns"
+msgstr "Nombre de columnes"
+
+#: ../admin/settings.php:388
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "Si introduïu 0, les imatges es repartiran en tantes com sigui possible, en funció de l'amplada del vostre tema."
+
+#: ../admin/settings.php:392
+msgid "Integrate slideshow"
+msgstr "Integrar projecció de diapositives"
+
+#: ../admin/settings.php:399
+msgid "Show first"
+msgstr "Mostrar, en primer lloc:"
+
+#: ../admin/settings.php:405
+msgid "Show ImageBrowser"
+msgstr "Navegador d'imatges"
+
+#: ../admin/settings.php:407
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "La galeria obrirà el navegador d'imatges enlloc d'un efecte"
+
+#: ../admin/settings.php:411
+msgid "Add hidden images"
+msgstr "Afegir imatges ocultes"
+
+#: ../admin/settings.php:413
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increase the page load"
+msgstr "Si useu paginació, amb aquesta opció encara es mostraran totes les imatges de la galeria en la finestra emergent (Thickbox, Lightbox etc.). Nota: El temps de càrrega de la pàgina s'incrementarà."
+
+#: ../admin/settings.php:417
+msgid "Enable AJAX pagination"
+msgstr "Activar paginació AJAX"
+
+#: ../admin/settings.php:419
+msgid "Browse images without reload the page. Note : Work only in combination with Shutter effect"
+msgstr "Navegueu per les imatges sense recarregar la pàgina. Nota: Només funciona amb combinació amb l'efecte Shutter"
+
+#: ../admin/settings.php:423
+msgid "Sort options"
+msgstr "Opcions ordenació"
+
+#: ../admin/settings.php:426
+msgid "Sort thumbnails"
+msgstr "Ordenar miniatures"
+
+#: ../admin/settings.php:428
+msgid "Custom order"
+msgstr "En ordre personalitzat"
+
+#: ../admin/settings.php:430
+msgid "File name"
+msgstr "Per ID d'imatge"
+
+#: ../admin/settings.php:431
+msgid "Alt / Title text"
+msgstr "Pels atributs Alt &amp; Title"
+
+#: ../admin/settings.php:432
+msgid "Date / Time"
+msgstr "Per data i hora"
+
+#: ../admin/settings.php:436
+msgid "Sort direction"
+msgstr "En ordre"
+
+#: ../admin/settings.php:456
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Aquí podeu triar l'efecte usat quan es clica en una miniatura, i el NextGEN integrarà el codi HTML necessari a les imatges. Només els efectes Shutter i Thickbox s'afegeixen automàticament al vostra tema."
+
+#: ../admin/settings.php:457
+msgid "With the placeholder"
+msgstr "Mitjançant la cadena"
+
+#: ../admin/settings.php:457
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "podeu activar la navegació a través de les imatges (en funció de l'efecte escollit). Modifiqueu manualment el codi  de l'enllaç únicament si teniu molt clar el que esteu fent."
+
+#: ../admin/settings.php:460
+msgid "JavaScript Thumbnail effect"
+msgstr "Efecte Javascript"
+
+#: ../admin/settings.php:463
+msgid "None"
+msgstr "Cap"
+
+#: ../admin/settings.php:464
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:465
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:466
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:467
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:468
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: ../admin/settings.php:473
+msgid "Link Code line"
+msgstr "Codi de l'enllaç"
+
+#: ../admin/settings.php:495
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Nota: Les marques d'aigua s'han d'activar a la pàgina de Gestió de galeries. Aquesta acció no es pot desfer."
+
+#: ../admin/settings.php:500
+msgid "Preview"
+msgstr "Previsualització"
+
+#: ../admin/settings.php:502
+#: ../admin/settings.php:507
+msgid "Position"
+msgstr "Posició"
+
+#: ../admin/settings.php:527
+msgid "Offset"
+msgstr "Òfset"
+
+#: ../admin/settings.php:543
+msgid "Use image as watermark"
+msgstr "Utilitzar imatge com a marca d'aigua"
+
+#: ../admin/settings.php:546
+msgid "URL to file"
+msgstr "Adreça URL de la imatge"
+
+#: ../admin/settings.php:548
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "L'accès a fitxers URL (allow_url_fopen) no està activat al vostre servidor"
+
+#: ../admin/settings.php:551
+msgid "Use text as watermark"
+msgstr "Utilitzar text com a marca d'aigua"
+
+#: ../admin/settings.php:554
+msgid "Font"
+msgstr "Font"
+
+#: ../admin/settings.php:563
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Aquesta característica no funcionarà, perquè necessiteu la biblioteca FreeType"
+
+#: ../admin/settings.php:565
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Podeu carregar més fonts a la carpeta <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:570
+msgid "Size"
+msgstr "Mida"
+
+#: ../admin/settings.php:574
+msgid "Color"
+msgstr "Color"
+
+#: ../admin/settings.php:576
+msgid "(hex w/o #)"
+msgstr "(hex. sense #)"
+
+#: ../admin/settings.php:579
+msgid "Text"
+msgstr "Text"
+
+#: ../admin/settings.php:583
+msgid "Opaque"
+msgstr "Opacitat"
+
+#: ../admin/settings.php:604
+msgid "Default size (W x H)"
+msgstr "Mida per defecte (Amplada x Alçada)"
+
+#: ../admin/settings.php:609
+msgid "Duration time"
+msgstr "Duració"
+
+#: ../admin/settings.php:610
+msgid "sec."
+msgstr "segons"
+
+#: ../admin/settings.php:613
+#: ../admin/settings.php:688
+msgid "Transition / Fade effect"
+msgstr "Efecte de transició"
+
+#: ../admin/settings.php:616
+#: ../admin/settings.php:691
+msgid "fade"
+msgstr "fade"
+
+#: ../admin/settings.php:617
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:618
+msgid "cover"
+msgstr "cover"
+
+#: ../admin/settings.php:619
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#: ../admin/settings.php:620
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#: ../admin/settings.php:621
+msgid "shuffle"
+msgstr "shuffle"
+
+#: ../admin/settings.php:622
+msgid "toss"
+msgstr "toss"
+
+#: ../admin/settings.php:623
+msgid "wipe"
+msgstr "wipe"
+
+#: ../admin/settings.php:625
+msgid "See here for more information about the effects :"
+msgstr "Vegeu aquí per a més informació sobre els efectes:"
+
+#: ../admin/settings.php:629
+msgid "Settings for the JW Image Rotator"
+msgstr "Configuració del JW Image Rotator"
+
+#: ../admin/settings.php:630
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Aquestes opcions només s'utilitzen al JW Image Rotator, versió"
+
+#: ../admin/settings.php:631
+msgid "See more information for the Flash Player on the web page"
+msgstr "Trobareu més informació del reproductor Flash a la pàgina"
+
+#: ../admin/settings.php:636
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "L'adreça URL del fitxer imagerotator.swf no està definida. La projecció de diapositives Flash no funcionarà."
+
+#: ../admin/settings.php:637
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Si voleu utilitzar el JW Image Rotatator, baixeu-ne el reproductor <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >aquí</a> i pengeu-lo a la carpeta de càrregues (per defecte: wp-content/uploads)."
+
+#: ../admin/settings.php:643
+msgid "Enable flash slideshow"
+msgstr "Activar projecció de diapositives Flash"
+
+#: ../admin/settings.php:645
+msgid "Integrate the flash based sildeshow for all flash supported devices"
+msgstr "Activar projecció de diapositives Flash en tots els dispositius que admetin Flash"
+
+#: ../admin/settings.php:648
+msgid "Path to the Imagerotator (URL)"
+msgstr "Adreça URL del fitxer Imagerotator"
+
+#: ../admin/settings.php:651
+msgid "Search now"
+msgstr "Cercar ara"
+
+#: ../admin/settings.php:652
+msgid "Press the button to search automatic for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Prem el botó per cercar automàticament el fitxer Imagerotator, en cas que l'hagis penjat a wp-content/uploads o a alguna subcarpeta"
+
+#: ../admin/settings.php:656
+msgid "Shuffle mode"
+msgstr "Mode aleatori"
+
+#: ../admin/settings.php:660
+msgid "Show next image on click"
+msgstr "Passa a la següent imatge en fer clic"
+
+#: ../admin/settings.php:664
+msgid "Show navigation bar"
+msgstr "Mostra la barra de navegació"
+
+#: ../admin/settings.php:668
+msgid "Show loading icon"
+msgstr "Mostra la icona de càrrega"
+
+#: ../admin/settings.php:672
+msgid "Use watermark logo"
+msgstr "Utilitza logo de marca d'aigu"
+
+#: ../admin/settings.php:674
+msgid "You can change the logo at the watermark settings"
+msgstr "Podeu canviar el logotip a la pàgina de configuració de les marques d'aigua"
+
+#: ../admin/settings.php:677
+msgid "Stretch image"
+msgstr "Extensió de la imatge"
+
+#: ../admin/settings.php:680
+msgid "true"
+msgstr "Cert"
+
+#: ../admin/settings.php:681
+msgid "false"
+msgstr "Fals"
+
+#: ../admin/settings.php:682
+msgid "fit"
+msgstr "Ajustat"
+
+#: ../admin/settings.php:683
+msgid "none"
+msgstr "Cap"
+
+#: ../admin/settings.php:692
+msgid "bgfade"
+msgstr "bgfade"
+
+#: ../admin/settings.php:693
+msgid "slowfade"
+msgstr "Esvair lentament"
+
+#: ../admin/settings.php:694
+msgid "circles"
+msgstr "Cercles"
+
+#: ../admin/settings.php:695
+msgid "bubbles"
+msgstr "Bombolles"
+
+#: ../admin/settings.php:696
+msgid "blocks"
+msgstr "Blocs"
+
+#: ../admin/settings.php:697
+msgid "fluids"
+msgstr "Fluids"
+
+#: ../admin/settings.php:698
+msgid "flash"
+msgstr "flash"
+
+#: ../admin/settings.php:699
+msgid "lines"
+msgstr "Línies"
+
+#: ../admin/settings.php:700
+msgid "random"
+msgstr "Aleatori"
+
+#: ../admin/settings.php:705
+msgid "Use slow zooming effect"
+msgstr "Efecte de zoom lent"
+
+#: ../admin/settings.php:709
+msgid "Background Color"
+msgstr "Color de fons"
+
+#: ../admin/settings.php:714
+msgid "Texts / Buttons Color"
+msgstr "Color de text i de botons"
+
+#: ../admin/settings.php:719
+msgid "Rollover / Active Color"
+msgstr "Color de rollover i actiu"
+
+#: ../admin/settings.php:724
+msgid "Screen Color"
+msgstr "Color de pantalla"
+
+#: ../admin/settings.php:729
+msgid "Background music (URL)"
+msgstr "Música de fons (URL)"
+
+#: ../admin/settings.php:733
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Intenta la validació XHTML (amb CDATA)"
+
+#: ../admin/settings.php:735
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Important: Podria donar problemes en alguns navegadors. Comprova que funcioni bé."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Reinicia totes les opcions de configuració als valors per defecte"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Desinstal·lació correcta. Ja pots esborrar l'extensió i gaudir de la vida. Bona sort!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Reinicialitzar opcions"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Reinicia totes les opcions de configuració als valors per defecte."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Reinicialitzar configuració"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Voleu reinicialitzar totes les opcions?\\n"
+"\\n"
+"Premeu acceptar per tal de continuar.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Esborrar les taules de l'extensió de la base de dades"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "No us agrada el NextGEN Gallery?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Cap problema! Però abans de desactivar l'extensió, premeu el botó Desinstal·lar; si no ho feu, la desactivació no esborrarà totes les dades que s'han creat a la base de dades."
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "AVÍS:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "La desinstal·lació de l'extensió i l'esborrat de dades conseqüent no es poden desfer. Utilitzeu una extensió per fer còpies de seguretat de la base de dades abans; les dades del NextGEN gallery s'emmagatzemen a les taules"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "i"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Desinstal·lar"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Esteu a punt de desinstal·lar aquesta extensió del Wordpress\\n"
+"Aquesta acció és irreversible.\\n"
+"\\n"
+"Premeu [Acceptar] per tal de continuar.\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Metadades"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "Valor"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "No s'han desat les metadades"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "Dades EXIF"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "No hi ha dades EXIF"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "Dades IPTC"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "Dades XMP"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(De la carpeta del tema)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "No teniu prous permisos per editar plantilles"
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "Els fitxers CSS s'han actualitzat correctament"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "Editor d'estil"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Activar i utilitzar la fulla d'estils:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Activar"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Esteu editant: <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Explorant <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Versió"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Consell: Copieu la fulla d'estils (nggallery.css) a la carpeta arrel del vostre tema; d'aquesta manera, no es sobreescriurà durant les actualitzacions"
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "El vostre tema ja conté una fulla d'estils de NextGEN Gallery (nggallery.css), que és la que serà usada."
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Un altre consell: Utilitzeu el selector de colors d'aquí sota per a ajudar-vos a trobar la combinació de colors adequada per a la vostra galeria!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Actualitzar fitxer"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Si tinguessiu permisos d'escriptura, podríeu editar aquest fitxer."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "No existeix un fitxer amb aquest nom! Torneu a comprovar el nom i proveu un altre cop,."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "Més populars"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Menys utilitzats"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Alfabètic"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Gestionar etiquetes d'imatge"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Etiquetes existents"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "Cerca etiquetes"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Endavant"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Ordenació"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "Etiquetes prèvies"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "Etiquetes següents"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Reanomenar etiqueta"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Introduïu l'etiqueta que voleu reanomenar i el nom nou. També podeu unir etiquetes. Cliqueu \"Reanomenar\" i totes les entrades que utilitzin aquesta etiqueta seran actualitzades."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Podeu reanomenar múltiples etiquetes separant-les amb comes."
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Etiqueta(es) a reanomenar"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Nom nou de l'etiqueta:"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "Reanomenar"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Esborrar etiqueta"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Introdueix el nom de l'etiqueta a esborrar. L'etiqueta serà esborrada de totes les entrades."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Podeu esborrar múltiples etiquetes separant-les amb comes"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Etiqueta(es) a esborrar:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Editar slug de l'etiqueta"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Introduïu el nom de l'etiqueta que voleu editar i el seu slug nou. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Definició d'slug (en angès)</a>"
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Etiquetes a fer coincidir"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "Slugs per assignar"
+
+#: ../admin/upgrade.php:23
+msgid "Upgrade database structure..."
+msgstr "Actualitzant l'estructura de la base de dades..."
+
+#: ../admin/upgrade.php:101
+#: ../admin/upgrade.php:115
+#: ../admin/upgrade.php:122
+#: ../admin/upgrade.php:133
+#: ../admin/upgrade.php:147
+msgid "finished"
+msgstr "Fet"
+
+#: ../admin/upgrade.php:113
+msgid "Update file structure..."
+msgstr "Actualitzant l'estructura de fitxers..."
+
+#: ../admin/upgrade.php:120
+msgid "Import date and time information..."
+msgstr "Important dades de dates i hores..."
+
+#: ../admin/upgrade.php:128
+msgid "Move imagerotator to new location..."
+msgstr "Movent l'imagerotator a la nova ubicació..."
+
+#: ../admin/upgrade.php:139
+msgid "Update settings..."
+msgstr "Actualitzant la configuració..."
+
+#: ../admin/upgrade.php:153
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "Estructura dels ginys actualitzada. Si utilitzeu ginys del NextGEN, haureu de configurar-los un altre cop..."
+
+#: ../admin/upgrade.php:161
+msgid "Updated options."
+msgstr "Opcions actualitzades."
+
+#: ../admin/upgrade.php:167
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "No s'han pogut trobar les taules del NextGEN Gallery a la base de dades. L'actualització ha fallat."
+
+#: ../admin/upgrade.php:230
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "No ha estat possible canviar el nom d'algunes  de les carpetes i fitxers, comprova els permisos i torna a executar la cerca en la carpeta a la pàgina de Gestió de galeries."
+
+#: ../admin/upgrade.php:232
+msgid "Rename failed"
+msgstr "No s'ha pogut reanomenar"
+
+#: ../admin/upgrade.php:328
+#: ../admin/upgrade.php:347
+msgid "Upgrade NextGEN Gallery"
+msgstr "Actualitzar el NextGEN Gallery"
+
+#: ../admin/upgrade.php:329
+msgid "The script detect that you upgrade from a older version."
+msgstr "El programa ha detectat que esteu actualitzant des d'una versió força antiga."
+
+#: ../admin/upgrade.php:330
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "L'estructura de taules NextGEN de la base de dades és obsoleta, i cal que sigui actualitzada abans de poder continuar."
+
+#: ../admin/upgrade.php:331
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Si creieu que més endavant podeu voler tornar a la versió anterior, feu una còpia de seguretat completa de la base de dades i dels fitxers de les imatges abans de continuar."
+
+#: ../admin/upgrade.php:332
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "El procés d'actualització pot trigar una estona, sigueu pacients."
+
+#: ../admin/upgrade.php:333
+msgid "Start upgrade now"
+msgstr "Començar l'actualització"
+
+#: ../admin/upgrade.php:349
+msgid "Upgrade finished..."
+msgstr "Actualització finalitzada..."
+
+#: ../admin/upgrade.php:350
+msgid "Continue"
+msgstr "Continuar"
+
+#: ../admin/wpmu.php:31
+msgid "Update successfully"
+msgstr "Actualització correcta"
+
+#: ../admin/wpmu.php:40
+msgid "General WordPress MU Settings"
+msgstr "Configuració general Wordpress MU"
+
+#: ../admin/wpmu.php:48
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better. The path must end with a /."
+msgstr "Aquesta és l'adreça per defecte de tots els blogs. Amb la cadena %BLOG_ID% podeu organitzar millor l'estructura de carpetes. L'adreça ha d'acabar amb un /."
+
+#: ../admin/wpmu.php:51
+msgid "Enable upload quota check"
+msgstr "Activar la comprovació de quota de càrregues"
+
+#: ../admin/wpmu.php:53
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Hauria de funcionar si la galeria es troba a la carpeta del blog"
+
+#: ../admin/wpmu.php:57
+msgid "Enable zip upload option"
+msgstr "Permetra càrregues de fitxers zip"
+
+#: ../admin/wpmu.php:59
+msgid "Allow users to upload zip folders."
+msgstr "Permet als usuaris carregar fitxers zip amb carpetes d'imatges"
+
+#: ../admin/wpmu.php:63
+msgid "Enable style selection"
+msgstr "Permetre la selecció d'estil"
+
+#: ../admin/wpmu.php:65
+msgid "Allow users to choose a style for the gallery."
+msgstr "Permet als usuaris escollir un estil per a la galeria."
+
+#: ../admin/wpmu.php:69
+msgid "Enable roles/capabilities"
+msgstr "Activar rols i permisos"
+
+#: ../admin/wpmu.php:71
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Permet als usuaris modificar els rols i permisos d'altres usuaris del blog."
+
+#: ../admin/wpmu.php:75
+msgid "Default style"
+msgstr "Estil per defecte"
+
+#: ../admin/wpmu.php:92
+msgid "Choose the default style for the galleries."
+msgstr "Escolliu l'estil per defecte de les galeries."
+
+#: ../admin/tinymce/window.php:8
+msgid "You are not allowed to be here"
+msgstr "No teniu permisos per estar aquí."
+
+#: ../admin/tinymce/window.php:56
+#: ../admin/tinymce/window.php:84
+msgid "Show as"
+msgstr "Mostra com"
+
+#: ../admin/tinymce/window.php:57
+msgid "Image list"
+msgstr "Llista d'imatges"
+
+#: ../admin/tinymce/window.php:59
+msgid "Imagebrowser"
+msgstr "Navegador d'imatges"
+
+#: ../admin/tinymce/window.php:72
+msgid "No album"
+msgstr "Cap àlbum"
+
+#: ../admin/tinymce/window.php:85
+msgid "Extended version"
+msgstr "Versió ampliada"
+
+#: ../admin/tinymce/window.php:86
+msgid "Compact version"
+msgstr "Versió compacta"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select picture"
+msgstr "Escolliu imatge"
+
+#: ../admin/tinymce/window.php:111
+msgid "Width x Height"
+msgstr "Amplada x Alçada"
+
+#: ../admin/tinymce/window.php:115
+msgid "Effect"
+msgstr "Efecte"
+
+#: ../admin/tinymce/window.php:118
+msgid "No effect"
+msgstr "Cap efecte"
+
+#: ../admin/tinymce/window.php:120
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:125
+msgid "Float"
+msgstr "Flotant"
+
+#: ../admin/tinymce/window.php:128
+msgid "No float"
+msgstr "No flotant"
+
+#: ../admin/tinymce/window.php:129
+msgid "Left"
+msgstr "Esquerra"
+
+#: ../admin/tinymce/window.php:130
+msgid "Center"
+msgstr "Centrat"
+
+#: ../admin/tinymce/window.php:131
+msgid "Right"
+msgstr "Dreta"
+
+#: ../admin/tinymce/window.php:147
+msgid "Insert"
+msgstr "Introduir"
+
+#: ../lib/core.php:379
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Nota: Segons el límit de memòria del vostre servidor, no hauríeu de carregar imatges amb una mida major a <strong>%d x %d</strong> píxels."
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "Adreça URL invàlida"
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "No s'ha pogut crear fitxer temporal."
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " segons"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "Activat"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "No activat"
+
+#: ../lib/meta.php:423
+msgid "Aperture"
+msgstr "Obertura"
+
+#: ../lib/meta.php:424
+#: ../lib/meta.php:449
+msgid "Credit"
+msgstr "Crèdit"
+
+#: ../lib/meta.php:425
+msgid "Camera"
+msgstr "Càmera"
+
+#: ../lib/meta.php:426
+msgid "Caption"
+msgstr "Peu d'imatge"
+
+#: ../lib/meta.php:428
+msgid "Copyright"
+msgstr "Drets d'autor"
+
+#: ../lib/meta.php:429
+msgid "Focal length"
+msgstr "Distància focal"
+
+#: ../lib/meta.php:430
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:431
+msgid "Shutter speed"
+msgstr "Velocitat d'obturació"
+
+#: ../lib/meta.php:435
+msgid "Subject"
+msgstr "Tema"
+
+#: ../lib/meta.php:436
+msgid "Make"
+msgstr "Marca"
+
+#: ../lib/meta.php:437
+msgid "Edit Status"
+msgstr "Editar estat"
+
+#: ../lib/meta.php:438
+msgid "Category"
+msgstr "Categoria"
+
+#: ../lib/meta.php:439
+msgid "Keywords"
+msgstr "Paraules clau"
+
+#: ../lib/meta.php:440
+msgid "Date Created"
+msgstr "Data de creació"
+
+#: ../lib/meta.php:441
+msgid "Time Created"
+msgstr "Hora de creació"
+
+#: ../lib/meta.php:442
+msgid "Author Position"
+msgstr "Ubicació de l'autor"
+
+#: ../lib/meta.php:443
+msgid "City"
+msgstr "Ciutat"
+
+#: ../lib/meta.php:444
+msgid "Location"
+msgstr "Lloc"
+
+#: ../lib/meta.php:445
+msgid "Province/State"
+msgstr "Província / Estat"
+
+#: ../lib/meta.php:446
+msgid "Country code"
+msgstr "Codi de País"
+
+#: ../lib/meta.php:447
+msgid "Country"
+msgstr "País"
+
+#: ../lib/meta.php:448
+msgid "Headline"
+msgstr "Titular"
+
+#: ../lib/meta.php:450
+msgid "Source"
+msgstr "Font"
+
+#: ../lib/meta.php:451
+msgid "Copyright Notice"
+msgstr "Drets d'autor"
+
+#: ../lib/meta.php:452
+msgid "Contact"
+msgstr "Contacte"
+
+#: ../lib/meta.php:453
+msgid "Last modified"
+msgstr "Modificat per darrera vegada"
+
+#: ../lib/meta.php:454
+msgid "Program tool"
+msgstr "Eina"
+
+#: ../lib/meta.php:455
+msgid "Format"
+msgstr "Format"
+
+#: ../lib/meta.php:456
+msgid "Image Width"
+msgstr "Amplada d'imatge"
+
+#: ../lib/meta.php:457
+msgid "Image Height"
+msgstr "Alçada d'imatge"
+
+#: ../lib/meta.php:458
+msgid "Flash"
+msgstr "Flash"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Heu utilitzat tot l'espai que teniu assignat. Si voleu penjar més fitxers, esborreu-ne primer d'altres"
+
+#: ../lib/ngg-db.php:321
+#: ../lib/ngg-db.php:322
+msgid "Album overview"
+msgstr "Informació general d'àlbum"
+
+#: ../lib/shortcodes.php:298
+msgid "[Pictures not found]"
+msgstr "[No s'han trobat imatges]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "No s'ha especificat cap etiqueta nova!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "No s'ha especificat cap etiqueta (nova o antiga) vàlida!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Cap etiqueta reanomenada"
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "S'han reanomenat la(es) etiqueta(es) &laquo;%1$s&raquo; a &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Cap etiqueta nova vàlida."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "No s'han trobat elements (entrades o pàgines) amb les etiquetes antigues especificades."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "No s'ha unit cap tag."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Unides les etiquetes &laquo;%1$s&raquo; amb &laquo;%2$s&raquo;. %3$s elements editats."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Error. No hi ha prou etiquetes per reanomenar, i n'hi ha masses per a unir. Escolliu!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "No s'ha especificat cap etiqueta!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "No s'ha esborrat cap etiqueta."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s etiqueta(es) esborrades."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "No s'han especificat slugs nous!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "El nombre d'etiquetes no coincideix amb el d'slugs!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "No s'ha editat cap slug."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s slug(s) editats."
+
+#: ../lib/xmlrpc.php:55
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "Els serveis XML-RPC estan inhabilitats en aquest blog. Un usuari amb permisos d'administrador els pot habilitar a %s"
+
+#: ../lib/xmlrpc.php:62
+msgid "Bad login/pass combination."
+msgstr "Combinació de nom d'usuari i contrasenya incorrecta"
+
+#: ../lib/xmlrpc.php:118
+msgid "You are not allowed to upload files to this site."
+msgstr "No teniu permisos per a penjar fitxers en aquest lloc web."
+
+#: ../lib/xmlrpc.php:124
+#: ../lib/xmlrpc.php:309
+msgid "Could not find gallery "
+msgstr "No s'ha pogut trobar la galeria "
+
+#: ../lib/xmlrpc.php:129
+#: ../lib/xmlrpc.php:314
+msgid "You are not allowed to upload files to this gallery."
+msgstr "No teniu permisos per a penjar fitxers en aquesta galeria."
+
+#: ../lib/xmlrpc.php:141
+msgid "This is no valid image file."
+msgstr "El fitxer no és un fitxer d'imatge vàlid."
+
+#: ../lib/xmlrpc.php:153
+msgid "Could not find image id "
+msgstr "No s'ha pogut trobar l'ID de la imatge"
+
+#: ../lib/xmlrpc.php:160
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "No s'ha pogut esborrar la imatge %1$s"
+
+#: ../lib/xmlrpc.php:169
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "No s'ha pogut escriure el fitxer %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:236
+#: ../lib/xmlrpc.php:272
+msgid "Sorry, you must be able to manage galleries to view the list of galleries"
+msgstr "Necessiteu tenir permisos de Gestió de galeries per a poder veure la llista de galeries"
+
+#: ../lib/xmlrpc.php:242
+msgid "Sorry, could not create the gallery"
+msgstr "No s'ha pogut crear la galeria"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "Fotos"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery-fuchs.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Veure amb PicLens]"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser-fuchs.php:26
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Enrera"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser-fuchs.php:29
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Següent"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser-fuchs.php:31
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "de"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metadades"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Càmera / Tipus"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Distància focal"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Giny del NextGEN Gallery que mostra enllaços RSS Mèdia."
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "RSS Mèdia del NextGEN"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "Rss Mèdia"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Enllaç a l'agregador de la imatge principal"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "Títol:"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Mostrar icona RSS Mèdia"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Mostrar enllaç RSS Mèdia"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Text de l'enllaç RSS Mèdia:"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Text tooltip de l'enllaç RSS Mèdia"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Mostra una projecció de diapositives NextGEN"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "Projecció de diapositives NextGEN"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "Per veure la projecció de diapositives necessiteu obtenir <a href=\"http://www.macromedia.com/go/getflashplayer\">un reproductor Flash</a>"
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Títol:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Seleccioneu una galeria:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Totes les imatges"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Alçada:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Amplada:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Mostra imatges recents o aleatòries de les galeries NextGEN"
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "Giny del NextGEN"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "Mostra:"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "Imatges originals"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "Afegides recentment"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Activar IE8 Web Slices"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Amplada x Alçada"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "Seleccionar:"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Totes les galeries"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Només aquelles no llistades avall"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Només les llistades avall"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "ID Galeries"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "IDs de les galeries, separades per comes."
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Encara no s'ha creat cap galeria."
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "La ID de galeria %s no existeix."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "No s'ha indicat cap ID d'àlbum com a paràmetre"
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "La ID d'àlbum %s no existeix."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Ordre RSS Mèdia invàlida"
+

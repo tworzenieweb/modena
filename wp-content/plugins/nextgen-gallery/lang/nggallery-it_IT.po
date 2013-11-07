@@ -1,0 +1,3774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NextGEN Gallery in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-23 18:02+0100\n"
+"PO-Revision-Date: 2011-11-30 21:34+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao[at]gmail[dot]com>\n"
+"Language-Team: Gianni Diurno | gidibao.net & charmingpress.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../nggallery.php:100
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\">See here</a>"
+msgstr "<strong>Traduzione a cura di : </strong><a target=\"_blank\" href=\"http://gidibao.net/\">Gianni Diurno</a>"
+
+#: ../nggallery.php:101
+msgid "<strong>This translation is not yet updated for Version 1.9.0</strong>. If you would like to help with translation, download the current po from the plugin folder and read <a href=\"http://alexrabe.de/wordpress-plugins/wordtube/translation-of-plugins/\">here</a> how you can translate the plugin."
+msgstr "<strong>Questa traduzione non é stata ancora aggiornata alla Versione 1.9.0</strong>. Vai alla pagina per il <a href=\"http://gidibao.net/index.php/2009/07/13/nextgen-gallery-in-italiano/\">download</a> del file di localizzazione oppure leggi il <a href=\"http://gidibao.net/index.php/2008/02/05/nextgen-gallery/\">tutorial</a> sul come utilizzare il plugin."
+
+#: ../nggallery.php:205
+msgid "Sorry, NextGEN Gallery works only with a Memory Limit of 16 MB or higher"
+msgstr "NextGEN Gallery funziona solamente con un Limite di Memoria di 16 MB o superiore"
+
+#: ../nggallery.php:225
+msgid "Please update the database of NextGEN Gallery."
+msgstr "Aggiorna il database di NextGEN Gallery."
+
+#: ../nggallery.php:225
+msgid "Click here to proceed."
+msgstr "Clicca qui per procedere."
+
+#: ../nggallery.php:248
+msgid "Picture tag"
+msgstr "Tag immagine"
+
+#: ../nggallery.php:249
+msgid "Picture tag: %2$l."
+msgstr "Tag immagine: %2$l."
+
+#: ../nggallery.php:250
+msgid "Separate picture tags with commas."
+msgstr "Separa i tag immagine con delle virgole."
+
+#: ../nggallery.php:357
+#: ../admin/admin.php:256
+msgid "L O A D I N G"
+msgstr "C A R I C A M E N T O"
+
+#: ../nggallery.php:358
+#: ../admin/admin.php:257
+msgid "Click to Close"
+msgstr "Clicca per chiudere"
+
+#: ../nggallery.php:379
+msgid "loading"
+msgstr "caricamento"
+
+#: ../nggallery.php:517
+#: ../nggfunctions.php:941
+#: ../admin/admin.php:37
+#: ../admin/admin.php:79
+msgid "Overview"
+msgstr "Panoramica"
+
+#: ../nggallery.php:518
+msgid "Get help"
+msgstr "Supporto"
+
+#: ../nggallery.php:519
+msgid "Contribute"
+msgstr "Contributi"
+
+#: ../nggallery.php:520
+msgid "Donate"
+msgstr "Donazioni"
+
+#: ../nggfunctions.php:42
+msgid "The <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> and <a href=\"http://www.mozilla.com/firefox/\">a browser with Javascript support</a> are needed."
+msgstr "E' necessario il <a href=\"http://www.macromedia.com/go/getflashplayer\">Flash Player</a> ed un <a href=\"http://www.mozilla.com/firefox/\">browser con supporto JavaScript</a>."
+
+#: ../nggfunctions.php:164
+#: ../nggfunctions.php:642
+msgid "[Gallery not found]"
+msgstr "[Galleria non trovata]"
+
+#: ../nggfunctions.php:450
+msgid "[Album not found]"
+msgstr "[Album non trovato]"
+
+#: ../nggfunctions.php:771
+msgid "[SinglePic not found]"
+msgstr "[Immagine singola non trovata]"
+
+#: ../nggfunctions.php:906
+msgid "Related images for"
+msgstr "Immagini correlate per"
+
+#: ../admin/about.php:10
+msgid "Copyright notes / Credits"
+msgstr "Note Copyright / Crediti"
+
+#: ../admin/about.php:13
+msgid "NextGEN DEV Team"
+msgstr "Team sviluppo di NextGEN"
+
+#: ../admin/about.php:15
+msgid "This plugin is primarily developed, maintained, supported, documented by"
+msgstr "Questo plugin é stato fondamentalmente sviluppato da"
+
+#: ../admin/about.php:15
+msgid "There are many other folks who have made contributions to this project :"
+msgstr "Elenco delle molte altre persone che hanno contribuito alla crescita di questo progetto:"
+
+#: ../admin/about.php:20
+msgid "Contributors / Tribute to"
+msgstr "Un grazie a:"
+
+#: ../admin/about.php:22
+msgid "If you study the code of this plugin, you will find out that we mixed a lot of good already existing code and ideas together."
+msgstr "Analizzando il codice di questo plugin, sarà possibile notare come sia stata amalgamata una grande quantità di ottimo codice già esistente con delle nuove idee interessanti."
+
+#: ../admin/about.php:23
+msgid "So, we would like to thank the following people for their pioneer work (without this work it's impossible to create such a plugin so fast)"
+msgstr "Quindi, é il momento di ringraziare le seguenti persone (senza il loro contributo, non sarebbe stato impossibile creare un plugin di questo tipo in così poco tempo)"
+
+#: ../admin/about.php:25
+msgid "for their great documented code"
+msgstr "per la realizzazione del loro meraviglioso codice"
+
+#: ../admin/about.php:26
+msgid "for jQuery, which is the best Web2.0 framework"
+msgstr "per il jQuery: il migliore framework Web 2.0"
+
+#: ../admin/about.php:27
+msgid "for the fantastic PHP Thumbnail Class"
+msgstr "per la fantastica PHP Thumbnail Class"
+
+#: ../admin/about.php:28
+msgid "for a lot of very useful plugins and ideas"
+msgstr "per i suoi numerosi plugin e idee molto utili"
+
+#: ../admin/about.php:29
+msgid "for Shutter Reloaded, a real lightweight image effect"
+msgstr "per il Shutter Reloaded: un effetto immagine particolarmente leggero"
+
+#: ../admin/about.php:30
+msgid "for the best Media Flash Scripts on earth"
+msgstr "per i migliori script Media Flash del mondo"
+
+#: ../admin/about.php:31
+msgid "for the Gallery Icon"
+msgstr "per la icona della galleria"
+
+#: ../admin/about.php:32
+msgid "for the Watermark plugin"
+msgstr "per il plugin Watermark"
+
+#: ../admin/about.php:34
+msgid "If you didn't find your name on this list and there is some code which I integrate in my plugin, don't hesitate to send me a mail."
+msgstr "Non esitare ad inviarmi una email qualora non avessi trovato il tuo nome in questo elenco pur avendo contribuito alla realizzazione del mio plugin."
+
+#: ../admin/about.php:38
+msgid "How to support ?"
+msgstr "Desideri contribuire?"
+
+#: ../admin/about.php:40
+msgid "There exist several ways to contribute, help or support us in this work. Non of them are mandatory."
+msgstr "Esistono diversi modi per partecipare, aiutare o sostenere lo sviluppo di questo progetto sebbene nessuno di essi sia obbligatorio."
+
+#: ../admin/about.php:42
+msgid "Send us bugfixes / code changes"
+msgstr "Segnalazione gli errori / modifiche al codice"
+
+#: ../admin/about.php:42
+msgid "The most motivated support for this plugin are your ideas and brain work"
+msgstr "Il migliore supporto per questo plugin sono le tue idee"
+
+#: ../admin/about.php:43
+msgid "Translate the plugin"
+msgstr "Tradurre il plugin"
+
+#: ../admin/about.php:43
+msgid "To help people to work with this plugin, I would like to have it in all available languages"
+msgstr "Avrei piacere che questo plugin venisse tradotto in tutte le lingue disponibili in modo tale che ogni utente possa lavorare al meglio"
+
+#: ../admin/about.php:44
+msgid "Donate the work via paypal"
+msgstr "Effettuare una donazione via PayPal"
+
+#: ../admin/about.php:57
+msgid "No doubt a very useful and easy motivation :-)"
+msgstr "Senza dubbio questa é una motivazione tanto semplice quanto decisamente utile :-)"
+
+#: ../admin/about.php:59
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr "Inserire un link al plugin nel tuo blog/pagina web"
+
+#: ../admin/about.php:59
+msgid "Yes, share and trackback is also a good support for this work "
+msgstr "Si, anche la condivisione ed il trackback sono buoni metodi per sostenere questo lavoro"
+
+#: ../admin/about.php:64
+msgid "Thanks!"
+msgstr "Grazie!"
+
+#: ../admin/about.php:66
+msgid "We would like to thank this people which support us in the work :"
+msgstr "Un ringraziamento a tutte queste persone per il supporto allo sviluppo del plugin:"
+
+#: ../admin/about.php:166
+msgid "and all donators..."
+msgstr "e tutti i donatori..."
+
+#: ../admin/addgallery.php:46
+#: ../admin/addgallery.php:57
+#: ../admin/addgallery.php:69
+#: ../admin/addgallery.php:80
+#: ../admin/album.php:96
+#: ../admin/album.php:124
+#: ../admin/album.php:142
+#: ../admin/edit-thumbnail.php:19
+#: ../admin/edit-thumbnail.php:22
+#: ../admin/manage.php:186
+msgid "Cheatin&#8217; uh?"
+msgstr "Problemi, uh?"
+
+#: ../admin/addgallery.php:62
+msgid "Upload failed!"
+msgstr "Caricamento fallito!"
+
+#: ../admin/addgallery.php:85
+#: ../admin/addgallery.php:93
+msgid "Upload failed! "
+msgstr "Upload non riuscito!"
+
+#: ../admin/addgallery.php:90
+#: ../admin/functions.php:943
+#: ../admin/functions.php:1043
+msgid "No gallery selected !"
+msgstr "Nessuna galleria é stata selezionata!"
+
+#: ../admin/addgallery.php:180
+#: ../admin/addgallery.php:263
+msgid "Image Files"
+msgstr "File immagine"
+
+#: ../admin/addgallery.php:195
+#: ../admin/addgallery.php:284
+#: ../admin/addgallery.php:312
+msgid "remove"
+msgstr "rimuovi"
+
+#: ../admin/addgallery.php:196
+#: ../admin/addgallery.php:285
+#: ../admin/addgallery.php:466
+msgid "Browse..."
+msgstr "Sfoglia..."
+
+#: ../admin/addgallery.php:197
+#: ../admin/addgallery.php:235
+#: ../admin/addgallery.php:286
+#: ../admin/addgallery.php:298
+#: ../admin/addgallery.php:537
+msgid "Upload images"
+msgstr "Carica immagini"
+
+#: ../admin/addgallery.php:376
+#: ../admin/addgallery.php:484
+msgid "Upload Images"
+msgstr "Carica immagini"
+
+#: ../admin/addgallery.php:379
+#: ../admin/addgallery.php:396
+#: ../admin/manage-galleries.php:119
+#: ../admin/manage-galleries.php:156
+msgid "Add new gallery"
+msgstr "Aggiungi una nuova galleria"
+
+#: ../admin/addgallery.php:382
+#: ../admin/addgallery.php:418
+msgid "Upload a Zip-File"
+msgstr "Carica un file ZIP"
+
+#: ../admin/addgallery.php:385
+#: ../admin/addgallery.php:460
+msgid "Import image folder"
+msgstr "Importa cartella immagini"
+
+#: ../admin/addgallery.php:401
+#: ../admin/manage-galleries.php:279
+msgid "New Gallery"
+msgstr "Nuova galleria"
+
+#: ../admin/addgallery.php:404
+#: ../admin/manage-galleries.php:281
+msgid "Create a new , empty gallery below the folder"
+msgstr "Crea una nuova galleria vuota sotto la cartella"
+
+#: ../admin/addgallery.php:406
+#: ../admin/manage-galleries.php:283
+msgid "Allowed characters for file and folder names are"
+msgstr "I caratteri consentiti per il nome dei file e delle cartelle sono"
+
+#: ../admin/addgallery.php:410
+msgid "Add gallery"
+msgstr "Aggiungi una galleria"
+
+#: ../admin/addgallery.php:423
+msgid "Select Zip-File"
+msgstr "Seleziona un file ZIP"
+
+#: ../admin/addgallery.php:425
+msgid "Upload a zip file with images"
+msgstr "Carica il file ZIP con le immagini"
+
+#: ../admin/addgallery.php:429
+msgid "or enter a Zip-File URL"
+msgstr "oppure inserisci l'URL di un file Zip"
+
+#: ../admin/addgallery.php:431
+msgid "Import a zip file with images from a url"
+msgstr "Importa da un url il file ZIP con le immagini"
+
+#: ../admin/addgallery.php:435
+#: ../admin/addgallery.php:512
+msgid "in to"
+msgstr "in"
+
+#: ../admin/addgallery.php:437
+msgid "a new gallery"
+msgstr "una nuova galleria"
+
+#: ../admin/addgallery.php:448
+msgid "Note : The upload limit on your server is "
+msgstr "Nota: il limite di caricamento per il tuo server é di "
+
+#: ../admin/addgallery.php:452
+msgid "Start upload"
+msgstr "Avvia il caricamento"
+
+#: ../admin/addgallery.php:465
+msgid "Import from Server path:"
+msgstr "Importa da percorso server:"
+
+#: ../admin/addgallery.php:468
+msgid "Note : Change the default path in the gallery settings"
+msgstr "Nota: cambia il persorso predefinito nelle impostazioni della galleria"
+
+#: ../admin/addgallery.php:470
+msgid " Please note : For safe-mode = ON you need to add the subfolder thumbs manually"
+msgstr " Attenzione: con il safe-mode = ON (attivo) dovrai necessariamente aggiungere manualmente la sotto-cartella per le miniature"
+
+#: ../admin/addgallery.php:473
+msgid "Import folder"
+msgstr "Importa una cartella"
+
+#: ../admin/addgallery.php:490
+msgid "Upload image"
+msgstr "Carica una immagine"
+
+#: ../admin/addgallery.php:495
+msgid "Choose files to upload"
+msgstr "Scegli il file da caricare"
+
+#: ../admin/addgallery.php:496
+msgid "Select Files"
+msgstr "Selezione file"
+
+#: ../admin/addgallery.php:498
+msgid "Or you can drop the files into this window."
+msgstr "Oppure puoi trascinare i file dentro a questa finestra."
+
+#: ../admin/addgallery.php:501
+#, php-format
+msgid "Scale images to max width %1$dpx or max height %2$dpx"
+msgstr "Scala le immagini a larghezza max di %1$dpx oppure altezza max a %2$dpx"
+
+#: ../admin/addgallery.php:514
+msgid "Choose gallery"
+msgstr "Seleziona una galleria"
+
+#: ../admin/addgallery.php:533
+msgid "The batch upload requires Adobe Flash 10, disable it if you have problems"
+msgstr "Il caricamento sequenziale richiede Adobe Flash 10, disabilitalo qualora riscontrassi dei problemi"
+
+#: ../admin/addgallery.php:533
+msgid "Disable flash upload"
+msgstr "Disattiva caricamento Flash"
+
+#: ../admin/addgallery.php:535
+msgid "Upload multiple files at once by ctrl/shift-selecting in dialog"
+msgstr "Carica file multipli in una volta sola tenendo premuto Ctrl/Shift selezionando le immagini nella finestra di dialogo con il mouse"
+
+#: ../admin/addgallery.php:535
+msgid "Enable flash based upload"
+msgstr "Attiva caricamento a base Flash"
+
+#: ../admin/admin.php:36
+#: ../admin/admin.php:59
+#: ../admin/admin.php:78
+#: ../admin/admin.php:352
+#: ../admin/admin.php:444
+#: ../admin/functions.php:178
+#: ../admin/manage-galleries.php:127
+#: ../admin/manage-galleries.php:407
+#: ../admin/manage-images.php:239
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galleria"
+msgstr[1] "Gallerie"
+
+#: ../admin/admin.php:38
+#: ../admin/admin.php:81
+msgid "Add Gallery / Images"
+msgstr "Aggiungi galleria / Immagini"
+
+#: ../admin/admin.php:39
+#: ../admin/admin.php:83
+msgid "Manage Gallery"
+msgstr "Gestione galleria"
+
+#: ../admin/admin.php:40
+#: ../admin/admin.php:85
+msgid "Album"
+msgid_plural "Albums"
+msgstr[0] "Album"
+msgstr[1] "Album"
+
+#: ../admin/admin.php:41
+#: ../admin/admin.php:87
+msgid "Tags"
+msgstr "Tag"
+
+#: ../admin/admin.php:42
+#: ../admin/admin.php:89
+msgid "Options"
+msgstr "Opzioni"
+
+#: ../admin/admin.php:44
+#: ../admin/admin.php:91
+msgid "Style"
+msgstr "Stile"
+
+#: ../admin/admin.php:46
+msgid "Roles"
+msgstr "Ruoli"
+
+#: ../admin/admin.php:47
+msgid "About this Gallery"
+msgstr "Info galleria"
+
+#: ../admin/admin.php:47
+#: ../admin/admin.php:92
+msgid "About"
+msgstr "Riconoscimenti"
+
+#: ../admin/admin.php:50
+#: ../admin/admin.php:61
+msgid "Reset / Uninstall"
+msgstr "Ripristina / Disinstalla"
+
+#: ../admin/admin.php:60
+msgid "Network settings"
+msgstr "Impostazioni network"
+
+#: ../admin/admin.php:131
+#, php-format
+msgid "Thanks for using this plugin, I hope you are satisfied ! If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Grazie per l'utilizzo di questo plugin che spero sia di tuo gradimento ! Qualora volessi contribuire alllo sviluppo di questo programma, potresti effettuare una <strong><a href=\"%s\">donazione</a></strong>! In caso di necessità per un suppporto tecnico, poni <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">qui</a> le tue richieste ."
+
+#: ../admin/admin.php:134
+msgid "OK, hide this message now !"
+msgstr "OK, adesso puoi nascondere questo messaggio !"
+
+#: ../admin/admin.php:213
+msgid "You do not have the correct permission"
+msgstr "Non hai i permessi corretti"
+
+#: ../admin/admin.php:214
+msgid "Unexpected Error"
+msgstr "Errore inatteso"
+
+#: ../admin/admin.php:215
+msgid "A failure occurred"
+msgstr "Si é verificato un errore"
+
+#: ../admin/admin.php:219
+msgid "You have attempted to queue too many files."
+msgstr "Troppi file in coda."
+
+#: ../admin/admin.php:220
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Questo file supera la dimensione consentita per il caricamento dei file."
+
+#: ../admin/admin.php:221
+msgid "This file is empty. Please try another."
+msgstr "Questo file è vuoto. Prova con un altro."
+
+#: ../admin/admin.php:222
+msgid "This file type is not allowed. Please try another."
+msgstr "Questa tipologia di file non è consentita. Prova con un altro file."
+
+#: ../admin/admin.php:223
+msgid "This file is not an image. Please try another."
+msgstr "Questo non è un file immagine. Prova con un altro file."
+
+#: ../admin/admin.php:224
+msgid "Memory exceeded. Please try another smaller file."
+msgstr "Limitazione memoria. Prova con un file più piccolo."
+
+#: ../admin/admin.php:225
+msgid "This is larger than the maximum size. Please try another."
+msgstr "Il file supera la dimensione massima consentita. Riprova con un altro file."
+
+#: ../admin/admin.php:226
+msgid "An error occurred in the upload. Please try again later."
+msgstr "Si è verificato un errore durante il caricamento. Riprova più tardi."
+
+#: ../admin/admin.php:227
+msgid "There was a configuration error. Please contact the server administrator."
+msgstr "Si è verificato un errore di configurazione. Contatta amministratore del server."
+
+#: ../admin/admin.php:228
+msgid "You may only upload 1 file."
+msgstr "Puoi caricare un solo file alla volta."
+
+#: ../admin/admin.php:229
+msgid "HTTP error."
+msgstr "errore HTTP."
+
+#: ../admin/admin.php:230
+msgid "Upload failed."
+msgstr "Caricamento fallito!"
+
+#: ../admin/admin.php:231
+msgid "IO error."
+msgstr "errore IO."
+
+#: ../admin/admin.php:232
+msgid "Security error."
+msgstr "errore sicurezza."
+
+#: ../admin/admin.php:233
+msgid "File canceled."
+msgstr "Il file è stato cancellato."
+
+#: ../admin/admin.php:234
+msgid "Upload stopped."
+msgstr "Caricamento arrestato."
+
+#: ../admin/admin.php:235
+msgid "Dismiss"
+msgstr "Scarta"
+
+#: ../admin/admin.php:236
+msgid "Crunching&hellip;"
+msgstr "Crunching&hellip;"
+
+#: ../admin/admin.php:237
+msgid "moved to the trash."
+msgstr "spostato nel cestino."
+
+#: ../admin/admin.php:238
+#, php-format
+msgid "&#8220;%s&#8221; has failed to upload due to an error"
+msgstr "&#8220;%s&#8221; caricamento fallito dovuto ad un errore"
+
+#: ../admin/admin.php:356
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduction</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Introduzione</a>"
+
+#: ../admin/admin.php:359
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Setup</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Impostazioni</a>"
+
+#: ../admin/admin.php:362
+msgid "<a href=\"http://alexrabe.de/wordpress-plugins/nextgen-gallery/languages/\" target=\"_blank\">Translation by alex rabe</a>"
+msgstr "<a href=\"http://gidibao.net/\" target=\"_blank\">Traduzione a cura di Gianni Diurno</a>"
+
+#: ../admin/admin.php:365
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Roles / Capabilities</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Ruoli / Permessi</a>"
+
+#: ../admin/admin.php:368
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Styles</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Stili</a>"
+
+#: ../admin/admin.php:369
+msgid "Templates"
+msgstr "Template"
+
+#: ../admin/admin.php:372
+#: ../admin/admin.php:378
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gestione galleria</a>"
+
+#: ../admin/admin.php:373
+msgid "Gallery example"
+msgstr "Esempio galleria"
+
+#: ../admin/admin.php:379
+#: ../admin/admin.php:389
+msgid "Gallery tags"
+msgstr "Tag galleria"
+
+#: ../admin/admin.php:382
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Album management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gestione album</a>"
+
+#: ../admin/admin.php:383
+msgid "Album example"
+msgstr "Esempio album"
+
+#: ../admin/admin.php:384
+#: ../admin/admin.php:390
+msgid "Album tags"
+msgstr "Tag album"
+
+#: ../admin/admin.php:387
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Gallery tags</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-introduction/\" target=\"_blank\">Tag galleria</a>"
+
+#: ../admin/admin.php:388
+msgid "Related images"
+msgstr "Immagini correlate"
+
+#: ../admin/admin.php:393
+msgid "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Image management</a>"
+msgstr "<a href=\"http://dpotter.net/Technical/2008/03/nextgen-gallery-review-image-management/\" target=\"_blank\">Gestione immagine</a>"
+
+#: ../admin/admin.php:394
+msgid "Custom fields"
+msgstr "Campi personalizzati"
+
+#: ../admin/admin.php:399
+msgid "Get help with NextGEN Gallery"
+msgstr "Ricevi un aiuto su NextGEN Gallery"
+
+#: ../admin/admin.php:403
+msgid "More Help & Info"
+msgstr "Ulteriore aiuto ed informazioni"
+
+#: ../admin/admin.php:405
+msgid "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\" target=\"_blank\">Forum di supporto</a>"
+
+#: ../admin/admin.php:406
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../admin/admin.php:407
+msgid "Feature request"
+msgstr "Richiedi funzione"
+
+#: ../admin/admin.php:408
+msgid "Get your language pack"
+msgstr "Ottieni il tuo pacchetto lingua"
+
+#: ../admin/admin.php:409
+msgid "Contribute development"
+msgstr "Contribuisci allo sviluppo"
+
+#: ../admin/admin.php:410
+msgid "Download latest version"
+msgstr "Scarica l'ultima versione"
+
+#: ../admin/ajax.php:312
+msgid "You are not allowed to be here"
+msgstr "Non hai il permesso di stare qui"
+
+#: ../admin/ajax.php:410
+#, php-format
+msgid "Could create image with %s x %s pixel"
+msgstr "Impossibile creare immagine con %s x %s pixel"
+
+#: ../admin/album.php:102
+#: ../admin/album.php:117
+#: ../admin/album.php:158
+msgid "Update Successfully"
+msgstr "Aggiornato con successo"
+
+#: ../admin/album.php:131
+msgid "Album deleted"
+msgstr "Album cancellato"
+
+#: ../admin/album.php:269
+msgid "Edit Album"
+msgstr "Modifica album"
+
+#: ../admin/album.php:278
+msgid "Manage Albums"
+msgstr "Gestione album"
+
+#: ../admin/album.php:284
+#: ../admin/album.php:333
+msgid "Select album"
+msgstr "Seleziona album"
+
+#: ../admin/album.php:286
+msgid "No album selected"
+msgstr "Nessun album é stato selezionato"
+
+#: ../admin/album.php:297
+#: ../admin/edit-thumbnail.php:155
+msgid "Update"
+msgstr "Aggiorna"
+
+#: ../admin/album.php:299
+msgid "Edit album"
+msgstr "Modifica album"
+
+#: ../admin/album.php:302
+#: ../admin/manage-galleries.php:146
+#: ../admin/manage-images.php:448
+msgid "Delete"
+msgstr "Cancella"
+
+#: ../admin/album.php:306
+msgid "Add new album"
+msgstr "Aggiungi un nuovo album"
+
+#: ../admin/album.php:308
+msgid "Add"
+msgstr "Aggiungi"
+
+#: ../admin/album.php:319
+msgid "Show / hide used galleries"
+msgstr "Visualizza/nascondi le gallerie utilizzate"
+
+#: ../admin/album.php:319
+msgid "[Show all]"
+msgstr "[Mostra tutto]"
+
+#: ../admin/album.php:320
+msgid "Maximize the widget content"
+msgstr "Ingrandisci il contenuto del widget"
+
+#: ../admin/album.php:320
+msgid "[Maximize]"
+msgstr "[Ingrandisci]"
+
+#: ../admin/album.php:321
+msgid "Minimize the widget content"
+msgstr "Riduci il contenuto del widget"
+
+#: ../admin/album.php:321
+msgid "[Minimize]"
+msgstr "[Minimizza]"
+
+#: ../admin/album.php:323
+msgid "After you create and select a album, you can drag and drop a gallery or another album into your new album below"
+msgstr "Dopo avere creato e selezionato un album potrai trascinare e rilasciare una galleria oppure un album all'interno del nuovo album qui sotto"
+
+#: ../admin/album.php:349
+msgid "Select gallery"
+msgstr "Seleziona una galleria"
+
+#: ../admin/album.php:378
+msgid "Album ID"
+msgstr "ID album"
+
+#: ../admin/album.php:391
+msgid "No album selected!"
+msgstr "Nessun album é stato selezionato!"
+
+#: ../admin/album.php:411
+msgid "Album name:"
+msgstr "Nome album:"
+
+#: ../admin/album.php:417
+msgid "Album description:"
+msgstr "Descrizione album:"
+
+#: ../admin/album.php:423
+msgid "Select a preview image:"
+msgstr "Seleziona una immagine per l'anteprima:"
+
+#: ../admin/album.php:426
+#: ../admin/album.php:429
+msgid "No picture"
+msgstr "Nessuna immagine"
+
+#: ../admin/album.php:440
+#: ../admin/manage-images.php:257
+msgid "Page Link to"
+msgstr "Collega alla pagina"
+
+#: ../admin/album.php:442
+#: ../admin/manage-images.php:260
+msgid "Not linked"
+msgstr "Non collegata"
+
+#: ../admin/album.php:455
+#: ../admin/manage-galleries.php:288
+#: ../admin/manage-galleries.php:317
+#: ../admin/manage-galleries.php:347
+#: ../admin/manage-images.php:533
+#: ../admin/manage-images.php:569
+#: ../admin/manage-images.php:598
+#: ../admin/manage-images.php:628
+msgid "OK"
+msgstr "OK"
+
+#: ../admin/album.php:457
+#: ../admin/manage-galleries.php:290
+#: ../admin/manage-galleries.php:319
+#: ../admin/manage-galleries.php:349
+#: ../admin/manage-images.php:535
+#: ../admin/manage-images.php:571
+#: ../admin/manage-images.php:600
+#: ../admin/manage-images.php:630
+msgid "Cancel"
+msgstr "Cancella"
+
+#: ../admin/album.php:543
+msgid "Name"
+msgstr "Nome"
+
+#: ../admin/album.php:544
+#: ../admin/manage-images.php:255
+msgid "Title"
+msgstr "Titolo"
+
+#: ../admin/album.php:545
+msgid "Page"
+msgstr "Pagina"
+
+#: ../admin/edit-thumbnail.php:105
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Seleziona con il mouse l'area per la nuova miniatura"
+
+#: ../admin/edit-thumbnail.php:119
+msgid "Thumbnail updated"
+msgstr "La miniatura é stata aggiornata"
+
+#: ../admin/edit-thumbnail.php:124
+msgid "Error updating thumbnail"
+msgstr "Si é verificato un errore durante il caricamento della miniatura"
+
+#: ../admin/edit-thumbnail.php:140
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Seleziona l'area per la miniatura dalla immagine alla tua sinistra."
+
+#: ../admin/functions.php:39
+msgid "No valid gallery name!"
+msgstr "Nome della galleria non valido!"
+
+#: ../admin/functions.php:46
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+#: ../admin/functions.php:149
+#: ../admin/functions.php:157
+msgid "Directory"
+msgstr "Cartella"
+
+#: ../admin/functions.php:46
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "non esiste. Crea per prima cosa la cartella principale della galleria"
+
+#: ../admin/functions.php:47
+#: ../admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Vai a questo link se non sapessi come impostare i permessi:"
+
+#: ../admin/functions.php:55
+#: ../admin/functions.php:80
+msgid "is not writeable !"
+msgstr "non é scrivibile!"
+
+#: ../admin/functions.php:76
+#: ../admin/functions.php:85
+#: ../admin/functions.php:902
+msgid "Unable to create directory "
+msgstr "Impossibile creare la cartella"
+
+#: ../admin/functions.php:89
+msgid "The server setting Safe-Mode is on !"
+msgstr "Il Safe Mode su questo server é; attivo!"
+
+#: ../admin/functions.php:90
+msgid "If you have problems, please create directory"
+msgstr "In caso di problemi, crea la cartella manualmente"
+
+#: ../admin/functions.php:91
+msgid "and the thumbnails directory"
+msgstr "e la cartella delle miniature"
+
+#: ../admin/functions.php:91
+msgid "with permission 777 manually !"
+msgstr "con permessi a 777!"
+
+#: ../admin/functions.php:116
+#, php-format
+msgid "Gallery ID %1$s successfully created. You can show this gallery in your post or page with the shortcode %2$s.<br/>"
+msgstr "ID galleria %1$s creata con successo. Potrai mostrare questa galleria negli articoli/pagine via shortcode %2$s.<br/>"
+
+#: ../admin/functions.php:119
+#: ../admin/functions.php:217
+msgid "Edit gallery"
+msgstr "Modifica galleria"
+
+#: ../admin/functions.php:149
+msgid "doesn&#96;t exist!"
+msgstr "non esiste!"
+
+#: ../admin/functions.php:157
+msgid "contains no pictures"
+msgstr "non contiene immagini"
+
+#: ../admin/functions.php:175
+msgid "Database error. Could not add gallery!"
+msgstr "Errore del database. Impossibile aggiungere la galleria!"
+
+#: ../admin/functions.php:178
+msgid "successfully created!"
+msgstr "creata con successo!"
+
+#: ../admin/functions.php:212
+#: ../admin/functions.php:1019
+#: ../admin/manage-galleries.php:81
+#: ../admin/manage-galleries.php:148
+#: ../admin/manage-images.php:203
+#: ../admin/manage-images.php:342
+#: ../admin/manage.php:223
+#: ../admin/manage.php:299
+msgid "Create new thumbnails"
+msgstr "Crea nuove miniature"
+
+#: ../admin/functions.php:215
+msgid " picture(s) successfully added"
+msgstr " immagine(i) aggiunta(e) con successo"
+
+#: ../admin/functions.php:270
+#: ../admin/functions.php:350
+#: ../admin/functions.php:405
+#: ../admin/functions.php:502
+#: ../admin/functions.php:556
+msgid "Object didn't contain correct data"
+msgstr "L'oggetto non contiene dati corretti"
+
+#: ../admin/functions.php:278
+msgid " is not writeable "
+msgstr " non é scrivibile "
+
+#: ../admin/functions.php:360
+#: ../admin/functions.php:408
+#: ../admin/functions.php:508
+#: ../admin/functions.php:559
+msgid " is not writeable"
+msgstr " non é scrivibile "
+
+#: ../admin/functions.php:562
+msgid "File do not exists"
+msgstr "File inesistente"
+
+#: ../admin/functions.php:566
+msgid "Couldn't restore original image"
+msgstr "Impossibile recuperare l'immagine originale"
+
+#: ../admin/functions.php:682
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Errore : non é stato possibile aggiornare il database)"
+
+#: ../admin/functions.php:689
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Errore : non é stato possibile aggiornare i metadati)"
+
+#: ../admin/functions.php:698
+msgid "(Error : Couldn't not find image)"
+msgstr "(Errore : non é stato possibile trovare l'immagine)"
+
+#: ../admin/functions.php:836
+msgid "No valid URL path "
+msgstr "Nessun percorso URL valido"
+
+#: ../admin/functions.php:852
+msgid "Import via cURL failed."
+msgstr "Importazione via cURL fallita."
+
+#: ../admin/functions.php:869
+msgid "Uploaded file was no or a faulty zip file ! The server recognized : "
+msgstr "Il file caricato non é zip oppure é un zip corrotto ! Il server risponde : "
+
+#: ../admin/functions.php:886
+msgid "Could not get a valid foldername"
+msgstr "Impossibile ottenere un nome cartella valido"
+
+#: ../admin/functions.php:897
+#, php-format
+msgid "Unable to create directory %s. Is its parent directory writable by the server?"
+msgstr "Impossibile creare la cartella %s. La sua cartella madre é scrivibile dal server?"
+
+#: ../admin/functions.php:912
+msgid "Zip-File successfully unpacked"
+msgstr "File ZIP scompattato con successo"
+
+#: ../admin/functions.php:951
+#: ../admin/functions.php:1068
+msgid "Failure in database, no gallery path set !"
+msgstr "Errore nel database, nessun percorso galleria impostato!"
+
+#: ../admin/functions.php:975
+#: ../admin/functions.php:1062
+msgid "is no valid image file!"
+msgstr "non é un file immagine valido!"
+
+#: ../admin/functions.php:989
+#: ../admin/functions.php:1187
+#: ../admin/functions.php:1264
+#, php-format
+msgid "Unable to write to directory %s. Is this directory writable by the server?"
+msgstr "Impossibile scrivere nella cartella %s. La sua cartella madre é scrivibile dal server?"
+
+#: ../admin/functions.php:996
+#: ../admin/functions.php:1085
+msgid "Error, the file could not be moved to : "
+msgstr "Errore: il file caricato non può essere spostato sotto :"
+
+#: ../admin/functions.php:1001
+#: ../admin/functions.php:1089
+msgid "Error, the file permissions could not be set"
+msgstr "Errore: i permessi del file non possono essere impostati"
+
+#: ../admin/functions.php:1024
+msgid " Image(s) successfully added"
+msgstr " Immagine(i) aggiunta(e) con successo"
+
+#: ../admin/functions.php:1051
+msgid "Invalid upload. Error Code : "
+msgstr "Caricamento non valido. Codice errore: "
+
+#: ../admin/functions.php:1127
+#, php-format
+msgid "SAFE MODE Restriction in effect! You need to create the folder <strong>%s</strong> manually"
+msgstr "Restrizione SAFE MODE attiva! Devi creare manualmente la cartella <strong>%s</strong>"
+
+#: ../admin/functions.php:1128
+#, php-format
+msgid "When safe_mode is on, PHP checks to see if the owner (%s) of the current script matches the owner (%s) of the file to be operated on by a file function or its directory"
+msgstr "Quando il safe_mode é impostato su attivo, il PHP controlla se il proprietario (%s) dello script in uso corrisponda con il proprietario (%s) del file per processare una funzione oppure la sua cartella"
+
+#: ../admin/functions.php:1181
+#: ../admin/functions.php:1258
+msgid "The destination gallery does not exist"
+msgstr "La galleria di destinazione non esiste"
+
+#: ../admin/functions.php:1212
+#, php-format
+msgid "Failed to move image %1$s to %2$s"
+msgstr "Non é stato possibile spostare l'immagine %1$s in %2$s"
+
+#: ../admin/functions.php:1232
+#, php-format
+msgid "Moved %1$s picture(s) to gallery : %2$s ."
+msgstr "Spostata(e) %1$s immagine(i) nella galleria: %2$s ."
+
+#: ../admin/functions.php:1291
+#, php-format
+msgid "Failed to copy image %1$s to %2$s"
+msgstr "Non é stato possibile copiare l'immagine %1$s in %2$s"
+
+#: ../admin/functions.php:1305
+#, php-format
+msgid "Failed to copy database row for picture %s"
+msgstr "Impossibile copiare la riga del database per limmagine %s"
+
+#: ../admin/functions.php:1317
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s) &raquo; The file already existed in the destination gallery."
+msgstr "Immagine %1$s (%2$s) copiata come immagine %3$s (%4$s) &raquo; Il file già esiste nella galleria di destinazione."
+
+#: ../admin/functions.php:1320
+#, php-format
+msgid "Image %1$s (%2$s) copied as image %3$s (%4$s)"
+msgstr "Immagine %1$s (%2$s) copiata come immagine %3$s (%4$s)"
+
+#: ../admin/functions.php:1329
+#, php-format
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Copiata(e) %1$s immagine(i) nella galleria: %2$s ."
+
+#: ../admin/functions.php:1437
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "La dimensione del file caricato eccede la direttiva upload_max_filesize in php.ini"
+
+#: ../admin/functions.php:1440
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "La dimensione del file caricato eccede la direttiva MAX_FILE_SIZE specificata nel modulo HTML"
+
+#: ../admin/functions.php:1443
+msgid "The uploaded file was only partially uploaded"
+msgstr "Il caricamento del file é avvenuto in modo parziale"
+
+#: ../admin/functions.php:1446
+msgid "No file was uploaded"
+msgstr "Nessun file é stato caricato"
+
+#: ../admin/functions.php:1449
+msgid "Missing a temporary folder"
+msgstr "Manca una cartella per i file temporanei"
+
+#: ../admin/functions.php:1452
+msgid "Failed to write file to disk"
+msgstr "Impossibile scrivere il file"
+
+#: ../admin/functions.php:1455
+msgid "File upload stopped by extension"
+msgstr "Il caricamento del file é stato fermato a causa della sua estensione"
+
+#: ../admin/functions.php:1458
+msgid "Unknown upload error"
+msgstr "upload: errore sconosciuto!!!"
+
+#: ../admin/install.php:23
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "NextGEN Gallery funziona solo con il ruolo di amministratore"
+
+#: ../admin/install.php:112
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery: le tabelle non possono essere create, controlla le impostazioni del tuo database"
+
+#: ../admin/install.php:170
+msgid "[Show as slideshow]"
+msgstr "[Mostra come presentazione]"
+
+#: ../admin/install.php:171
+msgid "[Show picture list]"
+msgstr "[Mostra elenco immagini]"
+
+#: ../admin/manage-galleries.php:69
+#: ../admin/manage-images.php:171
+msgid "No images selected"
+msgstr "Nessuna immagine selezionata"
+
+#: ../admin/manage-galleries.php:77
+#: ../admin/manage-galleries.php:149
+#: ../admin/manage-images.php:199
+#: ../admin/manage-images.php:343
+#: ../admin/manage.php:207
+#: ../admin/manage.php:285
+msgid "Resize images"
+msgstr "Ridimensiona immagini"
+
+#: ../admin/manage-galleries.php:86
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Stai per avviare la modifica di massa per %s gallerie \n"
+"\n"
+"'Cancella' per annullare, 'OK' per procedere."
+
+#: ../admin/manage-galleries.php:130
+#: ../admin/manage-galleries.php:133
+#: ../admin/manage-images.php:225
+#: ../admin/manage-images.php:228
+msgid "Search Images"
+msgstr "Ricerca immagini"
+
+#: ../admin/manage-galleries.php:145
+#: ../admin/manage-images.php:340
+msgid "Bulk actions"
+msgstr "Azione di massa"
+
+#: ../admin/manage-galleries.php:147
+#: ../admin/manage-images.php:341
+#: ../admin/manage.php:140
+#: ../admin/manage.php:249
+msgid "Set watermark"
+msgstr "Imposta filigrana"
+
+#: ../admin/manage-galleries.php:150
+#: ../admin/manage-images.php:346
+#: ../admin/manage.php:145
+#: ../admin/manage.php:269
+msgid "Import metadata"
+msgstr "Importa metadati"
+
+#: ../admin/manage-galleries.php:151
+#: ../admin/manage-images.php:344
+#: ../admin/manage.php:135
+#: ../admin/manage.php:246
+msgid "Recover from backup"
+msgstr "Recupera dal database"
+
+#: ../admin/manage-galleries.php:153
+#: ../admin/manage-images.php:355
+msgid "Apply"
+msgstr "Applica"
+
+#: ../admin/manage-galleries.php:220
+msgid "Edit"
+msgstr "Modifica"
+
+#: ../admin/manage-galleries.php:261
+#: ../admin/manage-images.php:506
+msgid "No entries found"
+msgstr "Nessuna voce é stata trovata"
+
+#: ../admin/manage-galleries.php:308
+#: ../admin/manage-images.php:589
+msgid "Resize Images to"
+msgstr "Ridimensiona le immagini a"
+
+#: ../admin/manage-galleries.php:312
+#: ../admin/manage-images.php:593
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Larghezza x Altezza (in pixel). NextGEN Gallery manterrà il rapporto tra le due dimensioni"
+
+#: ../admin/manage-galleries.php:336
+#: ../admin/manage-images.php:617
+msgid "Width x height (in pixel)"
+msgstr "Larghezza x Altezza (px)"
+
+#: ../admin/manage-galleries.php:338
+#: ../admin/manage-images.php:619
+msgid "These values are maximum values "
+msgstr "da considerare come valori massimi "
+
+#: ../admin/manage-galleries.php:341
+#: ../admin/manage-images.php:622
+msgid "Set fix dimension"
+msgstr "Imposta dimensione fissa"
+
+#: ../admin/manage-galleries.php:343
+#: ../admin/manage-images.php:624
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignora il rapporto d'aspetto, nessuna miniatura in formato ritratto"
+
+#: ../admin/manage-galleries.php:406
+#: ../admin/manage-images.php:694
+msgid "ID"
+msgstr "ID"
+
+#: ../admin/manage-galleries.php:408
+#: ../admin/manage-images.php:266
+#: ../admin/manage-images.php:697
+msgid "Description"
+msgstr "Descrizione"
+
+#: ../admin/manage-galleries.php:409
+#: ../admin/manage-images.php:295
+msgid "Author"
+msgstr "Autore"
+
+#: ../admin/manage-galleries.php:410
+msgid "Page ID"
+msgstr "ID pagina"
+
+#: ../admin/manage-galleries.php:411
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Immagine"
+msgstr[1] "Immagini"
+
+#: ../admin/manage-images.php:34
+msgid "Gallery not found."
+msgstr "La galleria non é stata trovata."
+
+#: ../admin/manage-images.php:40
+msgid "Sorry, you have no access here"
+msgstr "Non puoi accedere"
+
+#: ../admin/manage-images.php:179
+msgid "Copy image to..."
+msgstr "Copia l'immagine sotto..."
+
+#: ../admin/manage-images.php:183
+msgid "Move image to..."
+msgstr "Sposta l'immagine sotto..."
+
+#: ../admin/manage-images.php:187
+msgid "Add new tags"
+msgstr "Aggiungi nuovi tag"
+
+#: ../admin/manage-images.php:191
+#: ../admin/manage-images.php:352
+msgid "Delete tags"
+msgstr "Elimina tag"
+
+#: ../admin/manage-images.php:195
+msgid "Overwrite"
+msgstr "Sovrascrivi"
+
+#: ../admin/manage-images.php:208
+#, php-format
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Stai per avviare la modifica di massa per %s immagine(i) \n"
+"\n"
+"'Cancella' per annullare, 'OK' per procedere."
+
+#: ../admin/manage-images.php:222
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Risultati della ricerca per &#8220;%s&#8221;"
+
+#: ../admin/manage-images.php:251
+msgid "Gallery settings"
+msgstr "Impostazioni galleria"
+
+#: ../admin/manage-images.php:251
+msgid "Click here for more settings"
+msgstr "Clicca qui per avere più opzioni"
+
+#: ../admin/manage-images.php:268
+msgid "Preview image"
+msgstr "Anteprima immagine"
+
+#: ../admin/manage-images.php:271
+msgid "No Picture"
+msgstr "Nessuna immagine"
+
+#: ../admin/manage-images.php:293
+msgid "Path"
+msgstr "Percorso"
+
+#: ../admin/manage-images.php:310
+msgid "Create new page"
+msgstr "Crea una nuova pagina"
+
+#: ../admin/manage-images.php:313
+msgid "Main page (No parent)"
+msgstr "Pagina principale (no madre)"
+
+#: ../admin/manage-images.php:316
+msgid "Add page"
+msgstr "Aggiungi pagina"
+
+#: ../admin/manage-images.php:325
+msgid "Scan Folder for new images"
+msgstr "Scansiona cartella per nuove immagini"
+
+#: ../admin/manage-images.php:326
+#: ../admin/manage-images.php:361
+#: ../admin/manage-images.php:513
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: ../admin/manage-images.php:345
+msgid "Delete images"
+msgstr "Cancella immagini"
+
+#: ../admin/manage-images.php:347
+msgid "Rotate images clockwise"
+msgstr "Ruota le immagini in senso orario"
+
+#: ../admin/manage-images.php:348
+msgid "Rotate images counter-clockwise"
+msgstr "Ruota in senso orario il contatore delle immagini"
+
+#: ../admin/manage-images.php:349
+msgid "Copy to..."
+msgstr "Copia su..."
+
+#: ../admin/manage-images.php:350
+msgid "Move to..."
+msgstr "Sposta su..."
+
+#: ../admin/manage-images.php:351
+msgid "Add tags"
+msgstr "Aggiungi tag"
+
+#: ../admin/manage-images.php:353
+msgid "Overwrite tags"
+msgstr "Sovrascrivi tag"
+
+#: ../admin/manage-images.php:358
+msgid "Sort gallery"
+msgstr "Ordina galleria"
+
+#: ../admin/manage-images.php:434
+msgid "pixel"
+msgstr "pixel"
+
+#: ../admin/manage-images.php:440
+#, php-format
+msgid "View \"%s\""
+msgstr "Vedi \"%s\""
+
+#: ../admin/manage-images.php:440
+msgid "View"
+msgstr "Visualizza"
+
+#: ../admin/manage-images.php:441
+msgid "Show Meta data"
+msgstr "Mostra metadati"
+
+#: ../admin/manage-images.php:441
+msgid "Meta"
+msgstr "Meta"
+
+#: ../admin/manage-images.php:442
+msgid "Customize thumbnail"
+msgstr "Personalizza la miniatura"
+
+#: ../admin/manage-images.php:442
+msgid "Edit thumb"
+msgstr "Modifica la miniatura"
+
+#: ../admin/manage-images.php:443
+msgid "Rotate"
+msgstr "Rotazione"
+
+#: ../admin/manage-images.php:445
+msgid "Publish this image"
+msgstr "Pubblica questa immagine"
+
+#: ../admin/manage-images.php:445
+msgid "Publish"
+msgstr "Pubblica"
+
+#: ../admin/manage-images.php:447
+msgid "Recover"
+msgstr "Recupera"
+
+#: ../admin/manage-images.php:447
+#, php-format
+msgid "Recover \"%s\" ?"
+msgstr "Recuperare \"%s\" ?"
+
+#: ../admin/manage-images.php:448
+#, php-format
+msgid "Delete \"%s\" ?"
+msgstr "Cancella \"%s\" ?"
+
+#: ../admin/manage-images.php:529
+msgid "Enter the tags"
+msgstr "Inserisci i tag"
+
+#: ../admin/manage-images.php:553
+msgid "Select the destination gallery:"
+msgstr "Seleziona la galleria di destinazione:"
+
+#: ../admin/manage-images.php:695
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../admin/manage-images.php:696
+#: ../admin/manage-sort.php:77
+msgid "Filename"
+msgstr "Nome del file"
+
+#: ../admin/manage-images.php:697
+msgid "Alt &amp; Title Text"
+msgstr "Testo alt e Titolo"
+
+#: ../admin/manage-images.php:698
+msgid "Tags (comma separated list)"
+msgstr "Tag (separa con virgole)"
+
+#: ../admin/manage-images.php:699
+msgid "exclude"
+msgstr "escludi"
+
+#: ../admin/manage-sort.php:33
+msgid "Sort order changed"
+msgstr "Disposizione ordine cambiato"
+
+#: ../admin/manage-sort.php:62
+msgid "Sort Gallery"
+msgstr "Ordine galleria"
+
+#: ../admin/manage-sort.php:66
+msgid "Update Sort Order"
+msgstr "Aggiorna disposizione ordine"
+
+#: ../admin/manage-sort.php:69
+msgid "Back to gallery"
+msgstr "Ritorna alla galleria"
+
+#: ../admin/manage-sort.php:74
+msgid "Presort"
+msgstr "Ordina per"
+
+#: ../admin/manage-sort.php:75
+msgid "Unsorted"
+msgstr "Senza ordine"
+
+#: ../admin/manage-sort.php:76
+msgid "Image ID"
+msgstr "ID immagine"
+
+#: ../admin/manage-sort.php:78
+msgid "Alt/Title text"
+msgstr "Testo alt/Titolo"
+
+#: ../admin/manage-sort.php:79
+msgid "Date/Time"
+msgstr "Data/Ora"
+
+#: ../admin/manage-sort.php:80
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../admin/manage-sort.php:81
+msgid "Descending"
+msgstr "Discendente"
+
+#: ../admin/manage.php:84
+msgid "Picture"
+msgstr "Immagine"
+
+#: ../admin/manage.php:84
+msgid "deleted successfully"
+msgstr "cancellata con successo"
+
+#: ../admin/manage.php:99
+#: ../admin/manage.php:108
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operazione avvenuta con successo. Pulisci la cache del tuo browser."
+
+#: ../admin/manage.php:175
+msgid "Gallery deleted successfully "
+msgstr "La galleria é stata cancellata con successo"
+
+#: ../admin/manage.php:240
+#: ../admin/manage.php:243
+msgid "Rotate images"
+msgstr "Ruota le immagini"
+
+#: ../admin/manage.php:265
+msgid "Pictures deleted successfully "
+msgstr "Le immagini sono state cancellate con successo"
+
+#: ../admin/manage.php:361
+msgid "Tags changed"
+msgstr "I tag sono stati modificati"
+
+#: ../admin/manage.php:397
+msgid "Update successful"
+msgstr "Aggiornato con successo"
+
+#: ../admin/manage.php:432
+msgid "New gallery page ID"
+msgstr "Nuova ID pagina galleria"
+
+#: ../admin/manage.php:432
+msgid "created"
+msgstr "creata"
+
+#: ../admin/manage.php:468
+msgid "Published a new post"
+msgstr "E' stato pubblicarto un nuovo articolo"
+
+#: ../admin/manage.php:582
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 termine"
+msgstr[1] "%s termini"
+
+#: ../admin/media-upload.php:11
+msgid "NextGEN Gallery"
+msgstr "NextGEN Gallery"
+
+#: ../admin/media-upload.php:166
+msgid "No gallery"
+msgstr "Nessuna galleria"
+
+#: ../admin/media-upload.php:178
+msgid "Select &#187;"
+msgstr "Seleziona &#187;"
+
+#: ../admin/media-upload.php:209
+msgid "Show"
+msgstr "Mostra"
+
+#: ../admin/media-upload.php:210
+msgid "Hide"
+msgstr "Nascondi"
+
+#: ../admin/media-upload.php:215
+msgid "Image ID:"
+msgstr "ID immagine:"
+
+#: ../admin/media-upload.php:229
+#: ../admin/publish.php:55
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: ../admin/media-upload.php:232
+#: ../admin/publish.php:57
+#: ../admin/settings.php:480
+msgid "None"
+msgstr "Nessuno"
+
+#: ../admin/media-upload.php:234
+#: ../admin/publish.php:59
+#: ../admin/tinymce/window.php:120
+msgid "Left"
+msgstr "Sinistra"
+
+#: ../admin/media-upload.php:236
+#: ../admin/publish.php:61
+#: ../admin/tinymce/window.php:121
+msgid "Center"
+msgstr "Centro"
+
+#: ../admin/media-upload.php:238
+#: ../admin/publish.php:63
+#: ../admin/tinymce/window.php:122
+msgid "Right"
+msgstr "Destra"
+
+#: ../admin/media-upload.php:242
+#: ../admin/settings.php:587
+msgid "Size"
+msgstr "Dimensione"
+
+#: ../admin/media-upload.php:248
+msgid "Full size"
+msgstr "Dimensione intera"
+
+#: ../admin/media-upload.php:250
+msgid "Singlepic"
+msgstr "Immagine singola"
+
+#: ../admin/media-upload.php:263
+msgid "Insert into Post"
+msgstr "Inserisci nell'articolo"
+
+#: ../admin/media-upload.php:274
+msgid "Save all changes"
+msgstr "Salva tutte le modifiche"
+
+#: ../admin/overview.php:14
+msgid "NextGEN Gallery Overview"
+msgstr "Panoramica NextGEN Gallery"
+
+#: ../admin/overview.php:86
+msgid "Welcome to NextGEN Gallery !"
+msgstr "Benvenuto in NextGEN Gallery!"
+
+#: ../admin/overview.php:87
+msgid "Do you like this Plugin?"
+msgstr "Ti piace questo plugin?"
+
+#: ../admin/overview.php:89
+msgid "Translation"
+msgstr "Traduzione"
+
+#: ../admin/overview.php:90
+msgid "Latest News"
+msgstr "Ultime notizie"
+
+#: ../admin/overview.php:91
+msgid "Recent donators"
+msgstr "Donazioni recenti"
+
+#: ../admin/overview.php:93
+msgid "Plugin Check"
+msgstr "Verifica plugin"
+
+#: ../admin/overview.php:94
+msgid "Server Settings"
+msgstr "Impostazioni server"
+
+#: ../admin/overview.php:95
+msgid "Related plugins"
+msgstr "Plugin correlati"
+
+#: ../admin/overview.php:101
+#, php-format
+msgid "This plugin is primarily developed, maintained, supported and documented by <a href=\"%s\">Alex Rabe</a> with a lot of love & effort. Any kind of contribution would be highly appreciated. Thanks!"
+msgstr "Questo plugin é stato in gran parte sviluppato, sostenuto, supportato e testato con amore & fatica da <a href=\"%s\">Alex Rabe</a>. Qualsiasi tipo di contributo sarà molto gradito. Grazie!"
+
+#: ../admin/overview.php:106
+msgid "Give it a good rating on WordPress.org."
+msgstr "Vota 5 stelle su WordPress.org."
+
+#: ../admin/overview.php:111
+msgid "Donate the work via paypal."
+msgstr "Effettua una donazione via PayPal"
+
+#: ../admin/overview.php:116
+msgid "Help translating it."
+msgstr "Contribuisci alla traduzione."
+
+#: ../admin/overview.php:252
+msgid "Running..."
+msgstr "in corso..."
+
+#: ../admin/overview.php:299
+msgid "Check plugin/theme conflict"
+msgstr "Verifica plugin/conflitto tema"
+
+#: ../admin/overview.php:300
+#: ../admin/overview.php:306
+#: ../admin/overview.php:312
+msgid "Not tested"
+msgstr "Non testato"
+
+#: ../admin/overview.php:301
+msgid "No conflict could be detected"
+msgstr "Nessun conflitto rilevabile"
+
+#: ../admin/overview.php:302
+msgid "Test failed, disable other plugins & switch to default theme"
+msgstr "Test fallito: disattivare gli altri plugin e attivare il tema di default"
+
+#: ../admin/overview.php:305
+msgid "Test image function"
+msgstr "Test funzione immagine"
+
+#: ../admin/overview.php:307
+msgid "The plugin could create images"
+msgstr "Il plugin potrebbe creare delle immagini "
+
+#: ../admin/overview.php:308
+msgid "Couldn't create image, check your memory limit"
+msgstr "Impossibile creare l'immagine, verificare limite memoria"
+
+#: ../admin/overview.php:311
+msgid "Check theme compatibility"
+msgstr "Verifica compatibilità tema"
+
+#: ../admin/overview.php:313
+msgid "Your theme should work fine with NextGEN Gallery"
+msgstr "NextGEN Gallery dovrebbe funzionare correttamente con il tuo tema"
+
+#: ../admin/overview.php:314
+msgid "wp_head()/wp_footer() is missing, contact the theme author"
+msgstr "wp_head()/wp_footer() assenti, contattare l'autore del tema"
+
+#: ../admin/overview.php:318
+msgid "Check plugin"
+msgstr "Verifica plugin"
+
+#: ../admin/overview.php:339
+msgid "Graphic Library"
+msgstr "Libreria grafica"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "Loading&#8230;"
+msgstr "In carica&#8230;"
+
+#: ../admin/overview.php:355
+#: ../admin/overview.php:404
+#: ../admin/overview.php:591
+#: ../admin/overview.php:781
+msgid "This widget requires JavaScript."
+msgstr "Questo widget necessita del JavaScript."
+
+#: ../admin/overview.php:368
+msgid "Thanks to all donators..."
+msgstr "Grazie a tutti i donatori..."
+
+#: ../admin/overview.php:390
+msgid "View all"
+msgstr "Vedi tutto"
+
+#: ../admin/overview.php:416
+#, php-format
+msgid "Newsfeed could not be loaded.  Check the <a href=\"%s\">front page</a> to check for updates."
+msgstr "Le newsfeed non possono essere caricate. Controlla la <a href=\"%s\">prima pagina</a> per cercare aggiornamenti."
+
+#: ../admin/overview.php:428
+msgid "Untitled"
+msgstr "Senza Titolo"
+
+#: ../admin/overview.php:478
+msgid "At a Glance"
+msgstr "Sommario"
+
+#: ../admin/overview.php:504
+msgid "Upload pictures"
+msgstr "Carica immagini"
+
+#: ../admin/overview.php:505
+msgid "Here you can control your images, galleries and albums."
+msgstr "Qui puoi controllare le tue immagini, gallerie ed album."
+
+#: ../admin/overview.php:535
+msgid "Storage Space"
+msgstr "Spazio totale"
+
+#: ../admin/overview.php:539
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB</a>"
+msgstr "<a href=\"%1$s\" title=\"Gestione Upload\" class=\"musublink\">%2$sMB</a>"
+
+#: ../admin/overview.php:540
+msgid "Space Allowed"
+msgstr "Spazio disponibile"
+
+#: ../admin/overview.php:547
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Manage Uploads\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+msgstr "<a href=\"%1$s\" title=\"Gestione Upload\" class=\"musublink\">%2$sMB (%3$s%%)</a>"
+
+#: ../admin/overview.php:548
+msgid "Space Used"
+msgstr "Spazio utilizzato"
+
+#: ../admin/overview.php:577
+msgid "Translation file successful updated. Please reload page."
+msgstr "Il file di traduzione é stato aggiornato con successo. Ricarica la pagina. Grazie."
+
+#: ../admin/overview.php:579
+msgid "Reload page"
+msgstr "Ricarica pagina"
+
+#: ../admin/overview.php:584
+msgid "Translation file couldn't be updated"
+msgstr "Il file di traduzione non può essere aggiornato"
+
+#: ../admin/overview.php:621
+msgid "Download"
+msgstr "Download"
+
+#: ../admin/overview.php:650
+msgid "No GD support"
+msgstr "GD non supportato"
+
+#: ../admin/overview.php:662
+#: ../admin/overview.php:708
+#: ../admin/overview.php:711
+#: ../admin/overview.php:714
+msgid "Yes"
+msgstr "Sì"
+
+#: ../admin/overview.php:664
+#: ../admin/overview.php:709
+#: ../admin/overview.php:712
+#: ../admin/overview.php:715
+msgid "No"
+msgstr "No"
+
+#: ../admin/overview.php:682
+msgid "Not set"
+msgstr "Non impostato"
+
+#: ../admin/overview.php:684
+#: ../admin/overview.php:687
+msgid "On"
+msgstr "Attivo"
+
+#: ../admin/overview.php:685
+#: ../admin/overview.php:688
+msgid "Off"
+msgstr "Disattivo"
+
+#: ../admin/overview.php:691
+#: ../admin/overview.php:694
+#: ../admin/overview.php:697
+#: ../admin/overview.php:700
+#: ../admin/overview.php:703
+#: ../admin/overview.php:706
+msgid "N/A"
+msgstr "N/D"
+
+#: ../admin/overview.php:705
+msgid " MByte"
+msgstr " MByte"
+
+#: ../admin/overview.php:718
+msgid "Operating System"
+msgstr "Sistema operativo"
+
+#: ../admin/overview.php:719
+msgid "Server"
+msgstr "Server"
+
+#: ../admin/overview.php:720
+msgid "Memory usage"
+msgstr "Utilizzo memoria"
+
+#: ../admin/overview.php:721
+msgid "MYSQL Version"
+msgstr "Versione MYSQL"
+
+#: ../admin/overview.php:722
+msgid "SQL Mode"
+msgstr "Modalità SQL"
+
+#: ../admin/overview.php:723
+msgid "PHP Version"
+msgstr "Versione PHP"
+
+#: ../admin/overview.php:724
+msgid "PHP Safe Mode"
+msgstr "PHP Safe Mode"
+
+#: ../admin/overview.php:725
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: ../admin/overview.php:726
+msgid "PHP Memory Limit"
+msgstr "PHP Limite memoria"
+
+#: ../admin/overview.php:727
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Dimensione Upload"
+
+#: ../admin/overview.php:728
+msgid "PHP Max Post Size"
+msgstr "PHP Max Dimensione Post"
+
+#: ../admin/overview.php:729
+msgid "PCRE Backtracking Limit"
+msgstr "Limite PCRE Backtracking"
+
+#: ../admin/overview.php:730
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Max Tempo Esecuzione Script"
+
+#: ../admin/overview.php:731
+msgid "PHP Exif support"
+msgstr "Supporto EXIF via PHP"
+
+#: ../admin/overview.php:732
+msgid "PHP IPTC support"
+msgstr "Supporto IPTC via PHP"
+
+#: ../admin/overview.php:733
+msgid "PHP XML support"
+msgstr "Supporto XML via PHP"
+
+#: ../admin/overview.php:745
+msgid "NextGEN Gallery contains some functions which are only available under PHP 5.2. You are using the old PHP 4 version, upgrade now! It's no longer supported by the PHP group. Many shared hosting providers offer both PHP 4 and PHP 5, running simultaneously. Ask your provider if they can do this."
+msgstr "Alcune delle funzioni di NextGEN Gallery sono disponibili solamente con PHP 5.2. Qualora stessi utilizzando una vecchia versione sotto PHP 4, ti invito ad effettuare quanto prima un aggiornamento in merito!La maggior parte dei servizi di hosting offrono il funzionamento simultaneo delle versioni PHP 4 e PHP 5. Domanda al tuo provider se fosse in grado di poterlo fare."
+
+#: ../admin/overview.php:841
+msgid "Install"
+msgstr "Installa"
+
+#: ../admin/pointer.php:22
+msgid "<h3>Client side resize</h3><p>You can now resize the images before you start with the upload.</p>"
+msgstr "<h3>Resize lato-utente</h3><p>Potrai da ora ridimensionare le immagini prima di avviare il caricamento.</p>"
+
+#: ../admin/publish.php:45
+msgid "Post title"
+msgstr "Titolo articolo"
+
+#: ../admin/publish.php:47
+msgid "Enter the post title "
+msgstr "Inserisci titolo articolo"
+
+#: ../admin/publish.php:52
+msgid "Size of the image"
+msgstr "Dimensione immagine"
+
+#: ../admin/publish.php:70
+msgid "Draft"
+msgstr "Bozza"
+
+#: ../admin/roles.php:22
+msgid "Updated capabilities"
+msgstr "Permessi aggiornati"
+
+#: ../admin/roles.php:28
+msgid "Roles / capabilities"
+msgstr "Ruoli/Permessi"
+
+#: ../admin/roles.php:29
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Seleziona il ruolo minimo per potere accedere ai seguenti permessi. NextGEN Gallery supporta i ruoli standard di WordPress."
+
+#: ../admin/roles.php:30
+msgid "For a more flexible user management you can use the"
+msgstr "Per una gestione utente più flessibile puoi utilizzare il plugin"
+
+#: ../admin/roles.php:35
+msgid "Main NextGEN Gallery overview"
+msgstr "Panoramica principale NextGEN Gallery"
+
+#: ../admin/roles.php:39
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Utilizzo pulsante TinyMCE/Tab caricamento"
+
+#: ../admin/roles.php:43
+msgid "Add gallery / Upload images"
+msgstr "Aggiungi galleria / Carica immagini"
+
+#: ../admin/roles.php:47
+msgid "Manage gallery"
+msgstr "Gestione galleria"
+
+#: ../admin/roles.php:51
+msgid "Manage others gallery"
+msgstr "Gestione gallerie altrui"
+
+#: ../admin/roles.php:55
+msgid "Manage tags"
+msgstr "Gestione tag"
+
+#: ../admin/roles.php:63
+msgid "Change style"
+msgstr "Cambio stile"
+
+#: ../admin/roles.php:67
+msgid "Change options"
+msgstr "Cambio opzioni"
+
+#: ../admin/roles.php:71
+msgid "Update capabilities"
+msgstr "Aggiorna permessi"
+
+#: ../admin/rotate.php:55
+msgid "Image rotated"
+msgstr "L'immagine é stata ruotata"
+
+#: ../admin/rotate.php:56
+msgid "Error rotating thumbnail"
+msgstr "Si é verificato un errore durante la rotazione della miniatura"
+
+#: ../admin/rotate.php:81
+msgid "90&deg; clockwise"
+msgstr "90&deg; in senso orario"
+
+#: ../admin/rotate.php:82
+msgid "90&deg; anticlockwise"
+msgstr "90&deg; in senso antiorario"
+
+#: ../admin/rotate.php:83
+msgid "Flip vertically"
+msgstr "capovolgi verticalmente"
+
+#: ../admin/rotate.php:84
+msgid "Flip horizontally"
+msgstr "capovolgi orizzontalmente"
+
+#: ../admin/settings.php:97
+msgid "Cache cleared"
+msgstr "La cache é stata svuotata"
+
+#: ../admin/settings.php:217
+#: ../admin/settings.php:236
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: ../admin/settings.php:218
+#: ../admin/settings.php:417
+msgid "Thumbnails"
+msgstr "Miniature"
+
+#: ../admin/settings.php:219
+msgid "Images"
+msgstr "Immagini"
+
+#: ../admin/settings.php:221
+#: ../admin/settings.php:469
+msgid "Effects"
+msgstr "Effetti"
+
+#: ../admin/settings.php:222
+#: ../admin/settings.php:511
+#: ../admin/tinymce/window.php:110
+msgid "Watermark"
+msgstr "Filigrana"
+
+#: ../admin/settings.php:223
+#: ../admin/settings.php:418
+#: ../admin/settings.php:618
+#: ../admin/tinymce/window.php:63
+msgid "Slideshow"
+msgstr "Presentazione"
+
+#: ../admin/settings.php:242
+#: ../admin/wpmu.php:68
+msgid "Gallery path"
+msgstr "Percorso galleria"
+
+#: ../admin/settings.php:244
+msgid "This is the default path for all galleries"
+msgstr "Questo é il percorso predefinito per tutte le gallerie"
+
+#: ../admin/settings.php:247
+msgid "Delete image files"
+msgstr "Cancella i file immagine"
+
+#: ../admin/settings.php:249
+msgid "Delete files, when removing a gallery in the database"
+msgstr "Cancella anche i file quando rimuovi una galleria dal database"
+
+#: ../admin/settings.php:252
+msgid "Activate permalinks"
+msgstr "Attiva permalink"
+
+#: ../admin/settings.php:254
+msgid "When you activate this option, you need to update your permalink structure one time."
+msgstr "Una volta attivata questa opzione sarà necessario aggiornare la struttura dei tuoi permalink (una tantum)."
+
+#: ../admin/settings.php:255
+msgid "Gallery slug name :"
+msgstr "Nome slug galleria :"
+
+#: ../admin/settings.php:259
+msgid "Create new URL friendly image slugs"
+msgstr "Crea dei nuovi slug come URL friendly image"
+
+#: ../admin/settings.php:260
+#: ../admin/settings.php:371
+msgid "Proceed now"
+msgstr "Procedi"
+
+#: ../admin/settings.php:263
+msgid "Select graphic library"
+msgstr "Seleziona libreria grafica"
+
+#: ../admin/settings.php:264
+msgid "GD Library"
+msgstr "Libreria GD"
+
+#: ../admin/settings.php:265
+msgid "ImageMagick (Experimental). Path to the library :"
+msgstr "ImageMagick (sperimentale). Percorso alla libreria:"
+
+#: ../admin/settings.php:270
+msgid "Activate Media RSS feed"
+msgstr "Attiva i feed RSS per le immagini"
+
+#: ../admin/settings.php:272
+msgid "A RSS feed will be added to you blog header. Useful for CoolIris/PicLens"
+msgstr "Un feed RSS verrà aggiunto alla header del tuo blog. Funzione utile qualore venisse utilizzato Coollris/Piclens"
+
+#: ../admin/settings.php:275
+msgid "Activate PicLens/CoolIris support"
+msgstr "Attiva supporto PicLens/CoolIris"
+
+#: ../admin/settings.php:277
+msgid "When you activate this option, some javascript is added to your site footer. Make sure that wp_footer is called in your theme."
+msgstr "Attivando questa opzione alcuni JavaScript verranno aggiunti nel footer del sito. Assicurati di avere la funzione wp_footer nel tuo tema."
+
+#: ../admin/settings.php:280
+msgid "Tags / Categories"
+msgstr "Tag / Categorie"
+
+#: ../admin/settings.php:283
+msgid "Activate related images"
+msgstr "Attiva immagini correlate"
+
+#: ../admin/settings.php:285
+msgid "This option will append related images to every post"
+msgstr "Questa opzione aggiungerà ad ogni articolo le immagini correlate"
+
+#: ../admin/settings.php:289
+msgid "Match with"
+msgstr "Abbina alle/ai"
+
+#: ../admin/settings.php:290
+msgid "Categories"
+msgstr "Categorie"
+
+#: ../admin/settings.php:295
+msgid "Max. number of images"
+msgstr "Numero massimo di immagini"
+
+#: ../admin/settings.php:297
+msgid "0 will show all images"
+msgstr "0 visualizzerà tutte le immagini"
+
+#: ../admin/settings.php:301
+#: ../admin/settings.php:332
+#: ../admin/settings.php:374
+#: ../admin/settings.php:459
+#: ../admin/settings.php:494
+#: ../admin/settings.php:755
+msgid "More settings"
+msgstr "Ulteriori impostazioni"
+
+#: ../admin/settings.php:311
+msgid "Thumbnail settings"
+msgstr "Impostazioni miniatura"
+
+#: ../admin/settings.php:315
+msgid "Please note : If you change the settings, you need to recreate the thumbnails under -> Manage Gallery ."
+msgstr "Nota: qualora modificassi queste impostazioni, sarà necessario ricreare le miniature sotto -> Gestione galleria."
+
+#: ../admin/settings.php:328
+msgid "Thumbnail quality"
+msgstr "Qualità della miniatura"
+
+#: ../admin/settings.php:342
+msgid "Image settings"
+msgstr "Impostazioni immagine"
+
+#: ../admin/settings.php:348
+msgid "Resize Images"
+msgstr "Ridimensiona immagini"
+
+#: ../admin/settings.php:353
+msgid "Image quality"
+msgstr "Qualità immagine"
+
+#: ../admin/settings.php:357
+msgid "Backup original images"
+msgstr "Backup immagini originali"
+
+#: ../admin/settings.php:359
+msgid "Creates a backup for inserted images"
+msgstr "Crea un backup per le immagini inserite"
+
+#: ../admin/settings.php:362
+msgid "Automatically resize"
+msgstr "Ridimensiona automaticamente"
+
+#: ../admin/settings.php:364
+msgid "Automatically resize images on upload."
+msgstr "Ridimensiona le immagini in automatico al momento del caricamento."
+
+#: ../admin/settings.php:367
+msgid "Single picture"
+msgstr "Immagine singola"
+
+#: ../admin/settings.php:370
+msgid "Clear cache folder"
+msgstr "Svuota cartella cache"
+
+#: ../admin/settings.php:391
+msgid "Deactivate gallery page link"
+msgstr "Disattiva link alla pagina della galleria"
+
+#: ../admin/settings.php:393
+msgid "The album will not link to a gallery subpage. The gallery is shown on the same page."
+msgstr "L'album non sarà collegato alla sotto-pagina di una galleria. La galleria verrà mostrata nella stessa pagina."
+
+#: ../admin/settings.php:397
+msgid "Number of images per page"
+msgstr "Numero di immagini per pagina"
+
+#: ../admin/settings.php:399
+msgid "0 will disable pagination, all images on one page"
+msgstr "0 per disattivare l'impaginazione: tutte le immagini in una sola pagina"
+
+#: ../admin/settings.php:403
+msgid "Number of columns"
+msgstr "Numero di colonne"
+
+#: ../admin/settings.php:405
+msgid "0 will display as much as possible based on the width of your theme. Setting normally only required for captions below the images"
+msgstr "0 mostrerà nel limite del possibile un adattamento alla larghezza del tuo tema. Le impostazione normali richiedono solo una didascalia sotto le immagini"
+
+#: ../admin/settings.php:409
+msgid "Integrate slideshow"
+msgstr "Integrazione presentazione"
+
+#: ../admin/settings.php:416
+msgid "Show first"
+msgstr "Mostra prima"
+
+#: ../admin/settings.php:422
+msgid "Show ImageBrowser"
+msgstr "Mostra ImageBrowser"
+
+#: ../admin/settings.php:424
+msgid "The gallery will open the ImageBrowser instead the effect."
+msgstr "Galleria in modalità navigazione immagine (nessun effetto)."
+
+#: ../admin/settings.php:428
+msgid "Add hidden images"
+msgstr "Aggiungi immagini nascoste"
+
+#: ../admin/settings.php:430
+msgid "If pagination is used, this option will still show all images in the modal window (Thickbox, Lightbox etc.). Note : This increases the page load"
+msgstr "Qualora stessi facendo uso della impaginazione, questa opzione mostrerà tutte le immagini in modalità finestra (Thickbox, Lightbox etc.). Nota : questa funzione richiederà un maggior tempo per il caricamento della pagina"
+
+#: ../admin/settings.php:434
+msgid "Enable AJAX pagination"
+msgstr "Attiva impaginazione AJAX"
+
+#: ../admin/settings.php:436
+msgid "Browse images without reload the page. Note : Works only in combination with Shutter effect"
+msgstr "Sfoglia le immagini senza ricaricare la pagina. Nota : funziona solamente con l'effetto Shutter"
+
+#: ../admin/settings.php:440
+msgid "Sort options"
+msgstr "Disposizione"
+
+#: ../admin/settings.php:443
+msgid "Sort thumbnails"
+msgstr "Ordina miniature per"
+
+#: ../admin/settings.php:445
+msgid "Custom order"
+msgstr "Ordine personalizzato"
+
+#: ../admin/settings.php:447
+msgid "File name"
+msgstr "Nome file"
+
+#: ../admin/settings.php:448
+msgid "Alt / Title text"
+msgstr "Testo alt / Titolo"
+
+#: ../admin/settings.php:449
+msgid "Date / Time"
+msgstr "Data / Ora"
+
+#: ../admin/settings.php:453
+msgid "Sort direction"
+msgstr "Ordina in senso"
+
+#: ../admin/settings.php:473
+msgid "Here you can select the thumbnail effect, NextGEN Gallery will integrate the required HTML code in the images. Please note that only the Shutter and Thickbox effect will automatic added to your theme."
+msgstr "Qui puoi selezionare l'effetto della miniatura; NextGEN Gallery integrerà nelle immagini il codice HTML richiesto. Ricordati che solo gli effetti Shutter e Thickbox saranno aggiunti automaticamente al tuo tema."
+
+#: ../admin/settings.php:474
+msgid "With the placeholder"
+msgstr "Con la variabile"
+
+#: ../admin/settings.php:474
+msgid "you can activate a navigation through the images (depend on the effect). Change the code line only , when you use a different thumbnail effect or you know what you do."
+msgstr "puoi attivare una navigazione tra le immagini (dipende dall'effetto selezionato). Cambia il codice solo quando decidi di associare un effetto differente alle miniature o sai cosa stai facendo."
+
+#: ../admin/settings.php:477
+msgid "JavaScript Thumbnail effect"
+msgstr "Effetti JavaScript per le miniature"
+
+#: ../admin/settings.php:481
+msgid "Thickbox"
+msgstr "Thickbox"
+
+#: ../admin/settings.php:482
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../admin/settings.php:483
+msgid "Highslide"
+msgstr "Highslide"
+
+#: ../admin/settings.php:484
+msgid "Shutter"
+msgstr "Shutter"
+
+#: ../admin/settings.php:485
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: ../admin/settings.php:490
+msgid "Link Code line"
+msgstr "Codice"
+
+#: ../admin/settings.php:512
+msgid "Please note : You can only activate the watermark under -> Manage Gallery . This action cannot be undone."
+msgstr "Nota: puoi attivare la filigrana sotto -> Gestione galleria. Questa azione non é reversibile."
+
+#: ../admin/settings.php:517
+msgid "Preview"
+msgstr "Anteprima"
+
+#: ../admin/settings.php:519
+#: ../admin/settings.php:524
+msgid "Position"
+msgstr "Posizione"
+
+#: ../admin/settings.php:544
+msgid "Offset"
+msgstr "Slittamento"
+
+#: ../admin/settings.php:560
+msgid "Use image as watermark"
+msgstr "Utilizza immagine come filigrana"
+
+#: ../admin/settings.php:563
+msgid "URL to file"
+msgstr "URL al file"
+
+#: ../admin/settings.php:565
+msgid "The accessing of URL files is disabled at your server (allow_url_fopen)"
+msgstr "L'accesso all'URL dei file é stato disabilitato nel tuo server (allow_url_fopen)"
+
+#: ../admin/settings.php:568
+msgid "Use text as watermark"
+msgstr "Utilizza il testo come filigrana"
+
+#: ../admin/settings.php:571
+msgid "Font"
+msgstr "Font"
+
+#: ../admin/settings.php:580
+msgid "This function will not work, cause you need the FreeType library"
+msgstr "Questa funzione non sarà disponibile poiché necessita della libreria FreeType"
+
+#: ../admin/settings.php:582
+msgid "You can upload more fonts in the folder <strong>nggallery/fonts</strong>"
+msgstr "Puoi caricare altri font nella cartella <strong>nggallery/fonts</strong>"
+
+#: ../admin/settings.php:591
+msgid "Color"
+msgstr "Colore"
+
+#: ../admin/settings.php:593
+msgid "(hex w/o #)"
+msgstr "(hex con/senza #)"
+
+#: ../admin/settings.php:596
+msgid "Text"
+msgstr "Testo"
+
+#: ../admin/settings.php:600
+msgid "Opaque"
+msgstr "Opacità"
+
+#: ../admin/settings.php:621
+msgid "Default size (W x H)"
+msgstr "Dimensione predefinita (L x A)"
+
+#: ../admin/settings.php:626
+msgid "Duration time"
+msgstr "Durata"
+
+#: ../admin/settings.php:627
+msgid "sec."
+msgstr "sec."
+
+#: ../admin/settings.php:630
+#: ../admin/settings.php:705
+msgid "Transition / Fade effect"
+msgstr "Transizione / Effetto dissolvenza"
+
+#: ../admin/settings.php:633
+#: ../admin/settings.php:708
+msgid "fade"
+msgstr "fade"
+
+#: ../admin/settings.php:634
+msgid "blindX"
+msgstr "blindX"
+
+#: ../admin/settings.php:635
+msgid "cover"
+msgstr "copertina"
+
+#: ../admin/settings.php:636
+msgid "scrollUp"
+msgstr "scrollUp"
+
+#: ../admin/settings.php:637
+msgid "scrollDown"
+msgstr "scrollDown"
+
+#: ../admin/settings.php:638
+msgid "shuffle"
+msgstr "shuffle"
+
+#: ../admin/settings.php:639
+msgid "toss"
+msgstr "toss"
+
+#: ../admin/settings.php:640
+msgid "wipe"
+msgstr "wipe"
+
+#: ../admin/settings.php:642
+msgid "See here for more information about the effects :"
+msgstr "per ulteriori informazioni sugli effetti, vai a questa pagina :"
+
+#: ../admin/settings.php:646
+msgid "Settings for the JW Image Rotator"
+msgstr "Impostazioni per il JW Image Rotator"
+
+#: ../admin/settings.php:647
+msgid "The settings are only used in the JW Image Rotator Version"
+msgstr "Le impostazioni sono utilizzabili esclusivamente con JW Image Rotator versione"
+
+#: ../admin/settings.php:648
+msgid "See more information for the Flash Player on the web page"
+msgstr "Per ulteriori informazioni sul Flash Player visita la pagina web:"
+
+#: ../admin/settings.php:653
+msgid "The path to imagerotator.swf is not defined, the slideshow will not work."
+msgstr "Il percorso al file imagerotator.swf non é stato ancora definto: lo slideshow non funzionerà"
+
+#: ../admin/settings.php:654
+msgid "If you would like to use the JW Image Rotatator, please download the player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >here</a> and upload it to your Upload folder (Default is wp-content/uploads)."
+msgstr "Volessi utilizzare il JW Image Rotator, scarica il player <a href=\"http://www.longtailvideo.com/players/jw-image-rotator/\" target=\"_blank\" >qui</a> quindi, caricarlo nella tua cartella degli Upload (predefinita wp-content/uploads)."
+
+#: ../admin/settings.php:660
+msgid "Enable flash slideshow"
+msgstr "Attiva flash slideshow"
+
+#: ../admin/settings.php:662
+msgid "Integrate the flash based slideshow for all flash supported devices"
+msgstr "Integra il flash based sildeshow per tutti i dispositivi che supportano flash"
+
+#: ../admin/settings.php:665
+msgid "Path to the Imagerotator (URL)"
+msgstr "Percorso a Imagerotator (URL)"
+
+#: ../admin/settings.php:668
+msgid "Search now"
+msgstr "Cerca adesso"
+
+#: ../admin/settings.php:669
+msgid "Press the button to search automatically for the imagerotator, if you uploaded it to wp-content/uploads or a subfolder"
+msgstr "Premi il pulsante per la ricerca automatica dell'imagerotator, nel caso in cui l'avessi caricato nella cartella wp-content/uploads o in una sotto-cartella"
+
+#: ../admin/settings.php:673
+msgid "Shuffle mode"
+msgstr "Modalità casuale"
+
+#: ../admin/settings.php:677
+msgid "Show next image on click"
+msgstr "Mostra immagine successiva al click"
+
+#: ../admin/settings.php:681
+msgid "Show navigation bar"
+msgstr "Mostra barra di navigazione"
+
+#: ../admin/settings.php:685
+msgid "Show loading icon"
+msgstr "Mostra icona di caricamento"
+
+#: ../admin/settings.php:689
+msgid "Use watermark logo"
+msgstr "Utilizza logo come filigrana"
+
+#: ../admin/settings.php:691
+msgid "You can change the logo at the watermark settings"
+msgstr "Puoi cambiare il logo nelle impostazioni della filigrana"
+
+#: ../admin/settings.php:694
+msgid "Stretch image"
+msgstr "Espandi immagine"
+
+#: ../admin/settings.php:697
+msgid "true"
+msgstr "sì"
+
+#: ../admin/settings.php:698
+msgid "false"
+msgstr "no"
+
+#: ../admin/settings.php:699
+msgid "fit"
+msgstr "adatta"
+
+#: ../admin/settings.php:700
+msgid "none"
+msgstr "nessuno"
+
+#: ../admin/settings.php:709
+msgid "bgfade"
+msgstr "dissolvi sfondo"
+
+#: ../admin/settings.php:710
+msgid "slowfade"
+msgstr "dissolvi lentamente"
+
+#: ../admin/settings.php:711
+msgid "circles"
+msgstr "cerchi"
+
+#: ../admin/settings.php:712
+msgid "bubbles"
+msgstr "bolle"
+
+#: ../admin/settings.php:713
+msgid "blocks"
+msgstr "blocchi"
+
+#: ../admin/settings.php:714
+msgid "fluids"
+msgstr "fluidi"
+
+#: ../admin/settings.php:715
+msgid "flash"
+msgstr "abbagliante"
+
+#: ../admin/settings.php:716
+msgid "lines"
+msgstr "linee"
+
+#: ../admin/settings.php:717
+msgid "random"
+msgstr "casuale"
+
+#: ../admin/settings.php:722
+msgid "Use slow zooming effect"
+msgstr "Utilizza effetto zoom lento"
+
+#: ../admin/settings.php:726
+msgid "Background Color"
+msgstr "Colore sfondo"
+
+#: ../admin/settings.php:731
+msgid "Texts / Buttons Color"
+msgstr "Testo / Colore pulsanti"
+
+#: ../admin/settings.php:736
+msgid "Rollover / Active Color"
+msgstr "Rollover / Colore attivo"
+
+#: ../admin/settings.php:741
+msgid "Screen Color"
+msgstr "Colore schermo"
+
+#: ../admin/settings.php:746
+msgid "Background music (URL)"
+msgstr "Musica di sottofondo (URL)"
+
+#: ../admin/settings.php:750
+msgid "Try XHTML validation (with CDATA)"
+msgstr "Prova a validare il codice XHTML (con CDATA)"
+
+#: ../admin/settings.php:752
+msgid "Important : Could causes problem at some browser. Please recheck your page."
+msgstr "Importante: potrebbe causare dei problemi ad alcuni browser. Controlla nuovamente la tua pagina."
+
+#: ../admin/setup.php:15
+msgid "Reset all settings to default parameter"
+msgstr "Ripristina le impostazioni ai parametri predefiniti"
+
+#: ../admin/setup.php:26
+msgid "Uninstall sucessful ! Now delete the plugin and enjoy your life ! Good luck !"
+msgstr "Disinstallazione completata con successo! Ora potrai cancellare il plugin e goditi la vita! Buona fortuna!"
+
+#: ../admin/setup.php:30
+msgid "Reset options"
+msgstr "Ripristina le opzioni"
+
+#: ../admin/setup.php:33
+msgid "Reset all options/settings to the default installation."
+msgstr "Ripristina tutte le opzioni/impostazioni ai valori predefiniti della installazione."
+
+#: ../admin/setup.php:34
+msgid "Reset settings"
+msgstr "Ripristina le impostazioni"
+
+#: ../admin/setup.php:34
+msgid ""
+"Reset all options to default settings ?\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to proceed.\\n"
+msgstr ""
+"Ripristino di tutte le opzioni ai valori predefiniti?\\n"
+"\\n"
+"Scegli [Cancella] per annullare, [OK] per procedere.\\n"
+
+#: ../admin/setup.php:39
+msgid "Uninstall plugin tables"
+msgstr "Disinstalla le tabelle del plugin"
+
+#: ../admin/setup.php:44
+msgid "You don't like NextGEN Gallery ?"
+msgstr "Non ti piace NextGEN Gallery?"
+
+#: ../admin/setup.php:45
+msgid "No problem, before you deactivate this plugin press the Uninstall Button, because deactivating NextGEN Gallery does not remove any data that may have been created. "
+msgstr "Nessun problema, prima di disattivare questo plugin premi il pulsante disinstalla; la disattivazione di NextGEN Gallery non rimuoverà alcun dato creato in precedenza. "
+
+#: ../admin/setup.php:47
+msgid "WARNING:"
+msgstr "ATTENZIONE:"
+
+#: ../admin/setup.php:48
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to backup all the tables first. NextGEN gallery is stored in the tables"
+msgstr "Una volta disinstallato, non puoi tornare più indietro. Dovresti utilizzare un qualsiasi plugin di backup per WordPress per salvare tutte le tabelle. NextGEN Gallery é stato immagazzinato nelle tabelle"
+
+#: ../admin/setup.php:48
+msgid "and"
+msgstr "e"
+
+#: ../admin/setup.php:50
+msgid "Uninstall plugin"
+msgstr "Disinstalla il plugin"
+
+#: ../admin/setup.php:50
+msgid ""
+"You are about to Uninstall this plugin from WordPress.\\n"
+"This action is not reversible.\\n"
+"\\n"
+"Choose [Cancel] to Stop, [OK] to Uninstall.\\n"
+msgstr ""
+"Stai per disinstallare questo plugin da WordPress.\\n"
+"Questa azione é irreversibile.\\n"
+"\\n"
+"Scegli [Cancella] per annullare, [OK] per procedere.\\n"
+
+#: ../admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Metadati"
+
+#: ../admin/showmeta.php:34
+#: ../admin/showmeta.php:60
+#: ../admin/showmeta.php:85
+#: ../admin/showmeta.php:109
+msgid "Tag"
+msgstr "Tag"
+
+#: ../admin/showmeta.php:35
+#: ../admin/showmeta.php:61
+#: ../admin/showmeta.php:86
+#: ../admin/showmeta.php:110
+msgid "Value"
+msgstr "Valore"
+
+#: ../admin/showmeta.php:49
+msgid "No meta data saved"
+msgstr "Nessun metadato é stato salvato"
+
+#: ../admin/showmeta.php:55
+msgid "EXIF Data"
+msgstr "Dati EXIF"
+
+#: ../admin/showmeta.php:74
+msgid "No exif data"
+msgstr "Nessun dato EXIF"
+
+#: ../admin/showmeta.php:81
+msgid "IPTC Data"
+msgstr "Dati IPTC"
+
+#: ../admin/showmeta.php:105
+msgid "XMP Data"
+msgstr "Dati XMP"
+
+#: ../admin/style.php:11
+msgid "(From the theme folder)"
+msgstr "(dalla cartella del tema)"
+
+#: ../admin/style.php:43
+msgid "You do not have sufficient permissions to edit templates for this blog."
+msgstr "Non hai i permessi sufficienti per modificare i template di questo blog."
+
+#: ../admin/style.php:52
+msgid "CSS file successfully updated"
+msgstr "File CSS aggiornato con successo"
+
+#: ../admin/style.php:89
+msgid "Style Editor"
+msgstr "Editor stile"
+
+#: ../admin/style.php:93
+msgid "Activate and use style sheet:"
+msgstr "Attiva ed utilizza il foglio di stile:"
+
+#: ../admin/style.php:113
+msgid "Activate"
+msgstr "Attiva"
+
+#: ../admin/style.php:123
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr "Sto modificando il foglio di stile <strong>%s</strong>"
+
+#: ../admin/style.php:125
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr "Sto navigando <strong>%s</strong>"
+
+#: ../admin/style.php:135
+msgid "Version"
+msgstr "Versione"
+
+#: ../admin/style.php:138
+msgid "Tip : Copy your stylesheet (nggallery.css) to your theme folder, so it will be not lost during a upgrade"
+msgstr "Suggerimento: copia il tuo foglio di stile (nggallery.css) nella cartella del tuo tema in modo tale che le personalizzazioni non andranno perdute durante gli aggiornamenti"
+
+#: ../admin/style.php:140
+msgid "Your theme contain a NextGEN Gallery stylesheet (nggallery.css), this file will be used"
+msgstr "Il tuo tema contiene un foglio di stile di NextGEN Gallery (nggallery.css): sarà utilizzato questo file"
+
+#: ../admin/style.php:142
+msgid "Tip No. 2: Use the color picker below to help you find the right color scheme for your gallery!"
+msgstr "Suggerimento No. 2: utilizza il selettore di colori qui sotto per trovare un adeguato schema colore per la tua galleria!"
+
+#: ../admin/style.php:158
+msgid "Update File"
+msgstr "Aggiorna il file"
+
+#: ../admin/style.php:161
+msgid "If this file were writable you could edit it."
+msgstr "Se questo tag fosse stato scrivibile avresti potuto modificarlo."
+
+#: ../admin/style.php:166
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr "Non esiste alcun file! Ricontrolla il nome e riprova, grazie."
+
+#: ../admin/tags.php:38
+msgid "Most popular"
+msgstr "I più popolari"
+
+#: ../admin/tags.php:39
+msgid "Least used"
+msgstr "Ultimi utilizzati"
+
+#: ../admin/tags.php:40
+msgid "Alphabetical"
+msgstr "Alfabetico"
+
+#: ../admin/tags.php:96
+msgid "Manage image tags"
+msgstr "Gestione tag immagini"
+
+#: ../admin/tags.php:108
+msgid "Existing Tags"
+msgstr "Tag esistenti"
+
+#: ../admin/tags.php:112
+msgid "Search tags"
+msgstr "Cerca tag"
+
+#: ../admin/tags.php:116
+msgid "Go"
+msgstr "Vai"
+
+#: ../admin/tags.php:121
+msgid "Sort Order:"
+msgstr "Tipo ordine:"
+
+#: ../admin/tags.php:156
+#: ../admin/tags.php:160
+#: ../admin/tags.php:173
+msgid "Previous tags"
+msgstr "Tag precedenti"
+
+#: ../admin/tags.php:169
+msgid "Next tags"
+msgstr "Tag successivi"
+
+#: ../admin/tags.php:181
+msgid "Rename Tag"
+msgstr "Rinomina tag"
+
+#: ../admin/tags.php:189
+msgid "Enter the tag to rename and its new value.  You can use this feature to merge tags too. Click \"Rename\" and all posts which use this tag will be updated."
+msgstr "Digita il tag da rinominare ed il suo nuovo valore. Puoi utilizzare questa funzione anche per unire tag. Clicca \"Rinomina\" e tutti gli articoli che utilizzano questo tag saranno aggiornati."
+
+#: ../admin/tags.php:190
+#: ../admin/tags.php:238
+msgid "You can specify multiple tags to rename by separating them with commas."
+msgstr "Puoi specificare tag multipli da rinominare separandoli con delle virgole."
+
+#: ../admin/tags.php:194
+msgid "Tag(s) to rename:"
+msgstr "Tag da rinominare:"
+
+#: ../admin/tags.php:198
+msgid "New tag name(s):"
+msgstr "Nuovo(i) nome(i) tag:"
+
+#: ../admin/tags.php:201
+msgid "Rename"
+msgstr "Rinomina"
+
+#: ../admin/tags.php:207
+msgid "Delete Tag"
+msgstr "Cancella tag"
+
+#: ../admin/tags.php:215
+msgid "Enter the name of the tag to delete.  This tag will be removed from all posts."
+msgstr "Inserisci il nome del tag da cancellare. Questo tag verrà rimosso da ogni articolo."
+
+#: ../admin/tags.php:216
+msgid "You can specify multiple tags to delete by separating them with commas"
+msgstr "Puoi specificare dei tag multipli da cancellare separandoli con delle virgole"
+
+#: ../admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Tag da cancellare:"
+
+#: ../admin/tags.php:229
+msgid "Edit Tag Slug"
+msgstr "Modifica slug del tag"
+
+#: ../admin/tags.php:237
+msgid "Enter the tag name to edit and its new slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Slug definition</a>"
+msgstr "Digita il nome del tag da modificare ed il suo nuovo slug. <a href=\"http://codex.wordpress.org/Glossary#Slug\">Definizione di slug</a> (in inglese)."
+
+#: ../admin/tags.php:242
+msgid "Tag(s) to match:"
+msgstr "Tag da abbinare:"
+
+#: ../admin/tags.php:246
+msgid "Slug(s) to set:"
+msgstr "Abbreviazione(i) da impostare:"
+
+#: ../admin/upgrade.php:22
+msgid "Upgrade database structure..."
+msgstr "Aggiornamento struttura database..."
+
+#: ../admin/upgrade.php:108
+#: ../admin/upgrade.php:119
+#: ../admin/upgrade.php:126
+#: ../admin/upgrade.php:137
+#: ../admin/upgrade.php:151
+msgid "finished"
+msgstr " finito"
+
+#: ../admin/upgrade.php:117
+msgid "Update file structure..."
+msgstr "Aggiorna struttura file..."
+
+#: ../admin/upgrade.php:124
+msgid "Import date and time information..."
+msgstr "Importa informazioni su data e orario"
+
+#: ../admin/upgrade.php:132
+msgid "Move imagerotator to new location..."
+msgstr "Sposta imagerotator in una nuova locazione..."
+
+#: ../admin/upgrade.php:143
+msgid "Update settings..."
+msgstr "Aggiornamento impostazioni..."
+
+#: ../admin/upgrade.php:157
+msgid "Updated widget structure. If you used NextGEN Widgets, you need to setup them again..."
+msgstr "La struttura del widget é stata aggiornata. Nel caso in cui facessi uso dei widget di NextGEN, sarà necessario impostarli nuovamente..."
+
+#: ../admin/upgrade.php:165
+#: ../admin/upgrade.php:187
+msgid "Updated options."
+msgstr "Le opzioni sono state aggiornate."
+
+#: ../admin/upgrade.php:172
+msgid "Create unique slug"
+msgstr "Creazione slug unico"
+
+#: ../admin/upgrade.php:173
+msgid "One of the upcomming features are a reworked permalinks structure."
+msgstr "Una tra le prossime funzioni comprenderà la rielaborazione della struttura dei permalink."
+
+#: ../admin/upgrade.php:174
+msgid "Therefore it's needed to have a unique identifier for each image, gallery and album."
+msgstr "Quindi, sarà necessario che ogni immagine, galleria ed album abbia un proprio identificatore unico."
+
+#: ../admin/upgrade.php:175
+msgid "Depend on the amount of database entries this will take a while, don't reload this page."
+msgstr "In relazione al numero di richieste al database, questa operazione potrebbe impiegare un po' di tempo. Non ricaricare questa pagina."
+
+#: ../admin/upgrade.php:195
+msgid "Could not find NextGEN Gallery database tables, upgrade failed !"
+msgstr "Non sono state trovate nel database le tabelle di NextGEN Gallery: aggiornamento fallito !"
+
+#: ../admin/upgrade.php:258
+msgid "Some folders/files could not renamed, please recheck the permission and rescan the folder in the manage gallery section."
+msgstr "Alcune(i) cartelle/file non possono essere rinominate(i), per favore ricontrolla i permessi e scansiona nuovamente la cartella nella sezione gestione galleria."
+
+#: ../admin/upgrade.php:260
+msgid "Rename failed"
+msgstr "Impossibile rinominare"
+
+#: ../admin/upgrade.php:356
+#: ../admin/upgrade.php:375
+msgid "Upgrade NextGEN Gallery"
+msgstr "Aggiornamento NextGEN Gallery"
+
+#: ../admin/upgrade.php:357
+msgid "The script detect that you upgrade from a older version."
+msgstr "Questo script ha rilevato che stai aggiornando da una versione precedente."
+
+#: ../admin/upgrade.php:358
+msgid "Your database tables for NextGEN Gallery is out-of-date, and must be upgraded before you can continue."
+msgstr "Le tabelle di NextGEN Gallery nel tuo database sono datate e devono essere aggiornate prima di poter continuare."
+
+#: ../admin/upgrade.php:359
+msgid "If you would like to downgrade later, please make first a complete backup of your database and the images."
+msgstr "Desiderassi in seguito eseguire un downgrade, effettua come prima cosa un backup completo del tuo database e delle immagini."
+
+#: ../admin/upgrade.php:360
+msgid "The upgrade process may take a while, so please be patient."
+msgstr "Il processo di aggiornamento potrebbe impiegare un po&#39; di tempo, per favore sii paziente."
+
+#: ../admin/upgrade.php:361
+msgid "Start upgrade now"
+msgstr "Avvia aggiornamento ora"
+
+#: ../admin/upgrade.php:377
+msgid "Upgrade finished..."
+msgstr "Aggiornamento completato..."
+
+#: ../admin/upgrade.php:378
+msgid "Continue"
+msgstr "Continua"
+
+#: ../admin/upgrade.php:401
+#, php-format
+msgid "Rebuild image structure : %s / %s images"
+msgstr "Ricostruzione struttura immagine : %s / %s immagini"
+
+#: ../admin/upgrade.php:402
+#, php-format
+msgid "Rebuild gallery structure : %s / %s galleries"
+msgstr "Ricostruzione struttura galleria : %s / %s gallerie"
+
+#: ../admin/upgrade.php:403
+#, php-format
+msgid "Rebuild album structure : %s / %s albums"
+msgstr "Ricostruzione struttura album : %s / %s album"
+
+#: ../admin/upgrade.php:460
+msgid "Done."
+msgstr "Completata."
+
+#: ../admin/wpmu.php:33
+msgid "Update successfully"
+msgstr "Aggiornato con successo"
+
+#: ../admin/wpmu.php:45
+#, php-format
+msgid "Thanks for using this plugin, NextGEN Gallery is initially developed for self hosted blogs. A multisite setup is possible, but cannot currently fully supported, as it can have several special condition ( i.e. Domain mapping).<br /> If you would like to support the further development, please consider a <strong><a href=\"%s\">donation</a></strong>! If you still need some help, please post your questions <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">here</a> ."
+msgstr "Grazie per l'utilizzo di questo plugin, NextGEN Gallery che spero sia di tuo gradimento ! Qualora volessi contribuire alllo sviluppo di questo programma, potresti effettuare una <strong><a href=\"%s\">donazione</a></strong>! In caso di necessità per un suppporto tecnico, poni <a href=\"http://wordpress.org/tags/nextgen-gallery?forum_id=10\">qui</a> le tue richieste ."
+
+#: ../admin/wpmu.php:62
+msgid "Network Options"
+msgstr "Opzioni network"
+
+#: ../admin/wpmu.php:70
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Questo é il percorso predefinito per tutti i blog. Con la variabile %BLOG_ID% potrai organizzare al meglio la struttura della cartella."
+
+#: ../admin/wpmu.php:71
+#, php-format
+msgid "The default setting should be %s"
+msgstr "L'impostazione predefinita dovrebbe essere a %s"
+
+#: ../admin/wpmu.php:75
+msgid "Enable upload quota check"
+msgstr "Attiva controllo quota durante il caricamento"
+
+#: ../admin/wpmu.php:77
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Dovrebbe funzionare se la galleria &#232; al di sotto della directory del blog"
+
+#: ../admin/wpmu.php:81
+msgid "Enable zip upload option"
+msgstr "Attiva opzione caricamento ZIP"
+
+#: ../admin/wpmu.php:83
+msgid "Allow users to upload zip folders."
+msgstr "Permette agli utenti di caricare cartelle ZIP."
+
+#: ../admin/wpmu.php:87
+msgid "Enable import function"
+msgstr "Attiva la funzione di importazione"
+
+#: ../admin/wpmu.php:89
+msgid "Allow users to import images folders from the server."
+msgstr "Permetti agli utenti di importare dal server le cartelle immagine."
+
+#: ../admin/wpmu.php:93
+msgid "Enable style selection"
+msgstr "Consenti selezione stile"
+
+#: ../admin/wpmu.php:95
+msgid "Allow users to choose a style for the gallery."
+msgstr "Permette agli utenti di scegliere lo stile della galleria."
+
+#: ../admin/wpmu.php:99
+msgid "Enable roles/capabilities"
+msgstr "Attiva Ruoli / Permessi"
+
+#: ../admin/wpmu.php:101
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Permette agli utenti di cambiare i ruoli agli autori di altri blog."
+
+#: ../admin/wpmu.php:105
+msgid "Default style"
+msgstr "Stile predefinito"
+
+#: ../admin/wpmu.php:122
+msgid "Choose the default style for the galleries."
+msgstr "Scegli lo stile predefinito per le gallerie."
+
+#: ../admin/tinymce/window.php:56
+msgid "Select or enter gallery"
+msgstr "Seleziona o inserisci galleria"
+
+#: ../admin/tinymce/window.php:61
+#: ../admin/tinymce/window.php:82
+msgid "Show as"
+msgstr "Mostra come"
+
+#: ../admin/tinymce/window.php:62
+msgid "Image list"
+msgstr "Elenco immagini"
+
+#: ../admin/tinymce/window.php:64
+msgid "Imagebrowser"
+msgstr "Navigazione immagini"
+
+#: ../admin/tinymce/window.php:77
+msgid "Select or enter album"
+msgstr "Seleziona o inserisci album"
+
+#: ../admin/tinymce/window.php:83
+msgid "Extended version"
+msgstr "Versione estesa"
+
+#: ../admin/tinymce/window.php:84
+msgid "Compact version"
+msgstr "Versione compatta"
+
+#: ../admin/tinymce/window.php:97
+msgid "Select or enter picture"
+msgstr "Seleziona o inserisci immagine"
+
+#: ../admin/tinymce/window.php:102
+msgid "Width x Height"
+msgstr "Larghezza x Altezza"
+
+#: ../admin/tinymce/window.php:106
+msgid "Effect"
+msgstr "Effetto"
+
+#: ../admin/tinymce/window.php:109
+msgid "No effect"
+msgstr "Nessun effetto"
+
+#: ../admin/tinymce/window.php:111
+msgid "Web 2.0"
+msgstr "Web 2.0"
+
+#: ../admin/tinymce/window.php:116
+msgid "Float"
+msgstr "Fluttua"
+
+#: ../admin/tinymce/window.php:119
+msgid "No float"
+msgstr "Nessuna fluttuazione"
+
+#: ../admin/tinymce/window.php:138
+msgid "Insert"
+msgstr "Inserisci"
+
+#: ../lib/core.php:407
+#, php-format
+msgid "Note : Based on your server memory limit you should not upload larger images then <strong>%d x %d</strong> pixel"
+msgstr "Nota : in relazione al limite di memoria del tuo server, non dovrai caricare delle immagini con una dimensione superiore a <strong>%d x %d</strong> pixel"
+
+#: ../lib/locale.php:120
+msgid "Invalid URL Provided."
+msgstr "E' stato fornito un URL non valido."
+
+#: ../lib/locale.php:124
+#: ../lib/locale.php:128
+msgid "Could not create Temporary file."
+msgstr "Impossibile creare il file temporaneo."
+
+#: ../lib/meta.php:124
+msgid " mm"
+msgstr " mm"
+
+#: ../lib/meta.php:130
+msgid " sec"
+msgstr " sec"
+
+#: ../lib/meta.php:134
+msgid "Fired"
+msgstr "Fired"
+
+#: ../lib/meta.php:134
+msgid "Not fired"
+msgstr "Not fired"
+
+#: ../lib/meta.php:430
+msgid "Aperture"
+msgstr "Apertura"
+
+#: ../lib/meta.php:431
+#: ../lib/meta.php:456
+msgid "Credit"
+msgstr "Crediti"
+
+#: ../lib/meta.php:432
+msgid "Camera"
+msgstr "Fotocamera"
+
+#: ../lib/meta.php:433
+msgid "Caption"
+msgstr "Didascalia"
+
+#: ../lib/meta.php:435
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../lib/meta.php:436
+msgid "Focal length"
+msgstr "Lunghezza focale"
+
+#: ../lib/meta.php:437
+msgid "ISO"
+msgstr "ISO"
+
+#: ../lib/meta.php:438
+msgid "Shutter speed"
+msgstr "Velocità otturatore"
+
+#: ../lib/meta.php:442
+msgid "Subject"
+msgstr "Soggetto"
+
+#: ../lib/meta.php:443
+msgid "Make"
+msgstr "Marca"
+
+#: ../lib/meta.php:444
+msgid "Edit Status"
+msgstr "Modifica stato"
+
+#: ../lib/meta.php:445
+msgid "Category"
+msgstr "Categoria"
+
+#: ../lib/meta.php:446
+msgid "Keywords"
+msgstr "Parole chiave"
+
+#: ../lib/meta.php:447
+msgid "Date Created"
+msgstr "Data creazione"
+
+#: ../lib/meta.php:448
+msgid "Time Created"
+msgstr "Ora creazione"
+
+#: ../lib/meta.php:449
+msgid "Author Position"
+msgstr "Posizione autore"
+
+#: ../lib/meta.php:450
+msgid "City"
+msgstr "Città"
+
+#: ../lib/meta.php:451
+msgid "Location"
+msgstr "Postazione"
+
+#: ../lib/meta.php:452
+msgid "Province/State"
+msgstr "Provincia / Stato"
+
+#: ../lib/meta.php:453
+msgid "Country code"
+msgstr "Codice paese"
+
+#: ../lib/meta.php:454
+msgid "Country"
+msgstr "Paese"
+
+#: ../lib/meta.php:455
+msgid "Headline"
+msgstr "Titolo"
+
+#: ../lib/meta.php:457
+msgid "Source"
+msgstr "Sorgente"
+
+#: ../lib/meta.php:458
+msgid "Copyright Notice"
+msgstr "Note di copyright"
+
+#: ../lib/meta.php:459
+msgid "Contact"
+msgstr "Contatto"
+
+#: ../lib/meta.php:460
+msgid "Last modified"
+msgstr "Ultima modifica"
+
+#: ../lib/meta.php:461
+msgid "Program tool"
+msgstr "Programma"
+
+#: ../lib/meta.php:462
+msgid "Format"
+msgstr "Formato"
+
+#: ../lib/meta.php:463
+msgid "Image Width"
+msgstr "Larghezza immagine"
+
+#: ../lib/meta.php:464
+msgid "Image Height"
+msgstr "Altezza immagine"
+
+#: ../lib/meta.php:465
+msgid "Flash"
+msgstr "Flash"
+
+#: ../lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Hai utilizzato tutto lo spazio di allocazione a tua disposizione. Libera dello spazio per caricare altri file."
+
+#: ../lib/ngg-db.php:331
+#: ../lib/ngg-db.php:332
+msgid "Album overview"
+msgstr "Panoramica album"
+
+#: ../lib/shortcodes.php:311
+msgid "[Pictures not found]"
+msgstr "[Immagini non trovate]"
+
+#: ../lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Nessun nuovo tag specificato!"
+
+#: ../lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Nessun nuovo/vecchio tag specificato!"
+
+#: ../lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Nessun tag rinominato."
+
+#: ../lib/tags.php:88
+#, php-format
+msgid "Renamed tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;"
+msgstr "Tag rinominato(i) &laquo;%1$s&raquo; su &laquo;%2$s&raquo;"
+
+#: ../lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Nessun nuovo tag valido."
+
+#: ../lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Nessun oggetto (articolo/pagina) trovato per il vecchio tag specificato."
+
+#: ../lib/tags.php:141
+msgid "No tag merged."
+msgstr "Nessun tag unito."
+
+#: ../lib/tags.php:143
+#, php-format
+msgid "Merge tag(s) &laquo;%1$s&raquo; to &laquo;%2$s&raquo;. %3$s objects edited."
+msgstr "Unito(i) tag &laquo;%1$s&raquo; su &laquo;%2$s&raquo;. %3$s oggetti modificati."
+
+#: ../lib/tags.php:146
+msgid "Error. No enough tags for rename. Too for merge. Choose !"
+msgstr "Errore. Pochi tag da rinominare. Troppi da unire. Scegli!"
+
+#: ../lib/tags.php:163
+msgid "No tag specified!"
+msgstr "Nessun tag specificato!"
+
+#: ../lib/tags.php:186
+msgid "No tag deleted."
+msgstr "Nessun tag eliminato."
+
+#: ../lib/tags.php:188
+#, php-format
+msgid "%1s tag(s) deleted."
+msgstr "%1s tag eliminato(i)."
+
+#: ../lib/tags.php:202
+msgid "No new slug(s) specified!"
+msgstr "Nessuna(e) nuova(e) abbreviazione(i) specificata(e)!"
+
+#: ../lib/tags.php:214
+msgid "Tags number and slugs number isn't the same!"
+msgstr "Il numero di tag ed il numero di abbreviazioni non coincidono!"
+
+#: ../lib/tags.php:241
+msgid "No slug edited."
+msgstr "Nessuna abbreviazione modificata."
+
+#: ../lib/tags.php:243
+#, php-format
+msgid "%s slug(s) edited."
+msgstr "%s abbreviazione(i) modificata(e)."
+
+#: ../lib/xmlrpc.php:66
+#, php-format
+msgid "XML-RPC services are disabled on this blog.  An admin user can enable them at %s"
+msgstr "I servizi XML-RPC non sono attivi per questo blog.  Un amministratore può abilitarli sotto %s"
+
+#: ../lib/xmlrpc.php:73
+msgid "Bad login/pass combination."
+msgstr "Login errato/combinazione password."
+
+#: ../lib/xmlrpc.php:129
+msgid "You are not allowed to upload files to this site."
+msgstr "Non hai il permesso per potere caricare dei file in questo sito."
+
+#: ../lib/xmlrpc.php:135
+#: ../lib/xmlrpc.php:680
+msgid "Could not find gallery "
+msgstr "Non é stato possibile trovare la galleria"
+
+#: ../lib/xmlrpc.php:140
+#: ../lib/xmlrpc.php:685
+msgid "You are not allowed to upload files to this gallery."
+msgstr "Non hai il permesso per potere caricare dei file in questa galleria."
+
+#: ../lib/xmlrpc.php:152
+msgid "This is no valid image file."
+msgstr "Non esiste alcun file immagine valido."
+
+#: ../lib/xmlrpc.php:164
+msgid "Could not find image id "
+msgstr "Non é stato possibile trovare la ID della immagine"
+
+#: ../lib/xmlrpc.php:171
+#, php-format
+msgid "Failed to delete image %1$s "
+msgstr "Non é stato possibile cancellare l'immagine %1$s "
+
+#: ../lib/xmlrpc.php:180
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr "Non é stato possibile scrivere il file %1$s (%2$s)"
+
+#: ../lib/xmlrpc.php:247
+#: ../lib/xmlrpc.php:299
+msgid "Invalid image ID"
+msgstr "id immagine non valido"
+
+#: ../lib/xmlrpc.php:250
+#: ../lib/xmlrpc.php:302
+msgid "Sorry, you must be able to edit this image"
+msgstr "E' necessario che tu abbia la possibilità di modificare questa immagine"
+
+#: ../lib/xmlrpc.php:308
+msgid "Sorry, could not update the image"
+msgstr "Non é stato possibile aggiornare l'immagine"
+
+#: ../lib/xmlrpc.php:344
+#: ../lib/xmlrpc.php:576
+#: ../lib/xmlrpc.php:642
+msgid "Sorry, you must be able to manage galleries"
+msgstr "E' necessario che tu abbia la possibilità di gestire le gallerie"
+
+#: ../lib/xmlrpc.php:350
+msgid "Sorry, could not create the gallery"
+msgstr "Non é stato possibile creare la galleria"
+
+#: ../lib/xmlrpc.php:393
+#: ../lib/xmlrpc.php:573
+msgid "Invalid gallery ID"
+msgstr "ID galleria non valida"
+
+#: ../lib/xmlrpc.php:396
+msgid "Sorry, you must be able to manage this gallery"
+msgstr "E' necessario che tu abbia la possibilità di gestire questa galleria"
+
+#: ../lib/xmlrpc.php:402
+msgid "Sorry, could not update the gallery"
+msgstr "Non é stato possibile aggiornare la galleria"
+
+#: ../lib/xmlrpc.php:442
+#: ../lib/xmlrpc.php:494
+#: ../lib/xmlrpc.php:536
+#: ../lib/xmlrpc.php:609
+msgid "Sorry, you must be able to manage albums"
+msgstr "E' necessario che tu abbia la possibilità di gestire gli album"
+
+#: ../lib/xmlrpc.php:448
+msgid "Sorry, could not create the album"
+msgstr "Non é stato possibile creare l'album"
+
+#: ../lib/xmlrpc.php:491
+#: ../lib/xmlrpc.php:533
+msgid "Invalid album ID"
+msgstr "ID album non valida"
+
+#: ../lib/xmlrpc.php:500
+msgid "Sorry, could not update the album"
+msgstr "Non é stato possibile aggiornare l'album"
+
+#: ../view/album-compact.php:32
+#: ../view/album-extend.php:30
+msgid "Photos"
+msgstr "Foto"
+
+#: ../view/gallery-caption.php:32
+#: ../view/gallery.php:32
+#: ../widgets/media-rss-widget.php:122
+msgid "[View with PicLens]"
+msgstr "[Visualizza con PicLens]"
+
+#: ../view/imagebrowser-caption.php:26
+#: ../view/imagebrowser-exif.php:30
+#: ../view/imagebrowser.php:26
+msgid "Back"
+msgstr "Indietro"
+
+#: ../view/imagebrowser-caption.php:29
+#: ../view/imagebrowser-exif.php:33
+#: ../view/imagebrowser.php:29
+msgid "Next"
+msgstr "Successivo"
+
+#: ../view/imagebrowser-caption.php:31
+#: ../view/imagebrowser-exif.php:35
+#: ../view/imagebrowser.php:31
+msgid "of"
+msgstr "di"
+
+#: ../view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metadati"
+
+#: ../view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Fotocamera / Tipo"
+
+#: ../view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Lunghezza focale"
+
+#: ../widgets/media-rss-widget.php:19
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget che visualizza i feed Media RSS di NextGEN Gallery"
+
+#: ../widgets/media-rss-widget.php:20
+msgid "NextGEN Media RSS"
+msgstr "RSS NextGEN Media"
+
+#: ../widgets/media-rss-widget.php:68
+msgid "Media RSS"
+msgstr "RSS Media"
+
+#: ../widgets/media-rss-widget.php:69
+msgid "Link to the main image feed"
+msgstr "Link al principale feed immagine"
+
+#: ../widgets/media-rss-widget.php:79
+#: ../widgets/widgets.php:201
+msgid "Title :"
+msgstr "Titolo:"
+
+#: ../widgets/media-rss-widget.php:87
+msgid "Show Media RSS icon"
+msgstr "Mostra icona RSS Media"
+
+#: ../widgets/media-rss-widget.php:93
+msgid "Show the Media RSS link"
+msgstr "Mostra il link RSS Media"
+
+#: ../widgets/media-rss-widget.php:98
+msgid "Text for Media RSS link:"
+msgstr "Testo per il RSS Media:"
+
+#: ../widgets/media-rss-widget.php:104
+msgid "Tooltip text for Media RSS link:"
+msgstr "Suggerimenti per il RSS Media:"
+
+#: ../widgets/widgets.php:22
+msgid "Show a NextGEN Gallery Slideshow"
+msgstr "Mostra una presentazione di NextGEN Gallery"
+
+#: ../widgets/widgets.php:23
+msgid "NextGEN Slideshow"
+msgstr "NextGEN presentazione"
+
+#: ../widgets/widgets.php:64
+msgid "<a href=\"http://www.macromedia.com/go/getflashplayer\">Get the Flash Player</a> to see the slideshow."
+msgstr "<a href=\"http://www.macromedia.com/go/getflashplayer\">Procurati il Flash Player</a> per vedere la presentazione."
+
+#: ../widgets/widgets.php:121
+msgid "Title:"
+msgstr "Titolo:"
+
+#: ../widgets/widgets.php:123
+msgid "Select Gallery:"
+msgstr "Seleziona galleria:"
+
+#: ../widgets/widgets.php:125
+msgid "All images"
+msgstr "Tutte le immagini"
+
+#: ../widgets/widgets.php:137
+msgid "Height:"
+msgstr "Altezza:"
+
+#: ../widgets/widgets.php:138
+msgid "Width:"
+msgstr "Larghezza:"
+
+#: ../widgets/widgets.php:160
+msgid "Add recent or random images from the galleries"
+msgstr "Aggiungi immagini recenti o casuali dalle gallerie"
+
+#: ../widgets/widgets.php:161
+msgid "NextGEN Widget"
+msgstr "Widget NextGEN"
+
+#: ../widgets/widgets.php:207
+msgid "Show :"
+msgstr "Mostra:"
+
+#: ../widgets/widgets.php:213
+msgid "Original images"
+msgstr "Immagini originali"
+
+#: ../widgets/widgets.php:222
+msgid "recent added "
+msgstr "aggiunte di recente"
+
+#: ../widgets/widgets.php:228
+msgid "Enable IE8 Web Slices"
+msgstr "Abilita IE8 Web Slices"
+
+#: ../widgets/widgets.php:233
+msgid "Width x Height :"
+msgstr "Larghezza x Altezza:"
+
+#: ../widgets/widgets.php:239
+msgid "Select :"
+msgstr "Seleziona :"
+
+#: ../widgets/widgets.php:241
+msgid "All galleries"
+msgstr "Tutte le gallerie"
+
+#: ../widgets/widgets.php:242
+msgid "Only which are not listed"
+msgstr "Solo quelle non elencate"
+
+#: ../widgets/widgets.php:243
+msgid "Only which are listed"
+msgstr "Solo quelle elencate"
+
+#: ../widgets/widgets.php:249
+msgid "Gallery ID :"
+msgstr "ID galleria:"
+
+#: ../widgets/widgets.php:251
+msgid "Gallery IDs, separated by commas."
+msgstr "ID galleria, separati da virgole."
+
+#: ../xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Nessuna galleria é stata ancora creata."
+
+#: ../xml/media-rss.php:69
+#, php-format
+msgid "The gallery ID=%s does not exist."
+msgstr "L'ID galleria=%s non esiste."
+
+#: ../xml/media-rss.php:100
+msgid "No album ID has been provided as parameter"
+msgstr "Nessun ID album é stato fornito come parametro"
+
+#: ../xml/media-rss.php:108
+#, php-format
+msgid "The album ID=%s does not exist."
+msgstr "L'ID album=%s non esiste."
+
+#: ../xml/media-rss.php:115
+msgid "Invalid MediaRSS command"
+msgstr "Comando RSS Media non valido"
+
+#~ msgid "Cache single pictures"
+#~ msgstr "Cache singole immagini"
+
+#~ msgid "Creates a file for each singlepic settings. Reduce the CPU load"
+#~ msgstr "Crea un file per ogni singola immagine. Riduce il carico della CPU"
+
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "Displaying %s&#8211;%s of %s"
+#~ msgstr "Sta visualizzando %s&#8211;%s di %s"
+
+#~ msgid "Send a gift to show your appreciation."
+#~ msgstr "Invia un dono come segno di ringraziamento."
+
+#~ msgid "Currently not used, prepare database for upcoming version"
+#~ msgstr ""
+#~ "Non attualmente in uso (prepara il database per la versione a venire)"
+
+#~ msgid "Delete album ?"
+#~ msgstr "Desideri cancellare l'album?"
+
+#~ msgid "A new version of NextGEN Gallery is available !"
+#~ msgstr "E' disponibile una nuova versione di NextGEN Gallery!"
+
+#~ msgid "Download here"
+#~ msgstr "Scarica qui"
+
+#~ msgid "already exists"
+#~ msgstr "esiste già"
+
+#~ msgid "Gallery Overview"
+#~ msgstr "Panoramica galleria"
+
+#~ msgid "Quantity"
+#~ msgstr "Quantità"
+
+#~ msgid "Action"
+#~ msgstr "Azione"
+
+#~ msgid "Delete this gallery ?"
+#~ msgstr "Desideri cancellare questa galleria?"
+
+#~ msgid "General WordPress MU Settings"
+#~ msgstr "Impostazioni generali WordPress MU"
+
+#~ msgid "No album"
+#~ msgstr "Nessun album"
+
+#~ msgid "for the Fugue Iconset"
+#~ msgstr "per il set di icone Fugue"
+
+#~ msgid "Gallery Administrator"
+#~ msgstr "amministratore della galleria"
+
+#~ msgid "Gallery Editor"
+#~ msgstr "Editor della galleria"
+
+#~ msgid "You currently have %s rights."
+#~ msgstr "Attualmente ricopri il ruolo di %s."
+
+#~ msgid "Upload Space Remaining:"
+#~ msgstr "Spazio upload rimanente:"
+
+#~ msgid "View all images tagged with %s"
+#~ msgstr "Visualizza tutte le immagini etichettate con %s"
+
+#~ msgid "Upgrade sucessful"
+#~ msgstr "Aggiornato con successo"
+
+#~ msgid "Setup Gallery"
+#~ msgstr "Impostazioni Galleria"
+
+#~ msgid "Setup"
+#~ msgstr "Impostazioni"
+
+#~ msgid "PHP Output Buffer Size"
+#~ msgstr "Dimensione PHP Output Buffer"
+
+#~ msgid "for PclZip , a PHP library that manage ZIP archives"
+#~ msgstr "per la PclZip: una libreria PHP per la gestione degli archivi ZIP"
+
+#~ msgid "Crop square thumbnail from image"
+#~ msgstr "Ritaglia una miniatura quadrata dalla immagine"
+
+#~ msgid "Create square thumbnails, use only the width setting :"
+#~ msgstr ""
+#~ "Crea delle miniature quadrate, utilizza solo il valore di larghezza:"
+
+#~ msgid "Import a folder with all images."
+#~ msgstr "Importa una cartella contenente immagini."
+
+#~ msgid "Select Gallery"
+#~ msgstr "Seleziona galleria"
+
+#~ msgid "Album Page ID"
+#~ msgstr "ID pagina album"
+
+#~ msgid "Show thumbnails "
+#~ msgstr "Mostra miniature "
+
+#~ msgid "Show tags"
+#~ msgstr "Mostra tag"
+
+#~ msgid "Hide tags"
+#~ msgstr "Nascondi tag"
+
+#~ msgid "Delete this file ?"
+#~ msgstr "Eliminare questo file?"
+
+#~ msgid ""
+#~ "You are about to copy or move %s images \n"
+#~ " \n"
+#~ " 'Cancel' to stop, 'OK' to proceed."
+#~ msgstr ""
+#~ "Stai per copiare o spostare %s immagine(i) \n"
+#~ "\n"
+#~ " 'Cancella' per fermare, 'OK' per procedere."
