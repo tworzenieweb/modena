@@ -50,7 +50,7 @@
                     
                 });
                 
-                var firstPhoto = $('a:first-child', this.scrollable).trigger('click');
+                var firstPhoto = $('li:first-child a', this.scrollable).trigger('click');
                 
                 
             },
