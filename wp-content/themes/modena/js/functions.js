@@ -60,14 +60,20 @@
                 
                 this.wrapper = $('.ngg-galleryoverview');
                 
-                this.scrollable = $("#makeMeScrollable").smoothDivScroll({
-			mousewheelScrolling: "allDirections",
-			manualContinuousScrolling: true,
-			autoScrollingMode: "onStart",
-                        autoScrollingInterval: 50
-		});
+                if(this.wrapper.length) {
                 
-                this.initPhotoClick();
+                    this.scrollable = $("#makeMeScrollable");
+                            
+                    this.scrollable.smoothDivScroll({
+                            mousewheelScrolling: "allDirections",
+                            manualContinuousScrolling: true,
+                            autoScrollingMode: "onStart",
+                            autoScrollingInterval: 50,
+                            autoScrollingStarted: this.initPhotoClick()
+                    });
+                
+                }
+                
                 
             }
             
