@@ -3030,6 +3030,7 @@ footer.entry-meta {
 .ngg-galleryoverview .pic {
   width: 604px;
   height: 400px;
+  cursor: pointer;
 }
 .loading {
   background: url('images/loader.gif') no-repeat center center;

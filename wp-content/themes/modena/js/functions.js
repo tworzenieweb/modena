@@ -22,6 +22,7 @@
 
                         // with the holding div #loader, apply:
                         target
+                                .empty()
                                 // remove the loading class (so no background spinner), 
                                 .removeClass('loading')
                                 // then insert our image
@@ -49,11 +50,39 @@
 
                 e.preventDefault();
 
-                pic.addClass('loading').empty();
+                pic.addClass('loading');
 
                 var href = $(this).attr('href');
                 self.replacePhoto(pic, href);
 
+            });
+            
+            pic.bind('click', function(e) {
+               
+                e.preventDefault();
+                
+                
+                var src = $('img',$(this)).attr('src');
+                
+                var current = $('li:has(a[href="' + src + '"])', self.scrollable);
+                
+                var next = current.next();
+                
+                var link = null;
+                
+                if(next.length)
+                {
+                    link = $('a', next);
+                }
+                else
+                {
+                    link = $('li:first-child a', self.scrollable)
+                }
+                
+                self.replacePhoto($(this), link.attr('href'));
+                
+                
+                
             });
 
             var link = $('li:first-child a', this.scrollable).attr('href');
