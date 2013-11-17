@@ -121,6 +121,7 @@ class rpwe_widget extends WP_Widget {
                                                         ?>      
                                                         <a href="<?php echo get_category_link($cat); ?>" rel="category_tag"><?php echo $cat->name; ?></a> 
                                                         <? endforeach; ?>
+                                                        <br />
                                                         </span>
                                                 
 							<time class="rpwe-time published" datetime="<?php echo esc_attr( get_the_date( 'c' ) ); ?>" pubdate><?php echo esc_html( get_the_date( $date_format ) ); ?></time>
