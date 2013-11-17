@@ -173,6 +173,7 @@ function twentythirteen_scripts_styles() {
         wp_enqueue_script( 'ui', get_template_directory_uri() . '/js/jquery-ui-1.10.3.custom.min.js', array(), null, true );
         wp_enqueue_script( 'ui1', get_template_directory_uri() . '/js/jquery-ui-1.8.23.custom.min.js', array(), null, true );
         wp_enqueue_script( 'mouse', get_template_directory_uri() . '/js/jquery.mousewheel.min.js', array(), null, true );
+        wp_enqueue_script( 'waitforimages', 'http://cdnjs.cloudflare.com/ajax/libs/jquery.waitforimages/1.5.0/jquery.waitforimages.min.js', array(), null, true );
         wp_enqueue_script( 'sequence', get_template_directory_uri() . '/js/jquery.sequence-min.js', array(), '2013-09-31', true );
         wp_enqueue_script( 'smoothscroll', get_template_directory_uri() . '/js/jquery.smoothdivscroll-1.3-min.js', array(), null, true );
         wp_enqueue_script( 'kinetic', get_template_directory_uri() . '/js/jquery.kinetic.min.js', array(), null, true );

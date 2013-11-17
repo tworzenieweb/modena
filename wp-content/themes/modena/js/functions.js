@@ -97,33 +97,40 @@
 				$( '#colophon' ).css( 'margin-top', margin + 'px' );
 		}
                 
+                $('body').waitForImages(function() {
                 
-                if($('#sequence').length > 0){
-                  var options = {
-                    autoPlay: true,
-                    autoPlayDelay: 12000,
-                    pauseOnHover: false,
-                    hidePreloaderDelay: 1000,
-                    nextButton: true,
-                    prevButton: true,
-                    pauseButton: true,
-                    preloader: true,
-                    hidePreloaderUsingCSS: false,                   
-                    animateStartingFrameIn: true,    
-                    navigationSkipThreshold: 1700,
-                    preventDelayWhenReversingAnimations: true,
-                    customKeyEvents: {
-                      80: "pause"
+                    console.log('all images loaded');
+
+                    if ($('#sequence').length > 0) {
+                        var options = {
+                            autoPlay: true,
+                            autoPlayDelay: 12000,
+                            pauseOnHover: false,
+                            hidePreloaderDelay: 1000,
+                            nextButton: true,
+                            prevButton: true,
+                            pauseButton: true,
+                            preloader: true,
+                            hidePreloaderUsingCSS: false,
+                            animateStartingFrameIn: true,
+                            navigationSkipThreshold: 1700,
+                            preventDelayWhenReversingAnimations: true,
+                            customKeyEvents: {
+                                80: "pause"
+                            }
+                        };
+
+
+
                     }
-                  };
-
-
-                  var sequence = $("#sequence").sequence(options).data("sequence");
-                  
-                  scroller.init();
-                }
+                    var sequence = $("#sequence").sequence(options).data("sequence");
+                    scroller.init();
+                    
+                });
                 
-	} );
+
+                
+	});
 
 	/**
 	 * Enables menu toggle for small screens.
