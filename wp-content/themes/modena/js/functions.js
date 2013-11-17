@@ -25,7 +25,7 @@
                                 // remove the loading class (so no background spinner), 
                                 .removeClass('loading')
                                 // then insert our image
-                                .empty().append(this);
+                                .append(this);
 
                         // fade our image in to create a nice effect
                         $(this).fadeIn();
@@ -49,7 +49,7 @@
 
                 e.preventDefault();
 
-                pic.addClass('loading');
+                pic.addClass('loading').empty();
 
                 var href = $(this).attr('href');
                 self.replacePhoto(pic, href);
