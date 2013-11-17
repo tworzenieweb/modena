@@ -14,7 +14,7 @@
             initPhotoClick: function()
             {               
                 
-                this.scrollable.on('click', 'a', function(e) {
+                this.scrollable.css('display', 'block').on('click', 'a', function(e) {
                     
                     e.preventDefault();
                     
@@ -62,7 +62,7 @@
                 
                 if(this.wrapper.length) {
                 
-                    this.scrollable = $("#makeMeScrollable");
+                    this.scrollable = $("#makeMeScrollable").css('display', 'none');
                             
                     this.scrollable.smoothDivScroll({
                             mousewheelScrolling: "allDirections",
