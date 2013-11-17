@@ -112,6 +112,9 @@ class rpwe_widget extends WP_Widget {
                                                         <span class="categories-links">
                                                         <?php
                                                         $post_categories = wp_get_post_categories($post->ID);
+                                                        
+                                                        $post_categories = array_slice($post_categories, 0, 2);
+                                                        
                                                         foreach($post_categories as $c):
                                                                 $cat = get_category( $c );
                                                                 
