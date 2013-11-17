@@ -62,7 +62,7 @@
                 
                 if(this.wrapper.length) {
                 
-                    this.scrollable = $("#makeMeScrollable").css('display', 'none');
+                    this.scrollable = $("#makeMeScrollable");
                             
                     this.scrollable.smoothDivScroll({
                             mousewheelScrolling: "allDirections",
