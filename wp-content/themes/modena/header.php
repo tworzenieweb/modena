@@ -35,7 +35,7 @@
 		<header id="masthead" class="site-header" role="banner">
                     
                     <div class="folded"></div>
-                    <a href="<?php echo home_url( '/bonprix' ); ?>" class="folded-link"><span>-30% ceny katalogowej na BONPRIX</span></a>
+                    <a href="<?php echo home_url( '/kategoria/bonprix' ); ?>" class="folded-link"><span>-30% ceny katalogowej na BONPRIX</span></a>
                     <div id="sequence">
                         <a href="#" class="sequence-prev">Poprzednie</a>
                         <a href="#" class="sequence-next">Następne</a>
