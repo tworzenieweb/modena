@@ -119,7 +119,7 @@ class rpwe_widget extends WP_Widget {
                                                                 $cat = get_category( $c );
                                                                 
                                                         ?>      
-                                                        <a href="<?php echo get_category_link($cat); ?>" rel="category_tag"><?php echo $cat->name; ?></a><br />
+                                                        <a href="<?php echo get_category_link($cat); ?>" rel="category_tag"><?php echo $cat->name; ?></a> 
                                                         <? endforeach; ?>
                                                         </span>
                                                 
