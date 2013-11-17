@@ -62,7 +62,7 @@
                
                 e.preventDefault();
                 
-                
+                $(this).addClass('loading');
                 var src = $('img',$(this)).attr('src');
                 
                 var current = $('li:has(a[href="' + src + '"])', self.scrollable);
