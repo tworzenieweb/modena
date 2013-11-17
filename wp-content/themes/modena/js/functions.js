@@ -11,6 +11,8 @@
         scrollable: null,
         replacePhoto: function(target, photoLink)
         {
+            
+            target.empty();
 
             var img = new Image();
 
@@ -22,7 +24,6 @@
 
                         // with the holding div #loader, apply:
                         target
-                                .empty()
                                 // remove the loading class (so no background spinner), 
                                 .removeClass('loading')
                                 // then insert our image
