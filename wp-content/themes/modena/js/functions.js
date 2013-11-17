@@ -5,6 +5,74 @@
  */
 
 ( function( $ ) {
+    
+        var scroller = {
+            
+            wrapper: null,
+            scrollable: null,
+            
+            initPhotoClick: function()
+            {               
+                
+                this.scrollable.on('click', 'a', function(e) {
+                    
+                    e.preventDefault();
+                    
+                    var href = $(this).attr('href');
+                    var pic = $('.pic', this.wrapper).addClass('loading');
+                    
+                    var img = new Image();
+                    
+                    $(img)
+                    // once the image has loaded, execute this code
+                    .load(function () {
+                      // set the image hidden by default    
+                      $(this).hide();
+
+                      // with the holding div #loader, apply:
+                      pic
+                        // remove the loading class (so no background spinner), 
+                        .removeClass('loading')
+                        // then insert our image
+                        .empty().append(this);
+
+                      // fade our image in to create a nice effect
+                      $(this).fadeIn();
+                    })
+
+                    // if there was an error loading the image, react accordingly
+                    .error(function () {
+                      // notify the user that the image could not be loaded
+                    })
+
+                    // *finally*, set the src attribute of the new image to our image
+                    .attr('src', href);
+                    
+                });
+                
+                var firstPhoto = $('a:first-child', this.scrollable).trigger('click');
+                
+                
+            },
+            
+            init: function()
+            {
+                
+                this.wrapper = $('.ngg-galleryoverview');
+                
+                this.scrollable = $("#makeMeScrollable").smoothDivScroll({
+			mousewheelScrolling: "allDirections",
+			manualContinuousScrolling: true,
+			autoScrollingMode: "onStart",
+                        autoScrollingInterval: 50
+		});
+                
+                this.initPhotoClick();
+                
+            }
+            
+        }
+    
 	var body    = $( 'body' ),
 	    _window = $( window );
 
@@ -45,6 +113,8 @@
 
 
                   var sequence = $("#sequence").sequence(options).data("sequence");
+                  
+                  scroller.init();
                 }
                 
 	} );
