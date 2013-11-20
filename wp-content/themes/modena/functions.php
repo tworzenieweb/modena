@@ -138,7 +138,7 @@ function twentythirteen_fonts_url() {
 		if ( 'off' !== $bitter )
 			$font_families[] = 'Shadows Into Light Two:400,700';
 
-                $font_families[] = 'Coda Caption:800';
+                $font_families[] = 'Exo:400,900&subset=latin,latin-ext';
                 
 		$query_args = array(
 			'family' => urlencode( implode( '|', $font_families ) ),

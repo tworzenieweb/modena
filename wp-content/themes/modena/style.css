@@ -2797,7 +2797,7 @@ footer.entry-meta {
   z-index: 5;
   position: absolute;
   font-size: 50px;
-  font-family: 'Coda Caption';
+  font-family: 'Exo', sans-serif;
   line-height: 50px;
   background: rgba(0, 0, 0, 0.7);
   margin: 0;
