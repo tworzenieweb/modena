@@ -138,8 +138,6 @@
 
         $('body').waitForImages(function() {
 
-            console.log('all images loaded');
-
             if ($('#sequence').length > 0) {
                 var options = {
                     autoPlay: true,
