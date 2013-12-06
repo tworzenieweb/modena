@@ -2650,7 +2650,7 @@ footer.entry-meta {
   }
 }
 body {
-  overflow-x: none;
+  overflow-x: hidden;
 }
 .corner-wrapper {
   position: absolute;
