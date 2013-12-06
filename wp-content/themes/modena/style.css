@@ -2649,6 +2649,9 @@ footer.entry-meta {
     color: #333;
   }
 }
+body {
+  overflow-x: none;
+}
 .corner-wrapper {
   position: absolute;
   right: 0;
