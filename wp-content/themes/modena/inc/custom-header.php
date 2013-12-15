@@ -102,7 +102,7 @@ function twentythirteen_header_style() {
 		if ( ! empty( $header_image ) ) :
 	?>
 		.site-header {
-			background: url('/wp-content/uploads/2013/10/cropped-background.jpg') no-repeat scroll top;
+			background: url(<?php header_image(); ?>) no-repeat scroll top;
 		}
 	<?php
 		endif;
