@@ -57,6 +57,11 @@ function twentythirteen_custom_header_setup() {
 			'thumbnail_url' => '%s/images/headers/star-thumbnail.png',
 			'description'   => _x( 'Star', 'header image description', 'twentythirteen' )
 		),
+		'gradient' => array(
+			'url'           => '%s/images/headers/default.jpg',
+			'thumbnail_url' => '%s/images/headers/default.jpg',
+			'description'   => _x( 'Star', 'header image description', 'twentythirteen' )
+		),
 	) );
 }
 add_action( 'after_setup_theme', 'twentythirteen_custom_header_setup' );
